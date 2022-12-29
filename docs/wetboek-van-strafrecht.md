@@ -7,6 +7,7 @@
 ### Artikel 2 [Toepasselijkheid binnen Nederlands territoir]
 De Nederlandse strafwet is toepasselijk op ieder die zich in Nederland aan enig strafbaar feit schuldig maakt.
 
+## Titel II [Straffen]
 ### Artikel 9 [Hoofd- en bijkomende straffen]
 1. De straffen zijn:
     1. hoofdstraffen:
@@ -45,3 +46,39 @@ de vijfde categorie, € 90.000;
 de zesde categorie, € 900.000.
 5. Voor een overtreding, onderscheidenlijk een misdrijf, waarop geen geldboete is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie.
 6. Voor een overtreding, onderscheidenlijk een misdrijf, waarop een geldboete is gesteld, maar waarvoor geen boetecategorie is bepaald, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie, indien dit bedrag hoger is dan het bedrag van de op het betrokken strafbare feit gestelde geldboete.
+
+### Artikel 24 [Draagkrachtbeginsel]
+Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht van de verdachte in de mate waarin dat nodig is met het oog op een passende bestraffing van de verdachte zonder dat deze in zijn inkomen en vermogen onevenredig wordt getroffen.
+
+### Artikel 24c [Vervangende hechtenis voor geldboete]
+1. Bij de uitspraak waarbij geldboete wordt opgelegd, beveelt de rechter voor het geval dat noch volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis zal worden toegepast.
+2. De duur van de vervangende hechtenis wordt in gehele dagen, weken of maanden vastgesteld.
+3. De vervangende hechtenis beloopt ten minste één dag en ten hoogste een jaar. Voor elke volle € 25 van de geldboete wordt niet meer dan één dag opgelegd.
+
+### Artikel 33 [Verbeurdverklaring. Draagkrachtbeginsel]
+1. Verbeurdverklaring kan worden uitgesproken bij veroordeling wegens enig strafbaar feit.
+2. [Artikel 24](#artikel-24-draagkrachtbeginsel) is van overeenkomstige toepassing.
+
+## Tital II A [Maatregelen]
+### Artikel 36e [Ontneming wederrechtelijk verkregen voordeel]
+1. Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een strafbaar feit de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.
+2. De verplichting kan worden opgelegd aan de in het eerste lid bedoelde persoon die voordeel heeft verkregen door middel van of uit de baten van het daar bedoelde feit of andere strafbare feiten, waaromtrent voldoende aanwijzingen bestaan dat zij door de veroordeelde zijn begaan.
+
+## Titel III [Uitsluiting en verhoging van strafbaarheid]
+### Artikel 40 [Overmacht]
+Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedrongen.
+
+### Artikel 41 [Noodweer(exces)]
+1. Niet strafbaar is hij die een feit begaat, geboden door de noodzakelijke verdediging van eigen of eens anders lijf, eerbaarheid of goed tegen ogenblikkelijke, wederrechtelijke aanranding.
+2. Niet strafbaar is de overschrijding van de grenzen van noodzakelijke verdediging, indien zij het onmiddellijk gevolg is geweest van een hevige gemoedsbeweging, door de aanranding veroorzaakt.
+
+### Artikel 42 [Wettelijk voorschrift]
+1. Niet strafbaar is hij die een feit begaat ter uitvoering van een wettelijk voorschrift.
+2. Niet strafbaar is de ambtenaar die in de rechtmatige uitoefening van zijn taak en in overeenstemming met zijn geweldsinstructie geweld gebruikt.
+
+### Artikel 43 [(Onbevoegd) ambtelijk bevel]
+1. Niet strafbaar is hij die een feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag.
+2. Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
+
+### Artikel 43a [Recidive als strafverzwaringsgrond]
+De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, met een derde worden verhoogd indien tijdens het plegen van het misdrijf nog geen vijf dagen zijn verlopen.

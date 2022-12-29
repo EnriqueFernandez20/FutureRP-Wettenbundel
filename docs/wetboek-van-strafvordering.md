@@ -16,7 +16,7 @@ De persoon wiens vervolging wordt verlangd is niet verplicht op de vragen, hem i
 3. De verdachte die de Nederlandse taal niet of onvoldoende beheerst, is bevoegd zich te laten bijstaan door een tolk.
 
 ### Artikel 27a [Vaststelling identiteit]
-1. De verdachte wordt ten behoeve van het vaststellen van zijn identiteit gevraagd naar zijn naam, voornamen, geboorteplaats en geboortedatum. Het vaststellen van zijn identiteit omvat tevens een onderzoek van een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1) van de Wet op de identificatieplicht. In de gevallen, bedoeld in [artikel 55c](#artikel-55c), tweede en derde lid, omvat het vaststellen van zijn identiteit tevens het nemen van een of meer foto’s en vingerafdrukken.
+1. De verdachte wordt ten behoeve van het vaststellen van zijn identiteit gevraagd naar zijn naam, voornamen, geboorteplaats en geboortedatum. Het vaststellen van zijn identiteit omvat tevens een onderzoek van een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1) van de Wet op de identificatieplicht. In de gevallen, bedoeld in [artikel 55c](#artikel-55c-vaststellen-identiteit-verdachte), tweede en derde lid, omvat het vaststellen van zijn identiteit tevens het nemen van een of meer foto’s en vingerafdrukken.
 
 ### Artikel 27c [Mededelen van rechten aan verdachte]
 1. Aan de verdachte wordt bij zijn staandehouding of aanhouding medegedeeld ter zake van welk strafbaar feit hij als verdachte is aangemerkt. Buiten gevallen van staandehouding of aanhouding wordt de verdachte deze mededeling uiterlijk voorafgaand aan het eerste verhoor gedaan.
@@ -107,7 +107,7 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
     artikel 55, tweede lid, van de Wet wapens en munitie;
 
 ### Artikel 94 [Vatbaarheid voor inbeslagneming. Kennisgeving. Reçu]
-1. Vatbaar voor inbeslagneming zijn alle voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel, als bedoeld in [artikel 36e](wetboek-van-strafrecht.md#artikel-36e) van het Wetboek van Strafrecht, aan te tonen.
+1. Vatbaar voor inbeslagneming zijn alle voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel, als bedoeld in [artikel 36e](wetboek-van-strafrecht.md#artikel-36e-ontneming-wederrechtelijk-verkregen-voordeel) van het Wetboek van Strafrecht, aan te tonen.
 2. Voorts zijn vatbaar voor inbeslagneming alle voorwerpen welker verbeurdverklaring of onttrekking aan het verkeer kan worden bevolen.
 3. Van de inbeslagneming van een voorwerp wordt, ook in geval de bevoegdheid tot inbeslagneming toekomt aan de rechter-commissaris of de officier van justitie, door de opsporingsambtenaar een kennisgeving van inbeslagneming opgemaakt. Zoveel mogelijk wordt aan degene bij wie een voorwerp is inbeslaggenomen, een bewijs van ontvangst afgegeven. De opsporingsambtenaar stelt de kennisgeving zo spoedig mogelijk in handen van de hulpofficier van justitie teneinde te doen beoordelen of het beslag moet worden gehandhaafd.
 
@@ -129,7 +129,7 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 3. Voorts kan de strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. Zij kunnen inhouden:
     1. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;
     2. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;
-    3. voldoening aan de staat van een geldbedrag of overdracht van in beslag genomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge artikel 36e van het Wetboek van Strafrecht voor ontneming vatbare wederrechtelijk verkregen voordeel;
+    3. voldoening aan de staat van een geldbedrag of overdracht van in beslag genomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge [artikel 36e](wetboek-van-strafrecht.md#artikel-36e-ontneming-wederrechtelijk-verkregen-voordeel) van het Wetboek van Strafrecht voor ontneming vatbare wederrechtelijk verkregen voordeel.
 
 ## Titel VI Behandeling van de zaak door de rechtbank
 ### Artikel 312 [Aanvulling telastlegging met strafverzwarende omstandigheden]
@@ -137,4 +137,4 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 ### Artikel 313 [Wijziging der telastlegging]
 1. Indien buiten het geval van het voorgaande artikel de officier van justitie oordeelt dat de telastlegging behoort te worden gewijzigd, legt hij den inhoud van de door hem noodzakelijk geachte wijzigingen schriftelijk aan de rechtbank over met vordering dat die wijzigingen zullen worden toegelaten.
-2. Indien de rechtbank de vordering toewijst, doet zij den inhoud van de aangebrachte wijzigingen in het proces-verbaal ter terechtzitting opnemen. In geen geval worden wijzigingen toegelaten, als een gevolg waarvan de telastlegging niet langer hetzelfde feit, in den zin van [artikel 68](wetboek-van-strafrecht.d#artikel-68) van het Wetboek van Strafrecht zou inhouden.
+2. Indien de rechtbank de vordering toewijst, doet zij den inhoud van de aangebrachte wijzigingen in het proces-verbaal ter terechtzitting opnemen. In geen geval worden wijzigingen toegelaten, als een gevolg waarvan de telastlegging niet langer hetzelfde feit, in den zin van [artikel 68](wetboek-van-strafrecht.md#artikel-68) van het Wetboek van Strafrecht zou inhouden.

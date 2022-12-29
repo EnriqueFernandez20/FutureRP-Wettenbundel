@@ -21,6 +21,7 @@ Deze grondbeginselen zijn vastgelegd in de verschillende wetboeken, maar worden 
 
 | Wetboek                          | Link                                        |
 |----------------------------------|---------------------------------------------|
+| Server regels                    | [Server regels](server-regels.md)           |
 | Wetboek van Strafvordering       | [WvSv](wetboek-van-strafvordering.md)       |
 | Wetboek van Strafrecht           | [WvSr](wetboek-van-strafrecht.md)           |
 | Wet op de identificatieplicht    | [WID](wet-op-de-identificatieplicht.md)     |
