@@ -91,5 +91,25 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 2. Zoowel in geval van ontdekking op heeter daad als buiten dat geval kan iedere opsporingsambtenaar, ter aanhouding van den verdachte, elke plaats betreden.
 
 ### Artikel 55b [Bevoegdheden bij aanhouding]
-1. De bij of krachtens artikel 141 aangewezen ambtenaren, belast met de opsporing van strafbare feiten, zijn bevoegd een staande gehouden of aangehouden verdachte aan zijn kleding te onderzoeken, alsmede voorwerpen die hij bij zich draagt of met zich mee voert te onderzoeken, een en ander voor zover zulks noodzakelijk is voor de vaststelling van zijn identiteit.
+1. De bij of krachtens [artikel 141](#artikel-141) aangewezen ambtenaren, belast met de opsporing van strafbare feiten, zijn bevoegd een staande gehouden of aangehouden verdachte aan zijn kleding te onderzoeken, alsmede voorwerpen die hij bij zich draagt of met zich mee voert te onderzoeken, een en ander voor zover zulks noodzakelijk is voor de vaststelling van zijn identiteit.
 2. De ambtenaren, bedoeld in het eerste lid, oefenen de bevoegdheden, bedoeld in het eerste lid, alleen dan in het openbaar uit, indien dit redelijkerwijs noodzakelijk is om wegmaking of beschadiging van voorwerpen waaruit de identiteit van die verdachte zou kunnen blijken, te voorkomen.
+3. Van de uitoefening van de bevoegdheden, bedoeld in het tweede lid, maken zij proces-verbaal op, dat aan de officier van justitie ter beschikking wordt gesteld.
+
+### Artikel 55c [Vaststellen identiteit verdachte]
+1. De ambtenaren, bedoeld in [artikel 141](#artikel-141), en de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2), onder b, van de Politiewet 2012, stellen de identiteit van de aangehouden verdachte vast op de wijze, bedoeld in [artikel 27a](#artikel-27a-vaststelling-identiteit), eerste lid, eerste en tweede volzin.
+
+### Artikel 67 [Voorlopige hechtenis. Ernstige bezwaren]
+1. Een bevel tot voorlopige hechtenis kan worden gegeven in geval van verdenking van:
+    1. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld;
+    2. een der misdrijven omschreven in de artikelen 132, 138a, 138aa, 138ab, 138b, 138c, 139c, 139d, eerste en tweede lid, artikel 139h, eerste en tweede lid139g, 140, tweede lid, 141a, 137c, tweede lid, 137d, eerste lid, 137e, tweede lid, 137g, tweede lid, 151, 184a, 254a, 248d, 248e, 272, 284, eerste lid, 285, eerste lid, 285b, 285c, 300, eerste lid, 321, 326c, tweede lid, 326d, 340, 342, 344a, 344b, 347, eerste lid, 350, 350a, 350c, 350d351, 372, 395, 417bis, 420bis.1, 420quater en 420quater.1 van het Wetboek van Strafrecht;
+    3. de artikelen 175, eerste lid, 176, eerste lid, en 176, tweede lid, voor zover dit betreft artikel 7, eerste lid, onderdelen a en c, van de Wegenverkeerswet 1994;
+    de artikelen 11, tweede lid, en 11a van de Opiumwet;
+    artikel 55, tweede lid, van de Wet wapens en munitie;
+
+### Artikel 94 [Vatbaarheid voor inbeslagneming. Kennisgeving. Reçu]
+1. Vatbaar voor inbeslagneming zijn alle voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel, als bedoeld in [artikel 36e](wetboek-van-strafrecht.md#artikel-36e) van het Wetboek van Strafrecht, aan te tonen.
+2. Voorts zijn vatbaar voor inbeslagneming alle voorwerpen welker verbeurdverklaring of onttrekking aan het verkeer kan worden bevolen.
+3. Van de inbeslagneming van een voorwerp wordt, ook in geval de bevoegdheid tot inbeslagneming toekomt aan de rechter-commissaris of de officier van justitie, door de opsporingsambtenaar een kennisgeving van inbeslagneming opgemaakt. Zoveel mogelijk wordt aan degene bij wie een voorwerp is inbeslaggenomen, een bewijs van ontvangst afgegeven. De opsporingsambtenaar stelt de kennisgeving zo spoedig mogelijk in handen van de hulpofficier van justitie teneinde te doen beoordelen of het beslag moet worden gehandhaafd.
+
+### Artikel 95 [Inbeslagneming bij aanhouden of staande houden]
+1. De opsporingsambtenaar die de verdachte staande houdt of aanhoudt, kan de voor inbeslagneming vatbare voorwerpen die de verdachte met zich voert, in beslag nemen.
