@@ -24,3 +24,4 @@ Deze grondbeginselen zijn vastgelegd in de verschillende wetboeken, maar worden 
 | Wetboek van Strafvordering    | [WvSv](wetboek-van-strafvordering.md)   |
 | Wetboek van Strafrecht        | [WvSr](wetboek-van-strafrecht.md)       |
 | Wet op de identificatieplicht | [WID](wet-op-de-identificatieplicht.md) |
+| Paspoortwet                   | [Ppw](paspoortwet.md)                   |
