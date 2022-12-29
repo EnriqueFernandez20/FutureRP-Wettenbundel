@@ -28,11 +28,11 @@ Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het nie
 7. Gezond verstand - Omdat het roleplay is, is elke situatie anders en kan niet alles binnen deze regels worden beschreven. Dus is het belangrijk om te onthouden dat dit een volwassen community is en sommige dingen gewoon gezond verstand zijn.
 8. Een ander lid van de community dwingen of aanmoedigen om een regel te overtreden.
 9. Trollen - De volgende voorbeelden worden beschouwd als trollen, maar er zijn er meer, dus gebruik gezond verstand:  
-- Om de politie, ambulance of anderen heen rennen;  
-- Jezelf voor voertuigen werpen;  
-- Muziek afspelen (earrape);  
-- Chat spammen;  
-- Van gebouwen af springen zonder RP.
+    - Om de politie, ambulance of anderen heen rennen;  
+    - Jezelf voor voertuigen werpen;  
+    - Muziek afspelen (earrape);  
+    - Chat spammen;  
+    - Van gebouwen af springen zonder RP.
 10. Gevoelige roleplay - Doorgaan met roleplay van onderwerpen met een gevoelige aard nadat een andere speler jou heeft gevraagd om te stoppen wordt niet getolereerd. **Permanente Ban**
 11. Bedreigingen om een report te maken / RP breken in voice chat. Er zijn zoveel verschillende mensen in de server met allemaal verschillende standpunten en meningsverschillen maken allemaal uit van het spel, maar bespreek ze alsjeblieft niet in het spel, breek ook de RP niet in voice chat. Gebruik alleen de Discord om deze speler te rapporteren of te discussiëren.
 12. Het ontwijken van een ban is niet toegestaan.
@@ -41,21 +41,21 @@ Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het nie
 1. Game mods - Het is niet toegestaan om enige vorm van mods te gebruiken die de functionaliteit van uw spel veranderd terwijl je bent ingelogd op onze servers. Dit geldt ook voor programma's voor grafische verbetering dat voordeel voor jou oplevert.
 2. Exploiting - Het gebruik maken van exploits binnen de gameservers is verboden. Als je eentje ontdekt meldt dit dan bij staff in de Discord.
 3. Combat loggen - Uitloggen op enig moment tijdens een RP is exploiting. Enkele voorbeelden hiervan zijn:  
-- uitloggen tijdens een vuurgevecht;  
-- uitloggen als je achtervolgd wordt;  
-- uitloggen als je gearresteerd wordt;  
-- als je dood bent en je zit in het revive menu;  
-- uitloggen om spullen te redden;  
-- uitloggen als je geboeid bent.  
+    - uitloggen tijdens een vuurgevecht;  
+    - uitloggen als je achtervolgd wordt;  
+    - uitloggen als je gearresteerd wordt;  
+    - als je dood bent en je zit in het revive menu;  
+    - uitloggen om spullen te redden;  
+    - uitloggen als je geboeid bent.  
 De straf hierop is een **Permanente Ban**. Staff kan een weloverwogen beslissing nemen, afhankelijk van of u een poging heeft gedaan om het probleem op te lossen.  
 4. Combat storing - Jouw voertuig opslaan om roleplay te voorkomen, zoals het stallen van een voertuigen terwijl je achtervolgd wordt om er voordeel uit te halen.
 
 ### Artikel 3 [Reclame Maken]
 1. Adverteren - Reclame maken voor een van de volgende diensten op onze servers/Discord zonder toestemming is een **Permanente Ban**.  
-- FiveM servers;  
-- Discord;  
-- Social Media groepen;  
-- Websites/andere communities.
+    - FiveM servers;  
+    - Discord;  
+    - Social Media groepen;  
+    - Websites/andere communities.
 
 ### Artikel 4 [Discord]
 1. Aanstootgevende avatars of avatars van twijfelachtige aard mogen niet worden gebruikt, afhankelijk van de avatar word je gewaarschuwd, gekicked, of geband.
