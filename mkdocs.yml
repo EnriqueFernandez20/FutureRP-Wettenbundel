@@ -1,0 +1,26 @@
+site_name: RoleplayNL Wettenbundel
+site_url: https://wetten.roleplayneder.land/
+site_description: 'Wettenbundel RoleplayNL'
+site_author: 'RoleplayNL'
+
+copyright: Copyright &copy; 2022-2023 RoleplayNL
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  language: nl
+markdown_extensions:
+  - toc:
+      permalink: "#"
+nav:
+  - Home: 'index.md'
+  - Wetboek van Strafvordering: 'wetboek-van-strafvordering.md'
+  - Wetboek van Strafrecht: 'wetboek-van-strafrecht.md'
