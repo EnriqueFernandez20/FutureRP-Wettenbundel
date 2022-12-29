@@ -14,7 +14,7 @@ De persoon wiens vervolging wordt verlangd is niet verplicht op de vragen, hem i
 3. De verdachte die de Nederlandse taal niet of onvoldoende beheerst, is bevoegd zich te laten bijstaan door een tolk.
 
 ## Artikel 27a [Vaststelling identiteit]
-1. De verdachte wordt ten behoeve van het vaststellen van zijn identiteit gevraagd naar zijn naam, voornamen, geboorteplaats en geboortedatum. Het vaststellen van zijn identiteit omvat tevens een onderzoek van een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1) van de Wet op de identificatieplicht. In de gevallen, bedoeld in [artikel 55c](wetboek-van-strafrecht.md#artikel-55c), tweede en derde lid, omvat het vaststellen van zijn identiteit tevens het nemen van een of meer foto’s en vingerafdrukken.
+1. De verdachte wordt ten behoeve van het vaststellen van zijn identiteit gevraagd naar zijn naam, voornamen, geboorteplaats en geboortedatum. Het vaststellen van zijn identiteit omvat tevens een onderzoek van een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1) van de Wet op de identificatieplicht. In de gevallen, bedoeld in [artikel 55c](#artikel-55c), tweede en derde lid, omvat het vaststellen van zijn identiteit tevens het nemen van een of meer foto’s en vingerafdrukken.
 
 ## Artikel 27c [Mededelen van rechten aan verdachte]
 1. Aan de verdachte wordt bij zijn staandehouding of aanhouding medegedeeld ter zake van welk strafbaar feit hij als verdachte is aangemerkt. Buiten gevallen van staandehouding of aanhouding wordt de verdachte deze mededeling uiterlijk voorafgaand aan het eerste verhoor gedaan.
@@ -63,3 +63,25 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 1. In alle gevallen waarin een verdachte die de Nederlandse taal niet of onvoldoende beheerst wordt gehoord, wordt de bijstand van een tolk ingeroepen.
 2. De tolk wordt opgeroepen door de verhorende ambtenaar, tenzij anders bij wet bepaald. Tijdens het voorbereidende onderzoek kan de tolk mondeling worden opgeroepen. In alle andere gevallen geschiedt de oproeping schriftelijk.
 3. Van de bijstand van een tolk wordt mededeling gedaan in het proces-verbaal.
+
+## Artikel 29c [Vaststellen identiteit bij verhoor]
+1. In alle gevallen waarin de verdachte wordt gehoord of een verhoor bijwoont, stelt de rechterlijk ambtenaar de identiteit van de verdachte vast op de wijze, bedoeld in [artikel 27a](#artikel-27a-vaststelling-identiteit), eerste lid, eerste volzin. De rechterlijk ambtenaar is tevens bevoegd de identiteit van de verdachte vast te stellen op de wijze, bedoeld in [artikel 27a](#artikel-27a-vaststelling-identiteit), tweede lid, indien over zijn identiteit twijfel bestaat.
+2. De verdachte is verplicht op bevel van een rechterlijk ambtenaar een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1) van de Wet op de identificatieplicht ter inzage aan te bieden en zijn medewerking te verlenen aan het nemen van zijn vingerafdrukken.
+
+## Artikel 52 [Vragen persoonsgegevens. Staande houden]
+Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te stellen op de wijze, bedoeld in [artikel 27a](#artikel-27a-vaststelling-identiteit), eerste lid, eerste volzin, en hem daartoe staande te houden.
+
+## Artikel 53 [Aanhouding bij heterdaad]
+1. In geval van ontdekking op heterdaad van een strafbaar feit is een ieder bevoegd de verdachte aan te houden.
+2. De opsporingsambtenaar die een verdachte bij ontdekking op heterdaad aanhoudt, brengt deze ten spoedigste over naar de plaats voor verhoor ter voorgeleiding aan de hulpofficier van justitie of de officier van justitie.
+3. Geschiedt de aanhouding door een ander dan een opsporingsambtenaar, dan levert deze de aangehoudene onverwijld aan een opsporingsambtenaar over, onder afgifte aan deze van bij de verdachte aangetroffen voorwerpen. De opsporingsambtenaar handelt overeenkomstig de bepaling van het tweede lid en maakt zo nodig een kennisgeving van inbeslagneming op.
+4. Bij de voorgeleiding van de verdachte aan de hulpofficier van justitie of de officier van justitie beoordeelt deze de noodzaak van verdere vrijheidsbeneming op grond van [artikel 56a](#artikel-56a).
+
+## Artikel 54 [Aanhouding buiten heterdaad]
+1. Buiten het geval van ontdekking op heterdaad is de opsporingsambtenaar op bevel van de officier van justitie bevoegd de verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten, aan te houden teneinde hem ten spoedigste voor te geleiden aan de hulpofficier van justitie of de officier van justitie.
+2. Het bevel tot aanhouding kan door de officier van justitie mondeling of schriftelijk worden gegeven. Indien het mondeling wordt gegeven, wordt het nadien in het proces-verbaal vermeld.
+3. Indien het bevel van de officier van justitie niet kan worden afgewacht, komt de in het eerste lid bedoelde bevoegdheid toe aan de hulpofficier van justitie. De hulpofficier van justitie geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan de officier van justitie. Het tweede lid is van overeenkomstige toepassing.
+4. Indien het bevel van de officier van justitie of de hulpofficier van justitie niet kan worden afgewacht, is de opsporingsambtenaar bevoegd de verdachte aan te houden teneinde hem ten spoedigste voor te geleiden aan de hulpofficier van justitie of de officier van justitie.
+
+## Artikel 55 [Plaats of woning betreden]
+1. In geval van ontdekking op heeter daad van een misdrijf kan ieder, ter aanhouding van den verdachte, elke plaats betreden, met uitzondering van een woning zonder toestemming van de bewoner en van de plaatsen, genoemd in [artikel 12](algemene-wet-op-het-binnentreden.md#artikel-12-verboden-plaatsen) van de Algemene wet op het binnentreden.

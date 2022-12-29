@@ -19,9 +19,10 @@ Deze grondbeginselen zijn vastgelegd in de verschillende wetboeken, maar worden 
     2. De juiste informatie met betrekking tot zijn strafrechtelijk proces, m.u.v. vertrouwelijke informatie (zoals .oa.: recherchedossiers, naam indiener aangifte, etc.)
 6. Indien er geen beschikbare advocaat is, maar de verdachte toch wenst gebruik te maken van zijn recht hierop, wordt er **een derde** strafvermindering toegekend.
 
-| Wetboek                       | Link                                    |
-|-------------------------------|-----------------------------------------|
-| Wetboek van Strafvordering    | [WvSv](wetboek-van-strafvordering.md)   |
-| Wetboek van Strafrecht        | [WvSr](wetboek-van-strafrecht.md)       |
-| Wet op de identificatieplicht | [WID](wet-op-de-identificatieplicht.md) |
-| Paspoortwet                   | [Ppw](paspoortwet.md)                   |
+| Wetboek                          | Link                                        |
+|----------------------------------|---------------------------------------------|
+| Wetboek van Strafvordering       | [WvSv](wetboek-van-strafvordering.md)       |
+| Wetboek van Strafrecht           | [WvSr](wetboek-van-strafrecht.md)           |
+| Wet op de identificatieplicht    | [WID](wet-op-de-identificatieplicht.md)     |
+| Paspoortwet                      | [Ppw](paspoortwet.md)                       |
+| Algemene wet op het binnentreden | [Awob](algemene-wet-op-het-binnentreden.md) |
