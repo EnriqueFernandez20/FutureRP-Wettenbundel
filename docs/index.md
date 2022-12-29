@@ -1,7 +1,7 @@
 # De wettenbundel van RoleplayNL
 Dit is een fictieve wettenbundel gebaseerd op de verschillende wetboeken die gebruikt worden in de Nederlandse staat.
 
-Je kan onze officiele discord server hier vinden - [invite](https://discord.gg/a4VtnuY4dJ)
+Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/a4VtnuY4dJ)
 
 ## Grondbeginselen
 Om de wetten enigzins simpel te maken voor de gemiddelde burger hebben wij "grondbeginselen".
