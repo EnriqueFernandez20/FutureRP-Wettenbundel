@@ -41,4 +41,25 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 4. De verdachte wordt, telkens wanneer hij dit verzoekt, zo veel mogelijk de gelegenheid verschaft om zich met zijn raadsman in verbinding te stellen.
 5. De verdachte die de Nederlandse taal niet of onvoldoende beheerst kan ten behoeve van zijn contacten met zijn raadsman een beroep doen op bijstand van een tolk. De raadsman is verantwoordelijk voor het oproepen van een tolk.
 
+## Artikel 28a [Afstand van rechtsbijstand]
+1. De verdachte kan vrijwillig en ondubbelzinnig afstand doen van het recht op rechtsbijstand, bedoeld in [artikel 28](#artikel-28-bijstand-door-raadsman), eerste lid, tenzij in dit wetboek anders is bepaald.
+2. Wanneer de rechter of opsporingsambtenaar blijkt dat de verdachte de in het eerste lid bedoelde afstand van recht wil doen, licht deze hem in over de gevolgen daarvan en deelt deze hem mee dat hij van zijn beslissing kan terugkomen. Hiervan wordt proces-verbaal opgemaakt.
+
+## Artikel 28b [Rechtsbijstand]
+1. Indien een kwetsbare verdachte of een verdachte van een misdrijf waarop naar de wettelijke omschrijving gevangenisstraf van twaalf jaren of meer is gesteld, is aangehouden, stelt de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, het bestuur van de raad voor rechtsbijstand onverwijld van zijn aanhouding in kennis, opdat het bestuur een raadsman aanwijst. Deze kennisgeving kan achterwege blijven indien de verdachte een raadsman heeft gekozen en deze of een vervangende raadsman tijdig beschikbaar zal zijn.
+2. Indien een verdachte die is aangehouden voor een strafbaar feit waarvoor voorlopige hechtenis is toegelaten, desgevraagd rechtsbijstand wenst, stelt de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, het bestuur van de raad voor rechtsbijstand hiervan onverwijld in kennis, opdat het bestuur een raadsman aanwijst. De tweede volzin van het eerste lid is van overeenkomstige toepassing.
+3. Indien de verdachte is aangehouden voor een strafbaar feit waarvoor geen voorlopige hechtenis is toegelaten, en hij desgevraagd rechtsbijstand wenst, wordt hij in de gelegenheid gesteld contact op te nemen met een door hem gekozen raadsman.
+4. Indien de aangewezen raadsman niet binnen vijftien minuten na de kennisgeving, bedoeld in het eerste en tweede lid, beschikbaar is, en indien de gekozen raadsman niet binnen vijftien minuten na het contact, bedoeld in het eerste, tweede of derde lid, beschikbaar is, kan de hulpofficier van justitie, wanneer de verdachte alsnog afstand doet van zijn recht op rechtsbijstand in verband met het verhoor, beslissen dat met het verhoor van de verdachte wordt begonnen.
+
+## Artikel 28c [Overleg met raadsman vóór verhoor]
+1. De aangehouden verdachte voor wie ingevolge [artikel 28b](#artikel-28b-rechtsbijstand) een raadsman beschikbaar is, wordt de gelegenheid verschaft om voorafgaand aan het eerste verhoor gedurende een termijn van ten hoogste een vijftien minuten met hem een onderhoud te hebben. De hulpofficier van justitie kan deze termijn, indien deze ontoereikend blijkt, op verzoek van de verdachte of zijn raadsman met ten hoogste een half uur verlengen, tenzij het belang van het onderzoek zich daartegen verzet. Het onderhoud kan ook door middel van telecommunicatie plaatsvinden.
+2. De verdachte, bedoeld in [artikel 28b](#artikel-28b-rechtsbijstand), eerste lid, kan slechts afstand doen van het in het eerste lid bedoelde onderhoud, nadat hij door een raadsman over de gevolgen daarvan is ingelicht.
+
 ## Artikel 29 [Verklaringsvrijheid en zwijgrecht]
+1. In alle gevallen waarin iemand als verdachte wordt gehoord, onthoudt de verhorende rechter of ambtenaar zich van alles wat de strekking heeft een verklaring te verkrijgen waarvan niet kan worden gezegd dat zij in vrijheid is afgelegd.
+2. De verdachte is niet tot antwoorden verplicht. Voor de aanvang van het verhoor wordt de verdachte medegedeeld dat hij niet tot antwoorden is verplicht. Deze mededeling wordt in het proces-verbaal opgenomen.
+
+## Artikel 29b [Tolk]
+1. In alle gevallen waarin een verdachte die de Nederlandse taal niet of onvoldoende beheerst wordt gehoord, wordt de bijstand van een tolk ingeroepen.
+2. De tolk wordt opgeroepen door de verhorende ambtenaar, tenzij anders bij wet bepaald. Tijdens het voorbereidende onderzoek kan de tolk mondeling worden opgeroepen. In alle andere gevallen geschiedt de oproeping schriftelijk.
+3. Van de bijstand van een tolk wordt mededeling gedaan in het proces-verbaal.
