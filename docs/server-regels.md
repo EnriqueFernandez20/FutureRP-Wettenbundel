@@ -19,26 +19,26 @@ We verwachten van mensen dat ze respect tonen, zich als een volwassene gedragen 
 
 Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het niet lang duren voordat je de deur wordt gewezen en het is uiterst zeldzaam om een unban te ontvangen voor een van de volgende regels.
 
-[C1.1] Pesten **Permanente Ban**
-[C1.2] Discriminatie - Geen geen discriminerende of anderszins aanstootgevende opvattingen. Dit is geen plaats voor racisme, religieuze haat, leeftijdsdiscriminatie, seksisme, homofobie, discriminatie op grond van geslacht of handicap. **Permanente Ban**
-[C1.3] OOC Misbruik - Iemand uitschelden buiten roleplay met kwade bedoelingen wordt niet getolereerd.
-[C1.4] Elke bedreiging of intimidatie van een persoon of de gemeenschap wordt niet getolereerd. Afhankelijk van de context van de dreiging zullen wij de politie volledig assisteren bij hun onderzoek. **Permanente Ban**
-[C1.5] Pogingen om onze infrastructuur te schaden of anderszins te verstoren worden niet getolereerd. We nemen aanvallen en bedreigingen om aan te vallen serieus. We zullen samenwerken met de politie en andere wetshandhavingsinstanties en alle bewijzen leveren die nodig zijn om tot een veroordeling te leiden. **Permanente Ban**
-[C1.6] Het staff team kan elk lid op elk moment van de servers en community verwijderen als ze als storend voor de gemeenschap worden beschouwd of als we een geldige reden hebben om aan te nemen dat ze hier zijn om een probleem te veroorzaken. **Permanente Ban**
-[C1.7] Gezond verstand - Omdat het roleplay is, is elke situatie anders en kan niet alles binnen deze regels worden beschreven. Dus is het belangrijk om te onthouden dat dit een volwassen community is en sommige dingen gewoon gezond verstand zijn.
-[C1.8] Een ander lid van de community dwingen of aanmoedigen om een regel te overtreden.
+[C1.1] Pesten **Permanente Ban**  
+[C1.2] Discriminatie - Geen geen discriminerende of anderszins aanstootgevende opvattingen. Dit is geen plaats voor racisme, religieuze haat, leeftijdsdiscriminatie, seksisme, homofobie, discriminatie op grond van geslacht of handicap. **Permanente Ban**  
+[C1.3] OOC Misbruik - Iemand uitschelden buiten roleplay met kwade bedoelingen wordt niet getolereerd.  
+[C1.4] Elke bedreiging of intimidatie van een persoon of de gemeenschap wordt niet getolereerd. Afhankelijk van de context van de dreiging zullen wij de politie volledig assisteren bij hun onderzoek. **Permanente Ban**  
+[C1.5] Pogingen om onze infrastructuur te schaden of anderszins te verstoren worden niet getolereerd. We nemen aanvallen en bedreigingen om aan te vallen serieus. We zullen samenwerken met de politie en andere wetshandhavingsinstanties en alle bewijzen leveren die nodig zijn om tot een veroordeling te leiden. **Permanente Ban**  
+[C1.6] Het staff team kan elk lid op elk moment van de servers en community verwijderen als ze als storend voor de gemeenschap worden beschouwd of als we een geldige reden hebben om aan te nemen dat ze hier zijn om een probleem te veroorzaken. **Permanente Ban**  
+[C1.7] Gezond verstand - Omdat het roleplay is, is elke situatie anders en kan niet alles binnen deze regels worden beschreven. Dus is het belangrijk om te onthouden dat dit een volwassen community is en sommige dingen gewoon gezond verstand zijn.  
+[C1.8] Een ander lid van de community dwingen of aanmoedigen om een regel te overtreden.  
 [C1.9] Trollen - De volgende voorbeelden worden beschouwd als trollen, maar er zijn er meer, dus gebruik gezond verstand:  
 - Om de politie, ambulance of anderen heen rennen;  
 - Jezelf voor voertuigen werpen;  
 - Muziek afspelen (earrape);  
 - Chat spammen;  
 - Van gebouwen af springen zonder RP.
-[C1.10] Gevoelige roleplay - Doorgaan met roleplay van onderwerpen met een gevoelige aard nadat een andere speler jou heeft gevraagd om te stoppen wordt niet getolereerd. **Permanente Ban**
-[C1.11] Bedreigingen om een report te maken / RP breken in voice chat. Er zijn zoveel verschillende mensen in de server met allemaal verschillende standpunten en meningsverschillen maken allemaal uit van het spel, maar bespreek ze alsjeblieft niet in het spel, breek ook de RP niet in voice chat. Gebruik alleen de Discord om deze speler te rapporteren of te discussiëren.
-[C1.12] Het ontwijken van een ban is niet toegestaan. 
+[C1.10] Gevoelige roleplay - Doorgaan met roleplay van onderwerpen met een gevoelige aard nadat een andere speler jou heeft gevraagd om te stoppen wordt niet getolereerd. **Permanente Ban**  
+[C1.11] Bedreigingen om een report te maken / RP breken in voice chat. Er zijn zoveel verschillende mensen in de server met allemaal verschillende standpunten en meningsverschillen maken allemaal uit van het spel, maar bespreek ze alsjeblieft niet in het spel, breek ook de RP niet in voice chat. Gebruik alleen de Discord om deze speler te rapporteren of te discussiëren.  
+[C1.12] Het ontwijken van een ban is niet toegestaan.
 
 ### Cheaten
-[C2.1] Game mods - Het is niet toegestaan om enige vorm van mods te gebruiken die de functionaliteit van uw spel veranderd terwijl je bent ingelogd op onze servers. Dit geldt ook voor programma's voor grafische verbetering dat voordeel voor jou oplevert.
+[C2.1] Game mods - Het is niet toegestaan om enige vorm van mods te gebruiken die de functionaliteit van uw spel veranderd terwijl je bent ingelogd op onze servers. Dit geldt ook voor programma's voor grafische verbetering dat voordeel voor jou oplevert.  
 [C2.2] Exploiting - Het gebruik maken van exploits binnen de gameservers is verboden. Als je eentje ontdekt meldt dit dan bij staff in de Discord.
 [C2.3] Combat loggen - Uitloggen op enig moment tijdens een RP is exploiting. Enkele voorbeelden hiervan zijn:  
 - uitloggen tijdens een vuurgevecht;  
@@ -47,7 +47,7 @@ Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het nie
 - als je dood bent en je zit in het revive menu;  
 - uitloggen om spullen te redden;  
 - uitloggen als je geboeid bent.  
-De straf hierop is een **Permanente Ban**. Staff kan een weloverwogen beslissing nemen, afhankelijk van of u een poging heeft gedaan om het probleem op te lossen.
+De straf hierop is een **Permanente Ban**. Staff kan een weloverwogen beslissing nemen, afhankelijk van of u een poging heeft gedaan om het probleem op te lossen.  
 [C2.4] Combat storing - Jouw voertuig opslaan om roleplay te voorkomen, zoals het stallen van een voertuigen terwijl je achtervolgd wordt om er voordeel uit te halen.
 
 ### Reclame Maken
@@ -58,12 +58,12 @@ De straf hierop is een **Permanente Ban**. Staff kan een weloverwogen beslissing
 - Websites/andere communities.
 
 ### Discord
-[C4.1] Aanstootgevende avatars of avatars van twijfelachtige aard mogen niet worden gebruikt, afhankelijk van de avatar word je gewaarschuwd, gekicked, of geband.
+[C4.1] Aanstootgevende avatars of avatars van twijfelachtige aard mogen niet worden gebruikt, afhankelijk van de avatar word je gewaarschuwd, gekicked, of geband.  
 [C4.2] Imitatie - Jezelf voordoen als andere leden, zoals het veranderen van je naam wordt bestraft met een ban.
 
 ### Staff Team
-[C5.1] Enig besluit dat het staff team maakt is definitief.
-[C5.2] Misbruik/vloeken of onaangenaam gedragen jegens het staff team is niet acceptabel.
-[C5.3] Stuur geen berichten naar staff leden via DMs/reacties of hun persoonlijke social media accounts toe te voegen.
-[C5.4] Elk misbruik van een staff functie in welke vorm dan ook zal leiden tot een kick uit het staff team en mogelijk een ban van de server.
-[C5.5] Staff mag niet teleporteren, items/geld inspawnen om spelers in enige vorm te helpen. (Tenzij er een gegronde reden is)
+[C5.1] Enig besluit dat het staff team maakt is definitief.  
+[C5.2] Misbruik/vloeken of onaangenaam gedragen jegens het staff team is niet acceptabel.  
+[C5.3] Stuur geen berichten naar staff leden via DMs/reacties of hun persoonlijke social media accounts toe te voegen.  
+[C5.4] Elk misbruik van een staff functie in welke vorm dan ook zal leiden tot een kick uit het staff team en mogelijk een ban van de server.  
+[C5.5] Staff mag niet teleporteren, items/geld inspawnen om spelers in enige vorm te helpen. (Tenzij er een gegronde reden is)  
