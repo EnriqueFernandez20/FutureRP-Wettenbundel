@@ -18,7 +18,7 @@ De persoon wiens vervolging wordt verlangd is niet verplicht op de vragen, hem i
 
 ## Artikel 27c [Mededelen van rechten aan verdachte]
 1. Aan de verdachte wordt bij zijn staandehouding of aanhouding medegedeeld ter zake van welk strafbaar feit hij als verdachte is aangemerkt. Buiten gevallen van staandehouding of aanhouding wordt de verdachte deze mededeling uiterlijk voorafgaand aan het eerste verhoor gedaan.
-2. Aan de verdachte die niet is aangehouden, wordt voorafgaand aan zijn eerste verhoor, onverminderd artikel 29, tweede lid, mededeling gedaan van het recht op rechtsbijstand, bedoeld in artikel 28, eerste lid, en, indien van toepassing, het recht op vertolking en vertaling, bedoeld in artikel 27, vierde lid.
+2. Aan de verdachte die niet is aangehouden, wordt voorafgaand aan zijn eerste verhoor, onverminderd [artikel 29](#artikel-29-verklaringsvrijheid-en-zwijgrecht), tweede lid, mededeling gedaan van het recht op rechtsbijstand, bedoeld in [artikel 28](#artikel-28-bijstand-door-raadsman), eerste lid, en, indien van toepassing, het recht op vertolking en vertaling, bedoeld in [artikel 27](artikel-27-verdachte), derde lid.
 
 ## Artikel 27ca [Recht op rechtsbijstand]
 
