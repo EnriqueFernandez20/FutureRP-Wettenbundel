@@ -1,2 +1,3 @@
 # Wetboek van Strafvordering
-Introductie
+## Artikel 1 [Legaliteitsbeginsel]
+Strafvordering heeft alleen plaats op de wijze bij de wet voorzien.
