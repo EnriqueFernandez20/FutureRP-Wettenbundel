@@ -102,8 +102,8 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 1. Een bevel tot voorlopige hechtenis kan worden gegeven in geval van verdenking van:
     1. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaren of meer is gesteld;
     2. een der misdrijven omschreven in de artikelen 132, 138a, 138aa, 138ab, 138b, 138c, 139c, 139d, eerste en tweede lid, artikel 139h, eerste en tweede lid139g, 140, tweede lid, 141a, 137c, tweede lid, 137d, eerste lid, 137e, tweede lid, 137g, tweede lid, 151, 184a, 254a, 248d, 248e, 272, 284, eerste lid, 285, eerste lid, 285b, 285c, 300, eerste lid, 321, 326c, tweede lid, 326d, 340, 342, 344a, 344b, 347, eerste lid, 350, 350a, 350c, 350d351, 372, 395, 417bis, 420bis.1, 420quater en 420quater.1 van het Wetboek van Strafrecht;
-    3. de artikelen 175, eerste lid, 176, eerste lid, en 176, tweede lid, voor zover dit betreft artikel 7, eerste lid, onderdelen a en c, van de Wegenverkeerswet 1994;\
-    de artikelen 11, tweede lid, en 11a van de Opiumwet;\
+    3. de artikelen 175, eerste lid, 176, eerste lid, en 176, tweede lid, voor zover dit betreft artikel 7, eerste lid, onderdelen a en c, van de Wegenverkeerswet 1994;  
+    de artikelen 11, tweede lid, en 11a van de Opiumwet;  
     artikel 55, tweede lid, van de Wet wapens en munitie;
 
 ### Artikel 94 [Vatbaarheid voor inbeslagneming. Kennisgeving. Reçu]
