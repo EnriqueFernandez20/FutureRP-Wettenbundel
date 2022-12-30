@@ -6,14 +6,14 @@ De bans die wij geven gaan van 24 uur, 48 uur en 1 week lang tot permanent in he
 
 RoleplayNL is een serieuze roleplay community. Als je uit een andere community komt, wis die herrinnering dan alsjeblieft uit je hoofd, want de dingen zijn hier heel anders en veel meer gericht op RP dan op combat.
 
-Om te beginnen willen we duidelijk maken dat dit een vriendelijke community is, een volwassen gemeenschap en we verwachten dat elke speler respect voor een ander toont. Neem geen dingen mee buiten de server/naar de Discord, of het echte leven.
+Om te beginnen willen we duidelijk maken dat dit een vriendelijke community is, een volwassen community en we verwachten dat elke speler respect voor een ander toont. Neem geen dingen mee buiten de server/naar de Discord, of het echte leven.
 
 Let op: dit zijn de officiële regels. Als je anders wordt verteld, negeer deze persoon dan.
 
 ### Artikel 1 [Volwassen Community]
 Omdat GTA 5 door de ESRB is geclassificeerd als 17+ hebben we er voor gekozen om een 17+ beleid aan te nemen voor de spelers op onze FiveM server. Spelers waarvan ontdekt worden dat ze in overschrijding zijn met deze regel worden verbanne. We nemen geen aansprakelijkheid om ervoor te zorgen dat spelers oud genoeg zijn, noch komen we in het mijnenveld van 'je leeftijd bewijzen'. Het is voldoende om te zeggen dat als je minderjarig bent en je ontdekt wordt, je een ban ontvangt zodra we het weten. Dit is voor ieders bescherming.
 
-Het betekent echter zeker niet dat je 17+ moet zijn om lid te zijd van onze Discord community. We respecteren jongeren en ouderen in onze gemeenschap en discriminatie wordt niet getolereerd.
+Het betekent echter zeker niet dat je 17+ moet zijn om lid te zijd van onze Discord community. We respecteren jongeren en ouderen in onze community en discriminatie wordt niet getolereerd.
 
 We verwachten van mensen dat ze respect tonen, zich als een volwassene gedragen en mensen behandelen zoals ze zelf behandeld zouden willen worden. Om dit een plek te maken waar mensen van genieten en waar ze naar uitkijken om terug te komen. Als er onenigheid is, ga hier dan op een volwassen manier mee om. Aan het einde van de dag zijn we hier om plezier te hebben en te genieten van de roleplay in de server.
 
@@ -22,9 +22,9 @@ Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het nie
 1. Pesten **Permanente Ban**
 2. Discriminatie - Geen discriminerende of anderszins aanstootgevende opvattingen. Dit is geen plaats voor racisme, religieuze haat, leeftijdsdiscriminatie, seksisme, homofobie, discriminatie op grond van geslacht of handicap. **Permanente Ban**
 3. OOC Misbruik - Iemand uitschelden buiten roleplay met kwade bedoelingen wordt niet getolereerd.
-4. Elke bedreiging of intimidatie van een persoon of de gemeenschap wordt niet getolereerd. Afhankelijk van de context van de dreiging zullen wij de politie volledig assisteren bij hun onderzoek. **Permanente Ban**
+4. Elke bedreiging of intimidatie van een persoon of de community wordt niet getolereerd. Afhankelijk van de context van de dreiging zullen wij de politie volledig assisteren bij hun onderzoek. **Permanente Ban**
 5. Pogingen om onze infrastructuur te schaden of anderszins te verstoren worden niet getolereerd. We nemen aanvallen en bedreigingen om aan te vallen serieus. We zullen samenwerken met de politie en andere wetshandhavingsinstanties en alle bewijzen leveren die nodig zijn om tot een veroordeling te leiden. **Permanente Ban**
-6. Het staff team kan elk lid op elk moment van de servers en community verwijderen als ze als storend voor de gemeenschap worden beschouwd of als we een geldige reden hebben om aan te nemen dat ze hier zijn om een probleem te veroorzaken. **Permanente Ban**
+6. Het staff team kan elk lid op elk moment van de servers en community verwijderen als ze als storend voor de community worden beschouwd of als we een geldige reden hebben om aan te nemen dat ze hier zijn om een probleem te veroorzaken. **Permanente Ban**
 7. Gezond verstand - Omdat het roleplay is, is elke situatie anders en kan niet alles binnen deze regels worden beschreven. Dus is het belangrijk om te onthouden dat dit een volwassen community is en sommige dingen gewoon gezond verstand zijn.
 8. Een ander lid van de community dwingen of aanmoedigen om een regel te overtreden.
 9. Trollen - De volgende voorbeelden worden beschouwd als trollen, maar er zijn er meer, dus gebruik gezond verstand:  
