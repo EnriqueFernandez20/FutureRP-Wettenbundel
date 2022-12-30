@@ -95,7 +95,7 @@ De ambtenaar waarschuwt onmiddellijk voordat hij een stroomstootwapen tegen een 
     4. ter verspreiding van samenscholingen of volksmenigten die een onmiddellijke bedreiging vormen voor de openbare orde;
     5. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-### Artikel 12f
+### Artikel 12f [Waarschuwing voor gebruik wapenstok]
 De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt onmiddellijk voordat hij een wapenstok tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een wapenstok gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
 ### Artikel 17 [Behandeling geweldsregistratie]
