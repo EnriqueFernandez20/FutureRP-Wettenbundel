@@ -97,7 +97,7 @@ Tijdens politie achtervolgingen zijn overdreven snelheden toegestaan.
 5. OOC Help - De OOC chat is alleen voor hulp, uitgebreide gespreken zijn verboden.
 6. Als je communicatie middelen door een andere speler van je is afgenomen, mag je geen externe methoden of je telefoon gebruiken om met iemand anders te communiceren. In dit geval mag alleen ingame voice chat worden gebruikt.
 
-## Artikel 8 [Metagaming Regels]
+### Artikel 8 [Metagaming Regels]
 1. OOC Informatie - Het gebruik van informatie dat je buiten je karakter om hebt verkregen om het verloop van de roleplay te beïnvloeden wordt gezien als metagaming.
 2. Speler IDs - Het is niet toegestaan om spelers ingame te identificeren via hun speler ID.
 3. OOC Tweets - Het gebruik van Twitter wordt beschouwd als in karakter informatie, dus mag er geen OOC informatie of informatie die NLR breekt worden getweet.
