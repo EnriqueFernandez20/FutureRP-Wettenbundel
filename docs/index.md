@@ -3,6 +3,16 @@ Dit is een fictieve wettenbundel gebaseerd op de verschillende wetboeken die geb
 
 Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/a4VtnuY4dJ)
 
+| Wetboek                          | Link                                        |
+|----------------------------------|---------------------------------------------|
+| Server regels                    | [Server regels](server-regels.md)           |
+| Wetboek van Strafvordering       | [WvSv](wetboek-van-strafvordering.md)       |
+| Wetboek van Strafrecht           | [WvSr](wetboek-van-strafrecht.md)           |
+| Politiewet 2012                  | [PW2012](politiewet-2012.md)                |
+| Wet op de identificatieplicht    | [WID](wet-op-de-identificatieplicht.md)     |
+| Paspoortwet                      | [Ppw](paspoortwet.md)                       |
+| Algemene wet op het binnentreden | [Awob](algemene-wet-op-het-binnentreden.md) |
+
 ## Grondbeginselen
 Om de wetten enigzins simpel te maken voor de gemiddelde burger hebben wij "grondbeginselen".
 
@@ -18,12 +28,3 @@ Deze grondbeginselen zijn vastgelegd in de verschillende wetboeken, maar worden 
     1. Medische hulp indien de verdachte op korte termijn het risico loopt om te sterven of het risico loopt om onomkeerbare schade op te lopen aan zijn ledemaat of oraan.
     2. De juiste informatie met betrekking tot zijn strafrechtelijk proces, m.u.v. vertrouwelijke informatie (zoals .oa.: recherchedossiers, naam indiener aangifte, etc.)
 6. Indien er geen beschikbare advocaat is, maar de verdachte toch wenst gebruik te maken van zijn recht hierop, wordt er **een derde** strafvermindering toegekend.
-
-| Wetboek                          | Link                                        |
-|----------------------------------|---------------------------------------------|
-| Server regels                    | [Server regels](server-regels.md)           |
-| Wetboek van Strafvordering       | [WvSv](wetboek-van-strafvordering.md)       |
-| Wetboek van Strafrecht           | [WvSr](wetboek-van-strafrecht.md)           |
-| Wet op de identificatieplicht    | [WID](wet-op-de-identificatieplicht.md)     |
-| Paspoortwet                      | [Ppw](paspoortwet.md)                       |
-| Algemene wet op het binnentreden | [Awob](algemene-wet-op-het-binnentreden.md) |
