@@ -67,3 +67,77 @@ De straf hierop is een **Permanente Ban**. Staff kan een weloverwogen beslissing
 3. Stuur geen berichten naar staff leden via DMs/reacties of hun persoonlijke social media accounts toe te voegen.
 4. Elk misbruik van een staff functie in welke vorm dan ook zal leiden tot een kick uit het staff team en mogelijk een ban van de server.
 5. Staff mag niet teleporteren, items/geld inspawnen om spelers in enige vorm te helpen. (Tenzij er een gegronde reden is)
+
+## GTA RP Regels
+## Artikel 6 [Algemene Regels]
+1. Random Vehicle Death Match (RVDM) - Je voertuig als wapen gebruiken (spelers omver rijden, explosies veroorzaken, voertuigen van spelers rammen) zonder een geldige roleplay reden wordt gezien als RVDM.
+2. Random Death Match (RDM) - Een andere speler aanvallen zonder deel te nemen aan enige vorm van hoogwaardige roleplay wordt gezien als RDM.  
+Bijvoorbeeld: Niet genoeg tijd geven om aan jouw bevel te voldoen; "Handen omhoog of ik schiet" en daarna aftellen. Worden beiden niet gezien als kwaliteit roleplay, probeer in ieder geval een interessant roleplay verhaal te bedenken voordat je geweld overweegt. Massa RDM is een **Permanente Ban**
+3. Uitlokken - Opzettelijk acties ondernemen om een scenario te creëren waarin je wordt achtervolgd of betrokken raakt, vooral om een vuurgevecht te veroorzaken. Voorbeelden:  
+    - Een tankstation beroven met de bedoeling een vuurgevecht te houden;  
+    - Opzettelijk misdaden begaan in het bijzijn van de politie;  
+    - Schelden op een groep gang leden.
+4. Spam - Je mag niet spammen in OOC chat, /me of Twitter.
+5. Powergaming - Een scenario forceren waarin je, ongeacht de roleplay van de andere partij zult winnen. Bijvoorbeeld:  
+    - Roleplay met superkrachten;  
+    - Roleplay met dodelijke verwondingen terwijl ze nog maar klein waren om roleplay met de ambulance te vermijden;  
+    - Gebouwen afsluiten met auto's om toegang van andere spelers te voorkomen;
+6. IC - Wat er in roleplay gebeurt, moet daar ook blijven. Breng de problemen van je karakter niet buiten het spel, breng evenmin je echte problemen met andere spelers in het spel. Jij bent jouw karakter niet en zij zijn jou niet.
+7. Onrealistisch rijden is niet toegestaan. Onrealistisch rijden wordt gedefinieerd als:  
+    - het uitvoeren van onrealistische stuntsprongen;  
+    - van kliffen afrijden en doorrijden alsof er niets is gebeurd;  
+    - het rijden met extreem hoge snelheden in stedelijke gebieden;  
+Tijdens politie achtervolgingen zijn overdreven snelheden toegestaan.
+
+## Artikel 7 [Roleplay Regels]
+1. Microfoon - Een microfoon is vereist op RoleplayNL servers.
+2. Taal - Alle spelers moeten Nederlands kunnen spreken, en moeten dit doen terwijl ze communiceren met spelers buiten hun groep. Het roleplayen van een karakter die een andere taal spreekt is toegestaan.
+3. Roleplay alles - Je moet te allen tijde in karakter blijven, tenzij een admin in uniform je autoriseert om uit karakter te spreken.
+4. Value of Life - Je moet te allen tijde jouw leven waarderen, als je duidelijk in de minderheid bent of duidelijk in het nadeel bent moet je aan de eisen voldoen.
+5. OOC Help - De OOC chat is alleen voor hulp, uitgebreide gespreken zijn verboden.
+6. Als je communicatie middelen door een andere speler van je is afgenomen, mag je geen externe methoden of je telefoon gebruiken om met iemand anders te communiceren. In dit geval mag alleen ingame voice chat worden gebruikt.
+
+## Artikel 8 [Metagaming Regels]
+1. OOC Informatie - Het gebruik van informatie dat je buiten je karakter om hebt verkregen om het verloop van de roleplay te beïnvloeden wordt gezien als metagaming.
+2. Speler IDs - Het is niet toegestaan om spelers ingame te identificeren via hun speler ID.
+3. OOC Tweets - Het gebruik van Twitter wordt beschouwd als in karakter informatie, dus mag er geen OOC informatie of informatie die NLR breekt worden getweet.
+
+## Artikel 9 [New Life Rule]
+Wanneer je respawnt wordt je personage naar een ziekenhuis vervoerd. U weet niet wat heeft geleid tot de situatie waardoor je in het ziekenhuis bent beland. Er wordt van je verwacht dat je alles vergeet dat je informatie zou kunne geven over hoe je uiteindelijk dood bent gegaan.  
+Als je eenmaal respawnt herinner je je nog steeds je vrienden, voertuigen, huizen, etc. Maar heb je geen herinnering aan iemand die betrokken was bij de situatie die leidde tot je dood.  
+Als er een woordenwisseling heeft plaatsgevonden met een andere speler waardoor je dood bent gegaan, is het conflict die voor je respawn zorgde over zodra je wakker wordt in het ziekenhuis (respawnen).  
+1. Een new life rule begint nadat je respawnt als:
+    - Jouw karakter respawnt in enig roleplay scenario, behalve volgens [Artikel 9](#artikel-9-new-life-rule), tweede lid.
+2. Een new life rule begint niet nadat je respawnt als:
+    - Je hierover door een staff lid bent geinformeerd dat dit RDM/RVDM was.
+3. Als je respawnt en NLR is van toepassing dan:
+    - Je karakter herinnert zich neits van het vorige roleplay scenario;
+    - Elk conflict die je personage had met hun moordenaar(s) is beëindigd;
+    - Je karakter mag gedurende ten minste 15 minuten niet terugkeren naar de locatie van zijn dood;
+    - Je karakter mag niet opnieuw het scenario betreden die voor zijn dood zorgde.
+
+## Artikel 10 [Karakter Regels]
+1. Karakter Namen - Gebruik een geldige combinatie van voornaam en achternaam. Gebruik geen namen van bekende personages, beroemdheden, politieke figuren, criminelen, terroristen, enz...
+2. Geloofwaardige karakter rollen - Als je als advocaat speelt is het misschien niet realistisch dat je jouw voertuig langs de weg repareert of een man neerschiet omdat hij jouw voertuig heeft bekrast. Kies een stijl die past bij het achtergrondverhaal en de rol van je personage en houd je eraan.
+3. Karaktergroei - Je personage moet op lange termijn groeien. Je personage mag bij zijn creatie niet gelijk een maffiabaas die miljonair is zijn. Alle personages zouden in hun rol moeten groeien - in het begin met weinig middelen en kennis van de stad.
+
+## Artikel 11 [Zone Regels]
+1. Rondhangen bij gebouwen van hulpdiensten (politie bureau's, ziekenhuizen, enz.) zonder een geldige roleplay reden is niet toegestaan.
+
+## Artikel 12 [Burger / Gang Regels]
+1. Gijzelaars - Het nemen van gijzelaars moet op een zeer hoog niveau worden geroleplayed. Probeer het scenario voor iedereen leuk te maken.
+2. Neppe gijzelaars - Gijzelaars die vrijwillig deelnemen mogen niet als gijzelaars worden gebruikt (bijvoorbeeld vrienden of mede gang leden).
+3. Executies - Het executeren van een andere speler moet realistisch zijn en worden uitgevoerd met roleplay van hoge kwaliteit.
+4. Politiesirenes - Wanneer de politie hun sirenes/stopbord aan zet om je aan de kant te zetten betekent dit niet dat de RP op dat punt gestart is. Als je schiet zonder RP wordt dit gezien als RDM.
+
+## Artikel 13 [Politie Regels]
+1. Politie mag hun spullen niet verkopen, of weggeven. Als er een kwalitatieve roleplay oorzaak voor is kan er worden geruild.
+2. Je mag je rol als agent niet misbruiken om je vrienden te helpen.
+3. Als een politiebureau wordt aangevallen, is de NLR van 15 minuten niet van toepassing op de politie en kunnen ze de situatie naar believen opnieuw betreden. Omdat wordt aangenomen dat politie bureau's 24/7 gevuld zijn met agenten en camera's is het een dwaze zet om er een aan te vallen en is dit geheel op eigen risico.
+
+## Artikel 14 [Ambulance Regels]
+1. Ambulance broeders mogen hun spullen niet verkopen, of weggeven.
+2. Ambulance broeders mogen worden gedood met een zeer kwalitatieve roleplay reden, maar je mag ze niet gijzelen.
+3. Je mag je rol als ambulance broeder niet misbruiken om je vrienden op welke manier dan ook te helpen.
+4. Combat Reviving - Als er een gevecht gaande is, is het gebied niet veilig om de gewonden te redden. Daarom mag je op dat moment niet reviven.
+5. Het is verboden ambulance voertuigen te stelen.
