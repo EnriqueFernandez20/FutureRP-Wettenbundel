@@ -243,3 +243,17 @@ Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstromi
 1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:  
     1° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;  
     2° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.
+2. Met dezelfde straf wordt gestraft hij die een feit als in het eerste lid, onder 1°, omschreven, begaat jegens een persoon in het vooruitzicht van een dienstbetrekking bij een overheidswerkgever, indien de dienstbetrekking bij een overheidswerkgever is gevolgd.
+3. Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
+
+#### Artikel 179 [Ambtsdwang]
+Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+
+#### Artikel 180 [Wederspannigheid]
+Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand verlenen, wordt als schuldig aan wederspannigheid gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+
+#### Artikel 181 [Dood of letsel door ambtsdwang of wederspannigheid]
+De dwang en de wederspannigheid in de artikelen 179 en 180 omschreven worden gestraft:  
+    1° met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;  
+    2° met gevangenisstraf van ten hoogste 72 maanden en zes maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;  
+    3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.

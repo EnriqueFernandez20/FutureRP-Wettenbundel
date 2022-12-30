@@ -106,6 +106,7 @@ Tijdens politie achtervolgingen zijn overdreven snelheden toegestaan.
 Wanneer je respawnt wordt je personage naar een ziekenhuis vervoerd. U weet niet wat heeft geleid tot de situatie waardoor je in het ziekenhuis bent beland. Er wordt van je verwacht dat je alles vergeet dat je informatie zou kunne geven over hoe je uiteindelijk dood bent gegaan.  
 Als je eenmaal respawnt herinner je je nog steeds je vrienden, voertuigen, huizen, etc. Maar heb je geen herinnering aan iemand die betrokken was bij de situatie die leidde tot je dood.  
 Als er een woordenwisseling heeft plaatsgevonden met een andere speler waardoor je dood bent gegaan, is het conflict die voor je respawn zorgde over zodra je wakker wordt in het ziekenhuis (respawnen).
+
 1. Een new life rule begint nadat je respawnt als:
     - Jouw karakter respawnt in enig roleplay scenario, behalve volgens [Artikel 9](#artikel-9-new-life-rule), tweede lid.
 2. Een new life rule begint niet nadat je respawnt als:
