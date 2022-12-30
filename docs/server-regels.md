@@ -20,7 +20,7 @@ We verwachten van mensen dat ze respect tonen, zich als een volwassene gedragen 
 Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het niet lang duren voordat je de deur wordt gewezen en het is uiterst zeldzaam om een unban te ontvangen voor een van de volgende regels.
 
 1. Pesten **Permanente Ban**
-2. Discriminatie - Geen geen discriminerende of anderszins aanstootgevende opvattingen. Dit is geen plaats voor racisme, religieuze haat, leeftijdsdiscriminatie, seksisme, homofobie, discriminatie op grond van geslacht of handicap. **Permanente Ban**
+2. Discriminatie - Geen discriminerende of anderszins aanstootgevende opvattingen. Dit is geen plaats voor racisme, religieuze haat, leeftijdsdiscriminatie, seksisme, homofobie, discriminatie op grond van geslacht of handicap. **Permanente Ban**
 3. OOC Misbruik - Iemand uitschelden buiten roleplay met kwade bedoelingen wordt niet getolereerd.
 4. Elke bedreiging of intimidatie van een persoon of de gemeenschap wordt niet getolereerd. Afhankelijk van de context van de dreiging zullen wij de politie volledig assisteren bij hun onderzoek. **Permanente Ban**
 5. Pogingen om onze infrastructuur te schaden of anderszins te verstoren worden niet getolereerd. We nemen aanvallen en bedreigingen om aan te vallen serieus. We zullen samenwerken met de politie en andere wetshandhavingsinstanties en alle bewijzen leveren die nodig zijn om tot een veroordeling te leiden. **Permanente Ban**
