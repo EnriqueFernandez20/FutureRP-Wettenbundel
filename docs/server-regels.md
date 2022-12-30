@@ -11,7 +11,7 @@ Om te beginnen willen we duidelijk maken dat dit een vriendelijke community is, 
 Let op: dit zijn de officiële regels. Als je anders wordt verteld, negeer deze persoon dan.
 
 ### Artikel 1 [Volwassen Community]
-Omdat GTA 5 door de ESRB is geclassificeerd als 17+ hebben we er voor gekozen om een 17+ beleid aan te nemen voor de spelers op onze FiveM server. Spelers waarvan ontdekt worden dat ze in overschrijding zijn met deze regel worden verbanne. We nemen geen aansprakelijkheid om ervoor te zorgen dat spelers oud genoeg zijn, noch komen we in het mijnenveld van 'je leeftijd bewijzen'. Het is voldoende om te zeggen dat als je minderjarig bent en je ontdekt wordt, je een ban ontvangt zodra we het weten. Dit is voor ieders bescherming.
+Omdat GTA 5 door de ESRB is geclassificeerd als 17+ hebben we er voor gekozen om een 17+ beleid aan te nemen voor de spelers op onze FiveM server. Spelers waarvan ontdekt worden dat ze in overschrijding zijn met deze regel worden verbannen. We nemen geen aansprakelijkheid om ervoor te zorgen dat spelers oud genoeg zijn, noch komen we in het mijnenveld van 'je leeftijd bewijzen'. Het is voldoende om te zeggen dat als je minderjarig bent en je ontdekt wordt, je een ban ontvangt zodra we het weten. Dit is voor ieders bescherming.
 
 Het betekent echter zeker niet dat je 17+ moet zijn om lid te zijd van onze Discord community. We respecteren jongeren en ouderen in onze community en discriminatie wordt niet getolereerd.
 
