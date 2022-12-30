@@ -191,3 +191,55 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 #### Artikel 131 [Opruiing]
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie.
 2. Indien het strafbare feit waartoe wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
+
+#### Artikel 138 [Huisvredebreuk]
+1. Hij die in de woning of het besloten lokaal of erf, bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+2. Hij die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+3. Indien hij bedreigingen uit of zich bedient van middelen geschikt om vrees aan te jagen, wordt hij gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+4. De in het eerste en derde lid bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien twee of meer verenigde personen het misdrijf plegen.
+
+#### Artikel 139 [Lokaalvredebreuk]
+1. Hij die in een voor de openbare dienst bestemd lokaal wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+2. Hij die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
+3. Indien hij bedreigingen uit of zich bedient van middelen geschikt om vrees aan te jagen, wordt hij gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+4. De in het eerste en derde lid bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien twee of meer verenigde personen het misdrijf plegen.
+
+#### Artikel 140 [Deelneming aan criminele organisatie]
+1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie.
+2. Indien een organisatie tot oogmerk heeft het plegen van misdrijven waarop naar de wettelijke omschrijving een gevangenisstraf van twaalf jaar of meer is gesteld, wordt het in het eerste lid bedoelde feit gestraft met gevangenisstraf van ten hoogste 120 maanden of geldboete van de vijfde categorie.
+3. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
+4. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
+
+#### Artikel 141 [Openlijke geweldpleging]
+1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft met gevangenisstraf van ten hoogste 54 maanden of geldboete van de vierde categorie.
+2. De schuldige wordt gestraft:  
+    1° met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;  
+    2° met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;  
+    3° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
+3. [Artikel 81](#artikel-81-begripsbepaling-plegen-van-geweld) blijft buiten toepassing.
+
+#### Artikel 141a [Hulp bij geweldpleging]
+Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het plegen van geweld tegen personen of goederen wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of een geldboete van de vierde categorie.
+
+#### Artikel 142 [Vals alarm slaan]
+1. Hij die opzettelijk door valse alarmkreten of signalen de rust verstoort, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie.
+2. Hij die opzettelijk, zonder dat daartoe de noodzaak aanwezig is, gebruik maakt van een alarmnummer voor publieke diensten wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.
+
+#### Artikel 149 [Grafschennis]
+Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+
+#### Artikel 151 [Onttrekken van lijk aan nasporing]
+Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt, met het oogmerk om het feit of de oorzaak van het overlijden, dan wel van het dood ter wereld komen te verhelen, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+
+### Titel VII [Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in gevaar gebracht]
+#### Artikel 157 [Opzettelijk brand, ontploffing of overstroming veroorzaken]
+Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstroming veroorzaakt, wordt gestraft:  
+    1° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;  
+    2° met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;  
+    3° met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
+
+### Titel VIII [Misdrijven tegen het openbaar gezag]
+#### Artikel 177 [Omkoping van ambtenaar]
+1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:  
+    1° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;  
+    2° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.

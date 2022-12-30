@@ -106,14 +106,14 @@ Tijdens politie achtervolgingen zijn overdreven snelheden toegestaan.
 Wanneer je respawnt wordt je personage naar een ziekenhuis vervoerd. U weet niet wat heeft geleid tot de situatie waardoor je in het ziekenhuis bent beland. Er wordt van je verwacht dat je alles vergeet dat je informatie zou kunne geven over hoe je uiteindelijk dood bent gegaan.  
 Als je eenmaal respawnt herinner je je nog steeds je vrienden, voertuigen, huizen, etc. Maar heb je geen herinnering aan iemand die betrokken was bij de situatie die leidde tot je dood.  
 Als er een woordenwisseling heeft plaatsgevonden met een andere speler waardoor je dood bent gegaan, is het conflict die voor je respawn zorgde over zodra je wakker wordt in het ziekenhuis (respawnen).  
-1. Een new life rule begint nadat je respawnt als:
-    - Jouw karakter respawnt in enig roleplay scenario, behalve volgens [Artikel 9](#artikel-9-new-life-rule), tweede lid.
-2. Een new life rule begint niet nadat je respawnt als:
-    - Je hierover door een staff lid bent geinformeerd dat dit RDM/RVDM was.
-3. Als je respawnt en NLR is van toepassing dan:
-    - Je karakter herinnert zich neits van het vorige roleplay scenario;
-    - Elk conflict die je personage had met hun moordenaar(s) is beëindigd;
-    - Je karakter mag gedurende ten minste 15 minuten niet terugkeren naar de locatie van zijn dood;
+1. Een new life rule begint nadat je respawnt als:  
+    - Jouw karakter respawnt in enig roleplay scenario, behalve volgens [Artikel 9](#artikel-9-new-life-rule), tweede lid.  
+2. Een new life rule begint niet nadat je respawnt als:  
+    - Je hierover door een staff lid bent geinformeerd dat dit RDM/RVDM was.  
+3. Als je respawnt en NLR is van toepassing dan:  
+    - Je karakter herinnert zich neits van het vorige roleplay scenario;  
+    - Elk conflict die je personage had met hun moordenaar(s) is beëindigd;  
+    - Je karakter mag gedurende ten minste 15 minuten niet terugkeren naar de locatie van zijn dood;  
     - Je karakter mag niet opnieuw het scenario betreden die voor zijn dood zorgde.
 
 ### Artikel 10 [Karakter Regels]
