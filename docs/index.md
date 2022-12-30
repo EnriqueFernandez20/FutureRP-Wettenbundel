@@ -9,6 +9,7 @@ Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/
 | Wetboek van Strafvordering       | [WvSv](wetboek-van-strafvordering.md)       |
 | Wetboek van Strafrecht           | [WvSr](wetboek-van-strafrecht.md)           |
 | Politiewet 2012                  | [PW2012](politiewet-2012.md)                |
+| Ambtsinstructie                  | [AI](ambtsinstructie.md)                    |
 | Wet op de identificatieplicht    | [WID](wet-op-de-identificatieplicht.md)     |
 | Paspoortwet                      | [Ppw](paspoortwet.md)                       |
 | Algemene wet op het binnentreden | [Awob](algemene-wet-op-het-binnentreden.md) |

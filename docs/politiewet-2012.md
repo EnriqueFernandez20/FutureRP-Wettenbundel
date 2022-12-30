@@ -3,8 +3,8 @@
 ### Artikel 1 [Begripsbepaling]
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
     1. Onze Minister: Onze Minister van Veiligheid en Justitie;
-    2. politie: het landelijke politiekorps, bedoeld in [artikel 25, eerste lid](#artikel-25);
-    3. korpschef: de korpschef, bedoeld in artikel 27;
+    2. politie: het landelijke politiekorps, bedoeld in [artikel 25, eerste lid](#artikel-25-landelijk-politiekorps);
+    3. korpschef: de korpschef, bedoeld in [artikel 27](#artikel-27-taak-korpschef);
     4. eenheid: een regionale of landelijke eenheid;
 
 ### Artikel 2 [Ambtenaren van politie]
@@ -39,3 +39,32 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 2. Hoewel bevoegd in het gehele land, onthoudt de ambtenaar van politie die is tewerkgesteld bij een regionale eenheid, zich van optreden buiten zijn gebied van tewerkstelling, tenzij zijn optreden redelijkerwijs noodzakelijk is, dan wel ingevolge regels, gesteld bij of krachtens de wet, dan wel in opdracht of met toestemming van het bevoegd gezag over de politie.
 
 ### Artikel 7 [Geweldgebruik. Binnentreden. Fouilleren]
+1. De ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, is bevoegd in de rechtmatige uitoefening van zijn bediening geweld of vrijheidsbeperkende middelen te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik hiervan verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
+2. De ambtenaar van politie, bedoeld in het eerste lid, heeft toegang tot elke plaats, voor zover dat voor het verlenen van hulp aan hen die deze behoeven, redelijkerwijs nodig is.
+3. De ambtenaar van politie, bedoeld in het eerste lid, is bevoegd tot het onderzoek aan de kleding van personen en het onderzoek van de voorwerpen die personen bij zich dragen of met zich mee voeren bij de uitoefening van een hem wettelijk toegekende bevoegdheid of bij een handeling ter uitvoering van de politietaak, indien uit feiten of omstandigheden blijkt dat een onmiddellijk gevaar dreigt voor hun leven of veiligheid of die van de ambtenaar zelf of van derden, en dit onderzoek noodzakelijk is ter afwending van dit gevaar.
+4. De ambtenaar van politie, bedoeld in het eerste lid, is bevoegd een te vervoeren of in te sluiten persoon aan zijn kleding te onderzoeken op de aanwezigheid van voorwerpen die een gevaar voor de veiligheid van betrokkene of voor anderen kunnen vormen, alsmede daartoe de voorwerpen te onderzoeken die betrokkene bij zich draagt of met zich mee voert.
+5. De ambtenaar van politie, belast met de leiding over de zorg voor ingeslotenen, kan bepalen dat een in te sluiten of ingesloten persoon bij binnenkomst of bij het verlaten van een politiecel of een politiecellencomplex, voorafgaand aan of na afloop van bezoek, dan wel indien dit anderszins noodzakelijk is in het belang van de handhaving van de orde of de veiligheid in het politiebureau of het cellencomplex, aan zijn lichaam wordt onderzocht.
+6. De officier van justitie kan bepalen dat een in te sluiten of ingesloten persoon in het lichaam wordt onderzocht, indien dit noodzakelijk is ter afwending van ernstig gevaar voor de handhaving van de orde of de veiligheid in het politiebureau of het cellencomplex dan wel voor de gezondheid van de ingeslotene. Het onderzoek in het lichaam wordt verricht door een arts of, in diens opdracht, door een verpleegkundige.
+7. De uitoefening van de bevoegdheden, bedoeld in het eerste tot en met zesde lid, dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.
+8. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op de militair van de Koninklijke marechaussee, indien hij optreedt in de rechtmatige uitoefening van zijn bediening, en op de militair van enig ander onderdeel van de krijgsmacht die op grond van deze wet bijstand verleent aan de politie. Het vijfde en zesde lid zijn van overeenkomstige toepassing indien een persoon wordt of is ingesloten door de Koninklijke marechaussee, met dien verstande dat de beslissing, bedoeld in het vijfde lid, eerste volzin, wordt genomen door de commandant van de betrokken brigade, zijn plaatsvervanger of de militair van de Koninklijke marechaussee, belast met de zorg voor ingeslotenen.
+
+### Artikel 8 [Vorderen inzage identiteitsbewijs]
+1. Een ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, is bevoegd tot het vorderen van inzage van een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht#artikel-1) van de Wet op de identificatieplicht van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van de politietaak.
+2. Gelijke bevoegdheid komt toe aan de militair van de Koninklijke marechaussee, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van zijn politietaak, bedoeld in [artikel 4](#artikel-4-politietaken-koninklijke-marechaussee), eerste lid, en aan de militair van de Koninklijke marechaussee of van enig ander onderdeel van de krijgsmacht die op grond van deze wet bijstand verleent aan de politie.
+
+### Artikel 9 [Ambtsinstructie]
+1. Bij algemene maatregel van bestuur wordt een [ambtsinstructie](ambtsinstructie.md) voor de politie en voor de Koninklijke marechaussee vastgesteld.
+2. Indien de militair van enig ander onderdeel van de krijgsmacht op grond van deze wet bijstand verleent aan de politie is de ambtsinstructie van toepassing.
+3. In de ambtsinstructie worden regels gesteld ter uitvoering van de [artikelen 6](#artikel-6-bevoegd-in-het-gehele-land) en [7](#artikel-7-geweldgebruik-binnentreden-fouilleren).
+4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent maatregelen waaraan rechtens van hun vrijheid beroofde personen met het oog op hun insluiting kunnen worden onderworpen, voor zover dit noodzakelijk is in het belang van hun veiligheid of de veiligheid van anderen.
+5. Het vierde lid is van overeenkomstige toepassing op personen die ten behoeve van de hulpverlening aan hen zijn ondergebracht bij de politie of de Koninklijke marechaussee.
+
+### Artikel 25 [Landelijk politiekorps]
+1. Er is een landelijk politiekorps dat bestaat uit de volgende onderdelen:
+    1. regionale eenheden, belast met de uitvoering van de politietaak;
+    2. een of meer bij algemene maatregel van bestuur aan te wijzen landelijke eenheden, belast met de uitvoering van de politietaak;
+    3. een of meer bij algemene maatregel van bestuur aan te wijzen ondersteunende diensten.
+
+### Artikel 27 [Taak korpschef]
+1. De korpschef is belast met de leiding en het beheer van de politie. De korpschef legt over de uitoefening van zijn taken en bevoegdheden verantwoording af aan Onze Minister.
+2. De korpschef vertegenwoordigt de politie in en buiten rechte.
