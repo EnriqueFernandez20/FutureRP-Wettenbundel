@@ -2,7 +2,7 @@
 ## Community Regels
 Hallo en welkom bij de regels van RoleplayNL! Om onze extreem hoge kwaliteit van roleplay te behouden, hebben we een behoorlijk lange reeks regels waar alle spelers zich aan moeten houden. Daaro mraden we je aan om een kopje thee en een koekje te pakken en de tijd te nemen om de informatie hier te lezen en in je op te nemen om er zeker van te zijn dat je ervaring op onze servers zo uitstekend mogelijk is.
 
-De bans die wij geven gaan van 24 uur, 48 uur en 1 week lang tot permanent in de ergste geval. Permanente bans zijn te appealen in de Discord.
+De bans die wij geven gaan van 24 uur, 48 uur en 1 week lang tot permanent in het ergste geval. Permanente bans zijn te appealen in de Discord.
 
 RoleplayNL is een serieuze roleplay community. Als je uit een andere community komt, wis die herrinnering dan alsjeblieft uit je hoofd, want de dingen zijn hier heel anders en veel meer gericht op RP dan op combat.
 
