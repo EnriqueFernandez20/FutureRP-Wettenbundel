@@ -11,15 +11,15 @@ De Nederlandse strafwet is toepasselijk op ieder die zich in Nederland aan enig 
 ### Titel II [Straffen]
 #### Artikel 9 [Hoofd- en bijkomende straffen]
 1. De straffen zijn:
-    1. hoofdstraffen:  
-        1° gevangenisstraf;  
-        2° hechtenis;  
-        3° taakstraf;  
-        4° geldboete;  
-    2. bijkomende straffen:  
-        1° ontzetting van bepaalde rechten;  
-        2° verbeurdverklaring;  
-        3° openbaarmaking van de rechterlijke uitspraak.  
+    1. hoofdstraffen:
+        - 1° gevangenisstraf;
+        - 2° hechtenis;
+        - 3° taakstraf;
+        - 4° geldboete;
+    2. bijkomende straffen:
+        - 1° ontzetting van bepaalde rechten;
+        - 2° verbeurdverklaring;
+        - 3° openbaarmaking van de rechterlijke uitspraak.  
 2. Ten aanzien van misdrijven die worden bedreigd met een vrijheidsstraf of een geldboete of ten aanzien van overtredingen die worden bedreigd met een vrijheidsstraf kan, behoudens in bij de wet bepaalde gevallen, in plaats daarvan een taakstraf worden opgelegd.
 3. In het geval gevangenisstraf, hechtenis, vervangende hechtenis daaronder niet begrepen, of een taakstraf wordt opgelegd, kan tevens een geldboete worden opgelegd.
 4. In geval van veroordeling tot gevangenisstraf of tot hechtenis, vervangende hechtenis daaronder niet begrepen, waarvan het onvoorwaardelijk ten uitvoer te leggen deel ten hoogste zes maanden bedraagt, kan de rechter tevens een taakstraf opleggen.
@@ -110,15 +110,15 @@ Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolg
 
 ### Titel V [Deelneming aan strafbare feiten]
 #### Artikel 47 [Soorten daders]
-1. Als daders van een strafbaar feit worden gestraft:  
-    1° zij die het feit plegen, doen plegen of medeplegen;  
-    2° zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.  
+1. Als daders van een strafbaar feit worden gestraft:
+    - 1° zij die het feit plegen, doen plegen of medeplegen;
+    - 2° zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.
 2. Ten aanzien van de laatsten komen alleen die handelingen in aanmerking die zij opzettelijk hebben uitgelokt, benevens hun gevolgen.
 
 #### Artikel 48 [Medeplichtigheid]
-Als medeplichtigen van een misdrijf worden gestraft:  
-1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;  
-2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
+Als medeplichtigen van een misdrijf worden gestraft:
+- 1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
+- 2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
 
 #### Artikel 49 [Strafbepaling bij medeplichtigheid]
 1. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij medeplichtigheid met een derde verminderd.
@@ -152,9 +152,9 @@ Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het
 ### Titel VIII [Verval van het recht tot strafvordering en van de straf]
 #### Artikel 68 [Ne bis in idem]
 1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te zijnen aanzien bij gewijsde van de rechter in Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba onherroepelijk is beslist.
-2. Is het gewijsde afkomstig van een andere rechter, dan heeft tegen dezelfde persoon wegens hetzelfde feit geen vervolging plaats in geval van:  
-    1° vrijspraak of ontslag van rechtsvervolging;  
-    2° veroordeling, indien een straf is opgelegd, gevolgd door gehele uitvoering, gratie of verjaring der straf.  
+2. Is het gewijsde afkomstig van een andere rechter, dan heeft tegen dezelfde persoon wegens hetzelfde feit geen vervolging plaats in geval van:
+    - 1° vrijspraak of ontslag van rechtsvervolging;
+    - 2° veroordeling, indien een straf is opgelegd, gevolgd door gehele uitvoering, gratie of verjaring der straf.
 3. Niemand kan worden vervolgd wegens een feit dat te zijnen aanzien in een vreemde staat onherroepelijk is afgedaan door de voldoening aan een voorwaarde, door de bevoegde autoriteit gesteld ter voorkoming van strafvervolging.
 
 #### Artikel 69 [Dood van verdachte]
@@ -212,10 +212,10 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 
 #### Artikel 141 [Openlijke geweldpleging]
 1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft met gevangenisstraf van ten hoogste 54 maanden of geldboete van de vierde categorie.
-2. De schuldige wordt gestraft:  
-    1° met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;  
-    2° met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;  
-    3° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
+2. De schuldige wordt gestraft:
+    - 1° met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;
+    - 2° met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;
+    - 3° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
 3. [Artikel 81](#artikel-81-begripsbepaling-plegen-van-geweld) blijft buiten toepassing.
 
 #### Artikel 141a [Hulp bij geweldpleging]
@@ -233,16 +233,16 @@ Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt
 
 ### Titel VII [Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in gevaar gebracht]
 #### Artikel 157 [Opzettelijk brand, ontploffing of overstroming veroorzaken]
-Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstroming veroorzaakt, wordt gestraft:  
-    1° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;  
-    2° met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;  
-    3° met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
+Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstroming veroorzaakt, wordt gestraft:
+- 1° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;
+- 2° met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;
+- 3° met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
 ### Titel VIII [Misdrijven tegen het openbaar gezag]
 #### Artikel 177 [Omkoping van ambtenaar]
-1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:  
-    1° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;  
-    2° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.
+1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:
+    - 1° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;
+    - 2° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.
 2. Met dezelfde straf wordt gestraft hij die een feit als in het eerste lid, onder 1°, omschreven, begaat jegens een persoon in het vooruitzicht van een dienstbetrekking bij een overheidswerkgever, indien de dienstbetrekking bij een overheidswerkgever is gevolgd.
 3. Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
@@ -253,7 +253,34 @@ Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld of en
 Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand verlenen, wordt als schuldig aan wederspannigheid gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
 
 #### Artikel 181 [Dood of letsel door ambtsdwang of wederspannigheid]
-De dwang en de wederspannigheid in de artikelen 179 en 180 omschreven worden gestraft:  
-    1° met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;  
-    2° met gevangenisstraf van ten hoogste 72 maanden en zes maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;  
-    3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
+De dwang en de wederspannigheid in de artikelen [179](#artikel-179-ambtsdwang) en [180](#artikel-180-wederspannigheid) omschreven worden gestraft:
+
+- 1° met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;
+- 2° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
+- 3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
+
+#### Artikel 182 [Ambtsdwang en wederspannigheid in vereniging]
+1. De dwang en de wederspannigheid in de artikelen [179](#artikel-179-ambtsdwang) en [180](#artikel-180-wederspannigheid) omschreven, door twee of meer personen met verenigde krachten gepleegd, worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
+2. De schuldige wordt gestraft:
+    - 1° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien het door hem gepleegde misdrijf of de daarbij door hem gepleegde feitelijkheden enig lichamelijk letsel ten gevolge hebben;
+    - 2° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
+    - 3° met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
+
+#### Artikel 184 [Niet voldoen aan ambtelijk bevel]
+1. Hij die opzettelijk niet voldoet aan een bevel of een vordering, krachtens wettelijk voorschrift gedaan door een ambtenaar met de uitoefening van enig toezicht belast of door een ambtenaar belast met of bevoegd verklaard tot het opsporen of onderzoeken van strafbare feiten, alsmede hij die opzettelijk enige handeling, door een van die ambtenaren ondernomen ter uitvoering van enig wettelijk voorschrift, belet, belemmert of verijdelt, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+2. Met de in het eerste gedeelte van het vorige lid bedoelde ambtenaar wordt gelijkgesteld ieder die, krachtens wettelijk voorschrift, voortdurend of tijdelijk met enige openbare dienst is belast.
+
+#### Artikel 185 [Bemoeilijken terechtzitting en ambtshandeling]
+Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het openbaar in de rechtmatige uitoefening van zijn bediening werkzaam is, opschudding veroorzaakt en na het door of vanwege het bevoegd gezag gegeven bevel zich niet verwijdert, wordt gestraft met gevangenisstraf van ten hoogste 1 maand of geldboete van de tweede categorie.
+
+#### Artikel 186 [Samenscholing]
+Hij die opzettelijk bij gelegenheid van een volksoploop zich niet onmiddellijk verwijdert na het derde door of vanwege het bevoegd gezag gegeven bevel, wordt, als schuldig aan deelneming aan samenscholing, gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+
+#### Artikel 188 [Valse aangifte of klacht]
+Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, wetende dat het niet gepleegd is, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+
+#### Artikel 189 [Hulp aan dader na misdrijf]
+1. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft:  
+    - 1° hij die opzettelijk iemand die schuldig is aan of verdachte is van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan de nasporing van of aanhouding door de ambtenaren van de justitie of politie;  
+    - 2° hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te bedekken of de nasporing of vervolging te beletten of te bemoeilijken, voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen van het misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt;  
+    - 3° hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e](#artikel-36e-ontneming-wederrechtelijk-verkregen-voordeel) aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
