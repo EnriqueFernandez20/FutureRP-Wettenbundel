@@ -284,3 +284,126 @@ Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, wetende dat 
     - 1° hij die opzettelijk iemand die schuldig is aan of verdachte is van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan de nasporing van of aanhouding door de ambtenaren van de justitie of politie;  
     - 2° hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te bedekken of de nasporing of vervolging te beletten of te bemoeilijken, voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen van het misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt;  
     - 3° hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e](#artikel-36e-ontneming-wederrechtelijk-verkregen-voordeel) aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
+2. In het geval het misdrijf, bedoeld in het eerste lid, een terroristisch misdrijf betreft, kan een gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie worden opgelegd.
+3. Deze bepalingen zijn niet van toepassing op hem die de daarin vermelde handelingen verricht ten einde gevaar van vervolging te ontgaan of af te wenden van een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie of van zijn echtgenoot of gewezen echtgenoot.
+
+#### Artikel 190 [Lijkschouwing beletten]
+Hij die opzettelijk een gerechtelijke lijkschouwing belet, belemmert of verijdelt, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
+
+#### Artikel 191 [Bevrijding van gevangene]
+Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn zelfbevrijding behulpzaam is, wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+
+#### Artikel 196 [Aanmatiging van ambt]
+Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende tot een ambt dat hij niet bekleedt of waarin hij geschorst is, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+
+### Titel XII [Valsheid met geschriften, gegevens en biometrische kenmerken]
+#### Artikel 231 [Vals reisdocument of identiteitskaart]
+1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1) van de Wet op de identificatieplicht of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse persoonsgegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie.
+2. Met dezelfde straf wordt gestraft hij die een reisdocument of een identiteitsbewijs als bedoeld in het eerste lid aflevert of voorhanden heeft waarvan hij weet of redelijkerwijs moet vermoeden dat het vals of vervalst is, dan wel opzettelijk gebruik maakt van een vals of vervalst reisdocument of identiteitsbewijs als bedoeld in het eerste lid. Met dezelfde straf wordt gestraft hij die opzettelijk en wederrechtelijk gebruik maakt van een bij het bevoegd gezag als vermist opgegeven of een niet op zijn naam gesteld reisdocument of identiteitsbewijs als bedoeld in het eerste lid.
+
+#### Artikel 261 [Smaad(schrift)]
+1. Hij die opzettelijk iemands eer of goede naam aanrandt, door telastlegging van een bepaald feit, met het kennelijke doel om daaraan ruchtbaarheid te geven, wordt, als schuldig aan smaad, gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
+2. Indien dit geschiedt door middel van geschriften of afbeeldingen, verspreid, openlijk tentoongesteld of aangeslagen, of door geschriften waarvan de inhoud openlijk ten gehore wordt gebracht, wordt de dader, als schuldig aan smaadschrift, gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+3. Noch smaad, noch smaadschrift bestaat voor zover de dader heeft gehandeld tot noodzakelijke verdediging, of te goeder trouw heeft kunnen aannemen dat het te last gelegde waar was en dat het algemeen belang de telastlegging eiste.
+
+#### Artikel 262 [Laster]
+1. Hij die het misdrijf van smaad of smaadschrift pleegt, wetende dat het te last gelegde feit in strijd met de waarheid is, wordt, als schuldig aan laster, gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+
+#### Artikel 266 [Eenvoudige belediging]
+1. Elke opzettelijke belediging die niet het karakter van smaad of smaadschrift draagt, hetzij in het openbaar mondeling of bij geschrift of afbeelding, hetzij iemand, in zijn tegenwoordigheid mondeling of door feitelijkheden, hetzij door een toegezonden of aangeboden geschrift of afbeelding, aangedaan, wordt, als eenvoudige belediging, gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+2. Niet als eenvoudige belediging strafbaar zijn gedragingen die ertoe strekken een oordeel te geven over de behartiging van openbare belangen, en die er niet op zijn gericht ook in ander opzicht of zwaarder te grieven dan uit die strekking voortvloeit.
+
+#### Artikel 269 [Belediging is klachtdelict]
+1. Belediging, strafbaar krachtens deze titel, wordt niet vervolgd dan op klacht van hem tegen wie het misdrijf is gepleegd.
+
+#### Artikel 282 [Opzettelijke vrijheidsberoving]
+1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt, wordt gestraft met gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie.
+2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie.
+3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie.
+4. De in dit artikel bepaalde straffen zijn ook van toepassing op hem die opzettelijk tot de wederrechtelijke vrijheidsberoving een plaats verschaft.
+
+#### Artikel 282a [Gijzeling]
+1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt met het oogmerk een ander te dwingen iets te doen of niet te doen wordt als schuldig aan gijzeling gestraft met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie.
+2. Indien het feit de dood ten gevolge heeft wordt hij gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie.
+3. Het [vierde lid van artikel 282](#artikel-282-opzettelijke-vrijheidsberoving) is toepasselijk.
+
+#### Artikel 285 [Bedreiging met ernstig misdrijf]
+1. Bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen, met geweld tegen een internationaal beschermd persoon of diens beschermde goederen, met enig misdrijf waardoor gevaar voor de algemene veiligheid van personen of goederen of gemeen gevaar voor de verlening van diensten ontstaat, met verkrachting, met feitelijke aanranding van de eerbaarheid, met enig misdrijf tegen het leven gericht, met gijzeling, met zware mishandeling of met brandstichting, wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie.
+2. Indien deze bedreiging schriftelijk en onder een bepaalde voorwaarde geschiedt, wordt ze gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+3. Bedreiging met een terroristisch misdrijf wordt gestraft met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vijfde categorie.
+4. Indien het feit, omschreven in het eerste, tweede of derde lid, wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+
+#### Artikel 285b [Stalking]
+1. Hij, die wederrechtelijk stelselmatig opzettelijk inbreuk maakt op eens anders persoonlijke levenssfeer met het oogmerk die ander te dwingen iets te doen, niet te doen of te dulden dan wel vrees aan te jagen wordt, als schuldig aan belaging, gestraft met een gevangenisstraf van ten hoogste 36 maanden of een geldboete van de vierde categorie.
+2. Vervolging vindt niet plaats dan op klacht van hem tegen wie het misdrijf is begaan.
+
+### Titel XIX [Misdrijven tegen het leven gericht]
+#### Artikel 287 [Doodslag]
+Hij die opzettelijk een ander van het leven berooft, wordt, als schuldig aan doodslag, gestraft met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie.
+
+#### Artikel 288 [Gekwalificeerde doodslag]
+Doodslag gevolgd, vergezeld of voorafgegaan van een strafbaar feit en gepleegd met het oogmerk om de uitvoering van dat feit voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan dat feit hetzij straffeloosheid hetzij het bezit van het wederrechtelijk verkregene te verzekeren, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie.
+
+#### Artikel 289 [Moord]
+Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt, als schuldig aan moord, gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie.
+
+### Titel XX [Mishandeling]
+#### Artikel 300 [Mishandeling]
+1. Mishandeling wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie.
+2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie.
+4. Met mishandeling wordt gelijkgesteld opzettelijke benadeling van de gezondheid.
+5. Poging tot dit misdrijf is niet strafbaar.
+
+#### Artikel 301 [Mishandeling met voorbedachten rade]
+1. Mishandeling gepleegd met voorbedachten rade wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie.
+3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie.
+
+#### Artikel 302 [Zware mishandeling]
+1. Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, wordt, als schuldig aan zware mishandeling, gestraft met gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie.
+2. Indien het feit de dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 120 maanden of geldboete van de vijfde categorie.
+
+#### Artikel 303 [Zware mishandeling met voorbedachten rade]
+1. Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie.
+2. Indien het feit de dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie.
+
+#### Artikel 304 [Strafverhogende omstandigheden mishandeling]
+1. De in de [artikelen 300–303](#artikel-300-mishandeling) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd:
+    - 1° ten aanzien van de schuldige die het misdrijf begaat tegen zijn moeder, zijn vader tot wie hij in familierechtelijke betrekking staat, zijn echtgenoot, zijn levensgezel, zijn kind, een kind over wie hij het gezag uitoefent of een kind dat hij verzorgt of opvoedt als behorend tot zijn gezin of een aan zijn zorg, opleiding of waakzaamheid toevertrouwde minderjarige;
+    - 2° ten aanzien van de schuldige die het misdrijf stelselmatig begaat tegen een minderjarige;
+    - 3° indien het misdrijf wordt gepleegd tegen een ambtenaar gedurende of ter zake van de rechtmatige uitoefening van zijn bediening;
+    - 4° indien het misdrijf wordt gepleegd door toediening van voor het leven of de gezondheid schadelijke stoffen.
+
+### Titel XXI [Veroorzaken van de dood of van lichamelijk letsel door schuld]
+#### Artikel 307 [Dood door schuld]
+1. Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+2. Indien de schuld bestaat in roekeloosheid, wordt hij gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+
+#### Artikel 308 [Zwaar lichamelijk letsel door schuld]
+1. Hij aan wiens schuld te wijten is dat een ander zwaar lichamelijk letsel bekomt of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of verhindering in de uitoefening van zijn ambts- of beroepsbezigheden ontstaat, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie.
+2. Indien de schuld bestaat in roekeloosheid, wordt hij gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+
+### Titel XXII [Diefstal en stroperij]
+#### Artikel 310 [Diefstal]
+Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met het oogmerk om het zich wederrechtelijk toe te eigenen, wordt, als schuldig aan diefstal, gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+
+#### Artikel 311 [Gekwalificeerde diefstal]
+1. Met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie wordt gestraft:
+    - 1° diefstal van vee uit de weide;
+    - 2° diefstal bij gelegenheid van brand, ontploffing, watersnood, schipbreuk, stranding, spoorwegongeval, oproer, muiterij of oorlogsnood;
+    - 3° diefstal in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt;
+    - 4° diefstal door twee of meer verenigde personen;
+    - 5° diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of het aannemen van een valse naam of van een valse hoedanigheid, of door listige kunstgrepen, of door een samenweefsel van verdichtsels;
+    - 6° diefstal met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
+2. Indien de onder 3° omschreven diefstal vergezeld gaat van een der in onder 4° en 5° vermelde omstandigheden, wordt gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie opgelegd.
+
+#### Artikel 312 [Diefstal met geweldpleging]
+1. Met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie wordt gestraft diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren.
+2. Gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie wordt opgelegd:
+    - 1° indien het feit wordt gepleegd hetzij gedurende de voor de nachtrust bestemde tijd in een woning of op een besloten erf waarop een woning staat; hetzij op de openbare weg; hetzij in een spoortrein die in beweging is;
+    - 2° indien het feit wordt gepleegd door twee of meer verenigde personen;
+    - 3° indien de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum;
+    - 4° indien het feit zwaar lichamelijk letsel ten gevolge heeft;
+    - 5° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
+3. Gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
