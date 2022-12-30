@@ -59,6 +59,14 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent maatregelen waaraan rechtens van hun vrijheid beroofde personen met het oog op hun insluiting kunnen worden onderworpen, voor zover dit noodzakelijk is in het belang van hun veiligheid of de veiligheid van anderen.
 5. Het vierde lid is van overeenkomstige toepassing op personen die ten behoeve van de hulpverlening aan hen zijn ondergebracht bij de politie of de Koninklijke marechaussee.
 
+### Artikel 12 [Gezag OvJ]
+1. Indien de politie optreedt ter strafrechtelijke handhaving van de rechtsorde, dan wel taken verricht ten dienste van de justitie, staat zij, tenzij in enige wet anders is bepaald, onder gezag van de officier van justitie.
+2. De officier van justitie kan de betrokken ambtenaren van politie de nodige aanwijzingen geven voor de vervulling van de in het eerste lid bedoelde taken.
+
+## Hoofdstuk 3 Het beleid ten aanzien van de politie en de organisatie van de politie
+### Artikel 22 [Bewapening, uitrusting en kleding]
+Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de bewapening, de uitrusting en de kleding van de ambtenaren van politie.
+
 ### Artikel 25 [Landelijk politiekorps]
 1. Er is een landelijk politiekorps dat bestaat uit de volgende onderdelen:
     1. regionale eenheden, belast met de uitvoering van de politietaak;
