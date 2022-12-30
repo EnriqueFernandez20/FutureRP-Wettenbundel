@@ -407,3 +407,49 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
     - 4° indien het feit zwaar lichamelijk letsel ten gevolge heeft;
     - 5° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
 3. Gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
+
+### Titel XXVII [Vernieling of beschadiging]
+#### Artikel 350 [Beschadigen goederen/dieren]
+1. Hij die opzettelijk en wederrechtelijk enig goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+2. Met gevangenisstraf van ten hoogste 36 maanden of een geldboete van de vierde categorie wordt gestraft hij die opzettelijk en wederrechtelijk een dier dat geheel of ten dele aan een ander toebehoort, doodt, beschadigt, onbruikbaar maakt of wegmaakt.
+
+### Titel XXX [Begunstiging]
+#### Artikel 416 [Opzetheling]
+1. Als schuldig aan opzetheling wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie:
+    1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of een zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht wist dat het een door misdrijf verkregen goed betrof;
+    2. hij die opzettelijk uit winstbejag een door misdrijf verkregen goed voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een door misdrijf verkregen goed overdraagt.
+2. Met dezelfde straf wordt gestraft hij die opzettelijk uit de opbrengst van enig door misdrijf verkregen goed voordeel trekt.
+
+### Titel XXXA [Witwassen]
+#### Artikel 420bis [Witwassen]
+1. Als schuldig aan witwassen wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie:
+    1. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt of verhult wie de rechthebbende op een voorwerp is of het voorhanden heeft, terwijl hij weet dat het voorwerp — onmiddellijk of middellijk — afkomstig is uit enig misdrijf;
+    2. hij die een voorwerp verwerft, voorhanden heeft, overdraagt of omzet of van een voorwerp gebruik maakt, terwijl hij weet dat het voorwerp — onmiddellijk of middellijk — afkomstig is uit enig misdrijf.
+2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
+
+#### Artikel 420bis.1 [Eenvoudig witwassen]
+Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als eenvoudig witwassen gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
+
+## Derde Boek [Overtredingen]
+### Titel II [Overtredingen betreffende de openbare orde]
+#### Artikel 430a [Naaktrecreatie]
+Hij die zich buiten een door de gemeenteraad als geschikt voor ongeklede openbare recreatie aangewezen plaats, ongekleed bevindt op of aan een voor het openbaar verkeer bestemde plaats die voor ongeklede recreatie niet geschikt is, wordt gestraft met geldboete van de eerste categorie.
+
+#### Artikel 435 [Valse naam of titel]
+Met geldboete van de tweede categorie wordt gestraft:
+- 1° hij die zonder daartoe gerechtigd te zijn een Nederlandse adellijke titel voert of een Nederlands ordeteken draagt;
+- 2° hij die zonder 's Konings verlof waar dit vereist wordt, een vreemd ordeteken, titel, rang of waardigheid aanneemt;
+- 3° hij die zonder daartoe gerechtigd te zijn de titel van advocaat of gerechtsdeurwaarder voert
+- 4° hij die, door het bevoegd gezag naar zijn identificerende persoonsgegevens gevraagd, een valse naam, voornaam, geboortedatum, geboorteplaats, adres waarop hij in de basisregistratie personen als ingezetene staat ingeschreven of woon- of verblijfplaats opgeeft.
+
+### Titel III [Overtredingen betreffende het openbaar gezag]
+#### Artikel 447e [Identificatieplicht]
+Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage aan te bieden of medewerking te verlenen aan het nemen van een of meer vingerafdrukken, hem opgelegd krachtens de [Wet op de identificatieplicht](wet-op-de-identificatieplicht.md), het [Wetboek van Strafvordering](wetboek-van-strafvordering.md), het [Wetboek van Strafrecht](wetboek-van-strafrecht.md), wordt gestraft met geldboete van de tweede categorie.
+
+### Titel VI [Overtredingen betreffende de zeden]
+#### Artikel 453 [Openbare dronkenschap]
+Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wordt gestraft met hechtenis van ten hoogste 1 maand of geldboete van de eerste categorie.
+
+### Titel VII [Overtredingen betreffende de veldpolitie]
+#### Artikel 461 [Verboden toegang voor onbevoegden]
+Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de eerste categorie.
