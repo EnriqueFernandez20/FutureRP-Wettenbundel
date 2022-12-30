@@ -30,9 +30,9 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 
 #### Artikel 10 [Duur van gevangenisstraf]
 1. De gevangenisstraf is levenslang of tijdelijk.
-2. De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste achttien jaren.
-3. Zij kan voor ten hoogste dertig achtereenvolgende jaren worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij artikel 44, de tijd van achttien jaren wordt overschreden.
-4. Zij kan in geen geval de tijd van dertig jaren te boven gaan.
+2. De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste 216 maanden.
+3. Zij kan voor ten hoogste 360 achtereenvolgende maanden worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij [artikel 44](#artikel-44-strafverhoging-voor-ambtenaar), de tijd van 216 maanden wordt overschreden.
+4. Zij kan in geen geval de tijd van 360 maanden te boven gaan.
 
 #### Artikel 23 [Geldboete. Categorieën]
 1. Hij die tot een geldboete is veroordeeld, betaalt het vastgestelde bedrag binnen de door Onze Minister van Justitie en Veiligheid te stellen termijn aan de staat
@@ -84,22 +84,26 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 #### Artikel 43a [Recidive als strafverzwaringsgrond]
 De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, met een derde worden verhoogd indien tijdens het plegen van het misdrijf nog geen vijf dagen zijn verlopen.
 
+#### Artikel 44 [Strafverhoging voor ambtenaar]
+1. Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere ambtsplicht schendt of bij het begaan van een strafbaar feit gebruik maakt van macht, gelegenheid of middel hem door zijn ambt geschonken, kan de op het feit gestelde straf, met uitzondering van geldboete, met een derde worden verhoogd.
+2. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
+
 ### Titel IV [Poging en voorbereiding]
 #### Artikel 45 [Poging tot misdrijf]
 1. Poging tot misdrijf is strafbaar, wanneer het voornemen van de dader zich door een begin van uitvoering heeft geopenbaard.
 2. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij poging met een derde verminderd.
-3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste twintig jaren.
+3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 240 maanden.
 4. De bijkomende straffen zijn voor poging dezelfde als voor het voltooide misdrijf.
 
 #### Artikel 46 [Voorbereiding van ernstig misdrijf]
-1. Voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van acht jaren of meer is gesteld is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
+1. Voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 96 maanden of meer is gesteld is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
 2. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij voorbereiding met de helft verminderd.
-3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste vijftien jaren.
+3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 180 maanden.
 4. De bijkomende straffen zijn voor voorbereiding dezelfde als voor het voltooide misdrijf.
 5. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
 #### Artikel 46a [Poging ander tot misdrijf te bewegen]
-Poging om een ander door een der in artikel 47, eerste lid onder 2e, vermelde middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het misdrijf zelf kan worden opgelegd.
+Poging om een ander door een der in [artikel 47](#artikel-47-soorten-daders), eerste lid onder 2e, vermelde middelen te bewegen om een misdrijf te begaan, is strafbaar, met dien verstande dat geen zwaardere straf wordt uitgesproken dan ter zake van poging tot het misdrijf of, indien zodanige poging niet strafbaar is, terzake van het misdrijf zelf kan worden opgelegd.
 
 #### Artikel 46b [Vrijwillige niet-voltooiing misdrijf]
 Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolge van omstandigheden van de wil van de dader afhankelijk.
@@ -110,3 +114,80 @@ Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolg
     1° zij die het feit plegen, doen plegen of medeplegen;  
     2° zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.  
 2. Ten aanzien van de laatsten komen alleen die handelingen in aanmerking die zij opzettelijk hebben uitgelokt, benevens hun gevolgen.
+
+#### Artikel 48 [Medeplichtigheid]
+Als medeplichtigen van een misdrijf worden gestraft:  
+1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;  
+2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
+
+#### Artikel 49 [Strafbepaling bij medeplichtigheid]
+1. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij medeplichtigheid met een derde verminderd.
+2. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 240 maanden.
+3. De bijkomende straffen zijn voor medeplichtigheid dezelfde als voor het misdrijf zelf.
+4. Bij het bepalen van de straf komen alleen die handelingen in aanmerking die de medeplichtige opzettelijk heeft gemakkelijk gemaakt of bevorderd, benevens hun gevolgen.
+
+### Titel VI [Samenloop van strafbare feiten]
+#### Artikel 55 [Eéndaadse samenloop]
+1. Valt een feit in meer dan één strafbepaling, dan wordt slechts één van die bepalingen toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.
+2. Indien voor een feit dat in een algemene strafbepaling valt een bijzondere strafbepaling bestaat, komt deze alleen in aanmerking.
+
+#### Artikel 56 [Voortgezette handeling]
+1. Staan meerdere feiten, ofschoon elk op zichzelf misdrijf of overtreding opleverende, in zodanig verband dat zij moeten worden beschouwd als één voortgezette handeling, dan wordt slechts één strafbepaling toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.
+2. Insgelijks wordt slechts één strafbepaling toegepast bij schuldigverklaring aan valsheid of muntschennis en aan het gebruikmaken van het voorwerp ten opzichte waarvan de valsheid of muntschennis gepleegd is.
+
+#### Artikel 57 [Meerdaadse samenloop en gelijksoortige hoofdstraffen]
+1. Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop gelijksoortige hoofdstraffen zijn gesteld, wordt één straf opgelegd.
+2. Het maximum van deze straf is het totaal van de hoogste straffen op de feiten gesteld, doch — voor zover het gevangenisstraf of hechtenis betreft — niet meer dan een derde boven het hoogste maximum.
+
+#### Artikel 58 [Meerdaadse samenloop en ongelijksoortige hoofdstraffen]
+Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop ongelijksoortige hoofdstraffen zijn gesteld, kan elk van die straffen worden opgelegd, doch deze mogen — voor zover het gevangenisstraf en hechtenis betreft — te zamen in duur de langstdurende niet meer dan een derde overtreffen.
+
+#### Artikel 59 [Bijkomende straffen bij levenslang]
+Bij veroordeling tot levenslange gevangenisstraf kunnen daarnevens geen andere straffen worden opgelegd dan ontzetting van bepaalde rechten, verbeurdverklaring van reeds in beslag genomen voorwerpen en openbaarmaking van de rechterlijke uitspraak.
+
+### Titel VII [Indiening en intrekking van de klacht bij misdrijven alleen op klacht vervolgbaar]
+#### Artikel 64 [Klachtgerechtigde bij klachtdelict]
+Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het feit is begaan, tot de klacht gerechtigd.
+
+### Titel VIII [Verval van het recht tot strafvordering en van de straf]
+#### Artikel 68 [Ne bis in idem]
+1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te zijnen aanzien bij gewijsde van de rechter in Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba onherroepelijk is beslist.
+2. Is het gewijsde afkomstig van een andere rechter, dan heeft tegen dezelfde persoon wegens hetzelfde feit geen vervolging plaats in geval van:  
+    1° vrijspraak of ontslag van rechtsvervolging;  
+    2° veroordeling, indien een straf is opgelegd, gevolgd door gehele uitvoering, gratie of verjaring der straf.  
+3. Niemand kan worden vervolgd wegens een feit dat te zijnen aanzien in een vreemde staat onherroepelijk is afgedaan door de voldoening aan een voorwaarde, door de bevoegde autoriteit gesteld ter voorkoming van strafvervolging.
+
+#### Artikel 69 [Dood van verdachte]
+Het recht tot strafvordering vervalt door de dood van de verdachte.
+
+### Titel IX [Betekenis van sommige in het wetboek voorkomende uitdrukkingen]
+#### Artikel 78 [Begripsbepaling 'misdrijf']
+Waar van misdrijf in het algemeen of van enig misdrijf in het bijzonder gesproken wordt, wordt daaronder medeplichtigheid aan, poging tot en voorbereiding van dat misdrijf begrepen, voorzover niet uit enige bepaling het tegendeel volgt.
+
+#### Artikel 80 [Begripsbepaling 'samenspanning']
+Samenspanning bestaat zodra twee of meer personen overeengekomen zijn om het misdrijf te plegen.
+
+#### Artikel 81 [Begripsbepaling 'plegen van geweld']
+Met het plegen van geweld wordt gelijkgesteld het brengen in een staat van bewusteloosheid of onmacht.
+
+#### Artikel 82 [Begripsbepaling 'zwaar lichamelijk letsel']
+1. Onder zwaar lichamelijk letsel worden begrepen: ziekte die geen uitzicht op volkomen genezing overlaat, voortdurende ongeschiktheid tot uitoefening van zijn ambts- of beroepsbezigheden, en afdrijving of dood van de vrucht van een vrouw.
+2. Onder zwaar lichamelijk letsel wordt mede begrepen storing van de verstandelijke vermogens die langer dan vier weken geduurd heeft.
+
+#### Artikel 82a [Begripsbepaling 'van het leven beroven']
+Onder een ander, of een kind bij of kort na de geboorte, van het leven beroven wordt begrepen: het doden van een vrucht die naar redelijkerwijs verwacht mag worden in staat is buiten het moederlichaam in leven te blijven.
+
+#### Artikel 89 [Begripsbepaling 'inklimming']
+Onder inklimming wordt begrepen ondergraving, alsmede het overschrijden van sloten of grachten tot afsluiting dienende.
+
+#### Artikel 90 [Begripsbepaling 'valse sleutels']
+Onder valse sleutels worden begrepen alle tot opening van het slot niet bestemde werktuigen.
+
+#### Artikel 90novies [Begripsbepaling geweldsinstructie politie]
+Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](politiewet-2012.md) gegeven algemeen verbindende voorschriften die tot de ambtenaar gerichte instructies bevatten omtrent het gebruik van geweld.
+
+## Tweede Boek Misdrijven
+### Titel V [Misdrijven tegen de openbare orde]
+#### Artikel 131 [Opruiing]
+1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie.
+2. Indien het strafbare feit waartoe wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
