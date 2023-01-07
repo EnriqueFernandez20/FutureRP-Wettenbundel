@@ -17,7 +17,7 @@ In deze wet wordt verstaan onder:
 
 ### Artikel 2 [Wapens en munitie: categorieën]
 1. Wapens in de zin van deze wet zijn de hieronder vermelde of overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld in de volgende categorieën.  
-Categorie I
+    Categorie I
     1. stiletto's, valmessen en vlindermessen;
     2. andere opvouwbare messen, indien:
         1. het lemmet meer dan een snijkant heeft; of
@@ -28,7 +28,7 @@ Categorie I
     6. katapulten;
     7. andere door Onze Minister aangewezen voorwerpen die een ernstige bedreiging van personen kunnen vormen of die zodanig op een wapen gelijken, dat zij voor bedreiging of afdreiging geschikt zijn.  
     Categorie II
-    
+
     1. vuurwapens die niet onder een van de andere categorieën vallen;
     2. vuurwapens, geschikt om automatisch te vuren;
     3. vuurwapens die zodanig zijn vervaardigd of gewijzigd dat het dragen niet of minder zichtbaar is dan wel dat de aanvalskracht wordt verhoogd;
