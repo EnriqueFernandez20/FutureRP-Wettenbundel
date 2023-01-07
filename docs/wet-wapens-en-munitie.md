@@ -1,7 +1,8 @@
 # Wet Wapens en Munitie
 ## Hoofdstuk 1 [Algemene bepalingen]
 ### Artikel 1 [Begripsbepalingen]
-In deze wet wordt verstaan onder:  
+In deze wet wordt verstaan onder:
+
 - 1° Onze Minister: Onze Minister van Justitie en Veiligheid;
 - 2° de korpschef: de korpschef, bedoeld in [artikel 27](politiewet-2012°md#artikel-27-taak-korpschef) van de Politiewet 2012;
 - 3° vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door een loop af te schieten, waarvan de werking berust op het teweegbrengen van een scheikundige ontploffing of een andere scheikundige reactie;
@@ -27,6 +28,7 @@ Categorie I
     6. katapulten;
     7. andere door Onze Minister aangewezen voorwerpen die een ernstige bedreiging van personen kunnen vormen of die zodanig op een wapen gelijken, dat zij voor bedreiging of afdreiging geschikt zijn.  
     Categorie II
+    
     1. vuurwapens die niet onder een van de andere categorieën vallen;
     2. vuurwapens, geschikt om automatisch te vuren;
     3. vuurwapens die zodanig zijn vervaardigd of gewijzigd dat het dragen niet of minder zichtbaar is dan wel dat de aanvalskracht wordt verhoogd;
@@ -34,19 +36,21 @@ Categorie I
     5. voorwerpen waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, met uitzondering van medische hulpmiddelen;
     6. voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen, met uitzondering van medische hulpmiddelen en van vuurwapens in de vorm van geweren, revolvers en pistolen, bestemd voor het afschieten van munitie met weerloosmakende of traanverwekkende stof;
     7. voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing.  
-Categorie III
-    1. vuurwapens in de vorm van geweren, revolvers en pistolen voor zover zij niet vallen onder categorie II sub 2, 3 of 6;
+    Categorie III
+
+    1. vuurwapens in de vorm van geweren, revolvers en pistolen voor zover zij niet vallen onder categorie II sub b, c of f;
     2. toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten;
     3. werpmessen;
     4. alarm- en startpistolen en -revolvers, met uitzondering van alarm- en startpistolen die:
         1. geen loop of een kennelijk verkorte, geheel gevulde loop hebben;
         2. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en
         3. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of op de lengterichting van het wapen.  
-Categorie IV
+    Categorie IV
+
     1. blanke wapens waarvan het lemmet meer dan een snijkant heeft, voor zover zij niet vallen onder categorie I;
     2. degens, zwaarden, sabels en bajonetten;
     3. wapenstokken;
-    4. lucht-, gas- en veerdrukwapens, behoudens zulke door Onze Minister overeenkomstig categorie I, sub 7, aangewezen die zodanig gelijken op een vuurwapen dat zij voor bedreiging of afdreiging geschikt zijn;
+    4. lucht-, gas- en veerdrukwapens, behoudens zulke door Onze Minister overeenkomstig categorie I, sub g, aangewezen die zodanig gelijken op een vuurwapen dat zij voor bedreiging of afdreiging geschikt zijn;
     5. kruisbogen en harpoenen;
     6. bij regeling van Onze Minister aangewezen voorwerpen die geschikt zijn om daarmee personen ernstig lichamelijk letsel toe te brengen;
     7. Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.  
@@ -60,4 +64,9 @@ Categorie II
     Categorie III  
     Alle overige munitie.
 3. Aanwijzingen door Onze Minister, als bedoeld in het eerste lid, geschieden bij regeling.
-4. Onverminderd het bepaalde in het eerste lid, onder categorie I, sub 7°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen of om personen te bedreigen of af te dreigen.
+4. Onverminderd het bepaalde in het eerste lid, onder categorie I, sub g°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen of om personen te bedreigen of af te dreigen.
+
+### Artikel 3 [Hulpstukken en onderdelen]
+1. De bepalingen betreffende wapens zijn mede van toepassing op hulpstukken die specifiek bestemd zijn voor die wapens, de essentiële onderdelen van vuurwapens en op de onderdelen van wapens die van wezenlijke aard zijn.
+2. De bepalingen betreffende munitie zijn mede van toepassing op onderdelen van die munitie, voorzover geschikt om munitie van te maken.
+3. Magazijnen voor vuurwapens zijn in elk geval hulpstukken als bedoeld in het eerste lid.
