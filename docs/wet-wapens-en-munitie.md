@@ -75,17 +75,17 @@ In deze wet wordt verstaan onder:
 ### Artikel 13 [Vervaardigen etc.]
 Het is verboden een wapen van categorie I te vervaardigen, te transformeren, voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, te vervoeren, te doen binnenkomen of te doen uitgaan.
 
-Het overtreden van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 48 maanden of een geldboete van de 4e categorie.
+Het overtreden van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 48 maanden of een geldboete van de vierde categorie.
 
 ## Hoofdstuk 6 [Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV]
 ### Artikel 26 [Verbod voorhanden hebben]
-Het is verboden een wapen of munitie van de categorieën II en III voorhanden te hebben, wordt gestraft met een gevangenisstraf van ten hoogste 96 maanden of geldboete van de 5e categorie.
+Het is verboden een wapen of munitie van de categorieën II en III voorhanden te hebben, wordt gestraft met een gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie.
 
 ### Artikel 27 [Verbod dragen van wapens]
-Het is verboden een wapen van de categorieën II, III en IV te dragen, wordt gestraft met een gevangenisstraf van ten hoogste 36 maanden of geldboete van de 4e categorie.
+Het is verboden een wapen van de categorieën II, III en IV te dragen, wordt gestraft met een gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie.
 
 ### Artikel 31 [Overdracht. Verbodsbepaling]
-Het is verboden een wapen of munitie van de categorieën II en III over te dragen, wordt gestraft met een gevangenisstraf van 90 maanden of geldboete van de 5e categorie.
+Het is verboden een wapen of munitie van de categorieën II en III over te dragen, wordt gestraft met een gevangenisstraf van 90 maanden of geldboete van de vijfde categorie.
 
 ## Hoofdstuk 11a [Opsporing]
 ### Artikel 49 [Doorzoeking ter inbeslagneming]
