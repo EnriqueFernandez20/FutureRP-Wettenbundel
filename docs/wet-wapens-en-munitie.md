@@ -20,8 +20,8 @@ In deze wet wordt verstaan onder:
     Categorie I  
     1° stiletto's, valmessen en vlindermessen;  
     2° andere opvouwbare messen, indien:  
-        a. het lemmet meer dan een snijkant heeft; of  
-        b. de lengte in opengevouwen toestand langer dan 28 cm is;  
+    &nbsp;&nbsp;a. het lemmet meer dan een snijkant heeft; of  
+    &nbsp;&nbsp;b. de lengte in opengevouwen toestand langer dan 28 cm is;  
     3° boksbeugels, ploertendoders, wurgstokken, werpsterren, vilmessen, ballistische messen en geluiddempers voor vuurwapens;  
     4° blanke wapens die uiterlijk gelijken op een ander voorwerp dan een wapen;  
     5° pijlen en pijlpunten bestemd om door middel van een boog te worden afgeschoten, die zijn voorzien van snijdende delen met de kennelijke bedoeling daarmee ernstig letsel te kunnen veroorzaken;  
@@ -42,9 +42,9 @@ In deze wet wordt verstaan onder:
     2° toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten;  
     3° werpmessen;  
     4° alarm- en startpistolen en -revolvers, met uitzondering van alarm- en startpistolen die:  
-        a. geen loop of een kennelijk verkorte, geheel gevulde loop hebben;  
-        b. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en  
-        c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of op de lengterichting van het wapen.  
+    &nbsp;&nbsp;a. geen loop of een kennelijk verkorte, geheel gevulde loop hebben;  
+    &nbsp;&nbsp;b. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en  
+    &nbsp;&nbsp;c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of op de lengterichting van het wapen.  
     Categorie IV  
 
     1° blanke wapens waarvan het lemmet meer dan een snijkant heeft, voor zover zij niet vallen onder categorie I;  
