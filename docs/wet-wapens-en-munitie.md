@@ -20,8 +20,8 @@ In deze wet wordt verstaan onder:
     Categorie I  
     1° stiletto's, valmessen en vlindermessen;  
     2° andere opvouwbare messen, indien:  
-    &nbsp;&nbsp;a. het lemmet meer dan een snijkant heeft; of  
-    &nbsp;&nbsp;b. de lengte in opengevouwen toestand langer dan 28 cm is;  
+    &nbsp;&nbsp;&nbsp;&nbsp;a. het lemmet meer dan een snijkant heeft; of  
+    &nbsp;&nbsp;&nbsp;&nbsp;b. de lengte in opengevouwen toestand langer dan 28 cm is;  
     3° boksbeugels, ploertendoders, wurgstokken, werpsterren, vilmessen, ballistische messen en geluiddempers voor vuurwapens;  
     4° blanke wapens die uiterlijk gelijken op een ander voorwerp dan een wapen;  
     5° pijlen en pijlpunten bestemd om door middel van een boog te worden afgeschoten, die zijn voorzien van snijdende delen met de kennelijke bedoeling daarmee ernstig letsel te kunnen veroorzaken;  
@@ -42,9 +42,9 @@ In deze wet wordt verstaan onder:
     2° toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten;  
     3° werpmessen;  
     4° alarm- en startpistolen en -revolvers, met uitzondering van alarm- en startpistolen die:  
-    &nbsp;&nbsp;a. geen loop of een kennelijk verkorte, geheel gevulde loop hebben;  
-    &nbsp;&nbsp;b. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en  
-    &nbsp;&nbsp;c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of op de lengterichting van het wapen.  
+    &nbsp;&nbsp;&nbsp;&nbsp;a. geen loop of een kennelijk verkorte, geheel gevulde loop hebben;  
+    &nbsp;&nbsp;&nbsp;&nbsp;b. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en  
+    &nbsp;&nbsp;&nbsp;&nbsp;c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of op de lengterichting van het wapen.  
     Categorie IV  
 
     1° blanke wapens waarvan het lemmet meer dan een snijkant heeft, voor zover zij niet vallen onder categorie I;  
@@ -70,3 +70,39 @@ In deze wet wordt verstaan onder:
 1. De bepalingen betreffende wapens zijn mede van toepassing op hulpstukken die specifiek bestemd zijn voor die wapens, de essentiële onderdelen van vuurwapens en op de onderdelen van wapens die van wezenlijke aard zijn.
 2. De bepalingen betreffende munitie zijn mede van toepassing op onderdelen van die munitie, voorzover geschikt om munitie van te maken.
 3. Magazijnen voor vuurwapens zijn in elk geval hulpstukken als bedoeld in het eerste lid.
+
+## Hoofdstuk 2 [Bepalingen voor wapens van categorie I]
+### Artikel 13 [Vervaardigen etc.]
+Het is verboden een wapen van categorie I te vervaardigen, te transformeren, voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, te vervoeren, te doen binnenkomen of te doen uitgaan.
+
+Het overtreden van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 48 maanden of een geldboete van de 4e categorie.
+
+## Hoofdstuk 6 [Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV]
+### Artikel 26 [Verbod voorhanden hebben]
+Het is verboden een wapen of munitie van de categorieën II en III voorhanden te hebben, wordt gestraft met een gevangenisstraf van ten hoogste 96 maanden of geldboete van de 5e categorie.
+
+### Artikel 27 [Verbod dragen van wapens]
+Het is verboden een wapen van de categorieën II, III en IV te dragen, wordt gestraft met een gevangenisstraf van ten hoogste 36 maanden of geldboete van de 4e categorie.
+
+### Artikel 31 [Overdracht. Verbodsbepaling]
+Het is verboden een wapen of munitie van de categorieën II en III over te dragen, wordt gestraft met een gevangenisstraf van 90 maanden of geldboete van de 5e categorie.
+
+## Hoofdstuk 11a [Opsporing]
+### Artikel 49 [Doorzoeking ter inbeslagneming]
+De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwijs kunnen vermoeden dat wapens of munitie aanwezig zijn, ter inbeslagneming doorzoeking doen.
+
+### Artikel 51 [Onderzoek aan vervoermiddelen. Stopbevel]
+1. De opsporingsambtenaren zijn bevoegd vervoermiddelen te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van:
+    1. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
+    2. een gepleegde overtreding van de [artikelen 13](#artikel-13-vervaardigen-etc), [26](#artikel-26-verbod-voorhanden-hebben) of [27](#artikel-27-verbod-dragen-van-wapens);
+    3. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
+2. De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend ten aanzien van bepaalde vervoermiddelen, indien daartoe jegens deze aanleiding bestaat. De officier van justitie kan gelasten dat deze bevoegdheid tegenover elk vervoermiddel kan worden uitgeoefend.
+3. De opsporingsambtenaren kunnen van de bestuurders van voertuigen en van de schippers van vaartuigen daartoe vorderen dat deze de vervoermiddelen tot stilstand brengen, deze vervoermiddelen naar een door hen aangewezen plaats overbrengen en overeenkomstig hun aanwijzingen terzake medewerking verlenen.
+
+### Artikel 52 [Inbeslagneming. Uitlevering. Onderzoek aan kleding. Luchtvaartterreinen]
+1. De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
+2. De opsporingsambtenaren zijn bevoegd personen aan hun kleding te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van:
+    3. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
+    2. een gepleegde overtreding van de [artikelen 13](#artikel-13-vervaardigen-etc), [26](#artikel-26-verbod-voorhanden-hebben) of [27](#artikel-27-verbod-dragen-van-wapens);
+    3. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
+3. De opsporingsambtenaren zijn bevoegd een persoon die zich bevindt op een luchthaven, te allen tijde aan zijn kleding en de verpakking van goederen, met inbegrip van reisbagage, alsmede diens vervoermiddel, te onderzoeken.
