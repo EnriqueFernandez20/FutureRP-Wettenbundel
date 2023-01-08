@@ -43,5 +43,27 @@ D. te vervaardigen.
 wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vijfde categorie.
 2. Niet strafbaar is hij die de in het eerste lid omschreven feiten begaat met betrekking tot het binnen of buiten het grondgebied van Nederland brengen van een geringe hoeveelheid, bestemd voor eigen gebruik.
 
+## Artikel 11 [Sanctie behorende bij artikel 3]
+1. Hij die handelt in strijd met een in [artikel 3](#artikel-3-verbodsbepaling-hennepprodukten-lijst-ii) gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste een maand of geldboete van de tweede categorie.
+2. Hij die opzettelijk handelt in strijd met een in [artikel 3](#artikel-3-verbodsbepaling-hennepprodukten-lijst-ii) onder B, C of D, gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+3. Hij die opzettelijk handelt in strijd met een in [artikel 3](#artikel-3-verbodsbepaling-hennepprodukten-lijst-ii) onder A, gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie.
+4. Indien een feit als bedoeld in het tweede of derde lid, betrekking heeft op een grote hoeveelheid van een middel, wordt gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie opgelegd. Een grote hoeveelheid is ten minste 1000 gram.
+5. Het tweede lid is niet van toepassing, indien het feit betrekking heeft op een hoeveelheid van hennep of hasjiesj van ten hoogste 30 gram.
+
+## Artikel 11a [Voorbereidingshandelingen hennepteelt]
+Hij die stoffen of voorwerpen bereidt, bewerkt, verwerkt, te koop aanbiedt, verkoopt, aflevert, verstrekt, vervoert, vervaardigt of voorhanden heeft dan wel vervoermiddelen, ruimten, gelden of andere betaalmiddelen voorhanden heeft of gegevens voorhanden heeft, waarvan hij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van een van de in [artikel 11](#artikel-11-sanctie-behorende-bij-artikel-3), tweede en vierde lid, strafbaar gestelde feiten, wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vijfde categorie.
+
 ## Lijst I
+| Benaming              | Nadere omschrijving                                        |
+|-----------------------|------------------------------------------------------------|
+| heroïne, diamorfine   | 4,5-epoxy-17-methylmorfinan-3,6-diyl-diacetaat             |
+| MDMA, Ecstasy         | (±)-N,alfa-dimethyl-3,4-(methyleendioxy)-fenethylamine     |
+| cocaïne, crackcocaïne | (-)-3-beta-benzoyloxytropaan-2-beta-carbonzure methylester |
+| LSD                   |                                                            |
+| methamfetamine        | 2,5-dimethoxy-alfa,4-dimethylfenethylamine                 |
+
 ## Lijst II
+| Benaming | Nadere omschrijving                                                                                                                                          |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| hasjiesj | een gebruikelijk vast mengsel van de afgescheiden hars verkregen van planten van het geslacht Cannabis (hennep), met plantaardige elementen van deze planten |
+| hennep   | elk deel van de plant van het geslacht Cannabis (hennep), waaraan de hars niet is onttrokken, met uitzondering van de zaden                                  |
