@@ -8,8 +8,9 @@ Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/
 | Server regels                    | [Server regels](server-regels.md)           |
 | Wetboek van Strafvordering       | [WvSv](wetboek-van-strafvordering.md)       |
 | Wetboek van Strafrecht           | [WvSr](wetboek-van-strafrecht.md)           |
-| Wet Wapens en Munitie            | [WWM 1997](wet-wapens-en-munitie.md)           |
-| Opiumwet                         | [Opw](opiumwet.md)           |
+| Wegenverkeerswet 1994            | [WVW 1994](wegenverkeerswet-1994.md)        |
+| Wet Wapens en Munitie            | [WWM 1997](wet-wapens-en-munitie.md)        |
+| Opiumwet                         | [Opw](opiumwet.md)                          |
 | Politiewet 2012                  | [PW2012](politiewet-2012.md)                |
 | Ambtsinstructie                  | [AI](ambtsinstructie.md)                    |
 | Wet op de identificatieplicht    | [WID](wet-op-de-identificatieplicht.md)     |
