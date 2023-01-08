@@ -17,7 +17,8 @@ Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt ve
     10. tegen de verkeersrichting inrijden;
     11. tijdens het rijden een mobiel elektronisch apparaat vasthouden;
     12. niet opvolgen van verkeersaanwijzingen van daartoe op grond van deze wet bevoegde personen;
-    13. overtreden van andere verkeersregels van soortgelijk belang als die onder a tot en met l genoemd.
+    13. overtreden van andere verkeersregels van soortgelijk belang als die onder a tot en met l genoemd.  
+
 Wordt gestraft met een gevangenisstraf van ten hoogste 8 maanden of geldboete van de 4e categorie.
 
 ### Artikel 6 [Schuldmisdrijf]
@@ -39,3 +40,8 @@ Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen
 Het eerste lid, aanhef en onderdelen a en b, is niet van toepassing op degene die op de plaats van het ongeval behoorlijk de gelegenheid heeft geboden tot vaststelling van zijn identiteit en, voor zover hij een motorrijtuig bestuurde, tevens van de identiteit van dat motorrijtuig.  
 
 Het overtreden van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of een geldboete van de 2e categorie.
+
+### Artikel 9 [Onbevoegd besturen]
+1. Het is degene die weet of redelijkerwijs moet weten dat hem bij rechterlijke uitspraak of strafbeschikking de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid is ontzegd, op de weg een motorrijtuig te besturen of als bestuurder te doen besturen.
+2. Het is degene van wie ingevolge artikel 164 de overgifte van een op zijn naam gesteld rijbewijs, een hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs of een internationaal rijbewijs is gevorderd, dan wel van wie zodanig bewijs is ingevorderd en aan wie dat bewijs niet is teruggegeven, verboden op de weg een motorrijtuig van de categorie of categorieën waarvoor dat bewijs was afgegeven, te besturen of als bestuurder te doen besturen.
+3. Het is degene van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](wet-mulder.md) de inlevering van het rijbewijs is gevorderd, dan wel wiens rijbewijs krachtens die wet is ingenomen, verboden op de weg een motorrijtuig, voor het besturen waarvan het rijbewijs is afgegeven, te besturen of als bestuurder te doen besturen met ingang van het tijdstip, bedoeld in artikel 30, eerste lid, van die wet.

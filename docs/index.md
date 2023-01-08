@@ -9,6 +9,7 @@ Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/
 | Wetboek van Strafvordering       | [WvSv](wetboek-van-strafvordering.md)       |
 | Wetboek van Strafrecht           | [WvSr](wetboek-van-strafrecht.md)           |
 | Wegenverkeerswet 1994            | [WVW 1994](wegenverkeerswet-1994.md)        |
+| Wet Mulder                       | [WAHV](wet-mulder.md)                       |
 | Wet Wapens en Munitie            | [WWM 1997](wet-wapens-en-munitie.md)        |
 | Opiumwet                         | [Opw](opiumwet.md)                          |
 | Politiewet 2012                  | [PW2012](politiewet-2012.md)                |
