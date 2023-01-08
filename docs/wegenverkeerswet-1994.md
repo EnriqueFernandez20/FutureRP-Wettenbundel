@@ -1,5 +1,5 @@
 # Wegenverkeerswet 1994
-## Hoofdstuk II Verkersgedrag
+## Hoofdstuk II Verkeersgedrag
 ### Artikel 5 [Gevaar en hinder]
 Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt gehinderd of kan worden gehinderd, wordt gestraft met een gevangenisstraf van ten hoogste 8 maanden of geldboete van de derde categorie.
 
@@ -45,3 +45,26 @@ Het overtreden van dit misdrijf wordt gestraft met een gevangenisstraf van ten h
 1. Het is degene die weet of redelijkerwijs moet weten dat hem bij rechterlijke uitspraak of strafbeschikking de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid is ontzegd, op de weg een motorrijtuig te besturen of als bestuurder te doen besturen.
 2. Het is degene van wie ingevolge artikel 164 de overgifte van een op zijn naam gesteld rijbewijs, een hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs of een internationaal rijbewijs is gevorderd, dan wel van wie zodanig bewijs is ingevorderd en aan wie dat bewijs niet is teruggegeven, verboden op de weg een motorrijtuig van de categorie of categorieën waarvoor dat bewijs was afgegeven, te besturen of als bestuurder te doen besturen.
 3. Het is degene van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](wet-mulder.md) de inlevering van het rijbewijs is gevorderd, dan wel wiens rijbewijs krachtens die wet is ingenomen, verboden op de weg een motorrijtuig, voor het besturen waarvan het rijbewijs is afgegeven, te besturen of als bestuurder te doen besturen met ingang van het tijdstip, bedoeld in artikel 30, eerste lid, van die wet.
+
+### Artikel 10 [Wedstrijden met voertuigen op de weg]
+1. Het is verboden op de weg een wedstrijd met voertuigen te houden of daaraan deel te nemen. Dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie.
+2. Onder wedstrijd wordt voor de toepassing van dit artikel verstaan elk rijden met voertuigen ter vaststelling of vergelijking van prestaties hetzij van de deelnemers, hetzij van de voertuigen, hetzij van onderdelen daarvan, hetzij van bedrijfsstoffen.
+3. Als deelnemer wordt beschouwd de bestuurder van een voertuig waarmee aan een wedstrijd wordt deelgenomen, en de eigenaar of houder van een voertuig, die daarmee aan een wedstrijd doet of laat deelnemen.
+
+### Artikel 11 [Joyriding]
+Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorrijtuig op de weg te gebruiken. Dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 6 maanden of geldboete van de derde categorie.
+
+## Hoofdstuk VI Rijvaardigheid en rijbevoegdheid
+### Artikel 107 [Rijbewijsplicht. Eisen rijbewijs]
+Aan de bestuurder van een motorrijtuig op de weg dient door de daartoe bevoegde autoriteit een rijbewijs te zijn afgegeven voor het besturen van motorrijtuigen van de categorie waartoe dat motorrijtuig behoort. Overtreding van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 4 maanden of geldboete van de derde categorie.
+
+## Hoofdstuk IX Toezicht en opsporing
+### Artikel 164 [Overgifte rijbewijs]
+1. Op de eerste vordering van een opsporingsambtenaar is de bestuurder van een motorrijtuig, tegen wie door een van die personen proces-verbaal wordt opgemaakt ter zake van overtreding van een bij of krachtens deze wet vastgesteld voorschrift, verplicht tot overgifte van het hem afgegeven rijbewijs dan wel het hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs en, indien hem daar een internationaal rijbewijs is afgegeven, dat bewijs.
+    1. overschrijding van een krachtens deze wet vastgestelde maximumsnelheid met vijftig kilometer of meer, door een bestuurder van een motorrijtuig anders dan een bromfiets, in geval van staandehouding van de bestuurder;
+    2. overschrijding van een krachtens deze wet vastgestelde maximumsnelheid met dertig kilometer of meer door een bestuurder van een bromfiets, in geval van staandehouding van de bestuurder.
+2. De in het eerste lid bedoelde vordering kan worden gedaan indien door de overtreding de veiligheid op de weg ernstig in gevaar is gebracht.
+
+### Artikel 165 [Onbekend gebleven bestuurder bij misdrijf. Informatieplicht eigenaar of houder]
+1. Indien een bij deze wet als misdrijf strafbaar gesteld feit wordt begaan door een bij de ontdekking van het feit onbekend gebleven bestuurder van een motorrijtuig, is de eigenaar of houder van dat motorrijtuig verplicht op vordering van een opsporingsambtenaar binnen een daarbij te stellen termijn, die ten minste achtenveertig uren bedraagt, de naam en het volledige adres van de bestuurder bekend te maken.
+2. Het eerste lid geldt niet, indien de eigenaar of houder niet heeft kunnen vaststellen wie de bestuurder was en hem daarvan redelijkerwijs geen verwijt kan worden gemaakt.
