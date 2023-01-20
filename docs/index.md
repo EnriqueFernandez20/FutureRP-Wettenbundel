@@ -3,20 +3,21 @@ Dit is een fictieve wettenbundel gebaseerd op de verschillende wetboeken die geb
 
 Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/a4VtnuY4dJ)
 
-| Wetboek                          | Link                                        |
-|----------------------------------|---------------------------------------------|
-| Server regels                    | [Server regels](server-regels.md)           |
-| Wetboek van Strafvordering       | [WvSv](wetboek-van-strafvordering.md)       |
-| Wetboek van Strafrecht           | [WvSr](wetboek-van-strafrecht.md)           |
-| Wegenverkeerswet 1994            | [WVW 1994](wegenverkeerswet-1994.md)        |
-| Wet Mulder                       | [WAHV](wet-mulder.md)                       |
-| Wet Wapens en Munitie            | [WWM 1997](wet-wapens-en-munitie.md)        |
-| Opiumwet                         | [Opw](opiumwet.md)                          |
-| Politiewet 2012                  | [PW 2012](politiewet-2012.md)                |
-| Ambtsinstructie                  | [AI](ambtsinstructie.md)                    |
-| Wet op de identificatieplicht    | [WID](wet-op-de-identificatieplicht.md)     |
-| Paspoortwet                      | [Ppw](paspoortwet.md)                       |
-| Algemene wet op het binnentreden | [Awob](algemene-wet-op-het-binnentreden.md) |
+| Wetboek                                            | Link                                        |
+|----------------------------------------------------|---------------------------------------------|
+| Server regels                                      | [Server regels](server-regels.md)           |
+| Wetboek van Strafvordering                         | [WvSv](wetboek-van-strafvordering.md)       |
+| Wetboek van Strafrecht                             | [WvSr](wetboek-van-strafrecht.md)           |
+| Wegenverkeerswet 1994                              | [WVW 1994](wegenverkeerswet-1994.md)        |
+| Wet Mulder                                         | [WAHV](wet-mulder.md)                       |
+| Wet Wapens en Munitie                              | [WWM 1997](wet-wapens-en-munitie.md)        |
+| Opiumwet                                           | [Opw](opiumwet.md)                          |
+| Politiewet 2012                                    | [PW 2012](politiewet-2012.md)               |
+| Ambtsinstructie                                    | [AI](ambtsinstructie.md)                    |
+| Wet op de identificatieplicht                      | [WID](wet-op-de-identificatieplicht.md)     |
+| Paspoortwet                                        | [Ppw](paspoortwet.md)                       |
+| Algemene wet op het binnentreden                   | [Awob](algemene-wet-op-het-binnentreden.md) |
+| Wet gedeeltelijk verbod gezichtsbedekkende kleding | [Boerkawet](wet-boerkaverbod.md)            |
 
 ## Grondbeginselen
 Om de wetten enigzins simpel te maken voor de gemiddelde burger hebben wij "grondbeginselen".
