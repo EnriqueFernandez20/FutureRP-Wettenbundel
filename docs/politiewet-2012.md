@@ -29,7 +29,7 @@ De politie heeft tot taak in ondergeschiktheid aan het bevoegd gezag en in overe
     6. de uitvoering van de bij of krachtens de Vreemdelingenwet 2000 opgedragen taken, waaronder begrepen de bediening van de daartoe door Onze Minister voor Immigratie en Asiel aangewezen doorlaatposten en het, voor zover in dat verband noodzakelijk, uitvoeren van de politietaak op en nabij deze doorlaatposten, alsmede het verlenen van medewerking bij de aanhouding of voorgeleiding van een verdachte of veroordeelde;
     7. de bestrijding van mensensmokkel en van fraude met reis- en identiteitsdocumenten;
     8. het in opdracht van Onze Minister en Onze Minister van Defensie ten behoeve van De Nederlandsche Bank N.V. verrichten van beveiligingswerkzaamheden.
-2. Hoewel bevoegd tot de opsporing van alle strafbare feiten, onthoudt de militair van de Koninklijke marechaussee die is aangewezen krachtens [artikel 141](wetboek-van-strafvordering.md#artikel-141-algemene-opsporingsbevoegdheid) van het Wetboek van Strafvordering, zich van optreden anders dan in het kader van de uitvoering van zijn politietaken, bedoeld in het eerste lid.
+2. Hoewel bevoegd tot de opsporing van alle strafbare feiten, onthoudt de militair van de Koninklijke marechaussee die is aangewezen krachtens [artikel 141](wetboek-van-strafvordering.md#artikel-141-wvsv-algemene-opsporingsbevoegdheid) van het Wetboek van Strafvordering, zich van optreden anders dan in het kader van de uitvoering van zijn politietaken, bedoeld in het eerste lid.
 
 ### Artikel 5 PW 2012 [Samenwerking politie met Koninklijke marechaussee]
 Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie kunnen regels worden gegeven over de samenwerking van de politie met de Koninklijke marechaussee.
