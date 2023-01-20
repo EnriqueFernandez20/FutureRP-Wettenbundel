@@ -1,5 +1,5 @@
 # Paspoortwet
-## Artikel 2 [Soorten reisdocumenten]
+## Artikel 2 Ppw [Soorten reisdocumenten]
 1. Reisdocumenten van het Koninkrijk der Nederlanden zijn:
     1. nationaal paspoort;
     2. diplomatiek paspoort;

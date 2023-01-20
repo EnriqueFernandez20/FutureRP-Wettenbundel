@@ -12,7 +12,7 @@ Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/
 | Wet Mulder                       | [WAHV](wet-mulder.md)                       |
 | Wet Wapens en Munitie            | [WWM 1997](wet-wapens-en-munitie.md)        |
 | Opiumwet                         | [Opw](opiumwet.md)                          |
-| Politiewet 2012                  | [PW2012](politiewet-2012.md)                |
+| Politiewet 2012                  | [PW 2012](politiewet-2012.md)                |
 | Ambtsinstructie                  | [AI](ambtsinstructie.md)                    |
 | Wet op de identificatieplicht    | [WID](wet-op-de-identificatieplicht.md)     |
 | Paspoortwet                      | [Ppw](paspoortwet.md)                       |
