@@ -327,6 +327,12 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 2. Indien het feit de dood ten gevolge heeft wordt hij gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie.
 3. Het [vierde lid van artikel 282](#artikel-282-wvsr-opzettelijke-vrijheidsberoving) is toepasselijk.
 
+#### Artikel 284 WvSr [Dwang]
+1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft:
+    - 1° hij die een ander door geweld of enige andere feitelijkheid of door bedreiging met geweld of enige andere feitelijkheid, gericht hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt iets te doen, niet te doen of te dulden;
+    - 2° hij die een ander door bedreiging met smaad of smaadschrift dwingt iets te doen, niet te doen of te dulden.
+2. In het geval onder 2° omschreven wordt het misdrijf niet vervolgd dan op klacht van hem tegen wie het gepleegd is.
+
 #### Artikel 285 WvSr [Bedreiging met ernstig misdrijf]
 1. Bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen, met geweld tegen een internationaal beschermd persoon of diens beschermde goederen, met enig misdrijf waardoor gevaar voor de algemene veiligheid van personen of goederen of gemeen gevaar voor de verlening van diensten ontstaat, met verkrachting, met feitelijke aanranding van de eerbaarheid, met enig misdrijf tegen het leven gericht, met gijzeling, met zware mishandeling of met brandstichting, wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie.
 2. Indien deze bedreiging schriftelijk en onder een bepaalde voorwaarde geschiedt, wordt ze gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
@@ -408,6 +414,10 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
     - 5° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
 3. Gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
 
+### Titel XXIV [Verduistering]
+#### Artikel 321 WvSr [Verduistering]
+Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich toeëigent, wordt, als schuldig aan verduistering, gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vijfde categorie.
+
 ### Titel XXVII [Vernieling of beschadiging]
 #### Artikel 350 WvSr [Beschadigen goederen/dieren]
 1. Hij die opzettelijk en wederrechtelijk enig goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
@@ -419,6 +429,15 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
     1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of een zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht wist dat het een door misdrijf verkregen goed betrof;
     2. hij die opzettelijk uit winstbejag een door misdrijf verkregen goed voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een door misdrijf verkregen goed overdraagt.
 2. Met dezelfde straf wordt gestraft hij die opzettelijk uit de opbrengst van enig door misdrijf verkregen goed voordeel trekt.
+
+#### Artikel 417 WvSr [Gewoonteheling]
+Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie.
+
+#### Artikel 417bis WvSr [Schuldheling]
+1. Als schuldig aan schuldheling wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de vijfde categorie:
+    1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht redelijkerwijs had moeten vermoeden dat het een door misdrijf verkregen goed betrof;
+    2. hij die uit winstbejag een goed voorhanden heeft of overdraagt dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een goed overdraagt, terwijl hij redelijkerwijs moet vermoeden dat het een door misdrijf verkregen goed betreft.
+2. Met dezelfde straf wordt gestraft hij die uit de opbrengst van enig goed voordeel trekt, terwijl hij redelijkerwijs moet vermoeden dat het een door misdrijf verkregen goed betreft.
 
 ### Titel XXXA [Witwassen]
 #### Artikel 420bis WvSr [Witwassen]
