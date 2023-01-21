@@ -414,9 +414,24 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
     - 5° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
 3. Gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
 
+### Titel XXIII [Afpersing en afdreiging]
+#### Artikel 317 WvSr [Afpersing]
+1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door geweld of bedreiging met geweld iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt, als schuldig aan afpersing, gestraft met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie.
+2.De bepalingen van het [tweede](#artikel-312-wvsr-diefstal-met-geweldpleging) en [derde lid van artikel 312](#artikel-312-wvsr-diefstal-met-geweldpleging) zijn op dit misdrijf van toepassing.
+
+#### Artikel 318 WvSr [Afdreiging]
+1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door bedreiging met smaad, smaadschrift of openbaring van een geheim iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt als schuldig aan afdreiging, gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie.
+2. Indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+3. Dit misdrijf wordt niet vervolgd dan op klacht van hem tegen wie het gepleegd is.
+
 ### Titel XXIV [Verduistering]
 #### Artikel 321 WvSr [Verduistering]
 Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich toeëigent, wordt, als schuldig aan verduistering, gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vijfde categorie.
+
+### Titel XXV [Bedrog]
+#### Artikel 326 WvSr [Oplichting]
+1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, hetzij door het aannemen van een valse naam of van een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie.
+2. Indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
 ### Titel XXVII [Vernieling of beschadiging]
 #### Artikel 350 WvSr [Beschadigen goederen/dieren]
