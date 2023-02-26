@@ -60,6 +60,29 @@ Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht 
 1. Verbeurdverklaring kan worden uitgesproken bij veroordeling wegens enig strafbaar feit.
 2. [Artikel 24](#artikel-24-wvsr-draagkrachtbeginsel) is van overeenkomstige toepassing.
 
+#### Artikel 33a WvSr [Vatbaarheid voor verbeurdverklaring]
+1. Vatbaar voor verbeurdverklaring zijn:
+    1. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van of uit de baten van het strafbare feit zijn verkregen;
+    2. voorwerpen met betrekking tot welke het feit is begaan;
+    3. voorwerpen met behulp van welke het feit is begaan of voorbereid;
+    4. voorwerpen met behulp van welke de opsporing van het misdrijf is belemmerd;
+    5. voorwerpen die tot het begaan van het misdrijf zijn vervaardigd of bestemd;
+    6. zakelijke rechten op of persoonlijke rechten ten aanzien van de onder a tot en met e bedoelde voorwerpen.
+2. Voorwerpen als bedoeld in het eerste lid onder a tot en met e die niet aan de veroordeelde toebehoren kunnen alleen verbeurd worden verklaard indien:
+    1. degene aan wie zij toebehoren bekend was met hun verkrijging door middel van het strafbare feit of met het gebruik of de bestemming in verband daarmede, dan wel die verkrijging, dat gebruik of die bestemming redelijkerwijs had kunnen vermoeden, of
+    2. niet is kunnen worden vastgesteld aan wie zij toebehoren.
+3. Rechten als bedoeld in het eerste lid, onder f, die niet aan de veroordeelde toebehoren kunnen alleen verbeurd worden verklaard indien degene aan wie zij toebehoren bekend was met de verkrijging van de voorwerpen waarop of ten aanzien waarvan deze rechten bestaan, door middel van het strafbare feit of met het gebruik of de bestemming in verband daarmede, danwel die verkrijging, dat gebruik of die bestemming redelijkerwijs had kunnen vermoeden.
+4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
+
+#### Artikel 36c WvSr [Voorwerpen vatbaar voor onttrekking aan verkeer]
+Vatbaar voor onttrekking aan het verkeer zijn alle voorwerpen:  
+1. die geheel of grotendeels door middel van of uit de baten van het feit zijn verkregen;
+2. met betrekking tot welke het feit is begaan;
+3. met behulp van welke het feit is begaan of voorbereid;
+4. met behulp van welke de opsporing van het feit is belemmerd;
+5. die tot het begaan van het feit zijn vervaardigd of bestemd;  
+een en ander voor zover zij van zodanige aard zijn, dat het ongecontroleerde bezit daarvan in strijd is met de wet of met het algemeen belang.
+
 ### Tital II A [Maatregelen]
 #### Artikel 36e WvSr [Ontneming wederrechtelijk verkregen voordeel]
 1. Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een strafbaar feit de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.

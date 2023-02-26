@@ -194,6 +194,9 @@ Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig 
 #### Artikel 161 WvSv [Bevoegdheid tot aangifte]
 Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangifte of klachte te doen.
 
+#### Artikel 164 WvSv [Klachtdelicten]
+1. Bij strafbare feiten alleen op klachte vervolgbaar, geschiedt deze klachte mondeling of schriftelijk bij den bevoegden ambtenaar, hetzij door den tot de klachte gerechtigde in persoon, hetzij door een ander, daartoe door hem van eene bijzondere schriftelijke volmacht voorzien. De klachte bestaat in eene aangifte met verzoek tot vervolging.
+
 ### Titel IVA Vervolging door een strafbeschiking
 #### Artikel 257a WvSv [Strafbeschikking]
 1. De officier van justitie kan, indien hij vaststelt dat een overtreding is begaan dan wel een misdrijf waarop naar de wettelijke omschrijving gevangenisstraf is gesteld van niet meer dan zes jaar, een strafbeschikking uitvaardigen.
