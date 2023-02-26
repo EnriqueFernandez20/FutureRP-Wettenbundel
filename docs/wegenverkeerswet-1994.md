@@ -46,7 +46,7 @@ Het overtreden van dit misdrijf wordt gestraft met een gevangenisstraf van ten h
     1. het alcoholgehalte in zijn adem bij een onderzoek hoger blijkt te zijn dan 220 microgram alcohol per liter uitgeademde lucht, dan wel
     2. het alcoholgehalte in zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram alcohol per milliliter bloed.  
 
-Overtreding van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of 4e categorie.
+Overtreding van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of een geldboete van de 4e categorie.
 
 ### Artikel 9 WVW [Onbevoegd besturen]
 1. Het is degene die weet of redelijkerwijs moet weten dat hem bij rechterlijke uitspraak of strafbeschikking de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid is ontzegd, op de weg een motorrijtuig te besturen of als bestuurder te doen besturen.
