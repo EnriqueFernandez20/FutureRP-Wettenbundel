@@ -36,10 +36,17 @@ Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen
     1. bij dat ongeval, naar hij weet of redelijkerwijs moet vermoeden, een ander is gedood dan wel letsel aan een ander is toegebracht;
     2. bij dat ongeval, naar hij weet of redelijkerwijs moet vermoeden, schade aan een ander is toegebracht;
     3. daardoor, naar hij weet of redelijkerwijs moet vermoeden, een ander aan wie bij dat ongeval letsel is toegebracht, in hulpeloze toestand wordt achtergelaten.
-2. 
-Het eerste lid, aanhef en onderdelen a en b, is niet van toepassing op degene die op de plaats van het ongeval behoorlijk de gelegenheid heeft geboden tot vaststelling van zijn identiteit en, voor zover hij een motorrijtuig bestuurde, tevens van de identiteit van dat motorrijtuig.  
+2. Het eerste lid, aanhef en onderdelen a en b, is niet van toepassing op degene die op de plaats van het ongeval behoorlijk de gelegenheid heeft geboden tot vaststelling van zijn identiteit en, voor zover hij een motorrijtuig bestuurde, tevens van de identiteit van dat motorrijtuig.  
 
 Het overtreden van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of een geldboete van de 2e categorie.
+
+### Artikel 8 WVW [Besturen onder invloed]
+1. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden, terwijl hij verkeert onder zodanige invloed van een stof, waarvan hij weet of redelijkerwijs moet weten, dat het gebruik daarvan — al dan niet in combinatie met het gebruik van een andere stof — de rijvaardigheid kan verminderen, dat hij niet tot behoorlijk besturen of tot behoorlijk te begeleiden in staat moet worden geacht.
+2. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden na zodanig gebruik van alcoholhoudende drank, dat:
+    1. het alcoholgehalte in zijn adem bij een onderzoek hoger blijkt te zijn dan 220 microgram alcohol per liter uitgeademde lucht, dan wel
+    2. het alcoholgehalte in zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram alcohol per milliliter bloed.  
+
+Overtreding van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of 4e categorie.
 
 ### Artikel 9 WVW [Onbevoegd besturen]
 1. Het is degene die weet of redelijkerwijs moet weten dat hem bij rechterlijke uitspraak of strafbeschikking de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid is ontzegd, op de weg een motorrijtuig te besturen of als bestuurder te doen besturen.
