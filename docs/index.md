@@ -16,7 +16,7 @@ Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/
 | Ambtsinstructie                                    | [AI](ambtsinstructie.md)                                           |
 | Wet op de identificatieplicht                      | [WID](wet-op-de-identificatieplicht.md)                            |
 | Paspoortwet                                        | [Ppw](paspoortwet.md)                                              |
-| Algemene wet op het binnentreden                   | [Awob](algemene-wet-op-het-binnentreden.md)                        |
+| Algemene wet op het binnentreden                   | [Awbi](algemene-wet-op-het-binnentreden.md)                        |
 | Wet gedeeltelijk verbod gezichtsbedekkende kleding | [Wgvgk](wet-gedeeltelijk-verbod-gezichtsbedekkende-kleding.md)     |
 
 ## Grondbeginselen

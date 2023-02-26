@@ -77,6 +77,13 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 1. In alle gevallen waarin de verdachte wordt gehoord of een verhoor bijwoont, stelt de rechterlijk ambtenaar de identiteit van de verdachte vast op de wijze, bedoeld in [artikel 27a](#artikel-27a-wvsv-vaststelling-identiteit), eerste lid, eerste volzin. De rechterlijk ambtenaar is tevens bevoegd de identiteit van de verdachte vast te stellen op de wijze, bedoeld in [artikel 27a](#artikel-27a-wvsv-vaststelling-identiteit), tweede lid, indien over zijn identiteit twijfel bestaat.
 2. De verdachte is verplicht op bevel van een rechterlijk ambtenaar een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1-wid) van de Wet op de identificatieplicht ter inzage aan te bieden en zijn medewerking te verlenen aan het nemen van zijn vingerafdrukken.
 
+### Titel IIA Kennisneming van processtukken
+#### Artikel 30 WvSv [Kennisneming van processtukken. Uitzondering]
+1. De kennisneming van de processtukken wordt de verdachte op diens verzoek tijdens het voorbereidende onderzoek verleend door de officier van justitie. De kennisneming wordt de verdachte in elk geval toegestaan vanaf het eerste verhoor na aanhouding.
+2. Indien de officier van justitie in gebreke blijft de kennisneming te verlenen, kan hem op verzoek van de verdachte door de rechter-commissaris een termijn worden gesteld binnen welke de kennisneming van processtukken wordt verleend. Alvorens op het verzoek te beslissen, hoort de rechter-commissaris de officier van justitie.
+3. Niettemin kan de officier van justitie, indien het belang van het onderzoek dit vordert, de verdachte de kennisneming van bepaalde processtukken onthouden.
+4. De verdachte wordt in het geval, bedoeld in het derde lid, schriftelijk medegedeeld dat de hem ter inzage gegeven stukken niet volledig zijn. De verdachte kan binnen veertien dagen na dagtekening van de mededeling, bedoeld in de vorige volzin, en daarna telkens na periodes van dertig dagen, een bezwaarschrift indienen bij de rechter-commissaris. Alvorens te beslissen, hoort de rechter-commissaris de officier van justitie en stelt hij de verdachte in de gelegenheid om opmerkingen te maken.
+
 ### Titel IV Eenige bijzondere dwangmiddelen
 #### Artikel 52 WvSv [Vragen persoonsgegevens. Staande houden]
 Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te stellen op de wijze, bedoeld in [artikel 27a](#artikel-27a-wvsv-vaststelling-identiteit), eerste lid, eerste volzin, en hem daartoe staande te houden.
@@ -94,7 +101,7 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 4. Indien het bevel van de officier van justitie of de hulpofficier van justitie niet kan worden afgewacht, is de opsporingsambtenaar bevoegd de verdachte aan te houden teneinde hem ten spoedigste voor te geleiden aan de hulpofficier van justitie of de officier van justitie.
 
 #### Artikel 55 WvSv [Plaats of woning betreden]
-1. In geval van ontdekking op heeter daad van een misdrijf kan ieder, ter aanhouding van den verdachte, elke plaats betreden, met uitzondering van een woning zonder toestemming van de bewoner en van de plaatsen, genoemd in [artikel 12](algemene-wet-op-het-binnentreden.md#artikel-12-awob-verboden-plaatsen) van de Algemene wet op het binnentreden.
+1. In geval van ontdekking op heeter daad van een misdrijf kan ieder, ter aanhouding van den verdachte, elke plaats betreden, met uitzondering van een woning zonder toestemming van de bewoner en van de plaatsen, genoemd in [artikel 12](algemene-wet-op-het-binnentreden.md#artikel-12-awbi-verboden-plaatsen) van de Algemene wet op het binnentreden.
 2. Zoowel in geval van ontdekking op heeter daad als buiten dat geval kan iedere opsporingsambtenaar, ter aanhouding van den verdachte, elke plaats betreden.
 
 #### Artikel 55b WvSv [Bevoegdheden bij aanhouding]
@@ -107,6 +114,12 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 2. De ambtenaren, bedoeld in het eerste lid, nemen met het oog op het vaststellen van de identiteit van een verdachte die is aangehouden wegens een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), of die wordt verhoord wegens een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), zonder dat hij is aangehouden, een of meer foto's en vingerafdrukken. De vingerafdrukken worden vergeleken met de van verdachten overeenkomstig dit wetboek verwerkte vingerafdrukken.
 3. De officier van justitie of de hulpofficier beveelt dat van iedere andere verdachte dan de verdachte, bedoeld in het tweede lid, over wiens identiteit twijfel bestaat, een of meer foto’s en vingerafdrukken worden genomen.
 4. De foto's en vingerafdrukken, bedoeld in het tweede en derde lid, kunnen ook worden verwerkt voor het voorkomen, opsporen, vervolgen en berechten van strafbare feiten en het vaststellen van de identiteit van een lijk.
+
+#### Artikel 56 WvSv [Onderzoek aan lichaam of kleding]
+1. De officier van justitie of de hulpofficier voor wie de verdachte wordt geleid of die zelf de verdachte heeft aangehouden, kan, bij het bestaan van ernstige bezwaren tegen deze, in het belang van het onderzoek bepalen dat deze aan zijn lichaam of kleding zal worden onderzocht.
+2. De officier van justitie kan bij het bestaan van ernstige bezwaren tegen de verdachte, in het belang van het onderzoek bepalen dat deze in zijn lichaam wordt onderzocht. Onder onderzoek in het lichaam wordt verstaan: het uitwendig schouwen van de openingen en holten van het onderlichaam, röntgenonderzoek, echografie en het inwendig manueel onderzoek van de openingen en holten van het lichaam. Het onderzoek in het lichaam wordt verricht door een arts. Het onderzoek wordt niet ten uitvoer gelegd indien zulks om bijzondere geneeskundige redenen onwenselijk is.
+3. De in het eerste en tweede lid bedoelde onderzoeken worden op een besloten plaats en voor zover mogelijk door personen van hetzelfde geslacht als de verdachte verricht.
+4. De overige opsporingsambtenaren zijn bevoegd den aangehoudene tegen wien ernstige bezwaren bestaan, aan zijne kleeding te onderzoeken.
 
 #### Artikel 56a WvSv [Ophouden of vrijlaten]
 1. Nadat de aangehouden verdachte aan de hulpofficier van justitie of de officier van justitie is voorgeleid, kan deze bevelen dat de verdachte wordt opgehouden voor onderzoek dan wel in vrijheid wordt gesteld. De hulpofficier van justitie kan voorts beslissen om de verdachte onverwijld voor te geleiden aan de officier van justitie.
@@ -121,7 +134,6 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
     2. een der misdrijven omschreven in de [artikelen 140, tweede lid](wetboek-van-strafrecht.md#artikel-140-wvsr-deelneming-aan-criminele-organisatie), [141a](wetboek-van-strafrecht.md#artikel-141a-wvsr-hulp-bij-geweldpleging), [151](wetboek-van-strafrecht.md#artikel-151-wvsr-onttrekken-van-lijk-aan-nasporing), [284, eerste lid](wetboek-van-strafrecht.md#artikel-284-wvsr-dwang), [285, eerste lid](wetboek-van-strafrecht.md#artikel-285-wvsr-bedreiging-met-ernstig-misdrijf), [285b](wetboek-van-strafrecht.md#artikel-285b-wvsr-stalking), [300, eerste lid](wetboek-van-strafrecht.md#artikel-300-wvsr-mishandeling), [321](wetboek-van-strafrecht.md#artikel-321-wvsr-verduistering), [350](wetboek-van-strafrecht.md#artikel-350-wvsr-beschadigen-goederendieren), [417bis](wetboek-van-strafrecht.md#artikel-417bis-wvsr-schuldheling), [420bis.1](wetboek-van-strafrecht.md#artikel-420bis1-wvsr-eenvoudig-witwassen) van het Wetboek van Strafrecht;
     3. de [artikelen 11, tweede lid](opiumwet.md#artikel-11-opw-sanctie-behorende-bij-artikel-3), en [11a](opiumwet.md#artikel-11a-opw-voorbereidingshandelingen-hennepteelt) van de Opiumwet;
 
-### Titel IV Eenige bijzondere dwangmiddelen
 #### Artikel 94 WvSv [Vatbaarheid voor inbeslagneming. Kennisgeving. Reçu]
 1. Vatbaar voor inbeslagneming zijn alle voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel, als bedoeld in [artikel 36e](wetboek-van-strafrecht.md#artikel-36e-wvsr-ontneming-wederrechtelijk-verkregen-voordeel) van het Wetboek van Strafrecht, aan te tonen.
 2. Voorts zijn vatbaar voor inbeslagneming alle voorwerpen welker verbeurdverklaring of onttrekking aan het verkeer kan worden bevolen.
@@ -131,7 +143,45 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 1. De opsporingsambtenaar die de verdachte staande houdt of aanhoudt, kan de voor inbeslagneming vatbare voorwerpen die de verdachte met zich voert, in beslag nemen.
 
 #### Artikel 96 WvSv [Bevoegdheid opsporingsambtenaar. Veiligstellen voorwerpen]
-1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in artikel 67, eerste lid, is de opsporingsambtenaar bevoegd de daarvoor vatbare voorwerpen in beslag te nemen en daartoe elke plaats te betreden.
+1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), is de opsporingsambtenaar bevoegd de daarvoor vatbare voorwerpen in beslag te nemen en daartoe elke plaats te betreden.
+2. De opsporingsambtenaar kan, in afwachting van de komst van de rechter of ambtenaar die bevoegd is ter inbeslagneming de plaats te doorzoeken, de maatregelen nemen die redelijkerwijs nodig zijn om wegmaking, onbruikbaarmaking, onklaarmaking of beschadiging van voor inbeslagneming vatbare voorwerpen te voorkomen. Deze maatregelen kunnen de vrijheid van personen die zich ter plaatse bevinden beperken.
+
+#### Artikel 96a WvSv [Bevel tot uitlevering in beslag te nemen voorwerp]
+1. In geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), kan de opsporingsambtenaar een persoon die redelijkerwijs moet worden vermoed houder te zijn van een voor inbeslagneming vatbaar voorwerp bevelen dat hij dit ter inbeslagneming zal uitleveren.
+2. Het bevel wordt niet gegeven aan de verdachte.
+
+#### Artikel 96b WvSv [Doorzoeken vervoermiddel ter inbeslagneming]
+1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), is de opsporingsambtenaar bevoegd ter inbeslagneming een vervoermiddel, met uitzondering van het woongedeelte zonder toestemming van de bewoner, te doorzoeken en zich daartoe de toegang tot dit vervoermiddel te verschaffen.
+2. Indien zulks met het oog op de uitoefening van de in het eerste lid verleende bevoegdheid noodzakelijk is, kan de opsporingsambtenaar:
+    1. van de bestuurder van het vervoermiddel vorderen dat hij het vervoermiddel tot stilstand brengt, en
+    2. het vervoermiddel vervolgens naar een daartoe door hem aangewezen plaats overbrengen of door de bestuurder laten overbrengen.
+
+#### Artikel 96c WvSv [Doorzoeken van plaatsen door (hulp-)OvJ ter inbeslagneming]
+1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), kan de officier van justitie ter inbeslagneming elke plaats, met uitzondering van een woning zonder toestemming van de bewoner, doorzoeken.
+2. Bij dringende noodzakelijkheid en indien het optreden van de officier van justitie niet kan worden afgewacht, kan een hulpofficier deze bevoegdheid uitoefenen. Hij behoeft daartoe de machtiging van de officier van justitie. Indien vanwege de vereiste spoed of de onbereikbaarheid van de officier van justitie de machtiging niet tijdig kan worden gevraagd, kan de machtiging binnen drie dagen na de doorzoeking door de officier van justitie worden verleend. Weigert de officier van justitie de machtiging, dan draagt hij zorg dat de gevolgen van de doorzoeking zoveel mogelijk ongedaan worden gemaakt.
+3. Het doorzoeken van plaatsen overeenkomstig het bepaalde in het eerste lid geschiedt onder leiding van de officier van justitie of, in geval van toepassing van het tweede lid, onder leiding van de hulpofficier.
+4. [Artikel 96, tweede lid](#artikel-96-wvsv-bevoegdheid-opsporingsambtenaar-veiligstellen-voorwerpen), is van overeenkomstige toepassing.
+
+#### Artikel 97 WvSv [Doorzoeking zonder toestemming bewoner]
+1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), kan de officier van justitie, bij dringende noodzakelijkheid en indien het optreden van de rechter-commissaris niet kan worden afgewacht, ter inbeslagneming een woning zonder toestemming van de bewoner doorzoeken.
+2. Voor een doorzoeking als bedoeld in het eerste lid behoeft de officier van justitie de machtiging van de rechter-commissaris. Deze machtiging is met redenen omkleed.
+3. Kan ook het optreden van de officier van justitie niet worden afgewacht, dan komt de bevoegdheid tot doorzoeking toe aan de hulpofficier. Het eerste en het tweede lid zijn van overeenkomstige toepassing. De machtiging van de rechter-commissaris wordt zo mogelijk door tussenkomst van de officier van justitie gevraagd.
+4. Indien de rechter-commissaris aan een hulpofficier van justitie machtiging heeft verleend ter inbeslagneming een woning zonder toestemming van de bewoner te doorzoeken, is voor het binnentreden in die woning door de betrokken hulpofficier van justitie geen machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](algemene-wet-op-het-binnentreden.md#artikel-2-awbi-schriftelijke-machtiging) vereist.
+5. [Artikel 96, tweede lid](#artikel-96-wvsv-bevoegdheid-opsporingsambtenaar-veiligstellen-voorwerpen), is van overeenkomstige toepassing.
+
+#### Artikel 99a WvSv [Bijstand raadsman]
+De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn raadsman te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
+
+### Titel VI Beteekenis van sommige in het wetboek voorkomende uitdrukkingen
+#### Artikel 127 WvSv [Opsporingsambtenaren]
+Onder opsporingsambtenaren worden verstaan alle personen met de opsporing van het strafbare feit belast.
+
+#### Artikel 128 WvSv [Ontdekking op heterdaad]
+1. Ontdekking op heeter daad heeft plaats, wanneer het strafbare feit ontdekt wordt, terwijl het begaan wordt of terstond nadat het begaan is.
+2. Het geval van ontdekking op heeter daad wordt niet langer aanwezig geacht dan kort na het feit dier ontdekking.
+
+#### Artikel 133 [Voorlopige hechtenis]
+Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig bevel van bewaring, gevangenneming of gevangenhouding.
 
 ## Tweede boek Strafvordering in eersten aanleg
 ### Titel I Het opsporingsonderzoek
@@ -140,6 +190,9 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
     1. de officieren van justitie;
     2. de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder a, van de Politiewet 2012, en de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder c en d, van die wet, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
     3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen militairen van de Koninklijke marechaussee;
+
+#### Artikel 161 WvSv [Bevoegdheid tot aangifte]
+Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangifte of klachte te doen.
 
 ### Titel IVA Vervolging door een strafbeschiking
 #### Artikel 257a WvSv [Strafbeschikking]
