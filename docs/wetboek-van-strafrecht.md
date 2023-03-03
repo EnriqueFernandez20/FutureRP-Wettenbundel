@@ -488,6 +488,10 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met ge
 Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een voorwerp dat onmiddellijk afkomstig is uit enig eigen misdrijf wordt als eenvoudig witwassen gestraft met een gevangenisstraf van ten hoogste zes maanden of geldboete van de vierde categorie.
 
 ## Derde Boek [Overtredingen]
+### Titel I [Overtredingen betreffende de algemene veiligheid van personen en goederen]
+#### Artikel 424 WvSr [Straatschenderij]
+1. Hij die op of aan de openbare weg of op enige voor het publiek toegankelijke plaats tegen personen of goederen enige pleegt waardoor gevaar of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij, gestraft met geldboete van de eerste categorie.
+
 ### Titel II [Overtredingen betreffende de openbare orde]
 #### Artikel 430a WvSr [Naaktrecreatie]
 Hij die zich buiten een door de gemeenteraad als geschikt voor ongeklede openbare recreatie aangewezen plaats, ongekleed bevindt op of aan een voor het openbaar verkeer bestemde plaats die voor ongeklede recreatie niet geschikt is, wordt gestraft met geldboete van de eerste categorie.
