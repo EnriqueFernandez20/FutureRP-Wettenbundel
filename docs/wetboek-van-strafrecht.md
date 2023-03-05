@@ -139,7 +139,7 @@ Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolg
 2. Ten aanzien van de laatsten komen alleen die handelingen in aanmerking die zij opzettelijk hebben uitgelokt, benevens hun gevolgen.
 
 #### Artikel 48 WvSr [Medeplichtigheid]
-Als medeplichtigen van een misdrijf worden gestraft:
+Als medeplichtigen van een misdrijf worden gestraft:  
 - 1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
 - 2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
 
