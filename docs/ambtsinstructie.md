@@ -15,7 +15,7 @@
     4. geweldmiddel:
         - 1° de krachtens [artikel 22](politiewet-2012.md#artikel-22-pw-2012-bewapening-uitrusting-en-kleding) van de Politiewet 2012 toegelaten bewapening.
     5. vrijheidsbeperkende middelen, waaronder hulpmiddelen jegens ingeslotenen:
-        - 1° de krachtens artikel 22 van de Politiewet 2012 toegelaten vrijheidsbeperkende middelen, en
+        - 1° de krachtens [artikel 22](politiewet-2012.md#artikel-22-pw-2012-bewapening-uitrusting-en-kleding) van de Politiewet 2012 toegelaten vrijheidsbeperkende middelen, en
         - 2° de door Onze Minister van Defensie ter beschikking gestelde vrijheidsbeperkende middelen;
     6. automatisch vuur: het lossen van meerdere schoten als gevolg van het eenmalig overhalen van de trekker van een vuurwapen;
     7. het gebruik van een vuurwapen: het richten, het gericht houden of het schieten met een vuurwapen;
