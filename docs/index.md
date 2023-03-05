@@ -31,6 +31,6 @@ Deze grondbeginselen zijn vastgelegd in de verschillende wetboeken, maar worden 
     1. U bent niet tot antwoorden verplicht.
     2. U heeft het recht op een advocaat. Indien u deze niet kan veroorloven wordt deze betaald door het OM.
 5. Het volgende hoeft niet gezegd te worden, maar de verdachte heeft ook recht op:
-    1. Medische hulp indien de verdachte op korte termijn het risico loopt om te sterven of het risico loopt om onomkeerbare schade op te lopen aan zijn ledemaat of oraan.
+    1. Medische hulp indien de verdachte op korte termijn het risico loopt om te sterven of het risico loopt om onomkeerbare schade op te lopen aan zijn ledemaat of orgaan.
     2. De juiste informatie met betrekking tot zijn strafrechtelijk proces, m.u.v. vertrouwelijke informatie (zoals .oa.: recherchedossiers, naam indiener aangifte, etc.)
 6. Indien er geen beschikbare advocaat is, maar de verdachte toch wenst gebruik te maken van zijn recht hierop, wordt er **een derde** strafvermindering toegekend.
