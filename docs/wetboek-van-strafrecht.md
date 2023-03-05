@@ -75,7 +75,8 @@ Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht 
 4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
 #### Artikel 36c WvSr [Voorwerpen vatbaar voor onttrekking aan verkeer]
-Vatbaar voor onttrekking aan het verkeer zijn alle voorwerpen:  
+Vatbaar voor onttrekking aan het verkeer zijn alle voorwerpen:
+
 1. die geheel of grotendeels door middel van of uit de baten van het feit zijn verkregen;
 2. met betrekking tot welke het feit is begaan;
 3. met behulp van welke het feit is begaan of voorbereid;
@@ -139,7 +140,8 @@ Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolg
 2. Ten aanzien van de laatsten komen alleen die handelingen in aanmerking die zij opzettelijk hebben uitgelokt, benevens hun gevolgen.
 
 #### Artikel 48 WvSr [Medeplichtigheid]
-Als medeplichtigen van een misdrijf worden gestraft:  
+Als medeplichtigen van een misdrijf worden gestraft:
+
 - 1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
 - 2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
 
