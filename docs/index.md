@@ -1,7 +1,7 @@
 # De wettenbundel van RoleplayNL
 Dit is een fictieve wettenbundel gebaseerd op de verschillende wetboeken die gebruikt worden in de Nederlandse staat.
 
-Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/a4VtnuY4dJ)
+Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/WTxKAQJX8v)
 
 | Wetboek                                            | Link                                                               |
 |----------------------------------------------------|--------------------------------------------------------------------|
