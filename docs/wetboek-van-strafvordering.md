@@ -199,7 +199,7 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 
 ### Titel IVA Vervolging door een strafbeschiking
 #### Artikel 257a WvSv [Strafbeschikking]
-1. De officier van justitie kan, indien hij vaststelt dat een overtreding is begaan dan wel een misdrijf waarop naar de wettelijke omschrijving gevangenisstraf is gesteld van niet meer dan zes jaar, een strafbeschikking uitvaardigen.
+1. De officier van justitie kan, indien hij vaststelt dat een overtreding is begaan dan wel een misdrijf waarop naar de wettelijke omschrijving gevangenisstraf is gesteld van niet meer dan 72 maanden, een strafbeschikking uitvaardigen.
 2. De volgende straffen en maatregelen kunnen worden opgelegd:
     1. een taakstraf van ten hoogste honderdtachtig uren;
     2. een geldboete;
