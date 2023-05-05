@@ -5,7 +5,7 @@ Je kan onze officiële discord server hier vinden - [invite](https://discord.gg/
 
 | Wetboek                                            | Link                                                               |
 |----------------------------------------------------|--------------------------------------------------------------------|
-| Server regels                                      | [Server regels](server-regels.md)                                  |
+<!-- | Server regels                                      | [Server regels](server-regels.md)                                  | -->
 | Wetboek van Strafvordering                         | [WvSv](wetboek-van-strafvordering.md)                              |
 | Wetboek van Strafrecht                             | [WvSr](wetboek-van-strafrecht.md)                                  |
 | Wegenverkeerswet 1994                              | [WVW 1994](wegenverkeerswet-1994.md)                               |
