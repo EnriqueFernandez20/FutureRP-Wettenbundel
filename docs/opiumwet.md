@@ -51,7 +51,7 @@ wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van d
 5. Het tweede lid is niet van toepassing, indien het feit betrekking heeft op een hoeveelheid van hennep of hasjiesj van ten hoogste 30 gram.
 
 ## Artikel 11a Opw [Voorbereidingshandelingen hennepteelt]
-Hij die stoffen of voorwerpen bereidt, bewerkt, verwerkt, te koop aanbiedt, verkoopt, aflevert, verstrekt, vervoert, vervaardigt of voorhanden heeft dan wel vervoermiddelen, ruimten, gelden of andere betaalmiddelen voorhanden heeft of gegevens voorhanden heeft, waarvan hij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van een van de in [artikel 11](#artikel-11-sanctie-behorende-bij-artikel-3), tweede en vierde lid, strafbaar gestelde feiten, wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vijfde categorie.
+Hij die stoffen of voorwerpen bereidt, bewerkt, verwerkt, te koop aanbiedt, verkoopt, aflevert, verstrekt, vervoert, vervaardigt of voorhanden heeft dan wel vervoermiddelen, ruimten, gelden of andere betaalmiddelen voorhanden heeft of gegevens voorhanden heeft, waarvan hij weet of ernstige reden heeft om te vermoeden dat zij bestemd zijn tot het plegen van een van de in [artikel 11](#artikel-11-opw-sanctie-behorende-bij-artikel-3), tweede en vierde lid, strafbaar gestelde feiten, wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vijfde categorie.
 
 ## Lijst I
 | Benaming              | Nadere omschrijving                                        |
