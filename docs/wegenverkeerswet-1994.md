@@ -66,11 +66,28 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 Aan de bestuurder van een motorrijtuig op de weg dient door de daartoe bevoegde autoriteit een rijbewijs te zijn afgegeven voor het besturen van motorrijtuigen van de categorie waartoe dat motorrijtuig behoort. Overtreding van dit misdrijf wordt gestraft met een gevangenisstraf van ten hoogste 4 maanden of geldboete van de derde categorie.
 
 ## Hoofdstuk IX Toezicht en opsporing
+### Artikel 159 WVW [Aanwijzing opsporingsambtenaren]
+1. Met de opsporing van de feiten, strafbaar gesteld bij of krachtens deze wet, zijn belast:
+    1. de in de [artikelen 141](wetboek-van-strafvordering.md#artikel-141-wvsv-algemene-opsporingsbevoegdheid) en 142 van het Wetboek van Strafvordering bedoelde personen;
+    2. de bij algemene maatregel van bestuur aangewezen ambtenaren van de Rijksbelastingdienst, van de Rijks- en de provinciale waterstaat, van de Dienst Wegverkeer en van de verkeersinspecties, een en ander voor zover bij die algemene maatregel van bestuur is bepaald;
+    3. de in de artikelen 87 en 89 van de Wet personenvervoer 2000 bedoelde personen, voor zover het betreft de eisen die met betrekking tot voertuigen als bedoeld in die wet worden gesteld bij of krachtens deze wet.
+
+### Artikel 160 WVW [Doen stilhouden]
+1. Op de eerste vordering van de in [artikel 159](#artikel-159-wvw-aanwijzing-opsporingsambtenaren) bedoelde personen is de bestuurder van een motorrijtuig verplicht dat motorrijtuig te doen stilhouden alsmede de volgende bewijzen behoorlijk ter inzage af te geven:
+    1. het kentekenbewijs, en, indien met het motorrijtuig een aanhangwagen wordt voortbewogen, het kentekenbewijs van de aanhangwagen;
+    2. het rijbewijs dan wel het hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs en, indien hem buiten Nederland een internationaal rijbewijs is afgegeven, dat bewijs;
+2. Indien het kentekenbewijs is afgegeven voor een aanhangwagen die overeenkomstig het krachtens deze wet bepaalde is voorzien van een identificatieplaat, kan aan de vordering worden voldaan binnen een bij algemene maatregel van bestuur vastgestelde termijn.
+3. Op de eerste vordering van de in [artikel 159](#artikel-159-wvw-aanwijzing-opsporingsambtenaren) bedoelde personen is de bestuurder van een voertuig, niet zijnde een motorrijtuig, verplicht dat voertuig te doen stilhouden.
+
 ### Artikel 164 WVW [Overgifte rijbewijs]
-1. Op de eerste vordering van een opsporingsambtenaar is de bestuurder van een motorrijtuig, tegen wie door een van die personen proces-verbaal wordt opgemaakt ter zake van overtreding van een bij of krachtens deze wet vastgesteld voorschrift, verplicht tot overgifte van het hem afgegeven rijbewijs dan wel het hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs en, indien hem daar een internationaal rijbewijs is afgegeven, dat bewijs.
-    1. overschrijding van een krachtens deze wet vastgestelde maximumsnelheid met vijftig kilometer of meer, door een bestuurder van een motorrijtuig anders dan een bromfiets, in geval van staandehouding van de bestuurder;
-    2. overschrijding van een krachtens deze wet vastgestelde maximumsnelheid met dertig kilometer of meer door een bestuurder van een bromfiets, in geval van staandehouding van de bestuurder.
-2. De in het eerste lid bedoelde vordering kan worden gedaan indien door de overtreding de veiligheid op de weg ernstig in gevaar is gebracht.
+1. Op de eerste vordering van de in [artikel 159](#artikel-159-wvw-aanwijzing-opsporingsambtenaren), onderdelen a en b, bedoelde personen is de bestuurder van een motorrijtuig, tegen wie door een van die personen proces-verbaal wordt opgemaakt ter zake van overtreding van een bij of krachtens deze wet vastgesteld voorschrift, verplicht tot overgifte van het hem afgegeven rijbewijs dan wel het hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs en, indien hem daar een internationaal rijbewijs is afgegeven, dat bewijs.
+2. De in het eerste lid bedoelde vordering wordt gedaan in geval van overtreding van:
+    1. [artikel 8](#artikel-8-wvw-besturen-onder-invloed), indien bij een onderzoek als bedoeld in het tweede lid, van die bepaling blijkt of, bij ontbreken van een dergelijk onderzoek, een ernstig vermoeden bestaat dat het alcoholgehalte van de adem van de bestuurder hoger is dan 570 microgram alcohol per liter uitgeademde lucht, onderscheidenlijk het alcoholgehalte van het bloed van de bestuurder hoger blijkt te zijn dan 1,3 milligram alcohol per milliliter bloed;
+    2. [artikel 8](#artikel-8-wvw-besturen-onder-invloed), indien bij een onderzoek als bedoeld in het derde of vierde lid, aanhef en onderdeel b, juncto het derde lid, van die bepaling blijkt of, bij het ontbreken van een dergelijk onderzoek, een ernstig vermoeden bestaat dat het alcoholgehalte van de adem van de bestuurder hoger is dan 350 microgram alcohol per liter uitgeademde lucht, onderscheidenlijk het alcoholgehalte van het bloed van de bestuurder hoger blijkt te zijn dan 0,8 milligram alcohol per milliliter bloed;
+    3. artikel 163, tweede, zesde of zevende lid;
+    4. overschrijding van een krachtens deze wet vastgestelde maximumsnelheid met vijftig kilometer of meer, door een bestuurder van een motorrijtuig anders dan een bromfiets, in geval van staandehouding van de bestuurder;
+    5. overschrijding van een krachtens deze wet vastgestelde maximumsnelheid met dertig kilometer of meer door een bestuurder van een bromfiets, in geval van staandehouding van de bestuurder.
+3. De in het eerste lid bedoelde vordering kan worden gedaan indien door de overtreding de veiligheid op de weg ernstig in gevaar is gebracht.
 
 ### Artikel 165 WVW [Onbekend gebleven bestuurder bij misdrijf. Informatieplicht eigenaar of houder]
 1. Indien een bij deze wet als misdrijf strafbaar gesteld feit wordt begaan door een bij de ontdekking van het feit onbekend gebleven bestuurder van een motorrijtuig, is de eigenaar of houder van dat motorrijtuig verplicht op vordering van een opsporingsambtenaar binnen een daarbij te stellen termijn, die ten minste achtenveertig uren bedraagt, de naam en het volledige adres van de bestuurder bekend te maken.
