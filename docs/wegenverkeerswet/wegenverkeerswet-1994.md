@@ -147,6 +147,6 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 3. Overtreding van de artikelen 61e, 66, 66e, 70g, 89, 96, 104 en 106b wordt gestraft met geldboete van de derde categorie.
 
-### Artikel 178
+### Artikel 178 WvW
 1. De in de [artikelen 175](#artikel-175-wvw) en [176](#artikel-176-wvw) strafbaar gestelde feiten zijn misdrijven.
 2. De in [artikel 177](#artikel-177-wvw) strafbaar gestelde feiten zijn overtredingen.
