@@ -70,6 +70,19 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
    3. niet te zijn ingevorderd, en
    4. behoorlijk leesbaar te zijn.
 
+### Artikel 40 WvW
+1. Het kenteken dient behoorlijk zichtbaar op of aan het motorrijtuig of de aanhangwagen aanwezig te zijn.
+2. Bij algemene maatregel van bestuur worden nadere regels vastgesteld omtrent de inrichting, het aanbrengen en de verlichting van het kenteken en worden regels vastgesteld omtrent de kentekenplaat en de onderdelen daarvan, alsmede de daarop aan te brengen merken.
+3. Bij ministeriële regeling worden nadere regels vastgesteld ter uitvoering van het bepaalde krachtens het tweede lid.
+4. Voor overtreding van het eerste lid dan wel het bepaalde krachtens het tweede of derde lid zijn aansprakelijk:
+   1. voor zover het betreft een motorrijtuig, de eigenaar of houder die het motorrijtuig op de weg laat staan of daarmee over de weg laat rijden, alsmede in het geval dat met dat motorrijtuig over de weg wordt gereden, de bestuurder, en
+   2. voor zover het betreft een aanhangwagen, de eigenaar of houder die de aanhangwagen op de weg laat staan of deze met een motorrijtuig over de weg laat voortbewegen, alsmede in het geval dat de aanhangwagen met een motorrijtuig over de weg wordt voortbewogen, de bestuurder van dat motorrijtuig.
+
+### Artikel 41 WvW
+1. Het is verboden:
+   1. op een motorrijtuig of een aanhangwagen enig teken of middel aan te brengen of te doen aanbrengen met het oogmerk de herkenning, daaronder begrepen de herkenning met behulp van technische voorzieningen, van het ingevolge [artikel 40](#artikel-40-wvw) gevoerde kenteken te bemoeilijken;
+   2. een motorrijtuig op de weg te laten staan of daarmee over de weg te rijden dan wel een aanhangwagen op de weg te laten staan of met een motorrijtuig over de weg voort te bewegen, wanneer op dat motorrijtuig of die aanhangwagen enig teken of middel is aangebracht, waardoor de herkenning, daaronder begrepen de herkenning met behulp van technische voorzieningen, van het ingevolge [artikel 40](#artikel-40-wvw) gevoerde kenteken wordt bemoeilijkt;
+
 ## Hoofdstuk VI Rijvaardigheid en rijbevoegdheid
 ### Artikel 107 WvW [Rijbewijsplicht. Eisen rijbewijs]
 1. Aan de bestuurder van een motorrijtuig op de weg dient door de daartoe bevoegde autoriteit een rijbewijs te zijn afgegeven voor het besturen van motorrijtuigen van de categorie waartoe dat motorrijtuig behoort.
@@ -119,8 +132,20 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 
 ### Artikel 176 WvW
 1. Overtreding van [artikel 5a](#artikel-5a-wvw-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+2. Overtreding van de [artikelen 7, eerste lid, onderdelen a en c](#artikel-7-wvw-verlaten-plaats-van-ongeval), [8](#artikel-8-wvw-besturen-onder-invloed) en [9, eerste, tweede, vierde, vijfde, zevende en negende lid](#artikel-9-wvw-onbevoegd-besturen) wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of een geldboete van de vierde categorie.
+3. Overtreding van [artikel 41, eerste lid, onderdelen c tot en met f](#artikel-41-wvw), wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met een van beide voormelde straffen.
+4. Overtreding van [artikel 11](#artikel-11-wvw-joyriding) wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
+5. Overtreding van de artikelen 7, eerste lid, onderdeel b, 41, eerste lid, onderdelen a en b, 51, eerste lid, 61, eerste lid, onderdeel c, 74, 114, 151j, 162, derde en vierde lid, 163, tweede, zesde, zevende en negende lid en van de in artikel 4, tweede en vijfde lid, bedoelde regels voor zover het betreft een verbod tot het gebruik van verlichting, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.
 
 ### Artikel 177 WvW
+1. Overtreding van de [artikelen 5](#artikel-5-wvw-gevaar-en-hinder) en [107, eerste en tweede lid](#artikel-107-wvw-rijbewijsplicht-eisen-rijbewijs), wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
+2. Overtreding van:
+   1. de artikelen 9, achtste lid, 10, eerste lid, 12, eerste lid, 20h, 32, 36, eerste tot en met vijfde lid, 40, eerste lid, 47, 48, zevende lid, 60, eerste en tweede lid, 70a, tweede lid, 70i, eerste en tweede lid, 71, eerste lid, en de krachtens het tweede lid van dat artikel genoemde artikelen van een EU-harmonisatieverordening in verband met de goedkeuring van motorvoertuigen, 72, eerste en tweede lid, 110, 110b, 111a, tweede, derde en zevende lid, 119, vierde lid, 120, derde lid, 123b, vierde lid, 124, vierde lid, 124a, derde lid, 130, tweede lid, 132, vijfde lid, 149aa, eerste lid, 150, tweede lid, 151c, eerste lid, 151ic, derde lid, 151id, derde lid, 151ii, vierde lid, artikel 151ij, tweede lid, 160, 164, eerste lid, 165, eerste lid, 166, eerste lid,
+   2. het bepaalde ingevolge de artikelen 52c, derde lid, 70i, derde lid en artikel 131, tweede lid, onderdeel b,
+   3. de in artikel 4, tweede en vijfde lid, bedoelde regels voor zover niet begrepen in artikel 176, vierde lid, en
+   4. het bepaalde krachtens deze wet, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt,
+    wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
+3. Overtreding van de artikelen 61e, 66, 66e, 70g, 89, 96, 104 en 106b wordt gestraft met geldboete van de derde categorie.
 
 ### Artikel 178
 1. De in de [artikelen 175](#artikel-175-wvw) en [176](#artikel-176-wvw) strafbaar gestelde feiten zijn misdrijven.
