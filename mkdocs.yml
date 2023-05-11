@@ -25,8 +25,11 @@ nav:
   # - Server regels: 'server-regels.md'
   - Wetboek van Strafvordering: 'wetboek-van-strafvordering.md'
   - Wetboek van Strafrecht: 'wetboek-van-strafrecht.md'
-  - Wegenverkeerswet 1994: 'wegenverkeerswet-1994.md'
-  - Wet Mulder: 'wet-mulder.md'
+  - Wegenverkeers wetgeving:
+    - Wegenverkeerswet 1994: 'wegenverkeerswet/wegenverkeerswet-1994.md'
+    - Wet Mulder: 'wegenverkeerswet/wet-mulder.md'
+    - RVV 1990: 'wegenverkeerswet/rvv-1990.md'
+    - Feitenboekje: 'wegenverkeerswet/feitenboekje.md'
   - Wet Wapens en Munitie: 'wet-wapens-en-munitie.md'
   - Opiumwet: 'opiumwet.md'
   - Politiewet 2012: 'politiewet-2012.md'
