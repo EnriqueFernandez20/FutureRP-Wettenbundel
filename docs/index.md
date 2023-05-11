@@ -5,8 +5,8 @@ Dit is een fictieve wettenbundel gebaseerd op de verschillende wetboeken die geb
 |----------------------------------------------------|--------------------------------------------------------------------|
 | Wetboek van Strafvordering                         | [WvSv](wetboek-van-strafvordering.md)                              |
 | Wetboek van Strafrecht                             | [WvSr](wetboek-van-strafrecht.md)                                  |
-| Wegenverkeerswet 1994                              | [WVW 1994](wegenverkeerswet-1994.md)                               |
-| Wet Mulder                                         | [WAHV](wet-mulder.md)                                              |
+| Wegenverkeerswet 1994                              | [WVW 1994](wegenverkeerswet/wegenverkeerswet-1994.md)              |
+| Wet Mulder                                         | [WAHV](wegenverkeerswet/wet-mulder.md)                             |
 | Wet Wapens en Munitie                              | [WWM 1997](wet-wapens-en-munitie.md)                               |
 | Opiumwet                                           | [Opw](opiumwet.md)                                                 |
 | Politiewet 2012                                    | [PW 2012](politiewet-2012.md)                                      |
