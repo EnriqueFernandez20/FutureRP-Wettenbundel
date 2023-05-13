@@ -6,7 +6,7 @@
 
 1. In deze wet wordt verstaan onder:
     1. Onze Minister: Onze Minister van Veiligheid en Justitie;
-    2. aanhangwagen, motorrijtuig, kenteken en rijbewijs: hetgeen daaronder wordt verstaan in artikel 1, eerste lid, van de Wegenverkeerswet 1994;
+    2. aanhangwagen, motorrijtuig, kenteken en rijbewijs: hetgeen daaronder wordt verstaan in [artikel 1, eerste lid](./wegenverkeerswet-1994.md#artikel-1-wvw-begripsbepalingen), van de Wegenverkeerswet 1994;
     3. bestuurder: alle weggebruikers behalve voetgangers;
     4. gedraging: een gedraging als bedoeld in [artikel 2, eerste lid](#artikel-2-wahv);
     5. administratieve sanctie: de aan de Staat te betalen geldsom, bedoeld in [artikel 2](#artikel-2-wahv);
