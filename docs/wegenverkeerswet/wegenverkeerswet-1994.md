@@ -6,8 +6,8 @@
     2. wegen: alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de daarin liggende bruggen en duikers en de tot die wegen behorende paden en bermen of zijkanten;
     3. motorrijtuigen: alle voertuigen, bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig zelf aanwezig dan wel door elektrische tractie met stroomtoevoer van elders, met uitzondering van fietsen met trapondersteuning;
     4. aanhangwagen: voertuig dat kennelijk is bestemd om te worden voortbewogen door een motorrijtuig. In het bepaalde krachtens deze wet kan onder aanhangwagen tevens worden verstaan een voertuig dat door een ander voertuig wordt voortbewogen of kennelijk is bestemd om door een ander voertuig te worden voortbewogen;
-    5. kenteken: kenteken als bedoeld in artikel 36 of artikel 37, derde lid;
-    6. kentekenbewijs: kentekenbewijs als bedoeld in artikel 36 dan wel een kentekenbewijs, afgegeven ter zake van de opgave van een kenteken als bedoeld in artikel 37, derde lid;
+    5. kenteken: kenteken als bedoeld in [artikel 36](#artikel-36-wvw) of artikel 37, derde lid;
+    6. kentekenbewijs: kentekenbewijs als bedoeld in [artikel 36](#artikel-36-wvw) dan wel een kentekenbewijs, afgegeven ter zake van de opgave van een kenteken als bedoeld in artikel 37, derde lid;
     7. rijbewijs: rijbewijs, bedoeld in [artikel 107](#artikel-107-wvw-rijbewijsplicht-eisen-rijbewijs);
 
 ## Hoofdstuk II Verkeersgedrag
