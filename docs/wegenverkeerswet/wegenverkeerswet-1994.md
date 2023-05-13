@@ -144,7 +144,7 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 
 ## Hoofdstuk XI Strafbepalingen
 
-### Artikel 175 WvW
+### Artikel 175 WvW [Strafbedreiging tzv art. 6]
 
 1. Overtreding van [artikel 6](#artikel-6-wvw-schuldmisdrijf) wordt gestraft met:
    1. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
@@ -155,7 +155,7 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
       Van roekeloosheid is in elk geval sprake als het gedrag tevens als een overtreding van [artikel 5a, eerste lid](#artikel-5a-wvw-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel), kan worden aangemerkt.
 3. Indien de schuldige verkeerde in de toestand, bedoeld in [artikel 8, eerste, tweede, derde, vierde of vijfde lid](#artikel-8-wvw-besturen-onder-invloed), dan wel na het feit niet heeft voldaan aan een bevel, gegeven krachtens artikel 163, tweede, zesde, zevende of negende lid, kunnen de in het eerste en tweede lid bepaalde gevangenisstraffen met de helft worden verhoogd.
 
-### Artikel 176 WvW
+### Artikel 176 WvW [Strafbedreiging misdrijven]
 
 1. Overtreding van [artikel 5a](#artikel-5a-wvw-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
 2. Overtreding van de [artikelen 7, eerste lid, onderdelen a en c](#artikel-7-wvw-verlaten-plaats-van-ongeval), [8](#artikel-8-wvw-besturen-onder-invloed) en [9, eerste, tweede, vierde, vijfde, zevende en negende lid](#artikel-9-wvw-onbevoegd-besturen) wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of een geldboete van de vierde categorie.
@@ -163,7 +163,7 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 4. Overtreding van [artikel 11](#artikel-11-wvw-joyriding) wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
 5. Overtreding van de artikelen 7, eerste lid, onderdeel b, 41, eerste lid, onderdelen a en b, 51, eerste lid, 61, eerste lid, onderdeel c, 74, 114, 151j, 162, derde en vierde lid, 163, tweede, zesde, zevende en negende lid en van de in artikel 4, tweede en vijfde lid, bedoelde regels voor zover het betreft een verbod tot het gebruik van verlichting, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.
 
-### Artikel 177 WvW
+### Artikel 177 WvW [Overtredingen]
 
 1. Overtreding van de [artikelen 5](#artikel-5-wvw-gevaar-en-hinder) en [107, eerste en tweede lid](#artikel-107-wvw-rijbewijsplicht-eisen-rijbewijs), wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
 2. Overtreding van:
@@ -173,7 +173,7 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
    4. het bepaalde krachtens deze wet, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
 3. Overtreding van de artikelen 61e, 66, 66e, 70g, 89, 96, 104 en 106b wordt gestraft met geldboete van de derde categorie.
 
-### Artikel 178 WvW
+### Artikel 178 WvW [Misdrijven; overtredingen]
 
 1. De in de [artikelen 175](#artikel-175-wvw) en [176](#artikel-176-wvw) strafbaar gestelde feiten zijn misdrijven.
 2. De in [artikel 177](#artikel-177-wvw) strafbaar gestelde feiten zijn overtredingen.
