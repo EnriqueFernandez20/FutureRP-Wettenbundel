@@ -2,7 +2,7 @@
 
 ## Hoofdstuk I Algemene bepalingen
 
-### Artikel 1 WvW
+### Artikel 1 WvW [Begripsbepalingen]
 
 1. In deze wet en de daarop berustende bepalingen wordt, tenzij anders blijkt, verstaan onder:
    1. Onze Minister: Onze Minister van Infrastructuur en Milieu;
