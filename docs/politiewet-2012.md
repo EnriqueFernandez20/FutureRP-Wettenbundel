@@ -5,10 +5,10 @@
 ### Artikel 1 PW 2012 [Begripsbepaling]
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
-   1. Onze Minister: Onze Minister van Veiligheid en Justitie;
-   2. politie: het landelijke politiekorps, bedoeld in [artikel 25, eerste lid](#artikel-25-pw-2012-landelijk-politiekorps);
-   3. korpschef: de korpschef, bedoeld in [artikel 27](#artikel-27-pw-2012-taak-korpschef);
-   4. eenheid: een regionale of landelijke eenheid;
+    1. Onze Minister: Onze Minister van Veiligheid en Justitie;
+    2. politie: het landelijke politiekorps, bedoeld in [artikel 25, eerste lid](#artikel-25-pw-2012-landelijk-politiekorps);
+    3. korpschef: de korpschef, bedoeld in [artikel 27](#artikel-27-pw-2012-taak-korpschef);
+    4. eenheid: een regionale of landelijke eenheid;
 
 ### Artikel 2 PW 2012 [Ambtenaren van politie]
 
@@ -24,14 +24,14 @@ De politie heeft tot taak in ondergeschiktheid aan het bevoegd gezag en in overe
 ### Artikel 4 PW 2012 [Politietaken Koninklijke marechaussee]
 
 1. Aan de Koninklijke marechaussee, die onder het beheer van Onze Minister van Defensie staat, zijn, onverminderd het bepaalde bij of krachtens andere wetten, de volgende politietaken opgedragen:
-   1. het waken over de veiligheid van de leden van het koninklijk huis, in samenwerking met andere daartoe aangewezen organen;
-   2. de uitvoering van de politietaak ten behoeve van Nederlandse en andere strijdkrachten, alsmede internationale militaire hoofdkwartieren, en ten aanzien van tot die strijdkrachten en hoofdkwartieren behorende personen;
-   3. de uitvoering van de politietaak op de luchthaven Schiphol en op de andere door Onze Minister en Onze Minister van Defensie aangewezen luchtvaartterreinen, alsmede de beveiliging van de burgerluchtvaart;
-   4. de verlening van bijstand alsmede de samenwerking met de politie krachtens deze wet, daaronder begrepen de assistentieverlening aan de politie bij de bestrijding van grensoverschrijdende criminaliteit, het bewaken en beveiligen van objecten en diensten;
-   5. de uitvoering van de politietaak op plaatsen onder beheer van Onze Minister van Defensie, alsmede op het terrein van de ambtswoning van Onze Minister-President;
-   6. de uitvoering van de bij of krachtens de Vreemdelingenwet 2000 opgedragen taken, waaronder begrepen de bediening van de daartoe door Onze Minister voor Immigratie en Asiel aangewezen doorlaatposten en het, voor zover in dat verband noodzakelijk, uitvoeren van de politietaak op en nabij deze doorlaatposten, alsmede het verlenen van medewerking bij de aanhouding of voorgeleiding van een verdachte of veroordeelde;
-   7. de bestrijding van mensensmokkel en van fraude met reis- en identiteitsdocumenten;
-   8. het in opdracht van Onze Minister en Onze Minister van Defensie ten behoeve van De Nederlandsche Bank N.V. verrichten van beveiligingswerkzaamheden.
+    1. het waken over de veiligheid van de leden van het koninklijk huis, in samenwerking met andere daartoe aangewezen organen;
+    2. de uitvoering van de politietaak ten behoeve van Nederlandse en andere strijdkrachten, alsmede internationale militaire hoofdkwartieren, en ten aanzien van tot die strijdkrachten en hoofdkwartieren behorende personen;
+    3. de uitvoering van de politietaak op de luchthaven Schiphol en op de andere door Onze Minister en Onze Minister van Defensie aangewezen luchtvaartterreinen, alsmede de beveiliging van de burgerluchtvaart;
+    4. de verlening van bijstand alsmede de samenwerking met de politie krachtens deze wet, daaronder begrepen de assistentieverlening aan de politie bij de bestrijding van grensoverschrijdende criminaliteit, het bewaken en beveiligen van objecten en diensten;
+    5. de uitvoering van de politietaak op plaatsen onder beheer van Onze Minister van Defensie, alsmede op het terrein van de ambtswoning van Onze Minister-President;
+    6. de uitvoering van de bij of krachtens de Vreemdelingenwet 2000 opgedragen taken, waaronder begrepen de bediening van de daartoe door Onze Minister voor Immigratie en Asiel aangewezen doorlaatposten en het, voor zover in dat verband noodzakelijk, uitvoeren van de politietaak op en nabij deze doorlaatposten, alsmede het verlenen van medewerking bij de aanhouding of voorgeleiding van een verdachte of veroordeelde;
+    7. de bestrijding van mensensmokkel en van fraude met reis- en identiteitsdocumenten;
+    8. het in opdracht van Onze Minister en Onze Minister van Defensie ten behoeve van De Nederlandsche Bank N.V. verrichten van beveiligingswerkzaamheden.
 2. Hoewel bevoegd tot de opsporing van alle strafbare feiten, onthoudt de militair van de Koninklijke marechaussee die is aangewezen krachtens [artikel 141](wetboek-van-strafvordering.md#artikel-141-wvsv-algemene-opsporingsbevoegdheid) van het Wetboek van Strafvordering, zich van optreden anders dan in het kader van de uitvoering van zijn politietaken, bedoeld in het eerste lid.
 
 ### Artikel 5 PW 2012 [Samenwerking politie met Koninklijke marechaussee]
@@ -81,9 +81,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de
 ### Artikel 25 PW 2012 [Landelijk politiekorps]
 
 1. Er is een landelijk politiekorps dat bestaat uit de volgende onderdelen:
-   1. regionale eenheden, belast met de uitvoering van de politietaak;
-   2. een of meer bij algemene maatregel van bestuur aan te wijzen landelijke eenheden, belast met de uitvoering van de politietaak;
-   3. een of meer bij algemene maatregel van bestuur aan te wijzen ondersteunende diensten.
+    1. regionale eenheden, belast met de uitvoering van de politietaak;
+    2. een of meer bij algemene maatregel van bestuur aan te wijzen landelijke eenheden, belast met de uitvoering van de politietaak;
+    3. een of meer bij algemene maatregel van bestuur aan te wijzen ondersteunende diensten.
 
 ### Artikel 27 PW 2012 [Taak korpschef]
 

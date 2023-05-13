@@ -5,17 +5,17 @@
 ### Artikel 1 WAHV
 
 1. In deze wet wordt verstaan onder:
-   1. Onze Minister: Onze Minister van Veiligheid en Justitie;
-   2. aanhangwagen, motorrijtuig, kenteken en rijbewijs: hetgeen daaronder wordt verstaan in artikel 1, eerste lid, van de Wegenverkeerswet 1994;
-   3. bestuurder: alle weggebruikers behalve voetgangers;
-   4. gedraging: een gedraging als bedoeld in [artikel 2, eerste lid](#artikel-2-wahv);
-   5. administratieve sanctie: de aan de Staat te betalen geldsom, bedoeld in [artikel 2](#artikel-2-wahv);
-   6. adres: aanduiding van straatnaam, huisnummer, plaatsnaam en postcode van het woonhuis van de betrokkene.
+    1. Onze Minister: Onze Minister van Veiligheid en Justitie;
+    2. aanhangwagen, motorrijtuig, kenteken en rijbewijs: hetgeen daaronder wordt verstaan in artikel 1, eerste lid, van de Wegenverkeerswet 1994;
+    3. bestuurder: alle weggebruikers behalve voetgangers;
+    4. gedraging: een gedraging als bedoeld in [artikel 2, eerste lid](#artikel-2-wahv);
+    5. administratieve sanctie: de aan de Staat te betalen geldsom, bedoeld in [artikel 2](#artikel-2-wahv);
+    6. adres: aanduiding van straatnaam, huisnummer, plaatsnaam en postcode van het woonhuis van de betrokkene.
 2. In deze wet wordt mede verstaan onder:
-   1. bestuurder: degene die wordt geacht een motorrijtuig onder zijn onmiddellijk toezicht te doen besturen;
-   2. kenteken: het kenteken waaronder een motorrijtuig in het buitenland is geregistreerd, het registratienummer, vermeld op het registratiebewijs, afgegeven voor een motorrijtuig gebezigd ten behoeve van de strijdkrachten, alsmede enig ander registratienummer waaronder een motorrijtuig in Nederland mag worden geregistreerd;
-   3. kentekenregister: een buitenlands register betreffende aldaar geregistreerde motorrijtuigen, de registratie betreffende motorrijtuigen gebezigd ten behoeve van de strijdkrachten, bijgehouden door Onze Minister van Defensie, alsmede enig andere registratie betreffende motorrijtuigen, waarvan de houder gerechtigd is deze in Nederland te voeren;
-   4. rijbewijs: een door het bevoegde gezag in het buitenland afgegeven rijbewijs, alsmede een door het militaire gezag afgegeven rijbewijs.
+    1. bestuurder: degene die wordt geacht een motorrijtuig onder zijn onmiddellijk toezicht te doen besturen;
+    2. kenteken: het kenteken waaronder een motorrijtuig in het buitenland is geregistreerd, het registratienummer, vermeld op het registratiebewijs, afgegeven voor een motorrijtuig gebezigd ten behoeve van de strijdkrachten, alsmede enig ander registratienummer waaronder een motorrijtuig in Nederland mag worden geregistreerd;
+    3. kentekenregister: een buitenlands register betreffende aldaar geregistreerde motorrijtuigen, de registratie betreffende motorrijtuigen gebezigd ten behoeve van de strijdkrachten, bijgehouden door Onze Minister van Defensie, alsmede enig andere registratie betreffende motorrijtuigen, waarvan de houder gerechtigd is deze in Nederland te voeren;
+    4. rijbewijs: een door het bevoegde gezag in het buitenland afgegeven rijbewijs, alsmede een door het militaire gezag afgegeven rijbewijs.
 
 ## Hoofdstuk II Toepassingsgebied van de wet
 
@@ -64,14 +64,14 @@
 ### Artikel 27 WAHV
 
 1. Verhaal kan zonder dwangbevel worden genomen op:
-   1. inkomsten in geld uit arbeid van degene aan wie een administratieve sanctie is opgelegd;
-   2. het tegoed van een rekening bij een bank, waarover degene aan wie de administratieve sanctie is opgelegd te eigen bate mag beschikken, alsmede, indien de bank en degene aan wie een administratieve sanctie is opgelegd in samenhang met die rekening een overeenkomst inzake krediet zijn aangegaan, op uit het ingevolge die overeenkomst verstrekte krediet.
+    1. inkomsten in geld uit arbeid van degene aan wie een administratieve sanctie is opgelegd;
+    2. het tegoed van een rekening bij een bank, waarover degene aan wie de administratieve sanctie is opgelegd te eigen bate mag beschikken, alsmede, indien de bank en degene aan wie een administratieve sanctie is opgelegd in samenhang met die rekening een overeenkomst inzake krediet zijn aangegaan, op uit het ingevolge die overeenkomst verstrekte krediet.
 
 ## Hoofdstuk X Overige bepalingen
 
 ### Artikel 34 WAHV
 
 1. Met geldboete van de tweede categorie wordt gestraft:
-   1. hij die niet voldoet aan vordering van een krachtens [artikel 3, eerste lid](#artikel-3-wahv), aangewezen toezichthouder;
-   2. hij die de gegevens waarop de in het eerste lid bedoelde vordering betrekking heeft, onjuist opgeeft;
+    1. hij die niet voldoet aan vordering van een krachtens [artikel 3, eerste lid](#artikel-3-wahv), aangewezen toezichthouder;
+    2. hij die de gegevens waarop de in het eerste lid bedoelde vordering betrekking heeft, onjuist opgeeft;
 2. Het strafbare feit is een overtreding.

@@ -18,15 +18,15 @@ De Nederlandse strafwet is toepasselijk op ieder die zich in Nederland aan enig 
 #### Artikel 9 WvSr [Hoofd- en bijkomende straffen]
 
 1. De straffen zijn:
-   1. hoofdstraffen:
-      - 1° gevangenisstraf;
-      - 2° hechtenis;
-      - 3° taakstraf;
-      - 4° geldboete;
-   2. bijkomende straffen:
-      - 1° ontzetting van bepaalde rechten;
-      - 2° verbeurdverklaring;
-      - 3° openbaarmaking van de rechterlijke uitspraak.
+    1. hoofdstraffen:
+        - 1° gevangenisstraf;
+        - 2° hechtenis;
+        - 3° taakstraf;
+        - 4° geldboete;
+    2. bijkomende straffen:
+        - 1° ontzetting van bepaalde rechten;
+        - 2° verbeurdverklaring;
+        - 3° openbaarmaking van de rechterlijke uitspraak.
 2. Ten aanzien van misdrijven die worden bedreigd met een vrijheidsstraf of een geldboete of ten aanzien van overtredingen die worden bedreigd met een vrijheidsstraf kan, behoudens in bij de wet bepaalde gevallen, in plaats daarvan een taakstraf worden opgelegd.
 3. In het geval gevangenisstraf, hechtenis, vervangende hechtenis daaronder niet begrepen, of een taakstraf wordt opgelegd, kan tevens een geldboete worden opgelegd.
 4. In geval van veroordeling tot gevangenisstraf of tot hechtenis, vervangende hechtenis daaronder niet begrepen, waarvan het onvoorwaardelijk ten uitvoer te leggen deel ten hoogste zes maanden bedraagt, kan de rechter tevens een taakstraf opleggen.
@@ -76,15 +76,15 @@ Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht 
 #### Artikel 33a WvSr [Vatbaarheid voor verbeurdverklaring]
 
 1. Vatbaar voor verbeurdverklaring zijn:
-   1. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van of uit de baten van het strafbare feit zijn verkregen;
-   2. voorwerpen met betrekking tot welke het feit is begaan;
-   3. voorwerpen met behulp van welke het feit is begaan of voorbereid;
-   4. voorwerpen met behulp van welke de opsporing van het misdrijf is belemmerd;
-   5. voorwerpen die tot het begaan van het misdrijf zijn vervaardigd of bestemd;
-   6. zakelijke rechten op of persoonlijke rechten ten aanzien van de onder a tot en met e bedoelde voorwerpen.
+    1. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van of uit de baten van het strafbare feit zijn verkregen;
+    2. voorwerpen met betrekking tot welke het feit is begaan;
+    3. voorwerpen met behulp van welke het feit is begaan of voorbereid;
+    4. voorwerpen met behulp van welke de opsporing van het misdrijf is belemmerd;
+    5. voorwerpen die tot het begaan van het misdrijf zijn vervaardigd of bestemd;
+    6. zakelijke rechten op of persoonlijke rechten ten aanzien van de onder a tot en met e bedoelde voorwerpen.
 2. Voorwerpen als bedoeld in het eerste lid onder a tot en met e die niet aan de veroordeelde toebehoren kunnen alleen verbeurd worden verklaard indien:
-   1. degene aan wie zij toebehoren bekend was met hun verkrijging door middel van het strafbare feit of met het gebruik of de bestemming in verband daarmede, dan wel die verkrijging, dat gebruik of die bestemming redelijkerwijs had kunnen vermoeden, of
-   2. niet is kunnen worden vastgesteld aan wie zij toebehoren.
+    1. degene aan wie zij toebehoren bekend was met hun verkrijging door middel van het strafbare feit of met het gebruik of de bestemming in verband daarmede, dan wel die verkrijging, dat gebruik of die bestemming redelijkerwijs had kunnen vermoeden, of
+    2. niet is kunnen worden vastgesteld aan wie zij toebehoren.
 3. Rechten als bedoeld in het eerste lid, onder f, die niet aan de veroordeelde toebehoren kunnen alleen verbeurd worden verklaard indien degene aan wie zij toebehoren bekend was met de verkrijging van de voorwerpen waarop of ten aanzien waarvan deze rechten bestaan, door middel van het strafbare feit of met het gebruik of de bestemming in verband daarmede, danwel die verkrijging, dat gebruik of die bestemming redelijkerwijs had kunnen vermoeden.
 4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
@@ -166,16 +166,16 @@ Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolg
 #### Artikel 47 WvSr [Soorten daders]
 
 1. Als daders van een strafbaar feit worden gestraft:
-   - 1° zij die het feit plegen, doen plegen of medeplegen;
-   - 2° zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.
+    - 1° zij die het feit plegen, doen plegen of medeplegen;
+    - 2° zij die door giften, beloften, misbruik van gezag, geweld, bedreiging, of misleiding of door het verschaffen van gelegenheid, middelen of inlichtingen het feit opzettelijk uitlokken.
 2. Ten aanzien van de laatsten komen alleen die handelingen in aanmerking die zij opzettelijk hebben uitgelokt, benevens hun gevolgen.
 
 #### Artikel 48 WvSr [Medeplichtigheid]
 
 Als medeplichtigen van een misdrijf worden gestraft:
 
-- 1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
-- 2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
+-   1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
+-   2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
 
 #### Artikel 49 WvSr [Strafbepaling bij medeplichtigheid]
 
@@ -221,8 +221,8 @@ Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het
 
 1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te zijnen aanzien bij gewijsde van de rechter in Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba onherroepelijk is beslist.
 2. Is het gewijsde afkomstig van een andere rechter, dan heeft tegen dezelfde persoon wegens hetzelfde feit geen vervolging plaats in geval van:
-   - 1° vrijspraak of ontslag van rechtsvervolging;
-   - 2° veroordeling, indien een straf is opgelegd, gevolgd door gehele uitvoering, gratie of verjaring der straf.
+    - 1° vrijspraak of ontslag van rechtsvervolging;
+    - 2° veroordeling, indien een straf is opgelegd, gevolgd door gehele uitvoering, gratie of verjaring der straf.
 3. Niemand kan worden vervolgd wegens een feit dat te zijnen aanzien in een vreemde staat onherroepelijk is afgedaan door de voldoening aan een voorwaarde, door de bevoegde autoriteit gesteld ter voorkoming van strafvervolging.
 
 #### Artikel 69 WvSr [Dood van verdachte]
@@ -298,9 +298,9 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 
 1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft met gevangenisstraf van ten hoogste 54 maanden of geldboete van de vierde categorie.
 2. De schuldige wordt gestraft:
-   - 1° met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;
-   - 2° met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;
-   - 3° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
+    - 1° met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;
+    - 2° met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;
+    - 3° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
 3. [Artikel 81](#artikel-81-wvsr-begripsbepaling-plegen-van-geweld) blijft buiten toepassing.
 
 #### Artikel 141a WvSr [Hulp bij geweldpleging]
@@ -326,17 +326,17 @@ Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt
 
 Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstroming veroorzaakt, wordt gestraft:
 
-- 1° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;
-- 2° met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;
-- 3° met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
+-   1° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;
+-   2° met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;
+-   3° met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
 ### Titel VIII [Misdrijven tegen het openbaar gezag]
 
 #### Artikel 177 WvSr [Omkoping van ambtenaar]
 
 1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:
-   - 1° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;
-   - 2° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.
+    - 1° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;
+    - 2° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.
 2. Met dezelfde straf wordt gestraft hij die een feit als in het eerste lid, onder 1°, omschreven, begaat jegens een persoon in het vooruitzicht van een dienstbetrekking bij een overheidswerkgever, indien de dienstbetrekking bij een overheidswerkgever is gevolgd.
 3. Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.
 
@@ -352,17 +352,17 @@ Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werk
 
 De dwang en de wederspannigheid in de artikelen [179](#artikel-179-wvsr-ambtsdwang) en [180](#artikel-180-wvsr-wederspannigheid) omschreven worden gestraft:
 
-- 1° met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;
-- 2° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
-- 3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
+-   1° met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;
+-   2° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
+-   3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
 #### Artikel 182 WvSr [Ambtsdwang en wederspannigheid in vereniging]
 
 1. De dwang en de wederspannigheid in de artikelen [179](#artikel-179-wvsr-ambtsdwang) en [180](#artikel-180-wvsr-wederspannigheid) omschreven, door twee of meer personen met verenigde krachten gepleegd, worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
 2. De schuldige wordt gestraft:
-   - 1° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien het door hem gepleegde misdrijf of de daarbij door hem gepleegde feitelijkheden enig lichamelijk letsel ten gevolge hebben;
-   - 2° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
-   - 3° met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
+    - 1° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien het door hem gepleegde misdrijf of de daarbij door hem gepleegde feitelijkheden enig lichamelijk letsel ten gevolge hebben;
+    - 2° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
+    - 3° met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
 #### Artikel 184 WvSr [Niet voldoen aan ambtelijk bevel]
 
@@ -384,9 +384,9 @@ Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, wetende dat 
 #### Artikel 189 WvSr [Hulp aan dader na misdrijf]
 
 1. Met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie wordt gestraft:
-   - 1° hij die opzettelijk iemand die schuldig is aan of verdachte is van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan de nasporing van of aanhouding door de ambtenaren van de justitie of politie;
-   - 2° hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te bedekken of de nasporing of vervolging te beletten of te bemoeilijken, voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen van het misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt;
-   - 3° hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e](#artikel-36e-wvsr-ontneming-wederrechtelijk-verkregen-voordeel) aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
+    - 1° hij die opzettelijk iemand die schuldig is aan of verdachte is van enig misdrijf, verbergt of hem behulpzaam is in het ontkomen aan de nasporing van of aanhouding door de ambtenaren van de justitie of politie;
+    - 2° hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te bedekken of de nasporing of vervolging te beletten of te bemoeilijken, voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen van het misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt;
+    - 3° hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e](#artikel-36e-wvsr-ontneming-wederrechtelijk-verkregen-voordeel) aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
 2. In het geval het misdrijf, bedoeld in het eerste lid, een terroristisch misdrijf betreft, kan een gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie worden opgelegd.
 3. Deze bepalingen zijn niet van toepassing op hem die de daarin vermelde handelingen verricht ten einde gevaar van vervolging te ontgaan of af te wenden van een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie of van zijn echtgenoot of gewezen echtgenoot.
 
@@ -444,8 +444,8 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 #### Artikel 284 WvSr [Dwang]
 
 1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft:
-   - 1° hij die een ander door geweld of enige andere feitelijkheid of door bedreiging met geweld of enige andere feitelijkheid, gericht hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt iets te doen, niet te doen of te dulden;
-   - 2° hij die een ander door bedreiging met smaad of smaadschrift dwingt iets te doen, niet te doen of te dulden.
+    - 1° hij die een ander door geweld of enige andere feitelijkheid of door bedreiging met geweld of enige andere feitelijkheid, gericht hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt iets te doen, niet te doen of te dulden;
+    - 2° hij die een ander door bedreiging met smaad of smaadschrift dwingt iets te doen, niet te doen of te dulden.
 2. In het geval onder 2° omschreven wordt het misdrijf niet vervolgd dan op klacht van hem tegen wie het gepleegd is.
 
 #### Artikel 285 WvSr [Bedreiging met ernstig misdrijf]
@@ -503,10 +503,10 @@ Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, w
 #### Artikel 304 WvSr [Strafverhogende omstandigheden mishandeling]
 
 1. De in de [artikelen 300–303](#artikel-300-wvsr-mishandeling) bepaalde gevangenisstraffen kunnen met een derde worden verhoogd:
-   - 1° ten aanzien van de schuldige die het misdrijf begaat tegen zijn moeder, zijn vader tot wie hij in familierechtelijke betrekking staat, zijn echtgenoot, zijn levensgezel, zijn kind, een kind over wie hij het gezag uitoefent of een kind dat hij verzorgt of opvoedt als behorend tot zijn gezin of een aan zijn zorg, opleiding of waakzaamheid toevertrouwde minderjarige;
-   - 2° ten aanzien van de schuldige die het misdrijf stelselmatig begaat tegen een minderjarige;
-   - 3° indien het misdrijf wordt gepleegd tegen een ambtenaar gedurende of ter zake van de rechtmatige uitoefening van zijn bediening;
-   - 4° indien het misdrijf wordt gepleegd door toediening van voor het leven of de gezondheid schadelijke stoffen.
+    - 1° ten aanzien van de schuldige die het misdrijf begaat tegen zijn moeder, zijn vader tot wie hij in familierechtelijke betrekking staat, zijn echtgenoot, zijn levensgezel, zijn kind, een kind over wie hij het gezag uitoefent of een kind dat hij verzorgt of opvoedt als behorend tot zijn gezin of een aan zijn zorg, opleiding of waakzaamheid toevertrouwde minderjarige;
+    - 2° ten aanzien van de schuldige die het misdrijf stelselmatig begaat tegen een minderjarige;
+    - 3° indien het misdrijf wordt gepleegd tegen een ambtenaar gedurende of ter zake van de rechtmatige uitoefening van zijn bediening;
+    - 4° indien het misdrijf wordt gepleegd door toediening van voor het leven of de gezondheid schadelijke stoffen.
 
 ### Titel XXI [Veroorzaken van de dood of van lichamelijk letsel door schuld]
 
@@ -529,23 +529,23 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 #### Artikel 311 WvSr [Gekwalificeerde diefstal]
 
 1. Met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie wordt gestraft:
-   - 1° diefstal van vee uit de weide;
-   - 2° diefstal bij gelegenheid van brand, ontploffing, watersnood, schipbreuk, stranding, spoorwegongeval, oproer, muiterij of oorlogsnood;
-   - 3° diefstal in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt;
-   - 4° diefstal door twee of meer verenigde personen;
-   - 5° diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of het aannemen van een valse naam of van een valse hoedanigheid, of door listige kunstgrepen, of door een samenweefsel van verdichtsels;
-   - 6° diefstal met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
+    - 1° diefstal van vee uit de weide;
+    - 2° diefstal bij gelegenheid van brand, ontploffing, watersnood, schipbreuk, stranding, spoorwegongeval, oproer, muiterij of oorlogsnood;
+    - 3° diefstal in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt;
+    - 4° diefstal door twee of meer verenigde personen;
+    - 5° diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of het aannemen van een valse naam of van een valse hoedanigheid, of door listige kunstgrepen, of door een samenweefsel van verdichtsels;
+    - 6° diefstal met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
 2. Indien de onder 3° omschreven diefstal vergezeld gaat van een der in onder 4° en 5° vermelde omstandigheden, wordt gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie opgelegd.
 
 #### Artikel 312 WvSr [Diefstal met geweldpleging]
 
 1. Met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie wordt gestraft diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren.
 2. Gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie wordt opgelegd:
-   - 1° indien het feit wordt gepleegd hetzij gedurende de voor de nachtrust bestemde tijd in een woning of op een besloten erf waarop een woning staat; hetzij op de openbare weg; hetzij in een spoortrein die in beweging is;
-   - 2° indien het feit wordt gepleegd door twee of meer verenigde personen;
-   - 3° indien de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum;
-   - 4° indien het feit zwaar lichamelijk letsel ten gevolge heeft;
-   - 5° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
+    - 1° indien het feit wordt gepleegd hetzij gedurende de voor de nachtrust bestemde tijd in een woning of op een besloten erf waarop een woning staat; hetzij op de openbare weg; hetzij in een spoortrein die in beweging is;
+    - 2° indien het feit wordt gepleegd door twee of meer verenigde personen;
+    - 3° indien de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum;
+    - 4° indien het feit zwaar lichamelijk letsel ten gevolge heeft;
+    - 5° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
 3. Gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
 
 ### Titel XXIII [Afpersing en afdreiging]
@@ -586,8 +586,8 @@ Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort en
 #### Artikel 416 WvSr [Opzetheling]
 
 1. Als schuldig aan opzetheling wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie:
-   1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of een zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht wist dat het een door misdrijf verkregen goed betrof;
-   2. hij die opzettelijk uit winstbejag een door misdrijf verkregen goed voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een door misdrijf verkregen goed overdraagt.
+    1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of een zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht wist dat het een door misdrijf verkregen goed betrof;
+    2. hij die opzettelijk uit winstbejag een door misdrijf verkregen goed voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een door misdrijf verkregen goed overdraagt.
 2. Met dezelfde straf wordt gestraft hij die opzettelijk uit de opbrengst van enig door misdrijf verkregen goed voordeel trekt.
 
 #### Artikel 417 WvSr [Gewoonteheling]
@@ -597,8 +597,8 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met ge
 #### Artikel 417bis WvSr [Schuldheling]
 
 1. Als schuldig aan schuldheling wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de vijfde categorie:
-   1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht redelijkerwijs had moeten vermoeden dat het een door misdrijf verkregen goed betrof;
-   2. hij die uit winstbejag een goed voorhanden heeft of overdraagt dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een goed overdraagt, terwijl hij redelijkerwijs moet vermoeden dat het een door misdrijf verkregen goed betreft.
+    1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht redelijkerwijs had moeten vermoeden dat het een door misdrijf verkregen goed betrof;
+    2. hij die uit winstbejag een goed voorhanden heeft of overdraagt dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een goed overdraagt, terwijl hij redelijkerwijs moet vermoeden dat het een door misdrijf verkregen goed betreft.
 2. Met dezelfde straf wordt gestraft hij die uit de opbrengst van enig goed voordeel trekt, terwijl hij redelijkerwijs moet vermoeden dat het een door misdrijf verkregen goed betreft.
 
 ### Titel XXXA [Witwassen]
@@ -606,8 +606,8 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met ge
 #### Artikel 420bis WvSr [Witwassen]
 
 1. Als schuldig aan witwassen wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie:
-   1. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt of verhult wie de rechthebbende op een voorwerp is of het voorhanden heeft, terwijl hij weet dat het voorwerp — onmiddellijk of middellijk — afkomstig is uit enig misdrijf;
-   2. hij die een voorwerp verwerft, voorhanden heeft, overdraagt of omzet of van een voorwerp gebruik maakt, terwijl hij weet dat het voorwerp — onmiddellijk of middellijk — afkomstig is uit enig misdrijf.
+    1. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt of verhult wie de rechthebbende op een voorwerp is of het voorhanden heeft, terwijl hij weet dat het voorwerp — onmiddellijk of middellijk — afkomstig is uit enig misdrijf;
+    2. hij die een voorwerp verwerft, voorhanden heeft, overdraagt of omzet of van een voorwerp gebruik maakt, terwijl hij weet dat het voorwerp — onmiddellijk of middellijk — afkomstig is uit enig misdrijf.
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
 #### Artikel 420bis.1 WvSr [Eenvoudig witwassen]
@@ -632,10 +632,10 @@ Hij die zich buiten een door de gemeenteraad als geschikt voor ongeklede openbar
 
 Met geldboete van de tweede categorie wordt gestraft:
 
-- 1° hij die zonder daartoe gerechtigd te zijn een Nederlandse adellijke titel voert of een Nederlands ordeteken draagt;
-- 2° hij die zonder 's Konings verlof waar dit vereist wordt, een vreemd ordeteken, titel, rang of waardigheid aanneemt;
-- 3° hij die zonder daartoe gerechtigd te zijn de titel van advocaat of gerechtsdeurwaarder voert
-- 4° hij die, door het bevoegd gezag naar zijn identificerende persoonsgegevens gevraagd, een valse naam, voornaam, geboortedatum, geboorteplaats, adres waarop hij in de basisregistratie personen als ingezetene staat ingeschreven of woon- of verblijfplaats opgeeft.
+-   1° hij die zonder daartoe gerechtigd te zijn een Nederlandse adellijke titel voert of een Nederlands ordeteken draagt;
+-   2° hij die zonder 's Konings verlof waar dit vereist wordt, een vreemd ordeteken, titel, rang of waardigheid aanneemt;
+-   3° hij die zonder daartoe gerechtigd te zijn de titel van advocaat of gerechtsdeurwaarder voert
+-   4° hij die, door het bevoegd gezag naar zijn identificerende persoonsgegevens gevraagd, een valse naam, voornaam, geboortedatum, geboorteplaats, adres waarop hij in de basisregistratie personen als ingezetene staat ingeschreven of woon- of verblijfplaats opgeeft.
 
 ### Titel III [Overtredingen betreffende het openbaar gezag]
 

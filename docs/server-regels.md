@@ -31,11 +31,11 @@ Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het nie
 7. Gezond verstand - Omdat het roleplay is, is elke situatie anders en kan niet alles binnen deze regels worden beschreven. Dus is het belangrijk om te onthouden dat dit een volwassen community is en sommige dingen gewoon gezond verstand zijn.
 8. Een ander lid van de community dwingen of aanmoedigen om een regel te overtreden.
 9. Trollen - De volgende voorbeelden worden beschouwd als trollen, maar er zijn er meer, dus gebruik gezond verstand:
-   - Om de politie, ambulance of anderen heen rennen;
-   - Jezelf voor voertuigen werpen;
-   - Muziek afspelen (earrape);
-   - Chat spammen;
-   - Van gebouwen af springen zonder RP.
+    - Om de politie, ambulance of anderen heen rennen;
+    - Jezelf voor voertuigen werpen;
+    - Muziek afspelen (earrape);
+    - Chat spammen;
+    - Van gebouwen af springen zonder RP.
 10. Gevoelige roleplay - Doorgaan met roleplay van onderwerpen met een gevoelige aard nadat een andere speler jou heeft gevraagd om te stoppen wordt niet getolereerd. **Permanente Ban**
 11. Bedreigingen om een report te maken / RP breken in voice chat. Er zijn zoveel verschillende mensen in de server met allemaal verschillende standpunten en meningsverschillen maken allemaal uit van het spel, maar bespreek ze alsjeblieft niet in het spel, breek ook de RP niet in voice chat. Gebruik alleen de Discord om deze speler te rapporteren of te discussiëren.
 12. Het ontwijken van een ban is niet toegestaan.
@@ -44,23 +44,23 @@ Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het nie
 
 1. Game mods - Het is niet toegestaan om enige vorm van mods te gebruiken die de functionaliteit van uw spel veranderd terwijl je bent ingelogd op onze servers. Dit geldt ook voor programma's voor grafische verbetering dat voordeel voor jou oplevert.
 2. Exploiting - Het gebruik maken van exploits binnen de gameservers is verboden. Als je eentje ontdekt meldt dit dan bij staff in de Discord.
-3. Combat loggen - Uitloggen op enig moment tijdens een RP is exploiting. Enkele voorbeelden hiervan zijn:  
-    - uitloggen tijdens een vuurgevecht;  
-    - uitloggen als je achtervolgd wordt;  
-    - uitloggen als je gearresteerd wordt;  
-    - als je dood bent en je zit in het revive menu;  
-    - uitloggen om spullen te redden;  
+3. Combat loggen - Uitloggen op enig moment tijdens een RP is exploiting. Enkele voorbeelden hiervan zijn:
+    - uitloggen tijdens een vuurgevecht;
+    - uitloggen als je achtervolgd wordt;
+    - uitloggen als je gearresteerd wordt;
+    - als je dood bent en je zit in het revive menu;
+    - uitloggen om spullen te redden;
     - uitloggen als je geboeid bent.  
-   De straf hierop is een **Permanente Ban**. Staff kan een weloverwogen beslissing nemen, afhankelijk van of u een poging heeft gedaan om het probleem op te lossen.
+      De straf hierop is een **Permanente Ban**. Staff kan een weloverwogen beslissing nemen, afhankelijk van of u een poging heeft gedaan om het probleem op te lossen.
 4. Combat storing - Jouw voertuig opslaan om roleplay te voorkomen, zoals het stallen van een voertuigen terwijl je achtervolgd wordt om er voordeel uit te halen.
 
 ### Artikel 3 [Reclame Maken]
 
 1. Adverteren - Reclame maken voor een van de volgende diensten op onze servers/Discord zonder toestemming is een **Permanente Ban**.
-   - FiveM servers;
-   - Discord;
-   - Social Media groepen;
-   - Websites/andere communities.
+    - FiveM servers;
+    - Discord;
+    - Social Media groepen;
+    - Websites/andere communities.
 
 ### Artikel 4 [Discord]
 
@@ -83,20 +83,20 @@ Als je hier bent voor drama of ruzie (buiten je RP karakter om), dan zal het nie
 2. Random Death Match (RDM) - Een andere speler aanvallen zonder deel te nemen aan enige vorm van hoogwaardige roleplay wordt gezien als RDM.  
    Bijvoorbeeld: Niet genoeg tijd geven om aan jouw bevel te voldoen; "Handen omhoog of ik schiet" en daarna aftellen. Worden beiden niet gezien als kwaliteit roleplay, probeer in ieder geval een interessant roleplay verhaal te bedenken voordat je geweld overweegt. Massa RDM is een **Permanente Ban**
 3. Uitlokken - Opzettelijk acties ondernemen om een scenario te creëren waarin je wordt achtervolgd of betrokken raakt, vooral om een vuurgevecht te veroorzaken. Voorbeelden:
-   - Een tankstation beroven met de bedoeling een vuurgevecht te houden;
-   - Opzettelijk misdaden begaan in het bijzijn van de politie;
-   - Schelden op een groep gang leden.
+    - Een tankstation beroven met de bedoeling een vuurgevecht te houden;
+    - Opzettelijk misdaden begaan in het bijzijn van de politie;
+    - Schelden op een groep gang leden.
 4. Spam - Je mag niet spammen in OOC chat, /me of Twitter.
 5. Powergaming - Een scenario forceren waarin je, ongeacht de roleplay van de andere partij zult winnen. Bijvoorbeeld:
-   - Roleplay met superkrachten;
-   - Roleplay met dodelijke verwondingen terwijl ze nog maar klein waren om roleplay met de ambulance te vermijden;
-   - Gebouwen afsluiten met auto's om toegang van andere spelers te voorkomen;
+    - Roleplay met superkrachten;
+    - Roleplay met dodelijke verwondingen terwijl ze nog maar klein waren om roleplay met de ambulance te vermijden;
+    - Gebouwen afsluiten met auto's om toegang van andere spelers te voorkomen;
 6. IC - Wat er in roleplay gebeurt, moet daar ook blijven. Breng de problemen van je karakter niet buiten het spel, breng evenmin je echte problemen met andere spelers in het spel. Jij bent jouw karakter niet en zij zijn jou niet.
-7. Onrealistisch rijden is niet toegestaan. Onrealistisch rijden wordt gedefinieerd als:  
-    - het uitvoeren van onrealistische stuntsprongen;  
-    - van kliffen afrijden en doorrijden alsof er niets is gebeurd;  
+7. Onrealistisch rijden is niet toegestaan. Onrealistisch rijden wordt gedefinieerd als:
+    - het uitvoeren van onrealistische stuntsprongen;
+    - van kliffen afrijden en doorrijden alsof er niets is gebeurd;
     - het rijden met extreem hoge snelheden in stedelijke gebieden;  
-   Tijdens politie achtervolgingen zijn overdreven snelheden toegestaan.
+      Tijdens politie achtervolgingen zijn overdreven snelheden toegestaan.
 
 ### Artikel 7 [Roleplay Regels]
 
@@ -120,14 +120,14 @@ Als je eenmaal respawnt herinner je je nog steeds je vrienden, voertuigen, huize
 Als er een woordenwisseling heeft plaatsgevonden met een andere speler waardoor je dood bent gegaan, is het conflict die voor je respawn zorgde over zodra je wakker wordt in het ziekenhuis (respawnen).
 
 1. Een new life rule begint nadat je respawnt als:
-   - Jouw karakter respawnt in enig roleplay scenario, behalve volgens [Artikel 9](#artikel-9-new-life-rule), tweede lid.
+    - Jouw karakter respawnt in enig roleplay scenario, behalve volgens [Artikel 9](#artikel-9-new-life-rule), tweede lid.
 2. Een new life rule begint niet nadat je respawnt als:
-   - Je hierover door een staff lid bent geinformeerd dat dit RDM/RVDM was.
+    - Je hierover door een staff lid bent geinformeerd dat dit RDM/RVDM was.
 3. Als je respawnt en NLR is van toepassing dan:
-   - Je karakter herinnert zich neits van het vorige roleplay scenario;
-   - Elk conflict die je personage had met hun moordenaar(s) is beëindigd;
-   - Je karakter mag gedurende ten minste 15 minuten niet terugkeren naar de locatie van zijn dood;
-   - Je karakter mag niet opnieuw het scenario betreden die voor zijn dood zorgde.
+    - Je karakter herinnert zich neits van het vorige roleplay scenario;
+    - Elk conflict die je personage had met hun moordenaar(s) is beëindigd;
+    - Je karakter mag gedurende ten minste 15 minuten niet terugkeren naar de locatie van zijn dood;
+    - Je karakter mag niet opnieuw het scenario betreden die voor zijn dood zorgde.
 
 ### Artikel 10 [Karakter Regels]
 

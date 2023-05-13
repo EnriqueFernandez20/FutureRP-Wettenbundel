@@ -47,8 +47,8 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 
 1. Op verzoek van de aangehouden verdachte geeft de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, onverwijld kennis van diens vrijheidsbeneming aan ten minste een door de verdachte aangeduide persoon.
 2. De hulpofficier van justitie kan de in het eerste lid bedoelde kennisgeving uitstellen voor zover en voor zolang als dit wordt gerechtvaardigd door een dringende noodzaak om:
-   1. ernstige negatieve gevolgen voor het leven, de vrijheid of de fysieke integriteit van een persoon te voorkomen of
-   2. te voorkomen dat aanzienlijke schade aan het onderzoek kan worden toegebracht.
+    1. ernstige negatieve gevolgen voor het leven, de vrijheid of de fysieke integriteit van een persoon te voorkomen of
+    2. te voorkomen dat aanzienlijke schade aan het onderzoek kan worden toegebracht.
 3. De in het derde lid bedoelde beslissing en de gronden waarop deze berust, worden in het proces-verbaal vermeld.
 
 #### Artikel 28 WvSv [Bijstand door raadsman]
@@ -163,9 +163,9 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 #### Artikel 67 WvSv [Voorlopige hechtenis. Ernstige bezwaren]
 
 1. Een bevel tot voorlopige hechtenis kan worden gegeven in geval van verdenking van:
-   1. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 48 maanden of meer is gesteld;
-   2. een der misdrijven omschreven in de [artikelen 140, tweede lid](wetboek-van-strafrecht.md#artikel-140-wvsr-deelneming-aan-criminele-organisatie), [141a](wetboek-van-strafrecht.md#artikel-141a-wvsr-hulp-bij-geweldpleging), [151](wetboek-van-strafrecht.md#artikel-151-wvsr-onttrekken-van-lijk-aan-nasporing), [284, eerste lid](wetboek-van-strafrecht.md#artikel-284-wvsr-dwang), [285, eerste lid](wetboek-van-strafrecht.md#artikel-285-wvsr-bedreiging-met-ernstig-misdrijf), [285b](wetboek-van-strafrecht.md#artikel-285b-wvsr-stalking), [300, eerste lid](wetboek-van-strafrecht.md#artikel-300-wvsr-mishandeling), [321](wetboek-van-strafrecht.md#artikel-321-wvsr-verduistering), [350](wetboek-van-strafrecht.md#artikel-350-wvsr-beschadigen-goederendieren), [417bis](wetboek-van-strafrecht.md#artikel-417bis-wvsr-schuldheling), [420bis.1](wetboek-van-strafrecht.md#artikel-420bis1-wvsr-eenvoudig-witwassen) van het Wetboek van Strafrecht;
-   3. de [artikelen 11, tweede lid](opiumwet.md#artikel-11-opw-sanctie-behorende-bij-artikel-3), en [11a](opiumwet.md#artikel-11a-opw-voorbereidingshandelingen-hennepteelt) van de Opiumwet;
+    1. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 48 maanden of meer is gesteld;
+    2. een der misdrijven omschreven in de [artikelen 140, tweede lid](wetboek-van-strafrecht.md#artikel-140-wvsr-deelneming-aan-criminele-organisatie), [141a](wetboek-van-strafrecht.md#artikel-141a-wvsr-hulp-bij-geweldpleging), [151](wetboek-van-strafrecht.md#artikel-151-wvsr-onttrekken-van-lijk-aan-nasporing), [284, eerste lid](wetboek-van-strafrecht.md#artikel-284-wvsr-dwang), [285, eerste lid](wetboek-van-strafrecht.md#artikel-285-wvsr-bedreiging-met-ernstig-misdrijf), [285b](wetboek-van-strafrecht.md#artikel-285b-wvsr-stalking), [300, eerste lid](wetboek-van-strafrecht.md#artikel-300-wvsr-mishandeling), [321](wetboek-van-strafrecht.md#artikel-321-wvsr-verduistering), [350](wetboek-van-strafrecht.md#artikel-350-wvsr-beschadigen-goederendieren), [417bis](wetboek-van-strafrecht.md#artikel-417bis-wvsr-schuldheling), [420bis.1](wetboek-van-strafrecht.md#artikel-420bis1-wvsr-eenvoudig-witwassen) van het Wetboek van Strafrecht;
+    3. de [artikelen 11, tweede lid](opiumwet.md#artikel-11-opw-sanctie-behorende-bij-artikel-3), en [11a](opiumwet.md#artikel-11a-opw-voorbereidingshandelingen-hennepteelt) van de Opiumwet;
 
 #### Artikel 94 WvSv [Vatbaarheid voor inbeslagneming. Kennisgeving. Reçu]
 
@@ -191,8 +191,8 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 
 1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), is de opsporingsambtenaar bevoegd ter inbeslagneming een vervoermiddel, met uitzondering van het woongedeelte zonder toestemming van de bewoner, te doorzoeken en zich daartoe de toegang tot dit vervoermiddel te verschaffen.
 2. Indien zulks met het oog op de uitoefening van de in het eerste lid verleende bevoegdheid noodzakelijk is, kan de opsporingsambtenaar:
-   1. van de bestuurder van het vervoermiddel vorderen dat hij het vervoermiddel tot stilstand brengt, en
-   2. het vervoermiddel vervolgens naar een daartoe door hem aangewezen plaats overbrengen of door de bestuurder laten overbrengen.
+    1. van de bestuurder van het vervoermiddel vorderen dat hij het vervoermiddel tot stilstand brengt, en
+    2. het vervoermiddel vervolgens naar een daartoe door hem aangewezen plaats overbrengen of door de bestuurder laten overbrengen.
 
 #### Artikel 96c WvSv [Doorzoeken van plaatsen door (hulp-)OvJ ter inbeslagneming]
 
@@ -235,9 +235,9 @@ Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig 
 #### Artikel 141 WvSv [Algemene opsporingsbevoegdheid]
 
 1. Met de opsporing van strafbare feiten zijn belast:
-   1. de officieren van justitie;
-   2. de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder a, van de Politiewet 2012, en de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder c en d, van die wet, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
-   3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen militairen van de Koninklijke marechaussee;
+    1. de officieren van justitie;
+    2. de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder a, van de Politiewet 2012, en de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder c en d, van die wet, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
+    3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen militairen van de Koninklijke marechaussee;
 
 #### Artikel 161 WvSv [Bevoegdheid tot aangifte]
 
@@ -253,15 +253,15 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 
 1. De officier van justitie kan, indien hij vaststelt dat een overtreding is begaan dan wel een misdrijf waarop naar de wettelijke omschrijving gevangenisstraf is gesteld van niet meer dan 72 maanden, een strafbeschikking uitvaardigen.
 2. De volgende straffen en maatregelen kunnen worden opgelegd:
-   1. een taakstraf van ten hoogste honderdtachtig uren;
-   2. een geldboete;
-   3. onttrekking aan het verkeer;
-   4. de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer;
-   5. ontzegging van de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste zes maanden.
+    1. een taakstraf van ten hoogste honderdtachtig uren;
+    2. een geldboete;
+    3. onttrekking aan het verkeer;
+    4. de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer;
+    5. ontzegging van de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste zes maanden.
 3. Voorts kan de strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. Zij kunnen inhouden:
-   1. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;
-   2. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;
-   3. voldoening aan de staat van een geldbedrag of overdracht van in beslag genomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge [artikel 36e](wetboek-van-strafrecht.md#artikel-36e-wvsr-ontneming-wederrechtelijk-verkregen-voordeel) van het Wetboek van Strafrecht voor ontneming vatbare wederrechtelijk verkregen voordeel.
+    1. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;
+    2. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;
+    3. voldoening aan de staat van een geldbedrag of overdracht van in beslag genomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge [artikel 36e](wetboek-van-strafrecht.md#artikel-36e-wvsr-ontneming-wederrechtelijk-verkregen-voordeel) van het Wetboek van Strafrecht voor ontneming vatbare wederrechtelijk verkregen voordeel.
 
 ### Titel VI Behandeling van de zaak door de rechtbank
 

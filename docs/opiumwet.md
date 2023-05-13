@@ -3,9 +3,9 @@
 ## Artikel 1 Opw [Definities]
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
-   1. substantie: stof van menselijke, dierlijke, plantaardige of chemische oorsprong, daaronder begrepen dieren, planten, delen van dieren of planten, alsmede micro-organismen;
-   2. preparaat: een vast of vloeibaar mengsel van substanties;
-   3. middel: substantie of preparaat;
+    1. substantie: stof van menselijke, dierlijke, plantaardige of chemische oorsprong, daaronder begrepen dieren, planten, delen van dieren of planten, alsmede micro-organismen;
+    2. preparaat: een vast of vloeibaar mengsel van substanties;
+    3. middel: substantie of preparaat;
 2. Voor toepassing van deze wet en de daarop berustende bepalingen worden de zouten van de substanties met die substanties gelijkgesteld.
 3. Voor de toepassing van deze wet wordt onder vervaardigen begrepen raffineren en omzetten.
 
@@ -28,8 +28,8 @@ D. te vervaardigen.
 ## Artikel 9 Opw [Opsporingsbevoegdheden]
 
 1. De opsporingsambtenaren hebben, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is, toegang:
-   1. tot de vervoermiddelen, met inbegrip van woongedeelten, waarvan hun bekend is, of waarvan redelijkerwijze door hen kan worden vermoed, dat daarmede ingevoerd of vervoerd worden of dat daarin, daarop of daaraan bewaard worden of aanwezig zijn middelen als bedoeld in [lijst I](#lijst-i) of [II](#lijst-ii);
-   2. tot de plaatsen, waar een overtreding van deze wet gepleegd wordt of waar redelijkerwijze vermoed kan worden, dat zodanige overtreding gepleegd wordt.
+    1. tot de vervoermiddelen, met inbegrip van woongedeelten, waarvan hun bekend is, of waarvan redelijkerwijze door hen kan worden vermoed, dat daarmede ingevoerd of vervoerd worden of dat daarin, daarop of daaraan bewaard worden of aanwezig zijn middelen als bedoeld in [lijst I](#lijst-i) of [II](#lijst-ii);
+    2. tot de plaatsen, waar een overtreding van deze wet gepleegd wordt of waar redelijkerwijze vermoed kan worden, dat zodanige overtreding gepleegd wordt.
 2. Zij zijn bevoegd een persoon, verdacht van een bij deze wet als misdrijf strafbaar gesteld feit, bij het bestaan van ernstige bezwaren tegen deze, aan de kleding te onderzoeken.
 3. Zij zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
