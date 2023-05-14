@@ -59,8 +59,8 @@ Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen
 ### Artikel 9 WvW [Onbevoegd besturen]
 
 1. Het is degene die weet of redelijkerwijs moet weten dat hem bij rechterlijke uitspraak of strafbeschikking de bevoegdheid tot het besturen van motorrijtuigen is ontzegd, verboden gedurende de tijd dat hem die bevoegdheid is ontzegd, op de weg een motorrijtuig te besturen of als bestuurder te doen besturen.
-2. Het is degene van wie ingevolge artikel 164 de overgifte van een op zijn naam gesteld rijbewijs, een hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs of een internationaal rijbewijs is gevorderd, dan wel van wie zodanig bewijs is ingevorderd en aan wie dat bewijs niet is teruggegeven, verboden op de weg een motorrijtuig van de categorie of categorieën waarvoor dat bewijs was afgegeven, te besturen of als bestuurder te doen besturen.
-3. Het is degene van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](wet-mulder.md) de inlevering van het rijbewijs is gevorderd, dan wel wiens rijbewijs krachtens die wet is ingenomen, verboden op de weg een motorrijtuig, voor het besturen waarvan het rijbewijs is afgegeven, te besturen of als bestuurder te doen besturen met ingang van het tijdstip, bedoeld in artikel 30, eerste lid, van die wet.
+2. Het is degene van wie ingevolge [artikel 164](#artikel-164-wvw-overgifte-rijbewijs) de overgifte van een op zijn naam gesteld rijbewijs, een hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs of een internationaal rijbewijs is gevorderd, dan wel van wie zodanig bewijs is ingevorderd en aan wie dat bewijs niet is teruggegeven, verboden op de weg een motorrijtuig van de categorie of categorieën waarvoor dat bewijs was afgegeven, te besturen of als bestuurder te doen besturen.
+3. Het is degene van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](wet-mulder.md) de inlevering van het rijbewijs is gevorderd, dan wel wiens rijbewijs krachtens die wet is ingenomen, verboden op de weg een motorrijtuig, voor het besturen waarvan het rijbewijs is afgegeven, te besturen of als bestuurder te doen besturen met ingang van het tijdstip, bedoeld in [artikel 30, eerste lid, van die wet](./wet-mulder.md#artikel-30-wahv).
 
 ### Artikel 10 WvW [Wedstrijden met voertuigen op de weg]
 
@@ -125,6 +125,11 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     2. het rijbewijs dan wel het hem door het daartoe bevoegde gezag buiten Nederland afgegeven rijbewijs en, indien hem buiten Nederland een internationaal rijbewijs is afgegeven, dat bewijs;
 2. Indien het kentekenbewijs is afgegeven voor een aanhangwagen die overeenkomstig het krachtens deze wet bepaalde is voorzien van een identificatieplaat, kan aan de vordering worden voldaan binnen een bij algemene maatregel van bestuur vastgestelde termijn.
 3. Op de eerste vordering van de in [artikel 159](#artikel-159-wvw-aanwijzing-opsporingsambtenaren) bedoelde personen is de bestuurder van een voertuig, niet zijnde een motorrijtuig, verplicht dat voertuig te doen stilhouden.
+
+### Artikel 163 WvW
+
+1. Bij verdenking dat de bestuurder van een voertuig heeft gehandeld in strijd met [artikel 8](#artikel-8-wvw-besturen-onder-invloed), kan de opsporingsambtenaar hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in [artikel 8, tweede lid, onderdeel a](#artikel-8-wvw-besturen-onder-invloed).
+2. De bestuurder aan wie het in het eerste lid bedoelde bevel is gegeven, is verplicht ademlucht te blazen in een voor het onderzoek bestemd apparaat en gevolg te geven aan alle door de opsporingsambtenaar ten dienste van het onderzoek gegeven aanwijzingen.
 
 ### Artikel 164 WvW [Overgifte rijbewijs]
 

@@ -67,6 +67,10 @@
     1. inkomsten in geld uit arbeid van degene aan wie een administratieve sanctie is opgelegd;
     2. het tegoed van een rekening bij een bank, waarover degene aan wie de administratieve sanctie is opgelegd te eigen bate mag beschikken, alsmede, indien de bank en degene aan wie een administratieve sanctie is opgelegd in samenhang met die rekening een overeenkomst inzake krediet zijn aangegaan, op uit het ingevolge die overeenkomst verstrekte krediet.
 
+### Artikel 30 WAHV
+
+1. Degene wiens rijbewijs kan worden ingenomen door Onze Minister, is verplicht op eerste vordering van Onze Minister het rijbewijs in te leveren op een door Onze Minister te bepalen tijdstip en aan te wijzen plaats.
+
 ## Hoofdstuk X Overige bepalingen
 
 ### Artikel 34 WAHV
