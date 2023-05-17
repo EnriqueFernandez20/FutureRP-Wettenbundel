@@ -8,10 +8,10 @@ Om de wetten enigzins simpel te maken voor de gemiddelde burger hebben wij "gron
 
 Deze grondbeginselen zijn vastgelegd in de verschillende wetboeken, maar worden hier kort weergegeven.
 
-1. Deze grondbeginselen dienen nageleefd te worden. Indien dit niet het geval is zal er een **OvJ** ter sprake komen (als deze niet beschikbaar is wordt de verdachte vrijgelaten).
+1. Deze grondbeginselen dienen nageleefd te worden. Indien dit niet het geval is zal er een **HOvJ** ter sprake komen (als deze niet beschikbaar is wordt de verdachte vrijgelaten).
 2. De maximale strafmaat bedraagt **360** maanden.
 3. Wanneer een verdachte wordt aangehouden dienst deze de reden van aanhouding te horen.
-4. Vooraaf aan enig verhoor dient de verdachte zijn rechten te horen. De mededeling van de rechten wordt opgenomen in het proces-verbaal. Deze rechten zijn als volgt:
+4. Vooraf aan enig verhoor dient de verdachte zijn rechten te horen. De mededeling van de rechten wordt opgenomen in het proces-verbaal. Deze rechten zijn als volgt:
     1. U bent niet tot antwoorden verplicht.
     2. U heeft het recht op een advocaat. Indien u deze niet kan veroorloven wordt deze betaald door het OM.
 5. Het volgende hoeft niet gezegd te worden, maar de verdachte heeft ook recht op:
