@@ -13,7 +13,7 @@ Deze grondbeginselen zijn vastgelegd in de verschillende wetboeken, maar worden 
 3. Wanneer een verdachte wordt aangehouden dienst deze de reden van aanhouding te horen.
 4. Vooraf aan enig verhoor dient de verdachte zijn rechten te horen. De mededeling van de rechten wordt opgenomen in het proces-verbaal. Deze rechten zijn als volgt:
     1. U bent niet tot antwoorden verplicht.
-    2. U heeft het recht op een advocaat. Indien u deze niet kan veroorloven wordt deze betaald door het OM.
+    2. U heeft het recht op consultatie- en verhoor bijstand.
 5. Het volgende hoeft niet gezegd te worden, maar de verdachte heeft ook recht op:
     1. Medische hulp indien de verdachte op korte termijn het risico loopt om te sterven of het risico loopt om onomkeerbare schade op te lopen aan zijn ledemaat of orgaan.
     2. De juiste informatie met betrekking tot zijn strafrechtelijk proces, m.u.v. vertrouwelijke informatie (zoals .oa.: recherchedossiers, naam indiener aangifte, etc.)
