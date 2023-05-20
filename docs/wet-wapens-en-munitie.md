@@ -34,30 +34,30 @@ In deze wet wordt verstaan onder:
    Categorie II
 
     1° vuurwapens die niet onder een van de andere categorieën vallen;  
-    2° vuurwapens, geschikt om automatisch te vuren;  
-    3° vuurwapens die zodanig zijn vervaardigd of gewijzigd dat het dragen niet of minder zichtbaar is dan wel dat de aanvalskracht wordt verhoogd;  
-    4° vuurwapens die uiterlijk gelijken op een ander voorwerp dan een wapen;  
-    5° voorwerpen waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, met uitzondering van medische hulpmiddelen;  
-    6° voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen, met uitzondering van medische hulpmiddelen en van vuurwapens in de vorm van geweren, revolvers en pistolen, bestemd voor het afschieten van munitie met weerloosmakende of traanverwekkende stof;  
-    7° voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing.  
-    Categorie III
+     2° vuurwapens, geschikt om automatisch te vuren;  
+     3° vuurwapens die zodanig zijn vervaardigd of gewijzigd dat het dragen niet of minder zichtbaar is dan wel dat de aanvalskracht wordt verhoogd;  
+     4° vuurwapens die uiterlijk gelijken op een ander voorwerp dan een wapen;  
+     5° voorwerpen waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, met uitzondering van medische hulpmiddelen;  
+     6° voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen, met uitzondering van medische hulpmiddelen en van vuurwapens in de vorm van geweren, revolvers en pistolen, bestemd voor het afschieten van munitie met weerloosmakende of traanverwekkende stof;  
+     7° voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing.  
+     Categorie III
 
     1° vuurwapens in de vorm van geweren, revolvers en pistolen voor zover zij niet vallen onder categorie II sub b, c of f;  
-    2° toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten;  
-    3° werpmessen;  
-    4° alarm- en startpistolen en -revolvers, met uitzondering van alarm- en startpistolen die:  
-    &nbsp;&nbsp;&nbsp;&nbsp;a. geen loop of een kennelijk verkorte, geheel gevulde loop hebben;  
-    &nbsp;&nbsp;&nbsp;&nbsp;b. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en  
-    &nbsp;&nbsp;&nbsp;&nbsp;c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of op de lengterichting van het wapen.  
-    Categorie IV
+     2° toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten;  
+     3° werpmessen;  
+     4° alarm- en startpistolen en -revolvers, met uitzondering van alarm- en startpistolen die:  
+     &nbsp;&nbsp;&nbsp;&nbsp;a. geen loop of een kennelijk verkorte, geheel gevulde loop hebben;  
+     &nbsp;&nbsp;&nbsp;&nbsp;b. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en  
+     &nbsp;&nbsp;&nbsp;&nbsp;c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of op de lengterichting van het wapen.  
+     Categorie IV
 
     1° blanke wapens waarvan het lemmet meer dan een snijkant heeft, voor zover zij niet vallen onder categorie I;  
-    2° degens, zwaarden, sabels en bajonetten;  
-    3° wapenstokken;  
-    4° lucht-, gas- en veerdrukwapens, behoudens zulke door Onze Minister overeenkomstig categorie I, sub g, aangewezen die zodanig gelijken op een vuurwapen dat zij voor bedreiging of afdreiging geschikt zijn;  
-    5° kruisbogen en harpoenen;  
-    6° bij regeling van Onze Minister aangewezen voorwerpen die geschikt zijn om daarmee personen ernstig lichamelijk letsel toe te brengen;  
-    7° Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.
+     2° degens, zwaarden, sabels en bajonetten;  
+     3° wapenstokken;  
+     4° lucht-, gas- en veerdrukwapens, behoudens zulke door Onze Minister overeenkomstig categorie I, sub g, aangewezen die zodanig gelijken op een vuurwapen dat zij voor bedreiging of afdreiging geschikt zijn;  
+     5° kruisbogen en harpoenen;  
+     6° bij regeling van Onze Minister aangewezen voorwerpen die geschikt zijn om daarmee personen ernstig lichamelijk letsel toe te brengen;  
+     7° Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.
 
 2. Munitie in de zin van deze wet is, onderverdeeld in de volgende categorieën:  
    Categorie II  
@@ -117,6 +117,7 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 
 1. De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 2. De opsporingsambtenaren zijn bevoegd personen aan hun kleding te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van:
-   1. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
-   2. een gepleegde overtreding van de [artikelen 13](#artikel-13-wwm-vervaardigen-etc), [26](#artikel-26-wwm-verbod-voorhanden-hebben) of [27](#artikel-27-wwm-verbod-dragen-van-wapens); 3. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
+    1. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
+    2. een gepleegde overtreding van de [artikelen 13](#artikel-13-wwm-vervaardigen-etc), [26](#artikel-26-wwm-verbod-voorhanden-hebben) of [27](#artikel-27-wwm-verbod-dragen-van-wapens);
+    3. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
 3. De opsporingsambtenaren zijn bevoegd een persoon die zich bevindt op een luchthaven, te allen tijde aan zijn kleding en de verpakking van goederen, met inbegrip van reisbagage, alsmede diens vervoermiddel, te onderzoeken.
