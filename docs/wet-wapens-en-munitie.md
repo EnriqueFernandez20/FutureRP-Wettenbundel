@@ -116,5 +116,7 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 ### Artikel 52 WWM [Inbeslagneming. Uitlevering. Onderzoek aan kleding. Luchtvaartterreinen]
 
 1. De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
-2. De opsporingsambtenaren zijn bevoegd personen aan hun kleding te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van: 3. een gepleegd strafbaar feit waarbij wapens zijn gebruikt; 2. een gepleegde overtreding van de [artikelen 13](#artikel-13-wwm-vervaardigen-etc), [26](#artikel-26-wwm-verbod-voorhanden-hebben) of [27](#artikel-27-wwm-verbod-dragen-van-wapens); 3. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
+2. De opsporingsambtenaren zijn bevoegd personen aan hun kleding te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van:
+   1. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
+   2. een gepleegde overtreding van de [artikelen 13](#artikel-13-wwm-vervaardigen-etc), [26](#artikel-26-wwm-verbod-voorhanden-hebben) of [27](#artikel-27-wwm-verbod-dragen-van-wapens); 3. aanwijzingen dat een strafbaar feit als bedoeld onder a of b zal worden gepleegd.
 3. De opsporingsambtenaren zijn bevoegd een persoon die zich bevindt op een luchthaven, te allen tijde aan zijn kleding en de verpakking van goederen, met inbegrip van reisbagage, alsmede diens vervoermiddel, te onderzoeken.
