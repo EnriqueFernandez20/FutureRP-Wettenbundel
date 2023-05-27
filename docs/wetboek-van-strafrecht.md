@@ -428,6 +428,8 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 1. Belediging, strafbaar krachtens deze titel, wordt niet vervolgd dan op klacht van hem tegen wie het misdrijf is gepleegd.
 
+### Titel XVIII [Misdrijven tegen de persoonlijke vrijheid]
+
 #### Artikel 282 WvSr [Opzettelijke vrijheidsberoving]
 
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt, wordt gestraft met gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie.
