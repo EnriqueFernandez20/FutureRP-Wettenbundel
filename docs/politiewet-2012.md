@@ -12,8 +12,11 @@
 
 ### Artikel 2 PW 2012 [Ambtenaren van politie]
 
-1. Ambtenaren van politie in de zin van deze wet zijn: 1. ambtenaren die zijn aangesteld voor de uitvoering van de politietaak; 2. ambtenaren die zijn aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie; 3. vrijwillige ambtenaren die zijn aangesteld voor de uitvoering van de politietaak, onderscheidenlijk voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie; 4.
-   ambtenaren van de rijksrecherche die zijn aangesteld voor de uitvoering van de politietaak, onderscheidenlijk voor de uitvoering van technische, administratieve en andere taken ten dienste van de rijksrecherche.
+1. Ambtenaren van politie in de zin van deze wet zijn: 
+   1. ambtenaren die zijn aangesteld voor de uitvoering van de politietaak; 
+   2. ambtenaren die zijn aangesteld voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie; 
+   3. vrijwillige ambtenaren die zijn aangesteld voor de uitvoering van de politietaak, onderscheidenlijk voor de uitvoering van technische, administratieve en andere taken ten dienste van de politie;
+   4. ambtenaren van de rijksrecherche die zijn aangesteld voor de uitvoering van de politietaak, onderscheidenlijk voor de uitvoering van technische, administratieve en andere taken ten dienste van de rijksrecherche.
 
 ## Hoofdstuk 2 De uitvoering van de politietaak
 
