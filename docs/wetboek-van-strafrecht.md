@@ -174,8 +174,8 @@ Voorbereiding noch poging bestaat indien het misdrijf niet is voltooid tengevolg
 
 Als medeplichtigen van een misdrijf worden gestraft:
 
--   1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
--   2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
+- 1° zij die opzettelijk behulpzaam zijn bij het plegen van het misdrijf;
+- 2° zij die opzettelijk gelegenheid, middelen of inlichtingen verschaffen tot het plegen van het misdrijf.
 
 #### Artikel 49 WvSr [Strafbepaling bij medeplichtigheid]
 
@@ -326,9 +326,9 @@ Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt
 
 Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstroming veroorzaakt, wordt gestraft:
 
--   1° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;
--   2° met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;
--   3° met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
+- 1° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;
+- 2° met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;
+- 3° met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
 ### Titel VIII [Misdrijven tegen het openbaar gezag]
 
@@ -352,9 +352,9 @@ Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werk
 
 De dwang en de wederspannigheid in de artikelen [179](#artikel-179-wvsr-ambtsdwang) en [180](#artikel-180-wvsr-wederspannigheid) omschreven worden gestraft:
 
--   1° met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;
--   2° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
--   3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
+- 1° met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;
+- 2° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
+- 3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
 
 #### Artikel 182 WvSr [Ambtsdwang en wederspannigheid in vereniging]
 
@@ -634,10 +634,10 @@ Hij die zich buiten een door de gemeenteraad als geschikt voor ongeklede openbar
 
 Met geldboete van de tweede categorie wordt gestraft:
 
--   1° hij die zonder daartoe gerechtigd te zijn een Nederlandse adellijke titel voert of een Nederlands ordeteken draagt;
--   2° hij die zonder 's Konings verlof waar dit vereist wordt, een vreemd ordeteken, titel, rang of waardigheid aanneemt;
--   3° hij die zonder daartoe gerechtigd te zijn de titel van advocaat of gerechtsdeurwaarder voert
--   4° hij die, door het bevoegd gezag naar zijn identificerende persoonsgegevens gevraagd, een valse naam, voornaam, geboortedatum, geboorteplaats, adres waarop hij in de basisregistratie personen als ingezetene staat ingeschreven of woon- of verblijfplaats opgeeft.
+- 1° hij die zonder daartoe gerechtigd te zijn een Nederlandse adellijke titel voert of een Nederlands ordeteken draagt;
+- 2° hij die zonder 's Konings verlof waar dit vereist wordt, een vreemd ordeteken, titel, rang of waardigheid aanneemt;
+- 3° hij die zonder daartoe gerechtigd te zijn de titel van advocaat of gerechtsdeurwaarder voert
+- 4° hij die, door het bevoegd gezag naar zijn identificerende persoonsgegevens gevraagd, een valse naam, voornaam, geboortedatum, geboorteplaats, adres waarop hij in de basisregistratie personen als ingezetene staat ingeschreven of woon- of verblijfplaats opgeeft.
 
 ### Titel III [Overtredingen betreffende het openbaar gezag]
 

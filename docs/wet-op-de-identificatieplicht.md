@@ -8,4 +8,4 @@
 
 ## Artikel 2 WID
 
-Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op de eerste vordering van een ambtenaar als bedoeld in [artikel 8](politiewet-2012.md#artikel-8-vorderen-inzage-identiteitsbewijs) van de Politiewet 2012 , een identiteitsbewijs als bedoeld in [artikel 1](#artikel-1) ter inzage aan te bieden. Deze verplichting geldt ook indien de vordering wordt gedaan door een toezichthouder.
+Een ieder die de leeftijd van veertien jaar heeft bereikt, is verplicht op de eerste vordering van een ambtenaar als bedoeld in [artikel 8](politiewet-2012.md#artikel-8-pw-2012-vorderen-inzage-identiteitsbewijs) van de Politiewet 2012 , een identiteitsbewijs als bedoeld in [artikel 1](#artikel-1-wid) ter inzage aan te bieden. Deze verplichting geldt ook indien de vordering wordt gedaan door een toezichthouder.

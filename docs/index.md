@@ -1,4 +1,4 @@
-# De wettenbundel voor Roleplay!
+# De wettenbundel voor Roleplay
 
 Dit is een fictieve wettenbundel gebaseerd op de verschillende wetboeken die gebruikt worden in de Nederlandse staat.
 
