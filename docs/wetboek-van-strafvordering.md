@@ -239,6 +239,35 @@ Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig 
     2. de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder a, van de Politiewet 2012, en de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder c en d, van die wet, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
     3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen militairen van de Koninklijke marechaussee;
 
+### Artikel 146a WvSv [Hulpofficier van justitie]
+
+1. Ter plaatse waar en binnen de grenzen binnen welke zij bevoegd zijn tot opsporing, zijn hulpofficier van justitie:
+    1. de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak;
+    2. de officieren van de Koninklijke marechaussee;
+    3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen onderofficieren van de Koninklijke marechaussee;
+
+### Artikel 148 WvSv [Opsporing van strafbare feiten]
+
+1. De officier van justitie is belast met de opsporing van de strafbare feiten waarvan de rechtbank in het arrondissement waarin hij is aangesteld, kennisneemt, alsmede met de opsporing binnen het rechtsgebied van die rechtbank van de strafbare feiten waarvan andere rechtbanken kennisnemen.
+2. Hij geeft daartoe bevelen aan de overige personen met de opsporing belast.
+3. Zoo de opsporing door hem persoonlijk geschiedt, doet hij van zijne bevinding blijken bij proces-verbaal opgemaakt op zijn ambtseed; daarbij moeten tevens zooveel mogelijk uitdrukkelijk worden opgegeven de redenen van wetenschap.
+
+### Artikel 152 WvSv [Proces-verbaal]
+
+1. De ambtenaren, met de opsporing van strafbare feiten belast, maken ten spoedigste proces-verbaal op van het door hen opgespoorde strafbare feit of van hetgeen door hen tot opsporing is verricht of bevonden.
+2. Het opmaken van proces-verbaal kan onder verantwoordelijkheid van het openbaar ministerie achterwege worden gelaten.
+
+### Artikel 153 WvSv [Op ambtseed. Ondertekening]
+
+1. Het proces-verbaal wordt door hen opgemaakt op hun ambtseed of, voor zover zij die niet hebben afgelegd, door hen binnen tweemaal vier en twintig uren beëedigd voor een hulpofficier van justitie die daarvan een verklaring op het proces-verbaal stelt.
+2. Het wordt door hen persoonlijk opgemaakt, gedagtekend en ondertekend; daarbij moeten tevens zoveel mogelijk uitdrukkelijk worden opgegeven de redenen van wetenschap.
+
+### Artikel 156 WvSv [Toezending processen-verbaal aan (hulp) OvJ]
+
+1. Ambtenaren, met de opsporing van strafbare feiten belast, die geen hulpofficier van justitie zijn, doen door hen opgemaakte processen-verbaal, alsmede bij hen binnengekomen aangiften of berichten ter zake van strafbare feiten, met de inbeslaggenomen voorwerpen, onverwijld toekomen aan de hulpofficier van justitie onder wiens rechtstreeks bevel of toezicht zij staan dan wel aan de officier van justitie, indien een richtlijn van het openbaar ministerie dat voorschrijft of de officier van justitie zulks beveelt.
+2. De hulpofficieren van justitie doen de processen-verbaal, bij hen binnengekomen of door hen opgemaakt, de aangiften, berichten en inbeslaggenomen voorwerpen onverwijld toekomen aan de officier van justitie.
+3. Toezending kan met instemming van de officier van justitie achterwege worden gelaten.
+
 #### Artikel 161 WvSv [Bevoegdheid tot aangifte]
 
 Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangifte of klachte te doen.
@@ -246,6 +275,13 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 #### Artikel 164 WvSv [Klachtdelicten]
 
 1. Bij strafbare feiten alleen op klachte vervolgbaar, geschiedt deze klachte mondeling of schriftelijk bij den bevoegden ambtenaar, hetzij door den tot de klachte gerechtigde in persoon, hetzij door een ander, daartoe door hem van eene bijzondere schriftelijke volmacht voorzien. De klachte bestaat in eene aangifte met verzoek tot vervolging.
+
+### Titel II De rechter-commissaris belast met de behandeling van strafzaken
+
+#### Artikel 170 WvSv [R-C in elke rechtbank]
+
+1. In elke rechtbank zijn rechters-commissarissen, belast met de behandeling van strafzaken.
+2. De rechter-commissaris is in het bijzonder belast met de uitoefening van toezichthoudende bevoegdheden met betrekking tot het opsporingsonderzoek, ambtshalve in door de wet bepaalde gevallen en voorts op vordering van de officier van justitie of op verzoek van de verdachte of diens raadsman.
 
 ### Titel IVA Vervolging door een strafbeschiking
 
@@ -265,6 +301,18 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 
 ### Titel VI Behandeling van de zaak door de rechtbank
 
+#### Artikel 268 WvSv [Meervoudige kamer. R-C neemt geen deel aan onderzoek]
+
+1. Strafzaken worden behandeld en beslist door een meervoudige kamer, behoudens in de wet genoemde uitzonderingen.
+
+#### Artikel 270 WvSv [Aanvang onderzoek]
+
+De voorzitter begint het onderzoek door het doen uitroepen van de zaak tegen de verdachte.
+
+#### Artikel 282a WvSv [Verwijzing naar politierechter]
+
+1. De rechtbank kan, de officier van justitie gehoord, de zaak naar de politierechter verwijzen. De zaak wordt in dat geval onder aanzegging van het tijdstip op dezelfde dag verder behandeld dan wel voor bepaalde of onbepaalde tijd geschorst en op de bestaande telastlegging voor de politierechter aanhangig gemaakt door aanzegging of oproeping van de verdachte vanwege de officier van justitie tegen de dag van de nadere terechtzitting.
+
 #### Artikel 312 WvSv [Aanvulling telastlegging met strafverzwarende omstandigheden]
 
 Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dagvaarding vermeld, volgens de wet tot verzwaring van straf grond opleveren, is de officier van justitie bevoegd deze alsnog mondeling ten laste te leggen.
@@ -273,3 +321,35 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 1. Indien buiten het geval van het voorgaande artikel de officier van justitie oordeelt dat de telastlegging behoort te worden gewijzigd, legt hij den inhoud van de door hem noodzakelijk geachte wijzigingen schriftelijk aan de rechtbank over met vordering dat die wijzigingen zullen worden toegelaten.
 2. Indien de rechtbank de vordering toewijst, doet zij den inhoud van de aangebrachte wijzigingen in het proces-verbaal ter terechtzitting opnemen. In geen geval worden wijzigingen toegelaten, als een gevolg waarvan de telastlegging niet langer hetzelfde feit, in den zin van [artikel 68](wetboek-van-strafrecht.md#artikel-68-wvsr-ne-bis-in-idem) van het Wetboek van Strafrecht zou inhouden.
+
+### Artikel 338 WvSv [Onmiddellijkheidsbeginsel]
+
+Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den rechter slechts worden aangenomen, indien hij daarvan uit het onderzoek op de terechtzitting door den inhoud van wettige bewijsmiddelen de overtuiging heeft bekomen.
+
+### Artikel 339 WvSv [Bewijsmiddelen]
+
+1. Als wettige bewijsmiddelen worden alleen erkend:
+    1. eigen waarneming van den rechter;
+    2. verklaringen van den verdachte;
+    3. verklaringen van een getuige;
+    4. verklaringen van een deskundige;
+    5. schriftelijke bescheiden.
+2. Feiten of omstandigheden van algemeene bekendheid behoeven geen bewijs.
+
+### Artikel 340 WvSv [Eigen waarneming van rechter]
+
+Onder eigen waarneming van den rechter wordt verstaan die welke bij het onderzoek op de terechtzitting door hem persoonlijk is geschied.
+
+### Artikel 341 WvSv [Verklaring van verdachte]
+
+1. Onder verklaring van den verdachte wordt verstaan zijne bij het onderzoek op de terechtzitting gedane opgave van feiten of omstandigheden, hem uit eigen wetenschap bekend.
+2. Zoodanige opgave, elders dan ter terechtzitting gedaan, kan tot het bewijs, dat de verdachte het telastegelegde feit begaan heeft, medewerken, indien daarvan uit eenig wettig bewijsmiddel blijkt.
+3. Zijne opgaven kunnen alleen te zijnen aanzien gelden.
+4. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den rechter niet uitsluitend worden aangenomen op de opgaven van den verdachte.
+
+### Titel VII Bijzondere bepalingen voor het rechtsgeding voor de politierechter
+
+#### Artikel 369 WvSv
+
+1. De politierechter is niet bevoegd tot oplegging van een gevangenisstraf van meer dan 120 maanden.
+2. Indien de politierechter oordeelt dat de zaak door een meervoudige kamer van de rechtbank moet worden behandeld, verwijst hij de zaak daarheen.
