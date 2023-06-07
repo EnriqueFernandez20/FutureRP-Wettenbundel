@@ -322,11 +322,11 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 1. Indien buiten het geval van het voorgaande artikel de officier van justitie oordeelt dat de telastlegging behoort te worden gewijzigd, legt hij den inhoud van de door hem noodzakelijk geachte wijzigingen schriftelijk aan de rechtbank over met vordering dat die wijzigingen zullen worden toegelaten.
 2. Indien de rechtbank de vordering toewijst, doet zij den inhoud van de aangebrachte wijzigingen in het proces-verbaal ter terechtzitting opnemen. In geen geval worden wijzigingen toegelaten, als een gevolg waarvan de telastlegging niet langer hetzelfde feit, in den zin van [artikel 68](wetboek-van-strafrecht.md#artikel-68-wvsr-ne-bis-in-idem) van het Wetboek van Strafrecht zou inhouden.
 
-### Artikel 338 WvSv [Onmiddellijkheidsbeginsel]
+#### Artikel 338 WvSv [Onmiddellijkheidsbeginsel]
 
 Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den rechter slechts worden aangenomen, indien hij daarvan uit het onderzoek op de terechtzitting door den inhoud van wettige bewijsmiddelen de overtuiging heeft bekomen.
 
-### Artikel 339 WvSv [Bewijsmiddelen]
+#### Artikel 339 WvSv [Bewijsmiddelen]
 
 1. Als wettige bewijsmiddelen worden alleen erkend:
     1. eigen waarneming van den rechter;
@@ -336,11 +336,11 @@ Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den r
     5. schriftelijke bescheiden.
 2. Feiten of omstandigheden van algemeene bekendheid behoeven geen bewijs.
 
-### Artikel 340 WvSv [Eigen waarneming van rechter]
+#### Artikel 340 WvSv [Eigen waarneming van rechter]
 
 Onder eigen waarneming van den rechter wordt verstaan die welke bij het onderzoek op de terechtzitting door hem persoonlijk is geschied.
 
-### Artikel 341 WvSv [Verklaring van verdachte]
+#### Artikel 341 WvSv [Verklaring van verdachte]
 
 1. Onder verklaring van den verdachte wordt verstaan zijne bij het onderzoek op de terechtzitting gedane opgave van feiten of omstandigheden, hem uit eigen wetenschap bekend.
 2. Zoodanige opgave, elders dan ter terechtzitting gedaan, kan tot het bewijs, dat de verdachte het telastegelegde feit begaan heeft, medewerken, indien daarvan uit eenig wettig bewijsmiddel blijkt.
@@ -349,7 +349,7 @@ Onder eigen waarneming van den rechter wordt verstaan die welke bij het onderzoe
 
 ### Titel VII Bijzondere bepalingen voor het rechtsgeding voor de politierechter
 
-#### Artikel 369 WvSv
+#### Artikel 369 WvSv [Maximumstraf. Verwijzing naar meervoudige kamer]
 
 1. De politierechter is niet bevoegd tot oplegging van een gevangenisstraf van meer dan 120 maanden.
 2. Indien de politierechter oordeelt dat de zaak door een meervoudige kamer van de rechtbank moet worden behandeld, verwijst hij de zaak daarheen.
