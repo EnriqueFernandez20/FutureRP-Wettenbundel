@@ -5,7 +5,8 @@ Array.from(headers).forEach(function(element) {
 })
 
 function onClick(element) {
+    let string = element.srcElement.innerText
     if (navigator && navigator.clipboard && navigator.clipboard.writeText)
-        return navigator.clipboard.writeText(element.innerHTML);
+        return navigator.clipboard.writeText(string.slice(0, -1));
     return Promise.reject('The Clipboard API is not available.');
 };
