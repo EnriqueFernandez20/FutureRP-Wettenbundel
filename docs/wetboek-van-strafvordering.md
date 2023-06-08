@@ -69,7 +69,7 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 1. Indien een kwetsbare verdachte of een verdachte van een misdrijf waarop naar de wettelijke omschrijving gevangenisstraf van 144 maanden of meer is gesteld, is aangehouden, stelt de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, het bestuur van de raad voor rechtsbijstand onverwijld van zijn aanhouding in kennis, opdat het bestuur een raadsman aanwijst. Deze kennisgeving kan achterwege blijven indien de verdachte een raadsman heeft gekozen en deze of een vervangende raadsman tijdig beschikbaar zal zijn.
 2. Indien een verdachte die is aangehouden voor een strafbaar feit waarvoor voorlopige hechtenis is toegelaten, desgevraagd rechtsbijstand wenst, stelt de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, het bestuur van de raad voor rechtsbijstand hiervan onverwijld in kennis, opdat het bestuur een raadsman aanwijst. De tweede volzin van het eerste lid is van overeenkomstige toepassing.
 3. Indien de verdachte is aangehouden voor een strafbaar feit waarvoor geen voorlopige hechtenis is toegelaten, en hij desgevraagd rechtsbijstand wenst, wordt hij in de gelegenheid gesteld contact op te nemen met een door hem gekozen raadsman.
-4. Indien de aangewezen raadsman niet binnen vijftien minuten na de kennisgeving, bedoeld in het eerste en tweede lid, beschikbaar is, en indien de gekozen raadsman niet binnen vijftien minuten na het contact, bedoeld in het eerste, tweede of derde lid, beschikbaar is, kan de hulpofficier van justitie, wanneer de verdachte alsnog afstand doet van zijn recht op rechtsbijstand in verband met het verhoor, beslissen dat met het verhoor van de verdachte wordt begonnen.
+4. Indien de aangewezen raadsman niet binnen twee uur na de kennisgeving, bedoeld in het eerste en tweede lid, beschikbaar is, en indien de gekozen raadsman niet binnen twee uur na het contact, bedoeld in het eerste, tweede of derde lid, beschikbaar is, kan de hulpofficier van justitie, wanneer de verdachte alsnog afstand doet van zijn recht op rechtsbijstand in verband met het verhoor, beslissen dat met het verhoor van de verdachte wordt begonnen.
 
 #### Artikel 28c WvSv [Overleg met raadsman vóór verhoor]
 
@@ -155,10 +155,24 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 #### Artikel 56a WvSv [Ophouden of vrijlaten]
 
 1. Nadat de aangehouden verdachte aan de hulpofficier van justitie of de officier van justitie is voorgeleid, kan deze bevelen dat de verdachte wordt opgehouden voor onderzoek dan wel in vrijheid wordt gesteld. De hulpofficier van justitie kan voorts beslissen om de verdachte onverwijld voor te geleiden aan de officier van justitie.
-2. De verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten kan ten hoogste twee uur worden opgehouden voor onderzoek; de verdachte van een strafbaar feit waarvoor voorlopige hechtenis niet is toegelaten ten hoogste één uur. De ophouding vindt plaats in het belang van het onderzoek.
+2. De verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten kan ten hoogste negen uur worden opgehouden voor onderzoek; de verdachte van een strafbaar feit waarvoor voorlopige hechtenis niet is toegelaten ten hoogste zes uur. De tijd tussen middernacht en negen uur ’s morgens wordt voor de berekening van deze termijnen niet meegerekend. De ophouding vindt plaats in het belang van het onderzoek.
 3. Voor het einde van de periode, bedoeld in het tweede lid, of zoveel eerder als het onderzoek dat toelaat, wordt de verdachte in vrijheid gesteld of in verzekering gesteld.
 4. Het onderzoek, bedoeld in het eerste lid, omvat mede de identificatie van de verdachte, de voorbereidingen voor het verhoor, het verhoor en het uitreiken van mededelingen in persoon over het vervolg van de strafzaak.
 5. Tijdens het ophouden voor onderzoek wordt de verdachte verhoord op de wijze bepaald in de [artikelen 29](#artikel-29-wvsv-verklaringsvrijheid-en-zwijgrecht) en [29a](#artikel-29a-wvsv-p-v-verhoor).
+
+#### Artikel 57 WvSv [Inverzekeringstelling]
+
+1. De officier van justitie of de hulpofficier voor wie de verdachte wordt geleid, of die zelf de verdachte heeft aangehouden, kan, na hem verhoord te hebben, bevelen dat hij tijdens het onderzoek ter beschikking van de justitie zal blijven en daarvoor op een in het bevel aangeduide plaats in verzekering zal worden gesteld. Inverzekeringstelling vindt plaats in het belang van het onderzoek, waaronder mede wordt verstaan het belang van het aan de verdachte in persoon uitreiken van mededelingen over de strafzaak.
+2. De verdachte is bevoegd zich bij het verhoor door een raadsman te doen bijstaan. De raadsman wordt bij het verhoor in de gelegenheid gesteld de nodige opmerkingen te maken.
+3. Van het verhoor wordt proces-verbaal opgemaakt door de officier of de hulpofficier die het bevel verleent. Dit proces-verbaal wordt bij de processtukken gevoegd.
+4. De hulpofficier geeft van zijn bevel onverwijld kennis aan de officier van justitie.
+5. Zodra het belang van het onderzoek dit toelaat, gelast de officier van justitie de invrijheidstelling van de verdachte. Indien het onderzoeksbelang nog slechts bestaat uit het uitreiken aan de verdachte in persoon van een mededeling over de strafzaak, wordt deze mededeling zo spoedig mogelijk uitgereikt en de verdachte daarna in vrijheid gesteld.
+
+#### Artikel 58 WvSv [Gevallen. Termijn]
+
+1. Het bevel tot inverzekeringstelling wordt slechts verleend in geval van een strafbaar feit waarvoor voorloopige hechtenis is toegelaten.
+2. Het bevel tot inverzekeringstelling is slechts gedurende ten hoogste drie dagen van kracht. Bij dringende noodzakelijkheid kan het bevel door de officier van justitie eenmaal voor ten hoogste drie dagen worden verlengd.
+3. Zodra het belang van het onderzoek dit toelaat, gelast de hulpofficier de invrijheidstelling van de verdachte. In het andere geval stelt hij de officier van justitie voor de inverzekeringstelling te verlengen. De officier van justitie kan bevelen dat de verdachte ten einde te worden gehoord voor hem wordt geleid.
 
 #### Artikel 67 WvSv [Voorlopige hechtenis. Ernstige bezwaren]
 
@@ -351,5 +365,9 @@ Onder eigen waarneming van den rechter wordt verstaan die welke bij het onderzoe
 
 #### Artikel 369 WvSv [Maximumstraf. Verwijzing naar meervoudige kamer]
 
-1. De politierechter is niet bevoegd tot oplegging van een gevangenisstraf van meer dan 120 maanden.
+1. De politierechter is niet bevoegd tot oplegging van een gevangenisstraf van meer dan 180 maanden.
 2. Indien de politierechter oordeelt dat de zaak door een meervoudige kamer van de rechtbank moet worden behandeld, verwijst hij de zaak daarheen.
+
+#### Artikel 369a WvSv [Maximumstraf opsporingsambtenaar.]
+
+De personen omschreven in [artikel 141](#artikel-141-wvsv-algemene-opsporingsbevoegdheid) is niet bevoegd tot oplegging van een gevangenisstraf van meer dan 120 maanden.
