@@ -22,7 +22,6 @@ markdown_extensions:
       permalink: "#"
 nav:
   - Home: 'index.md'
-  # - Server regels: 'server-regels.md'
   - Wetboek van Strafvordering: 'wetboek-van-strafvordering.md'
   - Wetboek van Strafrecht: 'wetboek-van-strafrecht.md'
   - Wegenverkeers wetgeving:
