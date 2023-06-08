@@ -86,18 +86,6 @@ Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afge
 1. De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing, die zo nodig vervangen kan worden door een waarschuwingsschot, blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
 2. Een waarschuwingsschot moet op zodanige wijze worden gegeven, dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-### Artikel 12a AI [Gebruik pepperspray]
-
-1. Het gebruik van pepperspray is slechts geoorloofd:
-    1. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen een persoon zal gebruiken of aanstonds ander geweld tegen personen zal gebruiken;
-    2. om een persoon aan te houden die zich aan aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken;
-    3. ter verdediging tegen of voor het onder controle brengen van agressieve dieren;
-    4. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
-
-### Artikel 12b AI [Waarschuwing vooraf pepperspray]
-
-De ambtenaar waarschuwt onmiddellijk voordat hij gericht pepperspray tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat pepperspray gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
-
 ### Artikel 12c AI [Gebruik stroomstootwapen]
 
 1. Het gebruik van een stroomstootwapen in de schietmodus is slechts geoorloofd:
