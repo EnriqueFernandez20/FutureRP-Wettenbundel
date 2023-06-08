@@ -20,6 +20,8 @@ theme:
 markdown_extensions:
   - toc:
       permalink: "#"
+extra_javascript:
+  - javascripts/headercopy.js
 nav:
   - Home: 'index.md'
   - Wetboek van Strafvordering: 'wetboek-van-strafvordering.md'
