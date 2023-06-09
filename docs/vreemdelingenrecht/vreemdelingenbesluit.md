@@ -2,11 +2,32 @@
 
 ## Hoofdstuk 4 Grensbewaking, toezicht en uitvoering
 
+### Artikel 4.1 Vb 2000 [Buitengrens]
+
+1. Grensbewaking als bedoeld in [artikel 46](./vreemdelingenwet.md#artikel-46-vw-2000-naleving-en-uitvoering-schengengrenscontrole) van de Wet wordt uitgeoefend met het oog op het Nederland in- en uitreizen van personen via een buitengrens.
+2. Onder uitreizen wordt begrepen het zich aan boord begeven of bevinden van een schip of luchtvaartuig, dat voor de uitreis uit Nederland bestemd is.
+
 ### Artikel 4.2 Vb 2000 [Grensdoorlaatposten]
 
 1. In het belang van de grensbewaking worden aan de buitengrenzen grensdoorlaatposten ingesteld.
 2. Bij ministeriële regeling worden de plaatsen aangewezen waar grensdoorlaatposten, al dan niet tijdelijk, zijn gevestigd.
 3. Bij ministeriële regeling worden de tijden vastgesteld gedurende welke de grensdoorlaatposten zijn opengesteld.
+
+### Artikel 4.5 Vb 2000 [Verplcihtingen vreemdeling]
+
+1. De vreemdeling die Nederland inreist, is verplicht desgevorderd aan een ambtenaar, belast met de grensbewaking:
+    1. het in zijn bezit zijnde document voor grensoverschrijding, de benodigde machtiging tot voorlopig verblijf dan wel het benodigde reisvisum of doorreisvisum te tonen en te overhandigen;
+    2. inlichtingen te verstrekken over het doel en de duur van zijn voorgenomen verblijf in Nederland;
+    3. aan te tonen over welke middelen hij met het oog op de toegang tot Nederland beschikt of kan beschikken.
+2. Het eerste lid, onder a, is van overeenkomstige toepassing op de vreemdeling die Nederland uitreist via een buitengrens.
+
+### Artikel 4.6 Vb 2000 [Aanwijzingen grensbewakers]
+
+Een ieder die zich op of nabij een plaats bevindt waar een grensdoorlaatpost is gevestigd, houdt zich aan de aldaar door de ambtenaren, belast met de grensbewaking, in het kader van de uitoefening van hun taak gegeven aanwijzingen.
+
+### Artikel 4.7 Vb 2000 [Overhandigen identiteitspapieren]
+
+De Nederlander die Nederland in- of uitreist, toont en overhandigt, desgevorderd, aan een ambtenaar, belast met de grensbewaking, het in zijn bezit zijnde reis- of identiteitspapier of maakt zo nodig op andere wijze zijn Nederlanderschap aannemelijk.
 
 ### Artikel 4.17a Vb 2000 [Locatie bevoegdheid]
 
