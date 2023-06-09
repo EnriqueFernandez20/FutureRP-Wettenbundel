@@ -253,30 +253,30 @@ Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig 
     2. de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder a, van de Politiewet 2012, en de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder c en d, van die wet, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
     3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen militairen van de Koninklijke marechaussee;
 
-### Artikel 146a WvSv [Hulpofficier van justitie]
+#### Artikel 146a WvSv [Hulpofficier van justitie]
 
 1. Ter plaatse waar en binnen de grenzen binnen welke zij bevoegd zijn tot opsporing, zijn hulpofficier van justitie:
     1. de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak;
     2. de officieren van de Koninklijke marechaussee;
     3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen onderofficieren van de Koninklijke marechaussee;
 
-### Artikel 148 WvSv [Opsporing van strafbare feiten]
+#### Artikel 148 WvSv [Opsporing van strafbare feiten]
 
 1. De officier van justitie is belast met de opsporing van de strafbare feiten waarvan de rechtbank in het arrondissement waarin hij is aangesteld, kennisneemt, alsmede met de opsporing binnen het rechtsgebied van die rechtbank van de strafbare feiten waarvan andere rechtbanken kennisnemen.
 2. Hij geeft daartoe bevelen aan de overige personen met de opsporing belast.
 3. Zoo de opsporing door hem persoonlijk geschiedt, doet hij van zijne bevinding blijken bij proces-verbaal opgemaakt op zijn ambtseed; daarbij moeten tevens zooveel mogelijk uitdrukkelijk worden opgegeven de redenen van wetenschap.
 
-### Artikel 152 WvSv [Proces-verbaal]
+#### Artikel 152 WvSv [Proces-verbaal]
 
 1. De ambtenaren, met de opsporing van strafbare feiten belast, maken ten spoedigste proces-verbaal op van het door hen opgespoorde strafbare feit of van hetgeen door hen tot opsporing is verricht of bevonden.
 2. Het opmaken van proces-verbaal kan onder verantwoordelijkheid van het openbaar ministerie achterwege worden gelaten.
 
-### Artikel 153 WvSv [Op ambtseed. Ondertekening]
+#### Artikel 153 WvSv [Op ambtseed. Ondertekening]
 
 1. Het proces-verbaal wordt door hen opgemaakt op hun ambtseed of, voor zover zij die niet hebben afgelegd, door hen binnen tweemaal vier en twintig uren beëedigd voor een hulpofficier van justitie die daarvan een verklaring op het proces-verbaal stelt.
 2. Het wordt door hen persoonlijk opgemaakt, gedagtekend en ondertekend; daarbij moeten tevens zoveel mogelijk uitdrukkelijk worden opgegeven de redenen van wetenschap.
 
-### Artikel 156 WvSv [Toezending processen-verbaal aan (hulp) OvJ]
+#### Artikel 156 WvSv [Toezending processen-verbaal aan (hulp) OvJ]
 
 1. Ambtenaren, met de opsporing van strafbare feiten belast, die geen hulpofficier van justitie zijn, doen door hen opgemaakte processen-verbaal, alsmede bij hen binnengekomen aangiften of berichten ter zake van strafbare feiten, met de inbeslaggenomen voorwerpen, onverwijld toekomen aan de hulpofficier van justitie onder wiens rechtstreeks bevel of toezicht zij staan dan wel aan de officier van justitie, indien een richtlijn van het openbaar ministerie dat voorschrijft of de officier van justitie zulks beveelt.
 2. De hulpofficieren van justitie doen de processen-verbaal, bij hen binnengekomen of door hen opgemaakt, de aangiften, berichten en inbeslaggenomen voorwerpen onverwijld toekomen aan de officier van justitie.
