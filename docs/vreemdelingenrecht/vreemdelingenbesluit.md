@@ -29,6 +29,13 @@ Een ieder die zich op of nabij een plaats bevindt waar een grensdoorlaatpost is 
 
 De Nederlander die Nederland in- of uitreist, toont en overhandigt, desgevorderd, aan een ambtenaar, belast met de grensbewaking, het in zijn bezit zijnde reis- of identiteitspapier of maakt zo nodig op andere wijze zijn Nederlanderschap aannemelijk.
 
+### Artikel 4.9 Vb 2000 [Verplichtingen gezagvoerder schip]
+
+1. De gezagvoerder van een schip verleent, desgevorderd, de medewerking aan een ambtenaar, belast met de grensbewaking, welke nodig is om deze ambtenaar in staat te stellen de door hem op grond van de Schengengrenscode uit te oefenen grenscontrole uit te voeren. Deze medewerking bestaat uit:
+    1. het op een daartoe gegeven teken zodanig vaart verminderen en het zodanig op- of bijdraaien van zijn schip, dat een dienstvaartuig behoorlijk langszij kan komen;
+    2. het toelaten van ambtenaren, belast met de grensbewaking, aan boord van zijn schip;
+    3. het op vordering van een ambtenaar, belast met de grensbewaking, tot stilstand brengen of aanleggen van zijn schip.
+
 ### Artikel 4.17a Vb 2000 [Locatie bevoegdheid]
 
 1. De bevoegdheid, bedoeld in [artikel 50, eerste lid](./vreemdelingenwet.md#artikel-50-vw-2000-staande-houden), van de Wet, om ter bestrijding van illegaal verblijf na grensoverschrijding personen staande te houden ter vaststelling van hun identiteit, nationaliteit en verblijfsrechtelijke positie, wordt uitsluitend uitgeoefend in het kader van toezicht op vreemdelingen:
