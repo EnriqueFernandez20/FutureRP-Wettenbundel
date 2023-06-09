@@ -6,17 +6,17 @@
 
 In deze wet wordt verstaan onder:
 
--   1° Onze Minister: Onze Minister van Justitie en Veiligheid;
--   2° de korpschef: de korpschef, bedoeld in [artikel 27](politiewet-2012.md#artikel-27-pw-2012-taak-korpschef) van de Politiewet 2012;
--   3° vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door een loop af te schieten, waarvan de werking berust op het teweegbrengen van een scheikundige ontploffing of een andere scheikundige reactie;
--   4° munitie: patronen en andere voorwerpen, bestemd of geschikt om een projectiel of een giftige, verstikkende, weerloosmakende, traanverwekkende of soortgelijke stof door middel van een vuurwapen af te schieten of te verspreiden, alsmede projectielen, bestemd om afgeschoten te worden door middel van een vuurwapen;
--   5° beheerder: degene die onmiddellijk leiding geeft aan de uitoefening van een bedrijf, waarin wapens en munitie worden vervaardigd, getransformeerd, uitgewisseld, verhuurd of anderszins ter beschikking gesteld, hersteld, beproefd of verhandeld;
--   6° bestemming: de onmiddellijke bestemming van de in een consentaanvraag omschreven wapens en munitie, aangevuld met de eindbestemming daarvan indien ten tijde van de consentaanvraag bekend is dat de wapens en munitie vanuit de onmiddellijke bestemming zullen worden doorgevoerd;
--   7° binnenkomen en uitgaan: het binnen het grondgebied van Nederland komen, respectievelijk het verlaten van het grondgebied van Nederland;
--   8° doorvoer: binnenkomen gevolgd door uitgaan;
--   9° vervoer van een wapen: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van een wapen dat zodanig is verpakt, dat het niet voor onmiddellijk gebruik kan worden aangewend; vervoer van munitie: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van munitie;
--   10° dragen van een wapen: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van een wapen anders dan voor vervoer in de onder 9° bedoelde zin;
--   11° overdragen: het aan een ander doen overgaan van de feitelijke macht;
+- 1° Onze Minister: Onze Minister van Justitie en Veiligheid;
+- 2° de korpschef: de korpschef, bedoeld in [artikel 27](politiewet-2012.md#artikel-27-pw-2012-taak-korpschef) van de Politiewet 2012;
+- 3° vuurwapen: een voorwerp bestemd of geschikt om projectielen of stoffen door een loop af te schieten, waarvan de werking berust op het teweegbrengen van een scheikundige ontploffing of een andere scheikundige reactie;
+- 4° munitie: patronen en andere voorwerpen, bestemd of geschikt om een projectiel of een giftige, verstikkende, weerloosmakende, traanverwekkende of soortgelijke stof door middel van een vuurwapen af te schieten of te verspreiden, alsmede projectielen, bestemd om afgeschoten te worden door middel van een vuurwapen;
+- 5° beheerder: degene die onmiddellijk leiding geeft aan de uitoefening van een bedrijf, waarin wapens en munitie worden vervaardigd, getransformeerd, uitgewisseld, verhuurd of anderszins ter beschikking gesteld, hersteld, beproefd of verhandeld;
+- 6° bestemming: de onmiddellijke bestemming van de in een consentaanvraag omschreven wapens en munitie, aangevuld met de eindbestemming daarvan indien ten tijde van de consentaanvraag bekend is dat de wapens en munitie vanuit de onmiddellijke bestemming zullen worden doorgevoerd;
+- 7° binnenkomen en uitgaan: het binnen het grondgebied van Nederland komen, respectievelijk het verlaten van het grondgebied van Nederland;
+- 8° doorvoer: binnenkomen gevolgd door uitgaan;
+- 9° vervoer van een wapen: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van een wapen dat zodanig is verpakt, dat het niet voor onmiddellijk gebruik kan worden aangewend; vervoer van munitie: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van munitie;
+- 10° dragen van een wapen: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van een wapen anders dan voor vervoer in de onder 9° bedoelde zin;
+- 11° overdragen: het aan een ander doen overgaan van de feitelijke macht;
 
 ### Artikel 2 WWM [Wapens en munitie: categorieën]
 
