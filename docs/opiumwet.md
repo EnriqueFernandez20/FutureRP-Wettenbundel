@@ -63,10 +63,11 @@ Hij die stoffen of voorwerpen bereidt, bewerkt, verwerkt, te koop aanbiedt, verk
 
 | Benaming              | Nadere omschrijving                                        |
 | --------------------- | ---------------------------------------------------------- |
-| heroïne, diamorfine   | 4,5-epoxy-17-methylmorfinan-3,6-diyl-diacetaat             |
-| MDMA, Ecstasy         | (±)-N,alfa-dimethyl-3,4-(methyleendioxy)-fenethylamine     |
 | cocaïne, crackcocaïne | (-)-3-beta-benzoyloxytropaan-2-beta-carbonzure methylester |
+| GHB                   | 4-hydroxyboterzuur                                         |
+| heroïne, diamorfine   | 4,5-epoxy-17-methylmorfinan-3,6-diyl-diacetaat             |
 | LSD                   |                                                            |
+| MDMA, Ecstasy         | (±)-N,alfa-dimethyl-3,4-(methyleendioxy)-fenethylamine     |
 | methamfetamine        | 2,5-dimethoxy-alfa,4-dimethylfenethylamine                 |
 
 ## Lijst II
