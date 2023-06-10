@@ -109,6 +109,12 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     2. zijn geldigheid niet te hebben verloren, en
     3. behoorlijk leesbaar te zijn.
 
+### Artikel 130 WVW [Gebrek rijvaardigheid of geschiktheid]
+
+1. Indien bij de bij algemene maatregel van bestuur aangewezen personen een vermoeden bestaat dat de houder van een rijbewijs niet langer beschikt over de rijvaardigheid dan wel over de lichamelijke of geestelijke geschiktheid, vereist voor het besturen van een of meer categorieën van motorrijtuigen waarvoor dat rijbewijs is afgegeven, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan het CBR onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. Bij ministeriële regeling worden de feiten en omstandigheden aangewezen die aan het vermoeden ten grondslag dienen te liggen en worden ter zake van de uitoefening van deze bevoegdheid nadere regels vastgesteld.
+2. Op de eerste vordering van de in [artikel 159](#artikel-159-wvw-aanwijzing-opsporingsambtenaren), onderdeel a, bedoelde personen is de bestuurder van een motorrijtuig, ten aanzien van wie een vermoeden als bedoeld in het eerste lid bestaat, verplicht tot overgifte van het hem afgegeven rijbewijs.
+3. De in het tweede lid bedoelde vordering wordt gedaan indien de betrokken bestuurder de veiligheid op de weg zodanig in gevaar kan brengen dat hem met onmiddellijke ingang de bevoegdheid dient te worden ontnomen langer als bestuurder van een of meer categorieën van motorrijtuigen, waarvoor het rijbewijs is afgegeven, aan het verkeer deel te nemen. Bij ministeriële regeling worden de gevallen aangewezen waarin daarvan sprake is. Het ingevorderde rijbewijs wordt gelijktijdig met de schriftelijke mededeling, bedoeld in het eerste lid, aan het CBR toegezonden.
+
 ## Hoofdstuk IX Toezicht en opsporing
 
 ### Artikel 159 WvW [Aanwijzing opsporingsambtenaren]
