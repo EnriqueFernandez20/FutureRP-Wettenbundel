@@ -34,6 +34,10 @@
 2. [Artikel 5:19, vijfde lid](../algemene-wet-bestuursrecht.md#artikel-519-awb-onderzoek-vervoermiddelen), van de Algemene wet bestuursrecht is van overeenkomstige toepassing op de vordering als bedoeld in het eerste lid.
 3. Indien de ambtenaren belast met de grensbewaking op grond van feiten en omstandigheden, naar objectieve maatstaven gemeten, een redelijk vermoeden hebben dat met een luchtvaartuig personen worden vervoerd met betrekking tot wie zij een toezichthoudende taak hebben, zijn zij bevoegd het luchtvaartuig te onderzoeken. De ambtenaren zijn in dat geval bevoegd van de gezagvoerder van een luchtvaartuig te vorderen dat deze zijn luchtvaartuig naar een door hen aangewezen plaats overbrengt teneinde het luchtvaartuig te onderzoeken. Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld.
 
+### Artikel 51a VW 2000 [Onderzoeken vervoermiddel t.b.v. goederen]
+
+De bevoegdheid omschreven in [artikel 51, eerste lid, eerste volzin](#artikel-51-vw-2000-onderzoek-vervoermiddel) kan mede toegepast worden indien op grond van feiten en omstandigheden, naar objectieve maatstaven gemeten, er een redelijk vermoeden is dat met een vervoermiddel goederen worden vervoerd welke strafbaar zijn gesteld in de [Wet Wapens Munitie](../wet-wapens-en-munitie.md) of de [Opiumwet](../opiumwet.md).
+
 ## Hoofdstuk 8 Algemene en strafbepalingen
 
 ### Artikel 108 VW 2000 [Strafbepaling]
