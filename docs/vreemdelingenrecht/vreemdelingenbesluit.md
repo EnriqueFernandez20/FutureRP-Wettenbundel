@@ -13,7 +13,7 @@
 2. Bij ministeriële regeling worden de plaatsen aangewezen waar grensdoorlaatposten, al dan niet tijdelijk, zijn gevestigd.
 3. Bij ministeriële regeling worden de tijden vastgesteld gedurende welke de grensdoorlaatposten zijn opengesteld.
 
-### Artikel 4.5 Vb 2000 [Verplcihtingen vreemdeling]
+### Artikel 4.5 Vb 2000 [Verplichtingen vreemdeling]
 
 1. De vreemdeling die Nederland inreist, is verplicht desgevorderd aan een ambtenaar, belast met de grensbewaking:
     1. het in zijn bezit zijnde document voor grensoverschrijding, de benodigde machtiging tot voorlopig verblijf dan wel het benodigde reisvisum of doorreisvisum te tonen en te overhandigen;
