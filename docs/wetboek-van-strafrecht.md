@@ -622,7 +622,7 @@ Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een voorw
 
 #### Artikel 424 WvSr [Straatschenderij]
 
-1. Hij die op of aan de openbare weg of op enige voor het publiek toegankelijke plaats tegen personen of goederen enige pleegt waardoor gevaar of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij, gestraft met geldboete van de eerste categorie.
+1. Hij die op of aan de openbare weg of op enige voor het publiek toegankelijke plaats tegen personen of goederen enige baldadigheid pleegt waardoor gevaar of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij, gestraft met geldboete van de eerste categorie.
 
 ### Titel II [Overtredingen betreffende de openbare orde]
 
