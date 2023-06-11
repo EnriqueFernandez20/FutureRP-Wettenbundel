@@ -9,9 +9,15 @@
     2. wegen: alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de daarin liggende bruggen en duikers en de tot die wegen behorende paden en bermen of zijkanten;
     3. motorrijtuigen: alle voertuigen, bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig zelf aanwezig dan wel door elektrische tractie met stroomtoevoer van elders, met uitzondering van fietsen met trapondersteuning;
     4. aanhangwagen: voertuig dat kennelijk is bestemd om te worden voortbewogen door een motorrijtuig. In het bepaalde krachtens deze wet kan onder aanhangwagen tevens worden verstaan een voertuig dat door een ander voertuig wordt voortbewogen of kennelijk is bestemd om door een ander voertuig te worden voortbewogen;
-    5. kenteken: kenteken als bedoeld in [artikel 36](#artikel-36-wvw-kenteken-kentekenbewijs-eisen-aansprakelijkheid) of artikel 37, derde lid;
-    6. kentekenbewijs: kentekenbewijs als bedoeld in [artikel 36](#artikel-36-wvw-kenteken-kentekenbewijs-eisen-aansprakelijkheid) dan wel een kentekenbewijs, afgegeven ter zake van de opgave van een kenteken als bedoeld in artikel 37, derde lid;
-    7. rijbewijs: rijbewijs, bedoeld in [artikel 107](#artikel-107-wvw-rijbewijsplicht-eisen-rijbewijs);
+    5. bromfiets:
+        1. motorrijtuig op twee wielen, met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km/h, uitgerust met een verbrandingsmotor met een cilinderinhoud van niet meer dan 50 cm3 of een elektromotor met een nominaal continu maximumvermogen van niet meer dan 4 kW, niet zijnde een gehandicaptenvoertuig of een motorrijtuig als bedoeld in subonderdeel d;
+        2. motorrijtuig op drie wielen, met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km/h, niet zijnde een gehandicaptenvoertuig of een motorrijtuig als bedoeld in subonderdeel d, uitgerust met:
+            1. een motor met elektrische ontsteking met een cilinderinhoud van niet meer dan 50 cm3,
+            2. een motor met inwendige verbranding en een netto maximumvermogen van niet meer dan 4 kW voor andere dan onder 1° genoemde motoren, of
+            3. een elektromotor met een nominaal continu maximumvermogen van niet meer dan 4 kW; dan wel
+    6. kenteken: kenteken als bedoeld in [artikel 36](#artikel-36-wvw-kenteken-kentekenbewijs-eisen-aansprakelijkheid) of artikel 37, derde lid;
+    7. kentekenbewijs: kentekenbewijs als bedoeld in [artikel 36](#artikel-36-wvw-kenteken-kentekenbewijs-eisen-aansprakelijkheid) dan wel een kentekenbewijs, afgegeven ter zake van de opgave van een kenteken als bedoeld in artikel 37, derde lid;
+    8. rijbewijs: rijbewijs, bedoeld in [artikel 107](#artikel-107-wvw-rijbewijsplicht-eisen-rijbewijs);
 
 ## Hoofdstuk II Verkeersgedrag
 
@@ -98,6 +104,27 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 1. Het is verboden:
     1. op een motorrijtuig of een aanhangwagen enig teken of middel aan te brengen of te doen aanbrengen met het oogmerk de herkenning, daaronder begrepen de herkenning met behulp van technische voorzieningen, van het ingevolge [artikel 40](#artikel-40-wvw-zichtbaarheid-kenteken) gevoerde kenteken te bemoeilijken;
     2. een motorrijtuig op de weg te laten staan of daarmee over de weg te rijden dan wel een aanhangwagen op de weg te laten staan of met een motorrijtuig over de weg voort te bewegen, wanneer op dat motorrijtuig of die aanhangwagen enig teken of middel is aangebracht, waardoor de herkenning, daaronder begrepen de herkenning met behulp van technische voorzieningen, van het ingevolge [artikel 40](#artikel-40-wvw-zichtbaarheid-kenteken) gevoerde kenteken wordt bemoeilijkt;
+
+## Hoofdstuk V Gebruik van voertuigen op de weg
+
+### Artikel 71 WVW [Permanente eisen]
+
+1. Bij ministeriële regeling worden regels gesteld omtrent:
+    1. de eisen waaraan voertuigen moeten voldoen waarmee over de weg wordt gereden, waarbij onderscheid kan worden gemaakt tussen verschillende wegen;
+    2. de inrichting van voertuigen die op de weg staan;
+    3. de eisen waaraan voertuigen moeten voldoen voor de afgifte van een keuringsbewijs;
+    4. de eisen waaraan ter uitvoering van verdragen of van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, moet worden voldaan met betrekking tot het uitvoeren van onderhoud aan voertuigen.
+
+### Artikel 72 WVW [Keuringsplicht. Eisen keuringsbewijs. Aansprakelijkheid]
+
+1. Voor een motorrijtuig of een aanhangwagen, waarvoor een kenteken is opgegeven dan wel dient te zijn opgegeven, dient een keuringsbewijs te zijn afgegeven.
+2. Het keuringsbewijs dient:
+    1. te voldoen aan de door de Dienst Wegverkeer vastgestelde eisen inzake inrichting en uitvoering,
+    2. zijn geldigheid niet te hebben verloren, en
+    3. behoorlijk leesbaar te zijn.
+3. Voor overtreding van het eerste lid en het bepaalde bij of krachtens het tweede lid zijn aansprakelijk:
+    1. voor zover het betreft een motorrijtuig, de eigenaar of houder, alsmede in het geval dat met dat motorrijtuig over de weg wordt gereden, de bestuurder, en
+    2. voor zover het betreft een aanhangwagen, de eigenaar of houder, alsmede in het geval dat de aanhangwagen met een motorrijtuig over de weg wordt voortbewogen, de bestuurder van dat motorrijtuig.
 
 ## Hoofdstuk VI Rijvaardigheid en rijbevoegdheid
 
