@@ -65,13 +65,18 @@ In deze wet wordt verstaan onder:
      7° Voorwerpen waarvan, gelet op hun aard of de omstandigheden waaronder zij worden aangetroffen, redelijkerwijs kan worden aangenomen dat zij zijn bestemd om letsel aan personen toe te brengen of te dreigen en die niet onder een van de andere categorieën vallen.
 
 2. Munitie in de zin van deze wet is, onderverdeeld in de volgende categorieën:
+
     #### Categorie II [Munitie]
+
     1° munitie die uitsluitend geschikt voor vuurwapens van categorie II is;  
     2° munitie die een giftige, verstikkende, weerloosmakende, traanverwekkende of soortgelijke stof verspreidt, met uitzondering van munitie met weerloosmakende of traanverwekkende stof, bestemd voor vuurwapens in de vorm van geweren, revolvers en pistolen;  
     3° munitie voorzien van een projectiel waarmee een pantserplaat kan worden doorboord, munitie voorzien van een projectiel met brandsas of met een explosieve lading, alsmede de voor deze munitie bestemde projectielen;  
     4° munitie voor geweren, revolvers en pistolen voorzien van expanderende projectielen, alsmede de voor deze munitie bestemde projectielen, behalve wanneer het voor de jacht of de schietsport bestemde munitie of projectielen betreft.
+
     #### Categorie III [Munitie]
+
     Alle overige munitie.
+
 3. Aanwijzingen door Onze Minister, als bedoeld in het eerste lid, geschieden bij regeling.
 4. Onverminderd het bepaalde in het eerste lid, onder categorie I, sub g°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen of om personen te bedreigen of af te dreigen.
 
