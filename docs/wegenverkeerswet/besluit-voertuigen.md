@@ -6,7 +6,7 @@
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
-*wet:*Wegenverkeerswet 1994.
+*wet:* Wegenverkeerswet 1994.
 
 ## Hoofdstuk 3 Periodieke keuring van voertuigen
 
