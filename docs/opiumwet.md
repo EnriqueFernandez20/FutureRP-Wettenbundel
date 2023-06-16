@@ -63,6 +63,7 @@ Hij die stoffen of voorwerpen bereidt, bewerkt, verwerkt, te koop aanbiedt, verk
 
 | Benaming              | Nadere omschrijving                                        |
 | --------------------- | ---------------------------------------------------------- |
+| cocablad              | bladeren van planten van het geslacht Erythroxylon         |
 | cocaïne, crackcocaïne | (-)-3-beta-benzoyloxytropaan-2-beta-carbonzure methylester |
 | GHB                   | 4-hydroxyboterzuur                                         |
 | heroïne, diamorfine   | 4,5-epoxy-17-methylmorfinan-3,6-diyl-diacetaat             |
