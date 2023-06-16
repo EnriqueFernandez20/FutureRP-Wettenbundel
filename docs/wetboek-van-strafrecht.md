@@ -66,7 +66,7 @@ Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht 
 
 1. Bij de uitspraak waarbij geldboete wordt opgelegd, beveelt de rechter voor het geval dat noch volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis zal worden toegepast.
 2. De duur van de vervangende hechtenis wordt in gehele dagen, weken of maanden vastgesteld.
-3. De vervangende hechtenis beloopt ten minste één dag en ten hoogste een jaar. Voor elke volle € 25 van de geldboete wordt niet meer dan één dag opgelegd.
+3. De vervangende hechtenis beloopt ten minste één dag en ten hoogste 12 maanden. Voor elke volle € 25 van de geldboete wordt niet meer dan één dag opgelegd.
 
 #### Artikel 33 WvSr [Verbeurdverklaring. Draagkrachtbeginsel]
 
@@ -298,9 +298,9 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 
 1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft met gevangenisstraf van ten hoogste 54 maanden of geldboete van de vierde categorie.
 2. De schuldige wordt gestraft:
-    - 1° met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie, indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;
-    - 2° met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie, indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;
-    - 3° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
+    - 1° met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie, indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;
+    - 2° met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie, indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;
+    - 3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
 3. [Artikel 81](#artikel-81-wvsr-begripsbepaling-plegen-van-geweld) blijft buiten toepassing.
 
 #### Artikel 141a WvSr [Hulp bij geweldpleging]
@@ -326,15 +326,15 @@ Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt
 
 Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstroming veroorzaakt, wordt gestraft:
 
-- 1° met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;
-- 2° met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;
-- 3° met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
+- 1° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;
+- 2° met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;
+- 3° met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
 
 ### Titel VIII [Misdrijven tegen het openbaar gezag]
 
 #### Artikel 177 WvSr [Omkoping van ambtenaar]
 
-1. Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft:
+1. Met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie wordt gestraft:
     - 1° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;
     - 2° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.
 2. Met dezelfde straf wordt gestraft hij die een feit als in het eerste lid, onder 1°, omschreven, begaat jegens een persoon in het vooruitzicht van een dienstbetrekking bij een overheidswerkgever, indien de dienstbetrekking bij een overheidswerkgever is gevolgd.
@@ -342,7 +342,7 @@ Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstromi
 
 #### Artikel 179 WvSr [Ambtsdwang]
 
-Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.
+Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting, wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
 
 #### Artikel 180 WvSr [Wederspannigheid]
 
@@ -358,7 +358,7 @@ De dwang en de wederspannigheid in de artikelen [179](#artikel-179-wvsr-ambtsdwa
 
 #### Artikel 182 WvSr [Ambtsdwang en wederspannigheid in vereniging]
 
-1. De dwang en de wederspannigheid in de artikelen [179](#artikel-179-wvsr-ambtsdwang) en [180](#artikel-180-wvsr-wederspannigheid) omschreven, door twee of meer personen met verenigde krachten gepleegd, worden gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie.
+1. De dwang en de wederspannigheid in de artikelen [179](#artikel-179-wvsr-ambtsdwang) en [180](#artikel-180-wvsr-wederspannigheid) omschreven, door twee of meer personen met verenigde krachten gepleegd, worden gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie.
 2. De schuldige wordt gestraft:
     - 1° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien het door hem gepleegde misdrijf of de daarbij door hem gepleegde feitelijkheden enig lichamelijk letsel ten gevolge hebben;
     - 2° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
@@ -445,7 +445,7 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 #### Artikel 284 WvSr [Dwang]
 
-1. Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie wordt gestraft:
+1. Met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie wordt gestraft:
     - 1° hij die een ander door geweld of enige andere feitelijkheid of door bedreiging met geweld of enige andere feitelijkheid, gericht hetzij tegen die ander hetzij tegen derden, wederrechtelijk dwingt iets te doen, niet te doen of te dulden;
     - 2° hij die een ander door bedreiging met smaad of smaadschrift dwingt iets te doen, niet te doen of te dulden.
 2. In het geval onder 2° omschreven wordt het misdrijf niet vervolgd dan op klacht van hem tegen wie het gepleegd is.
