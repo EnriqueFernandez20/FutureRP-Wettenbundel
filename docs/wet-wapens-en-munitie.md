@@ -22,7 +22,7 @@ In deze wet wordt verstaan onder:
 
 1. Wapens in de zin van deze wet zijn de hieronder vermelde of overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld in de volgende categorieën.
 
-    #### Categorie I [Wapens]
+    ##### Categorie I [Wapens]
 
     1° stiletto's, valmessen en vlindermessen;  
     2° andere opvouwbare messen, indien:  
@@ -34,7 +34,7 @@ In deze wet wordt verstaan onder:
     6° katapulten;  
     7° andere door Onze Minister aangewezen voorwerpen die een ernstige bedreiging van personen kunnen vormen of die zodanig op een wapen gelijken, dat zij voor bedreiging of afdreiging geschikt zijn.
 
-    #### Categorie II [Wapens]
+    ##### Categorie II [Wapens]
 
     1° vuurwapens die niet onder een van de andere categorieën vallen;  
      2° vuurwapens, geschikt om automatisch te vuren;  
@@ -44,7 +44,7 @@ In deze wet wordt verstaan onder:
      6° voorwerpen, bestemd voor het treffen van personen met giftige, verstikkende, weerloosmakende, traanverwekkende en soortgelijke stoffen, met uitzondering van medische hulpmiddelen en van vuurwapens in de vorm van geweren, revolvers en pistolen, bestemd voor het afschieten van munitie met weerloosmakende of traanverwekkende stof;  
      7° voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing.
 
-    #### Categorie III [Wapens]
+    ##### Categorie III [Wapens]
 
     1° vuurwapens in de vorm van geweren, revolvers en pistolen voor zover zij niet vallen onder categorie II sub b, c of f;  
      2° toestellen voor beroepsdoeleinden die geschikt zijn om projectielen af te schieten;  
@@ -54,7 +54,7 @@ In deze wet wordt verstaan onder:
      &nbsp;&nbsp;&nbsp;&nbsp;b. zodanig zijn ingericht dat zij uitsluitend knalpatronen van een kaliber niet groter dan 6 mm kunnen bevatten; en  
      &nbsp;&nbsp;&nbsp;&nbsp;c. waarvan de ligplaats van de patronen en de gasuitlaat loodrecht staan op de loop of op de lengterichting van het wapen.
 
-    #### Categorie IV [Wapens]
+    ##### Categorie IV [Wapens]
 
     1° blanke wapens waarvan het lemmet meer dan een snijkant heeft, voor zover zij niet vallen onder categorie I;  
      2° degens, zwaarden, sabels en bajonetten;  
@@ -66,14 +66,14 @@ In deze wet wordt verstaan onder:
 
 2. Munitie in de zin van deze wet is, onderverdeeld in de volgende categorieën:
 
-    #### Categorie II [Munitie]
+    ##### Categorie II [Munitie]
 
     1° munitie die uitsluitend geschikt voor vuurwapens van categorie II is;  
     2° munitie die een giftige, verstikkende, weerloosmakende, traanverwekkende of soortgelijke stof verspreidt, met uitzondering van munitie met weerloosmakende of traanverwekkende stof, bestemd voor vuurwapens in de vorm van geweren, revolvers en pistolen;  
     3° munitie voorzien van een projectiel waarmee een pantserplaat kan worden doorboord, munitie voorzien van een projectiel met brandsas of met een explosieve lading, alsmede de voor deze munitie bestemde projectielen;  
     4° munitie voor geweren, revolvers en pistolen voorzien van expanderende projectielen, alsmede de voor deze munitie bestemde projectielen, behalve wanneer het voor de jacht of de schietsport bestemde munitie of projectielen betreft.
 
-    #### Categorie III [Munitie]
+    ##### Categorie III [Munitie]
 
     Alle overige munitie.
 
