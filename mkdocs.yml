@@ -24,6 +24,7 @@ extra_javascript:
   - javascripts/headercopy.js
 nav:
   - Home: 'index.md'
+  - APV Future: 'algemene-plaatselijke-verordening.md'
   - Wetboek van Strafvordering: 'wetboek-van-strafvordering.md'
   - Wetboek van Strafrecht: 'wetboek-van-strafrecht.md'
   - Wegenverkeers wetgeving:
@@ -34,14 +35,18 @@ nav:
     - Reglement rijbewijzen: 'wegenverkeerswet/reglement-rijbewijzen.md'
     - Besluit voertuigen: 'wegenverkeerswet/besluit-voertuigen.md'
     - Feitenboekje: 'wegenverkeerswet/feitenboekje.md'
+  - Bijzonder strafrecht:
+    - Wet Wapens en Munitie: 'wet-wapens-en-munitie.md'
+    - Opiumwet: 'opiumwet.md'
   - Vreemdelingenrecht:
     - Vreemdelingenwet 2000: 'vreemdelingenrecht/vreemdelingenwet.md'
     - Vreemdelingenbesluit 2000: 'vreemdelingenrecht/vreemdelingenbesluit.md'
-  - Wet Wapens en Munitie: 'wet-wapens-en-munitie.md'
-  - Opiumwet: 'opiumwet.md'
-  - Politiewet 2012: 'politiewet-2012.md'
-  - Ambtsinstructie: 'ambtsinstructie.md'
-  - Wet op de identificatieplicht: 'wet-op-de-identificatieplicht.md'
-  - Paspoortwet: 'paspoortwet.md'
-  - Algemene wet op het binnentreden: 'algemene-wet-op-het-binnentreden.md'
-  - Wet gedeeltelijk verbod gezichtsbedekkende kleding: 'wet-gedeeltelijk-verbod-gezichtsbedekkende-kleding.md'
+  - Politiewetten:
+    - Politiewet 2012: 'politiewet-2012.md'
+    - Ambtsinstructie: 'ambtsinstructie.md'
+  - Overig:
+    - Algemene wet bestuursrecht: 'algemene-wet-bestuursrecht.md'
+    - Wet op de identificatieplicht: 'wet-op-de-identificatieplicht.md'
+    - Paspoortwet: 'paspoortwet.md'
+    - Algemene wet op het binnentreden: 'algemene-wet-op-het-binnentreden.md'
+    - Wet gedeeltelijk verbod gezichtsbedekkende kleding: 'wet-gedeeltelijk-verbod-gezichtsbedekkende-kleding.md'
