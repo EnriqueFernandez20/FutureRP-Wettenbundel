@@ -2,7 +2,7 @@
 
 ## Hoofdstuk 1 Algemeen
 
-### Artikel 1 AI [Begripsbepaling]
+#### Artikel 1 AI [Begripsbepaling]
 
 1. In dit besluit wordt verstaan onder ambtenaar:
     1. de ambtenaar van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder a, van de Politiewet 2012, en de ambtenaar van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder c of d, van die wet, die is aangesteld voor de uitvoering van de politietaak;
@@ -30,7 +30,7 @@
 4. In dit besluit wordt onder ingeslotene verstaan degene die rechtens van zijn vrijheid is beroofd. Onder ingeslotene wordt mede verstaan degene die ten behoeve van de hulpverlening aan hem op het politie- of brigadebureau is ondergebracht.
 5. In dit besluit wordt onder wapenstok zowel de korte als de lange wapenstok verstaan.
 
-### Artikel 2 AI [Legitimatie]
+#### Artikel 2 AI [Legitimatie]
 
 1. De ambtenaar legitimeert zich met het legitimatiebewijs dat aan hem is verstrekt:
     1. bij optreden in burgerkleding ongevraagd, tenzij bijzondere omstandigheden dit onmogelijk maken, en
@@ -38,19 +38,19 @@
 
 ## Hoofdstuk 2 Geweld
 
-### Artikel 4 AI [Gebruik geweldmiddel of vrijheidsbeperkend middel]
+#### Artikel 4 AI [Gebruik geweldmiddel of vrijheidsbeperkend middel]
 
 1. Het gebruik van een geweldmiddel of vrijheidsbeperkend middel is uitsluitend toegestaan aan een ambtenaar:
     1. aan wie dat middel rechtens is toegekend, voor zover hij optreedt ter uitvoering van de taak met het oog waarop het middel hem is toegekend, en
     2. die in het gebruik van dat middel is geoefend.
 
-### Artikel 5 AI [Geweld op last van meerdere]
+#### Artikel 5 AI [Geweld op last van meerdere]
 
 1. Indien de ambtenaar onder leiding van een ter plaatse aanwezige meerdere optreedt, zal hij geen geweld aanwenden dan na uitdrukkelijke last van deze meerdere. De meerdere geeft daarbij aan van welk geweldmiddel gebruik wordt gemaakt.
 2. Het eerste lid is niet van toepassing in het geval de meerdere, bedoeld in het eerste lid, vooraf anders heeft bepaald.
 3. Het eerste lid is evenmin van toepassing in een geval als bedoeld in artikel 10, eerste lid, onderdeel b, voor zover de last redelijkerwijs niet kan worden afgewacht.
 
-### Artikel 7 AI [Voorwaarden gebruik vuurwapen]
+#### Artikel 7 AI [Voorwaarden gebruik vuurwapen]
 
 1. Het gebruik van een vuurwapen, niet zijnde het gebruik, bedoeld in de artikelen 8 en 9, is slechts geoorloofd:
     1. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat deze:
@@ -66,27 +66,27 @@
 2. In de gevallen, bedoeld in het eerste lid, onder a en b, wordt van het vuurwapen geen gebruik gemaakt indien de identiteit van de aan te houden persoon bekend is en redelijkerwijs mag worden aangenomen dat het uitstel van de aanhouding geen onaanvaardbaar te achten gevaar voor de rechtsorde met zich brengt.
 3. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de artikelen 47 en 48 van het Wetboek van Strafrecht.
 
-### Artikel 8 AI [Gebruik automatisch vuur]
+#### Artikel 8 AI [Gebruik automatisch vuur]
 
 Het gebruik van automatisch vuur mag alleen plaatsvinden door een ambtenaar die behoort tot een aanhoudings- en ondersteuningsteam of tot een bijstandseenheid dat belast is met de bewaking en beveiliging van personen en objecten en is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-### Artikel 9 AI [Lange afstandsvuurwapen]
+#### Artikel 9 AI [Lange afstandsvuurwapen]
 
 Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afgegeven, mag alleen plaatsvinden onder bevel van de commandant van een bijstandseenheid en is slechts geoorloofd om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-### Artikel 10 AI [Ter hand nemen vuurwapen]
+#### Artikel 10 AI [Ter hand nemen vuurwapen]
 
 1. De ambtenaar mag het dienstpistool slechts ter hand nemen:
     1. in gevallen waarin het gebruik van een vuurwapen is toegestaan, of
     2. in verband met zijn veiligheid of die van anderen, indien redelijkerwijs mag worden aangenomen dat een situatie ontstaat, waarin hij bevoegd is een vuurwapen te gebruiken.
 2. Indien een situatie als bedoeld in het eerste lid, onderdeel b, zich niet of niet meer voordoet, bergt de ambtenaar terstond het dienstpistool op.
 
-### Artikel 10a AI [Waarschuwing voor schot]
+#### Artikel 10a AI [Waarschuwing voor schot]
 
 1. De ambtenaar waarschuwt onmiddellijk voordat hij gericht met een vuurwapen zal schieten, met luide stem of op andere niet mis te verstane wijze dat geschoten zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing, die zo nodig vervangen kan worden door een waarschuwingsschot, blijft slechts achterwege, wanneer de omstandigheden de waarschuwing niet toelaten.
 2. Een waarschuwingsschot moet op zodanige wijze worden gegeven, dat gevaar voor personen of zaken zoveel mogelijk wordt vermeden.
 
-### Artikel 12c AI [Gebruik stroomstootwapen]
+#### Artikel 12c AI [Gebruik stroomstootwapen]
 
 1. Het gebruik van een stroomstootwapen in de schietmodus is slechts geoorloofd:
     1. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen een persoon zal gebruiken of aanstonds ander geweld tegen personen zal gebruiken;
@@ -97,11 +97,11 @@ Het gebruik van een vuurwapen waarmee lange afstandsprecisievuur kan worden afge
     1. ter verdediging tegen of voor het onder controle brengen van agressieve dieren;
     2. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-### Artikel 12d AI [Waarschuwing voor gebruik stroomstootwapen]
+#### Artikel 12d AI [Waarschuwing voor gebruik stroomstootwapen]
 
 De ambtenaar waarschuwt onmiddellijk voordat hij een stroomstootwapen tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een stroomstootwapen gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
-### Artikel 12e AI [Gebruik wapenstok]
+#### Artikel 12e AI [Gebruik wapenstok]
 
 1. Het gebruik van de wapenstok is slechts geoorloofd:
     1. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat hij een voor onmiddellijk gebruik gereed zijnd wapen bij zich heeft en dit tegen een persoon zal gebruiken of aanstonds ander geweld tegen personen zal gebruiken;
@@ -110,11 +110,11 @@ De ambtenaar waarschuwt onmiddellijk voordat hij een stroomstootwapen tegen een 
     4. ter verspreiding van samenscholingen of volksmenigten die een onmiddellijke bedreiging vormen voor de openbare orde;
     5. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
 
-### Artikel 12f AI [Waarschuwing voor gebruik wapenstok]
+#### Artikel 12f AI [Waarschuwing voor gebruik wapenstok]
 
 De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt onmiddellijk voordat hij een wapenstok tegen een persoon zal gebruiken, met luide stem of op andere niet mis te verstane wijze dat een wapenstok gebruikt zal worden, indien niet onverwijld het gegeven bevel wordt opgevolgd. Deze waarschuwing blijft achterwege indien de omstandigheden de waarschuwing redelijkerwijs niet toelaten.
 
-### Artikel 17 AI [Behandeling geweldsregistratie]
+#### Artikel 17 AI [Behandeling geweldsregistratie]
 
 1. De ambtenaar die geweld heeft aangewend, meldt schriftelijk de aard, waaronder het gebruikte geweldmiddel, en de gevolgen daarvan en mondeling de feiten en omstandigheden, waaronder de redenen die tot het aanwenden van geweld hebben geleid, zo spoedig mogelijk aan de hulpofficier van justitie die krachtens aanwijzing is belast met de registratie van aangewend geweld.
 2. Indien de ambtenaar die geweld heeft aangewend, onder leiding van een ter plaatse aanwezige meerdere heeft opgetreden en geweld heeft aangewend na diens uitdrukkelijke last, geschiedt de melding, bedoeld in het eerste lid, door deze meerdere. De ambtenaar verstrekt de hulpofficier van justitie, bedoeld in het eerste lid, desgevraagd de nodige inlichtingen.
@@ -126,23 +126,23 @@ De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt 
 
 ## Hoofdstuk 3 Veiligheids- en vervoersfouillering
 
-### Artikel 20 AI [Onderzoek aan kleding]
+#### Artikel 20 AI [Onderzoek aan kleding]
 
 1. Het onderzoek aan de kleding, bedoeld in [artikel 7, derde lid](politiewet-2012.md#artikel-7-pw-2012-geweldgebruik-binnentreden-fouilleren), van de Politiewet 2012, en het onderzoek aan de kleding van een te vervoeren persoon, bedoeld in het [vierde lid](politiewet-2012.md#artikel-7-pw-2012-geweldgebruik-binnentreden-fouilleren) van dat artikel, geschiedt door het oppervlakkig aftasten van de kleding en wordt zo veel mogelijk uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
 2. Als de ambtenaar bij het onderzoek, bedoeld in [artikel 7, derde lid](politiewet-2012.md#artikel-7-pw-2012-geweldgebruik-binnentreden-fouilleren), van de Politiewet 2012, of bij het onderzoek, bedoeld in het [vierde lid](politiewet-2012.md#artikel-7-pw-2012-geweldgebruik-binnentreden-fouilleren) van dat artikel, ten behoeve van het vervoer van een persoon, voorwerpen aantreft die een gevaar kunnen vormen voor de veiligheid van de betrokkene of voor anderen, neemt hij die voorwerpen in bewaring.
 
-### Artikel 21 AI [Melding aan hulpofficier van justitie]
+#### Artikel 21 AI [Melding aan hulpofficier van justitie]
 
 De ambtenaar die een onderzoek aan kleding of voorwerpen heeft uitgevoerd als bedoeld in [artikel 7, derde lid](politiewet-2012.md#artikel-7-pw-2012-geweldgebruik-binnentreden-fouilleren), van de Politiewet 2012 meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de redenen die tot dit onderzoek hebben geleid.
 
 ## Hoofdstuk 4 Vrijheidsbeperkende middelen en hulpmiddelen
 
-### Artikel 22 AI [Aanleggen handboeien]
+#### Artikel 22 AI [Aanleggen handboeien]
 
 1. Ten behoeve van het vervoer of een verplaatsing kan de ambtenaar een persoon die rechtens van zijn vrijheid is beroofd, handboeien aanleggen indien op grond van de feiten of omstandigheden redelijkerwijs gevaar valt te vrezen voor:
     1. ontvluchting, of
     2. de veiligheid van de persoon die rechtens van zijn vrijheid is beroofd, van de ambtenaar of van derden.
 
-### Artikel 23 AI [Ambtenaar meldt aanleggen handboeien]
+#### Artikel 23 AI [Ambtenaar meldt aanleggen handboeien]
 
 De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bedoeld in [artikel 22](#artikel-22-ai-aanleggen-handboeien), meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de redenen die tot het gebruik van het middel hebben geleid.

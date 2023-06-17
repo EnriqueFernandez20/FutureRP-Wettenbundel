@@ -2,7 +2,7 @@
 
 ## Hoofdstuk 1 Begripsbepalingen
 
-### Artikel 1 PW 2012 [Begripsbepaling]
+#### Artikel 1 PW 2012 [Begripsbepaling]
 
 1. In deze wet en de daarop berustende bepalingen wordt verstaan onder:
     1. Onze Minister: Onze Minister van Veiligheid en Justitie;
@@ -10,7 +10,7 @@
     3. korpschef: de korpschef, bedoeld in [artikel 27](#artikel-27-pw-2012-taak-korpschef);
     4. eenheid: een regionale of landelijke eenheid;
 
-### Artikel 2 PW 2012 [Ambtenaren van politie]
+#### Artikel 2 PW 2012 [Ambtenaren van politie]
 
 1. Ambtenaren van politie in de zin van deze wet zijn:
     1. ambtenaren die zijn aangesteld voor de uitvoering van de politietaak;
@@ -20,11 +20,11 @@
 
 ## Hoofdstuk 2 De uitvoering van de politietaak
 
-### Artikel 3 PW 2012 [Taak politie]
+#### Artikel 3 PW 2012 [Taak politie]
 
 De politie heeft tot taak in ondergeschiktheid aan het bevoegd gezag en in overeenstemming met de geldende rechtsregels te zorgen voor de daadwerkelijke handhaving van de rechtsorde en het verlenen van hulp aan hen die deze behoeven.
 
-### Artikel 4 PW 2012 [Politietaken Koninklijke marechaussee]
+#### Artikel 4 PW 2012 [Politietaken Koninklijke marechaussee]
 
 1. Aan de Koninklijke marechaussee, die onder het beheer van Onze Minister van Defensie staat, zijn, onverminderd het bepaalde bij of krachtens andere wetten, de volgende politietaken opgedragen:
     1. het waken over de veiligheid van de leden van het koninklijk huis, in samenwerking met andere daartoe aangewezen organen;
@@ -37,16 +37,16 @@ De politie heeft tot taak in ondergeschiktheid aan het bevoegd gezag en in overe
     8. het in opdracht van Onze Minister en Onze Minister van Defensie ten behoeve van De Nederlandsche Bank N.V. verrichten van beveiligingswerkzaamheden.
 2. Hoewel bevoegd tot de opsporing van alle strafbare feiten, onthoudt de militair van de Koninklijke marechaussee die is aangewezen krachtens [artikel 141](wetboek-van-strafvordering.md#artikel-141-wvsv-algemene-opsporingsbevoegdheid) van het Wetboek van Strafvordering, zich van optreden anders dan in het kader van de uitvoering van zijn politietaken, bedoeld in het eerste lid.
 
-### Artikel 5 PW 2012 [Samenwerking politie met Koninklijke marechaussee]
+#### Artikel 5 PW 2012 [Samenwerking politie met Koninklijke marechaussee]
 
 Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie kunnen regels worden gegeven over de samenwerking van de politie met de Koninklijke marechaussee.
 
-### Artikel 6 PW 2012 [Bevoegd in het gehele land]
+#### Artikel 6 PW 2012 [Bevoegd in het gehele land]
 
 1. De ambtenaar van politie is bevoegd zijn taak uit te oefenen in het gehele land.
 2. Hoewel bevoegd in het gehele land, onthoudt de ambtenaar van politie die is tewerkgesteld bij een regionale eenheid, zich van optreden buiten zijn gebied van tewerkstelling, tenzij zijn optreden redelijkerwijs noodzakelijk is, dan wel ingevolge regels, gesteld bij of krachtens de wet, dan wel in opdracht of met toestemming van het bevoegd gezag over de politie.
 
-### Artikel 7 PW 2012 [Geweldgebruik. Binnentreden. Fouilleren]
+#### Artikel 7 PW 2012 [Geweldgebruik. Binnentreden. Fouilleren]
 
 1. De ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, is bevoegd in de rechtmatige uitoefening van zijn bediening geweld of vrijheidsbeperkende middelen te gebruiken, wanneer het daarmee beoogde doel dit, mede gelet op de aan het gebruik hiervan verbonden gevaren, rechtvaardigt en dat doel niet op een andere wijze kan worden bereikt. Aan het gebruik van geweld gaat zo mogelijk een waarschuwing vooraf.
 2. De ambtenaar van politie, bedoeld in het eerste lid, heeft toegang tot elke plaats, voor zover dat voor het verlenen van hulp aan hen die deze behoeven, redelijkerwijs nodig is.
@@ -57,12 +57,12 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 7. De uitoefening van de bevoegdheden, bedoeld in het eerste tot en met zesde lid, dient in verhouding tot het beoogde doel redelijk en gematigd te zijn.
 8. Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op de militair van de Koninklijke marechaussee, indien hij optreedt in de rechtmatige uitoefening van zijn bediening, en op de militair van enig ander onderdeel van de krijgsmacht die op grond van deze wet bijstand verleent aan de politie. Het vijfde en zesde lid zijn van overeenkomstige toepassing indien een persoon wordt of is ingesloten door de Koninklijke marechaussee, met dien verstande dat de beslissing, bedoeld in het vijfde lid, eerste volzin, wordt genomen door de commandant van de betrokken brigade, zijn plaatsvervanger of de militair van de Koninklijke marechaussee, belast met de zorg voor ingeslotenen.
 
-### Artikel 8 PW 2012 [Vorderen inzage identiteitsbewijs]
+#### Artikel 8 PW 2012 [Vorderen inzage identiteitsbewijs]
 
 1. Een ambtenaar van politie die is aangesteld voor de uitvoering van de politietaak, is bevoegd tot het vorderen van inzage van een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht#artikel-1-wid) van de Wet op de identificatieplicht van personen, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van de politietaak.
 2. Gelijke bevoegdheid komt toe aan de militair van de Koninklijke marechaussee, voor zover dat redelijkerwijs noodzakelijk is voor de uitvoering van zijn politietaak, bedoeld in [artikel 4](#artikel-4-pw-2012-politietaken-koninklijke-marechaussee), eerste lid, en aan de militair van de Koninklijke marechaussee of van enig ander onderdeel van de krijgsmacht die op grond van deze wet bijstand verleent aan de politie.
 
-### Artikel 9 PW 2012 [Ambtsinstructie]
+#### Artikel 9 PW 2012 [Ambtsinstructie]
 
 1. Bij algemene maatregel van bestuur wordt een [ambtsinstructie](ambtsinstructie.md) voor de politie en voor de Koninklijke marechaussee vastgesteld.
 2. Indien de militair van enig ander onderdeel van de krijgsmacht op grond van deze wet bijstand verleent aan de politie is de ambtsinstructie van toepassing.
@@ -70,25 +70,25 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 4. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent maatregelen waaraan rechtens van hun vrijheid beroofde personen met het oog op hun insluiting kunnen worden onderworpen, voor zover dit noodzakelijk is in het belang van hun veiligheid of de veiligheid van anderen.
 5. Het vierde lid is van overeenkomstige toepassing op personen die ten behoeve van de hulpverlening aan hen zijn ondergebracht bij de politie of de Koninklijke marechaussee.
 
-### Artikel 12 PW 2012 [Gezag OvJ]
+#### Artikel 12 PW 2012 [Gezag OvJ]
 
 1. Indien de politie optreedt ter strafrechtelijke handhaving van de rechtsorde, dan wel taken verricht ten dienste van de justitie, staat zij, tenzij in enige wet anders is bepaald, onder gezag van de officier van justitie.
 2. De officier van justitie kan de betrokken ambtenaren van politie de nodige aanwijzingen geven voor de vervulling van de in het eerste lid bedoelde taken.
 
 ## Hoofdstuk 3 Het beleid ten aanzien van de politie en de organisatie van de politie
 
-### Artikel 22 PW 2012 [Bewapening, uitrusting en kleding]
+#### Artikel 22 PW 2012 [Bewapening, uitrusting en kleding]
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de bewapening, de uitrusting en de kleding van de ambtenaren van politie.
 
-### Artikel 25 PW 2012 [Landelijk politiekorps]
+#### Artikel 25 PW 2012 [Landelijk politiekorps]
 
 1. Er is een landelijk politiekorps dat bestaat uit de volgende onderdelen:
     1. regionale eenheden, belast met de uitvoering van de politietaak;
     2. een of meer bij algemene maatregel van bestuur aan te wijzen landelijke eenheden, belast met de uitvoering van de politietaak;
     3. een of meer bij algemene maatregel van bestuur aan te wijzen ondersteunende diensten.
 
-### Artikel 27 PW 2012 [Taak korpschef]
+#### Artikel 27 PW 2012 [Taak korpschef]
 
 1. De korpschef is belast met de leiding en het beheer van de politie. De korpschef legt over de uitoefening van zijn taken en bevoegdheden verantwoording af aan Onze Minister.
 2. De korpschef vertegenwoordigt de politie in en buiten rechte.

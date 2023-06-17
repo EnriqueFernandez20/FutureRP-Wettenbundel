@@ -2,7 +2,7 @@
 
 ## Hoofdstuk 1 [Algemene bepalingen]
 
-### Artikel 1 WWM [Begripsbepalingen]
+#### Artikel 1 WWM [Begripsbepalingen]
 
 In deze wet wordt verstaan onder:
 
@@ -18,7 +18,7 @@ In deze wet wordt verstaan onder:
 -   10° dragen van een wapen: het op de openbare weg of andere voor het publiek toegankelijke plaatsen bij zich hebben van een wapen anders dan voor vervoer in de onder 9° bedoelde zin;
 -   11° overdragen: het aan een ander doen overgaan van de feitelijke macht;
 
-### Artikel 2 WWM [Wapens en munitie: categorieën]
+#### Artikel 2 WWM [Wapens en munitie: categorieën]
 
 1. Wapens in de zin van deze wet zijn de hieronder vermelde of overeenkomstig dit artikellid aangewezen voorwerpen, onderverdeeld in de volgende categorieën.
 
@@ -80,7 +80,7 @@ In deze wet wordt verstaan onder:
 3. Aanwijzingen door Onze Minister, als bedoeld in het eerste lid, geschieden bij regeling.
 4. Onverminderd het bepaalde in het eerste lid, onder categorie I, sub g°, zijn geen wapens in de zin van deze wet voorwerpen die klaarblijkelijk zijn bestemd om als speelgoed te worden gebruikt en die redelijkerwijze niet geschikt kunnen worden geacht om daarmee personen ernstig lichamelijk letsel toe te brengen of om personen te bedreigen of af te dreigen.
 
-### Artikel 3 WWM [Hulpstukken en onderdelen]
+#### Artikel 3 WWM [Hulpstukken en onderdelen]
 
 1. De bepalingen betreffende wapens zijn mede van toepassing op hulpstukken die specifiek bestemd zijn voor die wapens, de essentiële onderdelen van vuurwapens en op de onderdelen van wapens die van wezenlijke aard zijn.
 2. De bepalingen betreffende munitie zijn mede van toepassing op onderdelen van die munitie, voorzover geschikt om munitie van te maken.
@@ -88,7 +88,7 @@ In deze wet wordt verstaan onder:
 
 ## Hoofdstuk 2 [Bepalingen voor wapens van categorie I]
 
-### Artikel 13 WWM [Vervaardigen etc.]
+#### Artikel 13 WWM [Vervaardigen etc.]
 
 Het is verboden een wapen van categorie I te vervaardigen, te transformeren, voor derden te herstellen, over te dragen, voorhanden te hebben, te dragen, te vervoeren, te doen binnenkomen of te doen uitgaan.
 
@@ -96,25 +96,25 @@ Het overtreden van dit misdrijf wordt gestraft met een gevangenisstraf van ten h
 
 ## Hoofdstuk 6 [Voorhanden hebben en dragen van wapens en munitie van de categorieën II, III en IV]
 
-### Artikel 26 WWM [Verbod voorhanden hebben]
+#### Artikel 26 WWM [Verbod voorhanden hebben]
 
 Het is verboden een wapen of munitie van de categorieën II en III voorhanden te hebben, wordt gestraft met een gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie.
 
-### Artikel 27 WWM [Verbod dragen van wapens]
+#### Artikel 27 WWM [Verbod dragen van wapens]
 
 Het is verboden een wapen van de categorieën II, III en IV te dragen, wordt gestraft met een gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie.
 
-### Artikel 31 WWM [Overdracht. Verbodsbepaling]
+#### Artikel 31 WWM [Overdracht. Verbodsbepaling]
 
 Het is verboden een wapen of munitie van de categorieën II en III over te dragen, wordt gestraft met een gevangenisstraf van 90 maanden of geldboete van de vijfde categorie.
 
 ## Hoofdstuk 11a [Opsporing]
 
-### Artikel 49 WWM [Doorzoeking ter inbeslagneming]
+#### Artikel 49 WWM [Doorzoeking ter inbeslagneming]
 
 De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwijs kunnen vermoeden dat wapens of munitie aanwezig zijn, ter inbeslagneming doorzoeking doen.
 
-### Artikel 51 WWM [Onderzoek aan vervoermiddelen. Stopbevel]
+#### Artikel 51 WWM [Onderzoek aan vervoermiddelen. Stopbevel]
 
 1. De opsporingsambtenaren zijn bevoegd vervoermiddelen te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van:
     1. een gepleegd strafbaar feit waarbij wapens zijn gebruikt;
@@ -123,7 +123,7 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 2. De in het eerste lid bedoelde bevoegdheid kan slechts worden uitgeoefend ten aanzien van bepaalde vervoermiddelen, indien daartoe jegens deze aanleiding bestaat. De officier van justitie kan gelasten dat deze bevoegdheid tegenover elk vervoermiddel kan worden uitgeoefend.
 3. De opsporingsambtenaren kunnen van de bestuurders van voertuigen en van de schippers van vaartuigen daartoe vorderen dat deze de vervoermiddelen tot stilstand brengen, deze vervoermiddelen naar een door hen aangewezen plaats overbrengen en overeenkomstig hun aanwijzingen terzake medewerking verlenen.
 
-### Artikel 52 WWM [Inbeslagneming. Uitlevering. Onderzoek aan kleding. Luchtvaartterreinen]
+#### Artikel 52 WWM [Inbeslagneming. Uitlevering. Onderzoek aan kleding. Luchtvaartterreinen]
 
 1. De opsporingsambtenaren zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 2. De opsporingsambtenaren zijn bevoegd personen aan hun kleding te onderzoeken indien daartoe redelijkerwijs aanleiding bestaat op grond van:

@@ -2,7 +2,7 @@
 
 ## Afdeling 1 - Algemene bepalingen
 
-### Artikel 1:1 [Begripsbepaling]
+#### Artikel 1:1 [Begripsbepaling]
 
 1. economische activiteiten: De verzameling van werkzaamheden, gericht op de productie van goederen en diensten of het maken van omzet;
 2. rechtsvormen zonder rechtspersoonlijkheid: eenmanszaak, vennootschap onder firma (vof), commanditaire vennootschap (cv), maatschap;
@@ -15,29 +15,29 @@
 9. meermalen recidive: elke veroordeling voor hetzelfde strafbare na eenmaal recidive (vanaf de derde veroordeling);
 10. vervaardiging: het maken van een product.
 
-### Artikel 1:2 [Toepasselijkheid]
+#### Artikel 1:2 [Toepasselijkheid]
 
 Dit besluit is toepasselijk op iedere natuurlijke persoon en rechtspersoon die zich in Nederland bezighoudt met economische activiteiten waar krachtens deze wet eisen aan worden gesteld.
 
-### Artikel 1:3 [Opsporingsbevoegdheid]
+#### Artikel 1:3 [Opsporingsbevoegdheid]
 
 1. Bevoegd tot het opsporen van inbreuken op de voorschriften van dit besluit is belast opsporingsambtenaar zoals bedoeld in [artikel 141 van het Wetboek van Strafvordering](./wetboek-van-strafvordering.md#artikel-141-wvsv-algemene-opsporingsbevoegdheid);
 2. De opsporingsambtenaar is bevoegd tot het opleggen van een administratieve geldboete voor het handelen zonder inschrijving in het handelsregister, zoals bedoeld in artikel 3:1;
 3. De Kamer van Koophandel is bevoegd tot het opleggen van alle krachtens dit besluit vastgestelde administratieve geldboetes;
     1. De opsporingsambtenaar is bevoegd om zijn bevindingen omtrent overtredingen van de voorschriften van dit besluit voor te leggen aan de Kamer van Koophandel.
 
-### Artikel 1:4 [Werkwijze van de Kamer van Koophandel]
+#### Artikel 1:4 [Werkwijze van de Kamer van Koophandel]
 
 1. De Kamer van Koophandel is bevoegd tot inschrijven van ondernemingen in het handelsregister
 
 ## Afdeling 2 - Het handelsregister
 
-### Artikel 2:1 [Handelsregister]
+#### Artikel 2:1 [Handelsregister]
 
 1. Van ieder die zich bezig houdt met een economische activiteit of onderneming welke wordt benoemd in Bijlage 1, dient zich in te schrijven in het handelsregister van de Kamer van Koophandel;
 2. De Kamer van Koophan
 
-### Artikel 2:2 [Inschrijvingsverzoek aan de Kamer van Koophandel]
+#### Artikel 2:2 [Inschrijvingsverzoek aan de Kamer van Koophandel]
 
 1. Een verzoek tot inschrijving in het handelsregister geschiedt door het naar waarheid indienen van de volgende gegevens bij de Kamer van Koophandel:
     1. Naam onderneming;
@@ -52,7 +52,7 @@ Dit besluit is toepasselijk op iedere natuurlijke persoon en rechtspersoon die z
 2. Het inschrijvingsverzoek moet een daadwerkelijke onderneming betreffen en moet naar redelijkheid als serieus aangemerkt worden;
 3. De Kamer van Koophandel kan ervoor kiezen elk inschrijvingsverzoek dat naar haar oordeel niet voldoet aan de eisen van lid 1 of 2 als niet ontvankelijk aan te merken.
 
-### Artikel 2:3 [Behandeling van het inschrijvingsverzoek; Verlening van vergunningen]
+#### Artikel 2:3 [Behandeling van het inschrijvingsverzoek; Verlening van vergunningen]
 
 1. De Kamer van Koophandel zal de indiener van een inschrijvingsverzoek per e-mail berichten met het besluit over het ingediende inschrijvingsverzoek;
 2. De schriftelijke reactie wordt ook voorzien van
@@ -65,33 +65,33 @@ Dit besluit is toepasselijk op iedere natuurlijke persoon en rechtspersoon die z
     4. Uitnodiging tot vastlegging van aanvullende afspraken;
     5. Aanbeveling tot her-indiening van het verzoek.
 
-### Artikel 2:3a [Goedkeuring van het verzoek]
+#### Artikel 2:3a [Goedkeuring van het verzoek]
 
 1. In haar schriftelijke reactie op een goedgekeurd inschrijvingsverzoek zal de Kamer van Koophandel het volgende verlenen aan de indiener:
     1. Een KvK-nummer;
     2. Een schriftelijke bevestiging
 2.
 
-### Artikel 2:4 [Voltooing van de inschrijving; Verlening van vergunningen]
+#### Artikel 2:4 [Voltooing van de inschrijving; Verlening van vergunningen]
 
 ## Afdeling 3 - Sancties
 
-### Artikel 3:1 [Sanctiebepalingen]
+#### Artikel 3:1 [Sanctiebepalingen]
 
 1. Bij elke krachtens deze afdeling gegeven sanctie
 
-### Artikel 3:1 [Handelen zonder inschrijving in het handelsregister]
+#### Artikel 3:1 [Handelen zonder inschrijving in het handelsregister]
 
 1. Degene die zonder inschrijving in het handelsregister zich bezig houdt met een economische activiteit of onderneming welke wordt benoemd in Bijlage 1, wordt gestraft met een geldboete van:
     1. **ten hoogste 50.000 euro** bij de eerste veroordeling.
     2. **ten hoogste 100.000 euro** bij eenmaal recidive.
     3. **ten hoogste 250.000 euro** bij meermalen recidive.
 
-### Artikel 3:2 [Inbreuk op de vergunningsverplichting]
+#### Artikel 3:2 [Inbreuk op de vergunningsverplichting]
 
 1. Voor de volgende inbreuken geldt administratieve geldboete tot 50 000 EUR.
 
-### Artikel 3:2 [Inbreuken met recidive]
+#### Artikel 3:2 [Inbreuken met recidive]
 
 De administratieve gelboeten, zoals beschreven in artikel 3:1 worden met
     2. een boete van **ten hoogste 100.000 euro** bij eenmaal recidive.

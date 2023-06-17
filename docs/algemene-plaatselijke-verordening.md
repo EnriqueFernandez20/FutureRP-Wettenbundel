@@ -2,7 +2,7 @@
 
 ## Hoofdstuk 1 - Algemene Bepalingen
 
-### Artikel 1:1 APV [Algemene Bepalingen]
+#### Artikel 1:1 APV [Algemene Bepalingen]
 
 In deze verordening wordt verstaan onder:
 
@@ -18,7 +18,7 @@ Met de opsporing van feiten strafbaar gesteld bij of krachtens deze wet is belas
 
 ## Hoofdstuk 2 - Openbare orde
 
-### Artikel 2:1 APV [Samenscholing en ongeregeldheden]
+#### Artikel 2:1 APV [Samenscholing en ongeregeldheden]
 
 1. Het is verboden op een openbare plaats deelte nemen aan een samenscholing, onnodig op te dringen of door uitdagend gedrag aanleiding te geven tot ongeregeldheden, dan welte vechten.
 2. Degene die op een openbare plaats:

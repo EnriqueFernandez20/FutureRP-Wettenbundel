@@ -2,7 +2,7 @@
 
 ## Hoofdstuk 1 Algemene bepalingen
 
-### Artikel 1 BV [Definitie]
+#### Artikel 1 BV [Definitie]
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
@@ -10,7 +10,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ## Hoofdstuk 3 Periodieke keuring van voertuigen
 
-### Artikel 4 BV [Motorfietsen, bromfietsen, driewielige motorrijtuigen, motorrijtuig of aanhangwagen toegelaten voor 1-1-1960]
+#### Artikel 4 BV [Motorfietsen, bromfietsen, driewielige motorrijtuigen, motorrijtuig of aanhangwagen toegelaten voor 1-1-1960]
 
 1. [Artikel 72, eerste lid](./wegenverkeerswet-1994.md#artikel-72-wvw-keuringsplicht-eisen-keuringsbewijs-aansprakelijkheid), van de wet geldt niet voor:
     1. landbouw- en bosbouwtrekkers:
@@ -27,10 +27,10 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
     9. verwisselbare getrokken uitrustingsstukken.
 2. [Artikel 72, eerste lid](./wegenverkeerswet-1994.md#artikel-72-wvw-keuringsplicht-eisen-keuringsbewijs-aansprakelijkheid), van de wet geldt niet voor een motorrijtuig of een aanhangwagen, met uitzondering van taxi's, ov-auto’s en bussen, waarvan de datum van eerste toelating ten minste vijftig jaar geleden is.
 
-### Artikel 9 BV [Dag van keuring]
+#### Artikel 9 BV [Dag van keuring]
 
 [Artikel 72, eerste lid](./wegenverkeerswet-1994.md#artikel-72-wvw-keuringsplicht-eisen-keuringsbewijs-aansprakelijkheid), van de wet geldt niet voor een motorrijtuig of een aanhangwagen op de dag waarop dat voertuig naar aanleiding van de aanvraag van een keuringsrapport aan een keuring wordt onderworpen.
 
-### Artikel 16 BV [Geldigheidsduur. Uitzonderingen]
+#### Artikel 16 BV [Geldigheidsduur. Uitzonderingen]
 
 1. Een keuringsbewijs is geldig voor de duur van een jaar.
