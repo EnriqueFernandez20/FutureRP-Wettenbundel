@@ -82,4 +82,4 @@
 
 ## Bijlage 1: Feitenboekje
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKFUT3ddQ25G_R-T4QD31u4ezi6fxs6_WRbmfVev8WqVw0jVcG9ua74akCXXAD4OKnjcltEk5A0NUf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" style="height: min-content;"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKFUT3ddQ25G_R-T4QD31u4ezi6fxs6_WRbmfVev8WqVw0jVcG9ua74akCXXAD4OKnjcltEk5A0NUf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" style="height: 100vh;"></iframe>
