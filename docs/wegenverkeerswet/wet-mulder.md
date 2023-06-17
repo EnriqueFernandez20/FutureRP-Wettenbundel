@@ -79,3 +79,7 @@
     1. hij die niet voldoet aan vordering van een krachtens [artikel 3, eerste lid](#artikel-3-wahv), aangewezen toezichthouder;
     2. hij die de gegevens waarop de in het eerste lid bedoelde vordering betrekking heeft, onjuist opgeeft;
 2. Het strafbare feit is een overtreding.
+
+## Bijlage 1: Feitenboekje
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKFUT3ddQ25G_R-T4QD31u4ezi6fxs6_WRbmfVev8WqVw0jVcG9ua74akCXXAD4OKnjcltEk5A0NUf/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="1170" height="2000"></iframe>
