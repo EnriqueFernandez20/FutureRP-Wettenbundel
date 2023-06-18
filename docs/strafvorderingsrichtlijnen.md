@@ -30,45 +30,45 @@ jr = jaar
 
 Basiscasus/delict: Gevaarzetting voor het verkeer waarbij sprake is van een verkeersongeval
 
-| Categorie verdachte                                                                                                                                               | First offender                       | 1x recidive                          | Meermalen recidive        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------ | ------------------------------------ | ------------------------- |
-| Voetgangers of fietsers                                                                                                                                           | GB € 200                             | GB € 300                             | GB € 400                  |
-| Brom- en snorfietsers                                                                                                                                             | GB € 400                             | GB € 600 + OBM 2 dg ov               | GB € 800 + OBM 4 dg ov    |
-| Bestuurder motorvoertuig op twee of meer wielen                                                                                                                   | GB € 500                             | GB € 750 + OBM 2 dg ov               | GB € 1000 + OBM 4 dg ov   |
-| Bestuurder motorvoertuig op twee of meer wielen waarbij sprake is van een dusdanige mate van gevaar dat een dodelijk slachtoffer en/of ernstig letsel is ontstaan | GB € 1000 of TS 60 uur + OBM 2 dg ov | GB € 1500 of TS 90 uur + OBM 4 dg ov | GS 1 mnd ov + OBM 6 dg ov |
+| Categorie verdachte                                                                                                                                               | First offender               | 1x recidive                  | Meermalen recidive |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------- | ------------------ |
+| Voetgangers of fietsers                                                                                                                                           | GB € 200                     | GB € 300                     | GB € 400           |
+| Brom- en snorfietsers                                                                                                                                             | GB € 400                     | GB € 600 + OBM               | GB € 800           |
+| Bestuurder motorvoertuig op twee of meer wielen                                                                                                                   | GB € 500                     | GB € 750 + OBM               | GB € 1000          |
+| Bestuurder motorvoertuig op twee of meer wielen waarbij sprake is van een dusdanige mate van gevaar dat een dodelijk slachtoffer en/of ernstig letsel is ontstaan | GB € 1000 of TS 60 uur + OBM | GB € 1500 of TS 90 uur + OBM | GS 1 mnd ov + OBM  |
 
 ### Artikel 5a WVW 1994
 
 Basiscasus/delict: Opzettelijk in ernstige mate schenden van verkeersregels
 
-| Categorie verdachte                             | Opzettelijk in ernstige mate schenden verkeersregels door één gedraging of een samenstel van gedragingen | First offender            | Recidive                   |
-| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------- | -------------------------- |
-| Voetgangers of fietsers                         | Eén gedraging                                                                                            | TS 50 uur                 | GS 1 mnd ov                |
-|                                                 | Samenstel van gedragingen                                                                                | GS 1 mnd ov               | GS 2 mnd ov                |
-| Brom- en snorfietsers                           | Eén gedraging                                                                                            | GS 1 mnd ov + OBM 3 dg vw | GS 2 mnd ov + OBM 6 dg ov  |
-|                                                 | Samenstel van gedragingen                                                                                | GS 2 mnd ov + OBM 6 dg vw | GS 4 mnd ov + OBM 12 dg ov |
-| Bestuurder motorvoertuig op twee of meer wielen | Eén gedraging                                                                                            | GS 2 mnd ov + OBM 3 dg ov | GS 4 mnd ov + OBM 6 dg ov  |
-|                                                 | Samenstel van gedragingen                                                                                | GS 4 mnd ov + OBM 6 dg ov | GS 8 mnd ov + OBM 12 dg ov |
+| Categorie verdachte                             | Opzettelijk in ernstige mate schenden verkeersregels door één gedraging of een samenstel van gedragingen | First offender    | Recidive          |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
+| Voetgangers of fietsers                         | Eén gedraging                                                                                            | TS 50 uur         | GS 1 mnd ov       |
+|                                                 | Samenstel van gedragingen                                                                                | GS 1 mnd ov       | GS 2 mnd ov       |
+| Brom- en snorfietsers                           | Eén gedraging                                                                                            | GS 1 mnd ov + OBM | GS 2 mnd ov + OBM |
+|                                                 | Samenstel van gedragingen                                                                                | GS 2 mnd ov + OBM | GS 4 mnd ov + OBM |
+| Bestuurder motorvoertuig op twee of meer wielen | Eén gedraging                                                                                            | GS 2 mnd ov + OBM | GS 4 mnd ov + OBM |
+|                                                 | Samenstel van gedragingen                                                                                | GS 4 mnd ov + OBM | GS 8 mnd ov + OBM |
 
 ### Artikel 6 WVW 1994
 
 Basiscasus/delict: Veroorzaken ernstig verkeersongeval
 
-| Gevolgen slachtoffer                  | Aanmerkelijke schuld      | Ernstige schuld            | Zeer hoge mate van schuld  |
-| ------------------------------------- | ------------------------- | -------------------------- | -------------------------- |
-| Lichamelijk letsel, tijdelijke ziekte | GB € 1000 + OBM 3 dg ov   | TS 120 uur + OBM 6 dg ov   | GS 2 mnd ov + OBM 12 dg ov |
-| Zwaar lichamelijk letsel              | TS 120 uur + OBM 6 dg ov  | TS 160 uur + OBM 12 dg ov  | GS 4 mnd ov + OBM 24 dg ov |
-| Dood                                  | TS 240 uur + OBM 12 dg ov | GS 6 mnd ov + OBM 24 dg ov | GS 8 mnd ov + OBM 36 dg ov |
+| Gevolgen slachtoffer                  | Aanmerkelijke schuld | Ernstige schuld   | Zeer hoge mate van schuld |
+| ------------------------------------- | -------------------- | ----------------- | ------------------------- |
+| Lichamelijk letsel, tijdelijke ziekte | GB € 1000 + OBM      | TS 120 uur + OBM  | GS 2 mnd ov + OBM         |
+| Zwaar lichamelijk letsel              | TS 120 uur + OBM     | TS 160 uur + OBM  | GS 4 mnd ov + OBM         |
+| Dood                                  | TS 240 uur + OBM     | GS 6 mnd ov + OBM | GS 8 mnd ov + OBM         |
 
 ### Artikel 7 WVW 1994
 
 Basiscasus/delict: Verlaten plaats ongeval
 
-| Uitsluitend materiële schade                                                    | first offender         | Recidive                |
-| ------------------------------------------------------------------------------- | ---------------------- | ----------------------- |
-| Geringe materiële schade                                                        | GB € 500               | GB € 750 + OBM 2 dg ov  |
-| Meer dan geringe materiële schade                                               | GB € 1000              | GB € 1500 + OBM 4 dg ov |
-| In hulpeloze toestand achterlaten, terwijl geen sprake is van artikel 6 WVW1994 | GS 2 mnd + OBM 6 dg ov | GS 3 mnd + OBM 9 dg ov  |
+| Uitsluitend materiële schade                                                    | first offender | Recidive        |
+| ------------------------------------------------------------------------------- | -------------- | --------------- |
+| Geringe materiële schade                                                        | GB € 500       | GB € 750 + OBM  |
+| Meer dan geringe materiële schade                                               | GB € 1000      | GB € 1500 + OBM |
+| In hulpeloze toestand achterlaten, terwijl geen sprake is van artikel 6 WVW1994 | GS 2 mnd + OBM | GS 3 mnd + OBM  |
 
 ## (winkel)diefstal/verduistering al dan niet met geweld
 
