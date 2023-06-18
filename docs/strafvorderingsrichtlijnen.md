@@ -72,6 +72,8 @@ Basiscasus/delict: Verlaten plaats ongeval
 
 ## (winkel)diefstal/verduistering al dan niet met geweld
 
+Wetsbepalingen: art. 310, 312, 321 Wetboek van Strafrecht (WvSr)
+
 ### (Winkel)diefstal of verduistering, alleen gepleegd.
 
 Basiscasus/delict: (Winkel)diefstal of verduistering, alleen gepleegd.
@@ -413,7 +415,7 @@ Basiscasus/delict: (mede)plegen van invoer of uitvoer van softdrugs.
 
 ### Harddrugs
 
-Wetsbepalingen: Art. 3 Opiumwet (Opw)
+Wetsbepalingen: Art. 2 Opiumwet (Opw)
 
 Basiscasus/delict: Plegen of medeplegen van handel/vervoer etc. Van harddrugs.
 
