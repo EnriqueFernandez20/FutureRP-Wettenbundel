@@ -1,5 +1,4 @@
-Contributing to the project
-=======================
+# Contributing to the project
 
 ## Richtlijnen
 
@@ -8,4 +7,5 @@ Contributing to the project
 3. **Test, test, and test**: Test je verandering voordat je hiervoor een pull-request aanmaakt
 
 ## Formatting
-Voor de formatting van de markdown files wordt de Visual Studio Code extension [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) gebruikt, zodat de markdown klopt en gelijk is in de verschillende documenten.
+
+Voor de formatting van de markdown files wordt de Visual Studio Code extension [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) gebruikt, zodat de markdown klopt en gelijk is in de verschillende documenten.
