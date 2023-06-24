@@ -288,9 +288,27 @@ Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig 
 
 Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangifte of klachte te doen.
 
+#### Artikel 163 WvSv [Procedure aangifte strafbaar feit]
+
+1. De aangifte van eenig strafbaar feit geschiedt mondeling of schriftelijk bij den bevoegden ambtenaar, hetzij door den aangever in persoon, hetzij door een ander, daartoe door hem van eene bijzondere schriftelijke volmacht voorzien.
+2. De mondelinge aangifte wordt door den ambtenaar die haar ontvangt, in geschrifte gesteld en na voorlezing door hem met den aangever of diens gemachtigde onderteekend. Indien deze niet kan teekenen, wordt de reden van het beletsel vermeld.
+3. Indien de aangever of diens gemachtigde de Nederlandse taal niet of onvoldoende begrijpt of spreekt, wordt hij in staat gesteld aangifte te doen in een taal die hij begrijpt of spreekt of ontvangt hij de nodige taalkundige bijstand.
+4. De schriftelijke aangifte wordt door de aangever of diens gemachtigde ondertekend. De aangifte kan langs elektronische weg worden overgedragen met behulp van een bij of krachtens algemene maatregel van bestuur aangewezen elektronische voorziening, voor de in die voorziening toegestane feiten.
+5. De aangever ontvangt een kopie van de aangifte dan wel een kopie van het proces-verbaal van aangifte.
+6. Indien het belang van het onderzoek dit vergt ontvangt de aangever een schriftelijke bevestiging van zijn aangifte, in afwijking van het bepaalde in het vijfde lid. De schriftelijke bevestiging vermeldt de bijzondere redenen voor het afwijken van het vijfde lid.
+7. De aangever ontvangt, indien hij de Nederlandse taal niet of onvoldoende begrijpt of spreekt, op zijn verzoek een vertaling van een schriftelijke bevestiging van de aangifte, in een taal die hij begrijpt.
+8. De schriftelijke volmacht, of, zoo zij voor een notaris in minuut is verleden, een authentiek afschrift daarvan, wordt aan de akte gehecht.
+9. Tot het ontvangen van de aangiften bedoeld in artikel [161](#artikel-161-wvsv-bevoegdheid-tot-aangifte), zijn de opsporingsambtenaren verplicht.
+
 #### Artikel 164 WvSv [Klachtdelicten]
 
 1. Bij strafbare feiten alleen op klachte vervolgbaar, geschiedt deze klachte mondeling of schriftelijk bij den bevoegden ambtenaar, hetzij door den tot de klachte gerechtigde in persoon, hetzij door een ander, daartoe door hem van eene bijzondere schriftelijke volmacht voorzien. De klachte bestaat in eene aangifte met verzoek tot vervolging.
+2. [Artikel 163, tweede lid, derde lid en vijfde lid](#artikel-163-wvsv-procedure-aangifte-strafbaar-feit), is van overeenkomstige toepassing.
+
+#### Artikel 167 WvSv [Opportuniteitsbeginsel]
+
+1. Indien naar aanleiding van het ingestelde opsporingsonderzoek het openbaar ministerie van oordeel is dat vervolging moet plaats hebben, door het uitvaardigen van een strafbeschikking of anderszins, gaat het daartoe zoo spoedig mogelijk over.
+2. Van vervolging kan worden afgezien op gronden aan het algemeen belang ontleend. Het openbaar ministerie kan, onder het stellen van bepaalde voorwaarden, de beslissing of vervolging plaats moet hebben voor een daarbij te bepalen termijn uitstellen.
 
 ### Titel II De rechter-commissaris belast met de behandeling van strafzaken
 

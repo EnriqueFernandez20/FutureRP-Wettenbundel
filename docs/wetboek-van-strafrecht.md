@@ -57,6 +57,8 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
    de zesde categorie, € 900.000.
 5. Voor een overtreding, onderscheidenlijk een misdrijf, waarop geen geldboete is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie.
 6. Voor een overtreding, onderscheidenlijk een misdrijf, waarop een geldboete is gesteld, maar waarvoor geen boetecategorie is bepaald, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie, indien dit bedrag hoger is dan het bedrag van de op het betrokken strafbare feit gestelde geldboete.
+7. Bij veroordeling van een rechtspersoon kan, indien de voor het feit bepaalde boetecategorie geen passende bestraffing toelaat, een geldboete worden opgelegd tot ten hoogste het bedrag van de naast hogere categorie. Indien voor het feit een geldboete van de zesde categorie kan worden opgelegd en die boetecategorie geen passende bestraffing toelaat, kan een geldboete worden opgelegd tot ten hoogste tien procent van de jaaromzet van de rechtspersoon in het boekjaar voorafgaande aan de uitspraak of strafbeschikking.
+8. Het voorgaande lid is van overeenkomstige toepassing bij veroordeling van een vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen.
 
 #### Artikel 24 WvSr [Draagkrachtbeginsel]
 
@@ -627,6 +629,14 @@ Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een voorw
 #### Artikel 424 WvSr [Straatschenderij]
 
 1. Hij die op of aan de openbare weg of op enige voor het publiek toegankelijke plaats tegen personen of goederen enige baldadigheid pleegt waardoor gevaar of nadeel kan worden teweeggebracht, wordt, als schuldig aan straatschenderij, gestraft met geldboete van de eerste categorie.
+
+#### Artikel 426bis WvSr [Hinderlijk volgen]
+
+Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+
+#### Artikel 426ter WvSr [Belemmeren hulpverlener]
+
+Hij die wederrechtelijk een hulpverlener gedurende de uitoefening van zijn beroep in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan hem tegen zijn uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
 ### Titel II [Overtredingen betreffende de openbare orde]
 
