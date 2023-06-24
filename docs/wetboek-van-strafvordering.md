@@ -80,6 +80,7 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 
 1. In alle gevallen waarin iemand als verdachte wordt gehoord, onthoudt de verhorende rechter of ambtenaar zich van alles wat de strekking heeft een verklaring te verkrijgen waarvan niet kan worden gezegd dat zij in vrijheid is afgelegd.
 2. De verdachte is niet tot antwoorden verplicht. Voor de aanvang van het verhoor wordt de verdachte medegedeeld dat hij niet tot antwoorden is verplicht. Deze mededeling wordt in het proces-verbaal opgenomen.
+3. De verklaringen van den verdachte, bepaaldelijk die welke eene bekentenis van schuld inhouden, worden in het proces-verbaal van het verhoor zooveel mogelijk in zijne eigen woorden opgenomen. De mededeling bedoeld in het tweede lid wordt in het proces-verbaal opgenomen.
 
 #### Artikel 29a WvSv [P-v verhoor]
 
