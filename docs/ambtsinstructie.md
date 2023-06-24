@@ -1,6 +1,6 @@
 # Ambtsinstructie voor de politie, de Koninklijke marechaussee en andere opsporingsambtenaren
 
-## Hoofdstuk 1 Algemeen
+### Hoofdstuk 1 Algemeen
 
 #### Artikel 1 AI [Begripsbepaling]
 
@@ -36,7 +36,7 @@
     1. bij optreden in burgerkleding ongevraagd, tenzij bijzondere omstandigheden dit onmogelijk maken, en
     2. bij optreden in uniform, op verzoek daartoe.
 
-## Hoofdstuk 2 Geweld
+### Hoofdstuk 2 Geweld
 
 #### Artikel 4 AI [Gebruik geweldmiddel of vrijheidsbeperkend middel]
 
@@ -124,7 +124,7 @@ De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt 
     3. het aanwenden van geweld naar het oordeel van de hulpofficier van justitie daartoe aanleiding geeft.
 4. De hulpofficier van justitie geeft de ambtenaar die geweld heeft aangewend, alsmede, indien van toepassing, de meerdere die de last tot het aanwenden van geweld heeft gegeven zo spoedig mogelijk kennis van de geweldsregistratie.
 
-## Hoofdstuk 3 Veiligheids- en vervoersfouillering
+### Hoofdstuk 3 Veiligheids- en vervoersfouillering
 
 #### Artikel 20 AI [Onderzoek aan kleding]
 
@@ -135,7 +135,7 @@ De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt 
 
 De ambtenaar die een onderzoek aan kleding of voorwerpen heeft uitgevoerd als bedoeld in [artikel 7, derde lid](politiewet-2012.md#artikel-7-pw-2012-geweldgebruik-binnentreden-fouilleren), van de Politiewet 2012 meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de redenen die tot dit onderzoek hebben geleid.
 
-## Hoofdstuk 4 Vrijheidsbeperkende middelen en hulpmiddelen
+### Hoofdstuk 4 Vrijheidsbeperkende middelen en hulpmiddelen
 
 #### Artikel 22 AI [Aanleggen handboeien]
 
@@ -146,3 +146,49 @@ De ambtenaar die een onderzoek aan kleding of voorwerpen heeft uitgevoerd als be
 #### Artikel 23 AI [Ambtenaar meldt aanleggen handboeien]
 
 De ambtenaar die gebruik heeft gemaakt van een vrijheidsbeperkend middel als bedoeld in [artikel 22](#artikel-22-ai-aanleggen-handboeien), meldt dit onverwijld schriftelijk aan de hulpofficier van justitie, onder vermelding van de redenen die tot het gebruik van het middel hebben geleid.
+
+### Hoofdstuk 6. Maatregelen jegens ingeslotenen
+
+#### Artikel 26 AI [Voorzieningen]
+
+1. De korpschef treft voorzieningen opdat de ingeslotene in ieder geval beschikt over:
+    1. slaapgelegenheid,
+    2. eten en drinken in overeenstemming met medische en levensbeschouwelijke of godsdienstige eisen,
+    3. sanitair,
+    4. de noodzakelijke medische zorg en
+    5. informatie over de gang van zaken in het politiecellencomplex.
+2. Tenzij het politiecellencomplex geen luchtplaats heeft, draagt de korpschef er zorg voor dat de ingeslotene tweemaal daags wordt gelucht.
+3. In verband met het eerste lid, onder d, treft de korpschef een regeling met artsen ten einde van hulp verzekerd te zijn voor de medische zorg van ingeslotenen.
+
+#### Artikel 28 AI [Voorwerpen die gevaar kunnen opleveren]
+
+1. De ambtenaar onderzoekt de ingeslotene direct voorafgaand aan de insluiting, door het aftasten en doorzoeken van diens kleding en van de voorwerpen die de ingeslotene bij zich draagt of met zich mee voert op de aanwezigheid van voorwerpen die tijdens de insluiting een gevaar voor de veiligheid van de betrokkene of voor anderen kunnen vormen.
+2. Bij het aantreffen van voorwerpen die een gevaar kunnen vormen als bedoeld in het eerste lid, neemt de ambtenaar deze in bewaring.
+3. Het onderzoek, bedoeld in het eerste lid, wordt zoveel mogelijk uitgevoerd door een ambtenaar van hetzelfde geslacht als degene die aan het onderzoek wordt onderworpen.
+4. De ambtenaar die het onderzoek heeft uitgevoerd, maakt hiervan onverwijld schriftelijk rapport op ten behoeve van de hulpofficier van justitie.
+
+#### Artikel 29 AI [Voorwaarden ontkleding]
+
+1. De ambtenaar kan slechts van de ingeslotene verlangen dat deze zich ontkleedt indien:
+    1. met toepassing van [artikel 7, vijfde of zesde lid](./politiewet-2012.md#artikel-7-pw-2012-geweldgebruik-binnentreden-fouilleren), van de Politiewet 2012 is bepaald dat betrokkene aan of in zijn lichaam wordt onderzocht,
+    2. de kleding tijdens de insluiting een gevaar voor de veiligheid van betrokkene of van anderen kan vormen en een hulpofficier van justitie daarvoor toestemming heeft gegeven, of
+    3. de kleding tijdens de insluiting naar het oordeel van de arts een gevaar voor de gezondheid van betrokkene of van anderen kan vormen.
+2. Bij toepassing van het eerste lid, onder b of c, neemt de ambtenaar de kleding in bewaring en draagt hij zorg voor vervangende kleding.
+
+#### Artikel 32 AI [Overleg met arts]
+
+1. In het geval er aanwijzingen zijn dat een ingeslotene medische bijstand behoeft dan wel er bij deze persoon medicijnen zijn aangetroffen, overlegt de ambtenaar met de arts. De ambtenaar overlegt eveneens met de arts indien de ingeslotene zelf om medische bijstand of medicijnen vraagt.
+2. In het geval de ingeslotene vraagt om medische bijstand van zijn eigen arts, stelt de ambtenaar die arts daarvan op de hoogte.
+3. In het geval de ingeslotene te kennen geeft geen medische hulp te willen hebben, terwijl er aanwijzingen zijn dat medische bijstand gewenst is, waarschuwt de ambtenaar de arts en deelt hij deze de houding van de ingeslotene mee.
+
+#### Artikel 34 AI [Regelmatige controle ingeslotene]
+
+1. De ambtenaar controleert de ingeslotene regelmatig met dien verstande dat:
+    1. in het geval de arts is gewaarschuwd, de ingeslotene ten minste elk kwartier in de cel wordt gadegeslagen;
+    2. in het geval medische hulp is verstrekt, de ingeslotene zo vaak wordt geobserveerd als de arts heeft voorgeschreven;
+    3. in het geval geen medische hulp noodzakelijk wordt geacht, de ingeslotene eenmaal per twee uur wordt gadegeslagen.
+2. In de gevallen, bedoeld in het eerste lid, onder a en b, observeert de ambtenaar in de cel en aan de persoon, waarbij hij vooral acht slaat op de mate waarin de ingeslotene wekbaar en aanspreekbaar is. Personen die in een toestand geraken waarin zij niet wekbaar of aanspreekbaar zijn, worden terstond per ambulance naar een ziekenhuis vervoerd.
+
+#### Artikel 36 AI [Invrijheidstelling]
+
+De ambtenaar zorgt ervoor dat bij de invrijheidstelling van een persoon die zichzelf niet kan verplaatsen, vervoer en begeleiding voor die persoon beschikbaar is.
