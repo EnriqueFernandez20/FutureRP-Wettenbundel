@@ -15,9 +15,13 @@ Voor de formatting van de markdown files wordt de Visual Studio Code extension [
 De richtlijn voor de headings is als volgt.
 
 Naam wet: `#`
+
 Boek: `##`
+
 Titel, Hoofdstuk, Afdeling: `###`
+
 Bijlage: `###` en schuingedrukt
+
 Artikel: `####`
 
 Voor secties niet verwerkt in deze richtlijn moet zoveel mogelijk in de geest van deze richtlijn gehandeld worden.
