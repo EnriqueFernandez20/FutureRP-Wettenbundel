@@ -12,7 +12,7 @@ Voor de formatting van de markdown files wordt de Visual Studio Code extension [
 
 ## Headings
 
-De volgende headings
+De richtlijn voor de headings is als volgt.
 
 Naam wet: `#`
 Boek: `##`
