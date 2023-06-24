@@ -9,3 +9,15 @@
 ## Formatting
 
 Voor de formatting van de markdown files wordt de Visual Studio Code extension [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) gebruikt, zodat de markdown klopt en gelijk is in de verschillende documenten.
+
+## Headings
+
+De volgende headings
+
+Naam wet: `#`
+Boek: `##`
+Titel, Hoofdstuk, Afdeling: `###`
+Bijlage: `###` en schuingedrukt
+Artikel: `####`
+
+Voor secties niet verwerkt in deze richtlijn moet zoveel mogelijk in de geest van deze richtlijn gehandeld worden.
