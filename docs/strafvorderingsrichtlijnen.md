@@ -70,6 +70,63 @@ Basiscasus/delict: Verlaten plaats ongeval
 | Meer dan geringe materiële schade                                               | GB € 1000      | GB € 1500 + OBM |
 | In hulpeloze toestand achterlaten, terwijl geen sprake is van artikel 6 WVW1994 | GS 2 mnd + OBM | GS 3 mnd + OBM  |
 
+### Artikel 9 WVW 1994
+
+Basiscasus/delict: Onbevoegd besturen door gevorderd rijbewijs
+
+|                                      | first offender | 1x recidive | meermalen recidive |
+| ------------------------------------ | -------------- | ----------- | ------------------ |
+| Brom- en snorfietsers                | GB € 2000      | GB € 3000   | TS 120 uur         |
+| Motorvoertuig op twee of meer wielen | TS 180 uur     | TS 240 uur  | GS 6 mnd           |
+
+### Artikel 10 WVW 1994
+
+Basiscasus/delict: Een wedstrijd uitvoeren op de weg
+
+|                                      | first offender | 1x recidive | meermalen recidive |
+| ------------------------------------ | -------------- | ----------- | ------------------ |
+| Brom- en snorfietsers                | GB € 1500      | GB € 3000   | GS 1 mnd           |
+| Organisator                          | GB € 3500      | GB € 7000   | GS 2 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 2500      | GB € 5000   | GS 4 mnd           |
+| Organisator                          | GB € 4500      | GB € 9000   | GS 6 mnd           |
+
+### Artikel 11 WVW 1994
+
+Basiscasus/delict: Voertuig gebruiken zonder toestemming
+
+|                                      | first offender | 1x recidive | meermalen recidive |
+| ------------------------------------ | -------------- | ----------- | ------------------ |
+| Brom- en snorfietsers                | GB € 1500      | TS 80 uur   | GS 1 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 2500      | TS 120 uur  | GS 4 mnd           |
+| Hulpverleningsvoertuig               | TS 180 uur     | GS 8 mnd    | GS 12 mnd          |
+
+### Artikel 72 WVW 1994
+
+Basiscasus/delict: Geen keuringsbewijs (APK) afgegeven voor motorrijtuig
+
+|                                      | first offender | 1x recidive | meermalen recidive |
+| ------------------------------------ | -------------- | ----------- | ------------------ |
+| Brom- en snorfietsers                | GB € 500       | GB € 750    | TS 60 uur          |
+| Motorvoertuig op twee of meer wielen | GB € 1000      | GB € 1500   | TS 80 uur          |
+
+### Artikel 107 WVW 1994
+
+Basiscasus/delict: Motorrijtig besturen zonder rijbewijs voor de categorie waartoe dat motorrijtuig behoort
+
+|                                      | first offender | 1x recidive | meermalen recidive |
+| ------------------------------------ | -------------- | ----------- | ------------------ |
+| Brom- en snorfietsers                | GB € 1000      | GB € 1500   | GS 1 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 2000      | GB € 3000   | GS 3 mnd           |
+
+### Artikel 160 WVW 1994
+
+Basiscasus/delict: Niet voldoen aan de vordering stilhouden
+
+|                                      | first offender | 1x recidive | meermalen recidive |
+| ------------------------------------ | -------------- | ----------- | ------------------ |
+| Brom- en snorfietsers                | GB € 1000      | GB € 1500   | GS 2 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 2000      | GB € 3000   | GS 4 mnd           |
+
 ## (winkel)diefstal/verduistering al dan niet met geweld
 
 Wetsbepalingen: art. 310, 312, 321 Wetboek van Strafrecht (WvSr)
