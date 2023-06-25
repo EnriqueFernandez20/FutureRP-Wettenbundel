@@ -23,7 +23,7 @@
 
 #### Artikel 5 WVW [Gevaar en hinder]
 
-Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt gehinderd of kan worden gehinderd.
+Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt gehinderd of kan worden gehinderd. Dit wordt gestraft met een **hechtenis van ten hoogste zes maanden of geldboete van de derde categorie**.
 
 #### Artikel 5a WVW [Levensgevaar of gevaar voor zwaar lichamelijk letsel]
 
@@ -43,9 +43,22 @@ Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt ve
     13. overtreden van andere verkeersregels van soortgelijk belang als die onder a tot en met l genoemd.
 2. Bij de toepassing van het eerste lid wordt mede in aanmerking genomen de mate waarin de verdachte verkeerde in de toestand, bedoeld in artikel 8, eerste, tweede, derde, vierde of vijfde lid.
 
+Overtreding van artikel 5a wordt gestraft met een **gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie**.
+
 #### Artikel 6 WVW [Schuldmisdrijf]
 
 Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen dat een aan zijn schuld te wijten verkeersongeval plaatsvindt waardoor een ander wordt gedood of waardoor een ander zwaar lichamelijk letsel wordt toegebracht of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of verhindering in de uitoefening van de normale bezigheden ontstaat.
+
+1. Overtreding van dit artikel wordt gestraft met:
+    1. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
+    2. gevangenisstraf van ten hoogste een 18 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.
+
+2. Indien de schuld bestaat in roekeloosheid, wordt overtreding van dit artikel gestraft met:
+    1. gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
+    2. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.  
+       Van roekeloosheid is in elk geval sprake als het gedrag tevens als een overtreding van [artikel 5a, eerste lid](#artikel-5a-wvw-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel), kan worden aangemerkt.
+
+3. Indien de schuldige verkeerde in de toestand, bedoeld in [artikel 8, eerste, tweede, derde, vierde of vijfde lid](#artikel-8-wvw-besturen-onder-invloed), dan wel na het feit niet heeft voldaan aan een bevel, gegeven krachtens [artikel 163, tweede, zesde, zevende of negende lid](#artikel-163-wvw-adem--en-bloedonderzoek-weigering-medische-redenen-urineproef-delegatie), kunnen de in het eerste en tweede lid bepaalde gevangenisstraffen met de helft worden verhoogd.
 
 #### Artikel 7 WVW [Verlaten plaats van ongeval]
 
@@ -55,12 +68,17 @@ Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen
     3. daardoor, naar hij weet of redelijkerwijs moet vermoeden, een ander aan wie bij dat ongeval letsel is toegebracht, in hulpeloze toestand wordt achtergelaten.
 2. Het eerste lid, aanhef en onderdelen a en b, is niet van toepassing op degene die op de plaats van het ongeval behoorlijk de gelegenheid heeft geboden tot vaststelling van zijn identiteit en, voor zover hij een motorrijtuig bestuurde, tevens van de identiteit van dat motorrijtuig.
 
+3. Overtreding van het eerste lid, onderdelen a en c, wordt gestraft met een **gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie**.
+4. Overtreding van het eerste lid, onderdeel b, wordt gestraft met **gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie**.
+
 #### Artikel 8 WVW [Besturen onder invloed]
 
 1. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden, terwijl hij verkeert onder zodanige invloed van een stof, waarvan hij weet of redelijkerwijs moet weten, dat het gebruik daarvan — al dan niet in combinatie met het gebruik van een andere stof — de rijvaardigheid kan verminderen, dat hij niet tot behoorlijk besturen of tot behoorlijk te begeleiden in staat moet worden geacht.
 2. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden na zodanig gebruik van alcoholhoudende drank, dat:
     1. het alcoholgehalte in zijn adem bij een onderzoek hoger blijkt te zijn dan 220 microgram alcohol per liter uitgeademde lucht, dan wel
     2. het alcoholgehalte in zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram alcohol per milliliter bloed.
+
+Overtreding van artikel 8 wordt gestraft met een **gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie**.
 
 #### Artikel 9 WVW [Onbevoegd besturen]
 
@@ -69,20 +87,26 @@ Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen
 3. Het is degene van wie ingevolge de [Wet administratiefrechtelijke handhaving verkeersvoorschriften](wet-mulder.md) de inlevering van het rijbewijs is gevorderd, dan wel wiens rijbewijs krachtens die wet is ingenomen, verboden op de weg een motorrijtuig, voor het besturen waarvan het rijbewijs is afgegeven, te besturen of als bestuurder te doen besturen met ingang van het tijdstip, bedoeld in [artikel 30, eerste lid, van die wet](./wet-mulder.md#artikel-30-wahv).
 4. Het is degene van wie ingevolge [artikel 130, tweede lid](#artikel-130-wvw-gebrek-rijvaardigheid-of-geschiktheid), de overgifte van een op zijn naam gesteld rijbewijs is gevorderd, dan wel wiens rijbewijs is ingevorderd en aan wie dat bewijs niet is teruggegeven, verboden op de weg een motorrijtuig van de categorie of categorieën waarvoor dat bewijs was afgegeven, te besturen of als bestuurder te doen besturen.
 
+Overtreding van artikel 9 wordt gestraft met een **gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie**.
+
 #### Artikel 10 WVW [Wedstrijden met voertuigen op de weg]
 
 1. Het is verboden op de weg een wedstrijd met voertuigen te houden of daaraan deel te nemen.
 2. Onder wedstrijd wordt voor de toepassing van dit artikel verstaan elk rijden met voertuigen ter vaststelling of vergelijking van prestaties hetzij van de deelnemers, hetzij van de voertuigen, hetzij van onderdelen daarvan, hetzij van bedrijfsstoffen.
 3. Als deelnemer wordt beschouwd de bestuurder van een voertuig waarmee aan een wedstrijd wordt deelgenomen, en de eigenaar of houder van een voertuig, die daarmee aan een wedstrijd doet of laat deelnemen.
 
+4. Overtreding van het eerste lid wordt gestraft met **hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie**.
+
 #### Artikel 11 WVW [Joyriding]
 
-Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorrijtuig op de weg te gebruiken.
+Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorrijtuig op de weg te gebruiken. Dit wordt gestraft met **gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie**.
 
 #### Artikel 12 WVW [Aanwijzingen]
 
 1. Weggebruikers zijn verplicht gevolg te geven aan de aanwijzingen die door de in [artikel 159](#artikel-159-wvw-aanwijzing-opsporingsambtenaren) bedoelde personen dan wel door andere bij algemene maatregel van bestuur aangewezen categorieën van personen ter zake van het verkeer op de weg worden gegeven.
 2. De in het eerste lid bedoelde aanwijzingen mogen slechts worden gegeven in het belang van de veiligheid op de weg, de instandhouding van de weg en de bruikbaarheid daarvan, of de vrijheid van het verkeer dan wel in het belang van met toestemming van Onze Minister verrichte onderzoeken ten behoeve van het verkeer.
+
+3. Overtreding van het eerste lid wordt gestraft met een **gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie**.
 
 #### Artikel 20a WVW [Vaststelling bebouwde kom]
 
@@ -101,6 +125,8 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     3. niet te zijn ingevorderd, en
     4. behoorlijk leesbaar te zijn.
 
+4. Overtreding van het eerste en derde lid wordt gestraft met een **hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie**.
+
 #### Artikel 40 WVW [Zichtbaarheid kenteken]
 
 1. Het kenteken dient behoorlijk zichtbaar op of aan het motorrijtuig of de aanhangwagen aanwezig te zijn.
@@ -110,11 +136,15 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     1. voor zover het betreft een motorrijtuig, de eigenaar of houder die het motorrijtuig op de weg laat staan of daarmee over de weg laat rijden, alsmede in het geval dat met dat motorrijtuig over de weg wordt gereden, de bestuurder, en
     2. voor zover het betreft een aanhangwagen, de eigenaar of houder die de aanhangwagen op de weg laat staan of deze met een motorrijtuig over de weg laat voortbewegen, alsmede in het geval dat de aanhangwagen met een motorrijtuig over de weg wordt voortbewogen, de bestuurder van dat motorrijtuig.
 
+5. Overtreding van het eerste lid wordt gestraft met een **hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie**.
+
 #### Artikel 41 WVW [Valse kentekens. Aansprakelijkheid]
 
 1. Het is verboden:
     1. op een motorrijtuig of een aanhangwagen enig teken of middel aan te brengen of te doen aanbrengen met het oogmerk de herkenning, daaronder begrepen de herkenning met behulp van technische voorzieningen, van het ingevolge [artikel 40](#artikel-40-wvw-zichtbaarheid-kenteken) gevoerde kenteken te bemoeilijken;
     2. een motorrijtuig op de weg te laten staan of daarmee over de weg te rijden dan wel een aanhangwagen op de weg te laten staan of met een motorrijtuig over de weg voort te bewegen, wanneer op dat motorrijtuig of die aanhangwagen enig teken of middel is aangebracht, waardoor de herkenning, daaronder begrepen de herkenning met behulp van technische voorzieningen, van het ingevolge [artikel 40](#artikel-40-wvw-zichtbaarheid-kenteken) gevoerde kenteken wordt bemoeilijkt;
+
+2. Overtreding van het eerste lid wordt gestraft met een **gevangenisstraf van ten hoogste zes maanden of geldboete van de tweede categorie**.
 
 ## Hoofdstuk V Gebruik van voertuigen op de weg
 
@@ -126,6 +156,8 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     3. de eisen waaraan voertuigen moeten voldoen voor de afgifte van een keuringsbewijs;
     4. de eisen waaraan ter uitvoering van verdragen of van besluiten van volkenrechtelijke organisaties of van één of meer instellingen van de Europese Unie, al dan niet gezamenlijk, moet worden voldaan met betrekking tot het uitvoeren van onderhoud aan voertuigen.
 
+2. Overtreding van het eerste lid wordt gestraft met een **hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie**.
+
 #### Artikel 72 WVW [Keuringsplicht. Eisen keuringsbewijs. Aansprakelijkheid]
 
 1. Voor een motorrijtuig of een aanhangwagen, waarvoor een kenteken is opgegeven dan wel dient te zijn opgegeven, dient een keuringsbewijs te zijn afgegeven.
@@ -133,7 +165,9 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     1. te voldoen aan de door de Dienst Wegverkeer vastgestelde eisen inzake inrichting en uitvoering,
     2. zijn geldigheid niet te hebben verloren, en
     3. behoorlijk leesbaar te zijn.
-3. Voor overtreding van het eerste lid en het bepaalde bij of krachtens het tweede lid zijn aansprakelijk:
+
+3. Overtreding van het eerste en tweede lid wordt gestraft met een **hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie**.
+4. Voor overtreding van het eerste lid en het bepaalde bij of krachtens het tweede lid zijn aansprakelijk:
     1. voor zover het betreft een motorrijtuig, de eigenaar of houder, alsmede in het geval dat met dat motorrijtuig over de weg wordt gereden, de bestuurder, en
     2. voor zover het betreft een aanhangwagen, de eigenaar of houder, alsmede in het geval dat de aanhangwagen met een motorrijtuig over de weg wordt voortbewogen, de bestuurder van dat motorrijtuig.
 
@@ -147,11 +181,15 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     2. zijn geldigheid niet te hebben verloren, en
     3. behoorlijk leesbaar te zijn.
 
+3. Overtreding van het eerste en tweede lid wordt gestraft met een **hechtenis van ten hoogste zes maanden of geldboete van de derde categorie**.
+
 #### Artikel 130 WVW [Gebrek rijvaardigheid of geschiktheid]
 
 1. Indien bij de bij algemene maatregel van bestuur aangewezen personen een vermoeden bestaat dat de houder van een rijbewijs niet langer beschikt over de rijvaardigheid dan wel over de lichamelijke of geestelijke geschiktheid, vereist voor het besturen van een of meer categorieën van motorrijtuigen waarvoor dat rijbewijs is afgegeven, doen zij daarvan zo spoedig mogelijk schriftelijk mededeling aan het CBR onder vermelding van de feiten en omstandigheden die aan het vermoeden ten grondslag liggen. Bij ministeriële regeling worden de feiten en omstandigheden aangewezen die aan het vermoeden ten grondslag dienen te liggen en worden ter zake van de uitoefening van deze bevoegdheid nadere regels vastgesteld.
 2. Op de eerste vordering van de in [artikel 159](#artikel-159-wvw-aanwijzing-opsporingsambtenaren), onderdeel a, bedoelde personen is de bestuurder van een motorrijtuig, ten aanzien van wie een vermoeden als bedoeld in het eerste lid bestaat, verplicht tot overgifte van het hem afgegeven rijbewijs.
 3. De in het tweede lid bedoelde vordering wordt gedaan indien de betrokken bestuurder de veiligheid op de weg zodanig in gevaar kan brengen dat hem met onmiddellijke ingang de bevoegdheid dient te worden ontnomen langer als bestuurder van een of meer categorieën van motorrijtuigen, waarvoor het rijbewijs is afgegeven, aan het verkeer deel te nemen. Bij ministeriële regeling worden de gevallen aangewezen waarin daarvan sprake is. Het ingevorderde rijbewijs wordt gelijktijdig met de schriftelijke mededeling, bedoeld in het eerste lid, aan het CBR toegezonden.
+
+4. Overtreding van het tweede lid wordt gestraft met een **hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie**.
 
 ## Hoofdstuk IX Toezicht en opsporing
 
@@ -174,6 +212,8 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
     1. een onderzoek van de psychomotorische functies en de oog- en spraakfuncties, ter vaststelling van een mogelijke overtreding van [artikel 8, eerste of vijfde lid](#artikel-8-wvw-besturen-onder-invloed),
     2. een voorlopig onderzoek van uitgeademde lucht, ter vaststelling van een mogelijke overtreding van [artikel 8, tweede of derde lid](#artikel-8-wvw-besturen-onder-invloed), of
     3. een onderzoek van speeksel, ter vaststelling van een mogelijke overtreding van [artikel 8, vijfde lid](#artikel-8-wvw-besturen-onder-invloed), alsmede de aanwijzingen die die persoon in dat kader geeft, op te volgen.
+
+Overtreding van dit artikel wordt gestraft met een **hechtenis van ten hoogste acht maanden of geldboete van de derde categorie**.
 
 #### Artikel 163 WVW [Adem- en bloedonderzoek. Weigering. Medische redenen. Urineproef. Delegatie]
 
@@ -202,36 +242,11 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 
 ## Hoofdstuk XI Strafbepalingen
 
-#### Artikel 175 WVW [Strafbedreiging tzv art. 6]
+#### Artikel 177 WVW [Straf voor overige overtredingen]
 
-1. Overtreding van [artikel 6](#artikel-6-wvw-schuldmisdrijf) wordt gestraft met:
-    1. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
-    2. gevangenisstraf van ten hoogste een 18 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.
-2. Indien de schuld bestaat in roekeloosheid, wordt overtreding van [artikel 6](#artikel-6-wvw-schuldmisdrijf) gestraft met:
-    1. gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
-    2. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.  
-       Van roekeloosheid is in elk geval sprake als het gedrag tevens als een overtreding van [artikel 5a, eerste lid](#artikel-5a-wvw-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel), kan worden aangemerkt.
-3. Indien de schuldige verkeerde in de toestand, bedoeld in [artikel 8, eerste, tweede, derde, vierde of vijfde lid](#artikel-8-wvw-besturen-onder-invloed), dan wel na het feit niet heeft voldaan aan een bevel, gegeven krachtens [artikel 163, tweede, zesde, zevende of negende lid](#artikel-163-wvw-adem--en-bloedonderzoek-weigering-medische-redenen-urineproef-delegatie), kunnen de in het eerste en tweede lid bepaalde gevangenisstraffen met de helft worden verhoogd.
-
-#### Artikel 176 WVW [Strafbedreiging art. 5a]
-
-1. Overtreding van [artikel 5a](#artikel-5a-wvw-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel) wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
-2. Overtreding van de [artikelen 7, eerste lid, onderdelen a en c](#artikel-7-wvw-verlaten-plaats-van-ongeval), [8](#artikel-8-wvw-besturen-onder-invloed) en [9, eerste, tweede, vierde, vijfde, zevende en negende lid](#artikel-9-wvw-onbevoegd-besturen) wordt gestraft met een gevangenisstraf van ten hoogste 12 maanden of een geldboete van de vierde categorie.
-3. Overtreding van [artikel 41, eerste lid, onderdelen c tot en met f](#artikel-41-wvw-valse-kentekens-aansprakelijkheid), wordt gestraft hetzij met gevangenisstraf van ten hoogste zes maanden en geldboete van de derde categorie, hetzij met een van beide voormelde straffen.
-4. Overtreding van [artikel 11](#artikel-11-wvw-joyriding) wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.
-5. Overtreding van de [artikelen 7, eerste lid, onderdeel b](#artikel-7-wvw-verlaten-plaats-van-ongeval), [41, eerste lid, onderdelen a en b](#artikel-41-wvw-valse-kentekens-aansprakelijkheid) en [163, tweede, zesde, zevende en negende lid](#artikel-163-wvw-adem--en-bloedonderzoek-weigering-medische-redenen-urineproef-delegatie), wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.
-
-#### Artikel 177 WVW [Overtredingen]
-
-1. Overtreding van de [artikelen 5](#artikel-5-wvw-gevaar-en-hinder) en [107, eerste en tweede lid](#artikel-107-wvw-rijbewijsplicht-eisen-rijbewijs), wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.
-2. Overtreding van:
-
-    1. de [artikelen 10, eerste lid](#artikel-10-wvw-wedstrijden-met-voertuigen-op-de-weg), [12, eerste lid](#artikel-12-wvw-aanwijzingen), [36, eerste tot en met vijfde lid](#artikel-36-wvw-kenteken-kentekenbewijs-eisen-aansprakelijkheid), [40, eerste lid](#artikel-40-wvw-zichtbaarheid-kenteken), [71, eerste lid](#artikel-71-wvw-permanente-eisen), [72, eerste en tweede lid](#artikel-72-wvw-keuringsplicht-eisen-keuringsbewijs-aansprakelijkheid), [130, tweede lid](#artikel-130-wvw-gebrek-rijvaardigheid-of-geschiktheid), [160](#artikel-160-wvw-doen-stilhouden), [164, eerste lid](#artikel-164-wvw-overgifte-rijbewijs), [165, eerste lid](#artikel-165-wvw-onbekend-gebleven-bestuurder-bij-misdrijf-informatieplicht-eigenaar-of-houder),
-    2. het bepaalde krachtens deze wet, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt,
-
-    wordt gestraft met hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie.
+Overtreding van het bepaalde krachtens deze wet, voor zover die overtreding uitdrukkelijk als strafbaar feit is aangemerkt, wordt gestraft met **hechtenis van ten hoogste twee maanden of geldboete van de tweede categorie** indien in het artikel geen strafbepaling is opgenomen.
 
 #### Artikel 178 WVW [Delictsclassificatie]
 
-1. De in de [artikelen 175](#artikel-175-wvw-strafbedreiging-tzv-art-6) en [176](#artikel-176-wvw-strafbedreiging-art-5a) strafbaar gestelde feiten zijn misdrijven.
-2. De in [artikel 177](#artikel-177-wvw-overtredingen) strafbaar gestelde feiten zijn overtredingen.
+1. De in artikelen 5a, 6, 7, 8, 9, 11 en 41 gestelde feiten zijn misdrijven;
+2. De in artikelen 5, 107, 10, 12, 36, 40, 71, 72, 130, 160, 177 gestelde feiten zijn overtredingen.
