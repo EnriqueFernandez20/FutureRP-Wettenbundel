@@ -86,9 +86,9 @@ Basiscasus/delict: Een wedstrijd uitvoeren op de weg
 |                                      | first offender | 1x recidive | meermalen recidive |
 | ------------------------------------ | -------------- | ----------- | ------------------ |
 | Brom- en snorfietsers                | GB € 1500      | GB € 3000   | GS 1 mnd           |
-| Organisator                          | GB € 3500      | GB € 7000   | GS 2 mnd           |
-| Motorvoertuig op twee of meer wielen | GB € 2500      | GB € 5000   | GS 4 mnd           |
-| Organisator                          | GB € 4500      | GB € 9000   | GS 6 mnd           |
+| Organisator                          | GB € 3500      | GS 1 mnd    | GS 2 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 2500      | GB € 4500   | GS 4 mnd           |
+| Organisator                          | GB € 4500      | GS 3 mnd    | GS 6 mnd           |
 
 ### Artikel 11 WVW 1994
 
