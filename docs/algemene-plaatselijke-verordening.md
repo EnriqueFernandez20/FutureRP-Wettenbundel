@@ -10,8 +10,8 @@ In deze verordening wordt verstaan onder:
 2. college: het college van burgemeester en wethouders van de gemeente Weert;
 3. geldboete van de ... categorie: een geldboete, zoals bedoeld in artikel 23 van het Wetboek van Strafrecht;
 4. lokalen voor openbare dienst: Lokalen welke benut worden door overheidsinstanties of organisaties die in het maatschappelijk belang handelen;
-   - voorbeelden: het politiebureau, ziekenhuis, het depot van de ANWB en het stadhuis;
-   - garages toebehorende aan een lokaal voor openbare dienst en hun in-/uitritten;
+    - voorbeelden: het politiebureau, ziekenhuis, het depot van de ANWB en het stadhuis;
+    - garages toebehorende aan een lokaal voor openbare dienst en hun in-/uitritten;
 5. openbare plaats: een voor het publiek toegankelijke plaats, waaronder begrepen de weg als bedoeld onder b;
 6. openbaar water: wateren die voor het publiek bevaarbaar of op andere wijze toegankelijk zijn;
 7. voertuig: hetgeen daaronder wordt verstaan in artikel 1 van het Reglement verkeersregels en verkeerstekens 1990, met uitzondering van kleine wagens zoals kruiwagens, kinderwagens en rolstoelen;
@@ -61,10 +61,10 @@ De vergunning of ontheffing geldt voor onbepaalde tijd, tenzij bij de vergunning
 #### Artikel 1:7 APV [Weigeringsgronden]
 
 1. Een vergunning of ontheffing kan in ieder geval worden geweigerd in het belang van:
-   1. de openbare orde;
-   2. de openbare veiligheid;
-   3. de volksgezondheid;
-   4. de bescherming van het milieu.
+    1. de openbare orde;
+    2. de openbare veiligheid;
+    3. de volksgezondheid;
+    4. de bescherming van het milieu.
 2. Een vergunning of ontheffing kan ook worden geweigerd als de aanvraag daarvoor minder dan drie weken voor de beoogde datum van de beoogde activiteit is ingediend en daardoor een behoorlijke behandeling van de aanvraag niet mogelijk is.
 
 ### Hoofdstuk 2 - Maatregelen van de burgemeester
@@ -76,7 +76,7 @@ De burgemeester is bevoegd, bij verstoring van de openbare orde door de aanwezig
 #### Artikel 2:2 APV [Bepalingen Gebiedsontzegging]
 
 1. De burgemeester is bevoegd, in het belang van de openbare orde, aan degene, die een of meer van de wettelijke bepalingen overtreedt, die genoemd zijn in artikel 2:3, een verbod op te leggen om zich te bevinden in een door het college aangewezen gebied en de daarin gelegen voor het publiek toegankelijke gebouwen en inrichtingen.
-   1. Namens de burgemeester is in dit artikel ook bevoegd de (hulp-) officier van justitie;
+    1. Namens de burgemeester is in dit artikel ook bevoegd de (hulp-) officier van justitie;
 2. Het verbod van het eerste lid geldt gedurende het in het besluit van de burgemeester genoemde termijn, nadat dit besluit aan de overtreder bekend is gemaakt. De duur van de gebiedsontzegging is afhankelijk van de zwaarte van de overtreding. De overtredingen zijn onderverdeeld in drie categorieën, zie artikel 2:3.
 3. De burgemeester is bevoegd, in het belang van de openbare orde, aan degene die hij eerder een verbod als bedoeld in het eerste lid heeft opgelegd en ten aanzien van wie binnen 2 weken na het opleggen van dit verbod wordt geconstateerd dat hij opnieuw een of meer van de in het laatste lid genoemde artikelen overtreedt, een verbod op te leggen om zich te bevinden in een door het college aangewezen gebied en in de daarin gelegen voor het publiek toegankelijke gebouwen en inrichtingen voor een tijdvak van maximaal 1 week. Dit geldt voor alle categorieën genoemd in artikel 2:3.
 4. De burgemeester houdt bij zijn beslissing rekening met eventuele zwaarwegende belangen, die betrokkene kan hebben bij aanwezigheid in het gebied, zoals het aldaar wonen, werken of het bezoeken van een hulpverleningsinstantie.
@@ -146,11 +146,11 @@ De burgemeester is bevoegd, bij verstoring van de openbare orde door de aanwezig
 1. Het is verboden op een openbare plaats deelte nemen aan een samenscholing, onnodig op te dringen of door uitdagend gedrag aanleiding te geven tot ongeregeldheden, dan welte vechten.
 2. Degene die op een openbare plaats:
 
-   1. aanwezig is bij een voorval waardoor ongeregeldheden ontstaan of dreigen te ontstaan;
-   2. aanwezig is bij een gebeurtenis die aanleiding geeft tot toeloop van publiek waardoor ongeregeldheden ontstaan of dreigen te ontstaan; of
-   3. zich bevindt in of aanwezig is bij een samenscholing;
+    1. aanwezig is bij een voorval waardoor ongeregeldheden ontstaan of dreigen te ontstaan;
+    2. aanwezig is bij een gebeurtenis die aanleiding geeft tot toeloop van publiek waardoor ongeregeldheden ontstaan of dreigen te ontstaan; of
+    3. zich bevindt in of aanwezig is bij een samenscholing;
 
-   is verplicht op bevel van een ambtenaar van de politie zijn weg te vervolgen of zich in de door hem aangewezen richting te verwijderen.
+    is verplicht op bevel van een ambtenaar van de politie zijn weg te vervolgen of zich in de door hem aangewezen richting te verwijderen.
 
 3. Het is verboden zich te begeven of te bevinden op openbare plaatsen die door of vanwege het bevoegd gezag in het belang van de openbare veiligheid of ter voorkoming van wanordelijkheden zijn afgezet.
 4. De burgemeester kan ontheffing verlenen van het in het derde lid gestelde verbod.
@@ -175,10 +175,10 @@ zaken te bedelen. Dit wordt gestraft met een **hechtenis van ten hoogste 3 maand
 
 1. Het is verboden op een openbare plaats:
 
-   1. te klimmen of zich te bevinden op een beeld, monument, overkapping, constructie, openbare toiletgelegenheid, voertuig, hekheining of andere afsluiting, verkeersmeubilair of daarvoor niet bestemd straatmeubilair;
-   2. zich op te houden op een wijze die aan andere gebruikers of aan bewoners van nabij die openbare plaats gelegen woningen onnodig overlast of hinder berokkent.
-   3. Het verbod is niet van toepassing op situaties, waarin wordt voorzien door artikel 424 of 426bis van het Wetboek van Strafrecht of artikel 5 van de Wegenverkeerswet 1994.
-   4. Wordt geoordeeld dat het verbod wordt overtreden dan is de overtreder verplicht op een daartoe strekkend bevel of vordering van een ambtenaar, krachtens artikel 1:2 van deze verordening belast met het toezicht op de naleving van deze verordening, zijn weg te vervolgen of zich in de door hem aangewezen richting te verwijderen over tenminste de door deze ambtenaar aangegeven afstand.
+    1. te klimmen of zich te bevinden op een beeld, monument, overkapping, constructie, openbare toiletgelegenheid, voertuig, hekheining of andere afsluiting, verkeersmeubilair of daarvoor niet bestemd straatmeubilair;
+    2. zich op te houden op een wijze die aan andere gebruikers of aan bewoners van nabij die openbare plaats gelegen woningen onnodig overlast of hinder berokkent.
+    3. Het verbod is niet van toepassing op situaties, waarin wordt voorzien door artikel 424 of 426bis van het Wetboek van Strafrecht of artikel 5 van de Wegenverkeerswet 1994.
+    4. Wordt geoordeeld dat het verbod wordt overtreden dan is de overtreder verplicht op een daartoe strekkend bevel of vordering van een ambtenaar, krachtens artikel 1:2 van deze verordening belast met het toezicht op de naleving van deze verordening, zijn weg te vervolgen of zich in de door hem aangewezen richting te verwijderen over tenminste de door deze ambtenaar aangegeven afstand.
 
 2. Overtredingen van het in lid 1 gestelde verbod worden gestraft met een **hechtenis van ten hoogste 3 maanden of een geldboete van de tweede categorie**.
 
@@ -191,8 +191,8 @@ zaken te bedelen. Dit wordt gestraft met een **hechtenis van ten hoogste 3 maand
 #### Artikel 3:6 APV [Hinderlijk gedrag bij of in gebouwen]
 
 1. Het is verboden:
-   1. zich zonder redelijk doel in een portiek of poort op te houden;
-   2. zonder redelijk doel in, op of tegen een raamkozijn of een drempel van een gebouw te zitten of te liggen.
+    1. zich zonder redelijk doel in een portiek of poort op te houden;
+    2. zonder redelijk doel in, op of tegen een raamkozijn of een drempel van een gebouw te zitten of te liggen.
 2. Het is aan anderen dan bewoners of gebruikers van een flatgebouw, appartementsgebouw of een soortgelijke meergezinswoning of van een gebouw dat voor publiek toegankelijk is, verboden zich zonder redelijk doel te bevinden in een voor gemeenschappelijk gebruik bestemde ruimte van dat gebouw.
 3. Wordt geoordeeld dat de verboden worden overtreden dan is de overtreder verplicht op een daartoe strekkend bevel of vordering van een ambtenaar, krachtens artikel 1:2 van deze verordening belast met het toezicht op de naleving van deze verordening, zijn weg te vervolgen of zich in de door hem aangewezen richting te verwijderen over tenminste de door deze ambtenaar aangegeven afstand.
 
@@ -219,18 +219,18 @@ Het is verboden op of aan de weg, op een andere openbare plaats of in een voor p
 #### Artikel 4:1 APV [Definitie evenement]
 
 1. In deze afdeling wordt onder evenement verstaan, elke voor publiek toegankelijke verrichting van vermaak, met uitzondering van:
-   1. bioscoopvoorstellingen;
-   2. markten;
-   3. kansspelen;
-   4. het in een inrichting gelegenheid geven tot dansen;
-   5. betogingen, samenkomsten en vergaderingen als bedoeld in de Wet openbare manifestaties;
-   6. de door de gemeente georganiseerde stads- en dorpskermissen.
+    1. bioscoopvoorstellingen;
+    2. markten;
+    3. kansspelen;
+    4. het in een inrichting gelegenheid geven tot dansen;
+    5. betogingen, samenkomsten en vergaderingen als bedoeld in de Wet openbare manifestaties;
+    6. de door de gemeente georganiseerde stads- en dorpskermissen.
 2. Onder evenement wordt mede verstaan:
-   1. een herdenkingsplechtigheid;
-   2. een braderie;
-   3. een optocht, niet zijnde een betoging, op de weg;
-   4. een feest, muziekvoorstelling of wedstrijd op of aan de weg;
-   5. een straatfeest of buurtfestiviteit op één dag (klein evenement).
+    1. een herdenkingsplechtigheid;
+    2. een braderie;
+    3. een optocht, niet zijnde een betoging, op de weg;
+    4. een feest, muziekvoorstelling of wedstrijd op of aan de weg;
+    5. een straatfeest of buurtfestiviteit op één dag (klein evenement).
 
 #### Artikel 4:2 APV [Evenementvergunning]
 
@@ -238,14 +238,14 @@ Het is verboden op of aan de weg, op een andere openbare plaats of in een voor p
 
 2. Het verbod van het eerste lid geldt niet als aan de volgende voorwaarden wordt voldaan:
 
-   1. het is een evenement in de open lucht;
-   2. het aantal bezoekers is niet meer dan 50 gelijktijdig;
-   3. het evenement duurt maximaal tot 24.00 uur;
-   4. het ten gehore brengen van muziek duurt op vrijdag en zaterdag tot maximaal 24.00 uur en op maandag tot en met donderdag en op zondag tot maximaal 23.00 uur;
-   5. het evenement wordt niet gehouden op de rijbaan (niet zijnde een woonerf), fiets- of bromfietspad of parkeergelegenheid of vormt niet anderszins een belemmering voor het verkeer en de hulpdiensten, hetgeen ook betekent dat er op het trottoir een doorgang van 1.20 meter open moet blijven en op promenades en woonerven een doorgang van minstens 4.50 meter;
-   6. er is een organisator;
-   7. de organisator stelt de burgemeester tenminste vier weken voorafgaand aan het evenement in kennis met een door de burgemeester vastgesteld meldingsformulier; en
-   8. er wordt voldaan aan de standaardvoorschriften van de Politie.
+    1. het is een evenement in de open lucht;
+    2. het aantal bezoekers is niet meer dan 50 gelijktijdig;
+    3. het evenement duurt maximaal tot 24.00 uur;
+    4. het ten gehore brengen van muziek duurt op vrijdag en zaterdag tot maximaal 24.00 uur en op maandag tot en met donderdag en op zondag tot maximaal 23.00 uur;
+    5. het evenement wordt niet gehouden op de rijbaan (niet zijnde een woonerf), fiets- of bromfietspad of parkeergelegenheid of vormt niet anderszins een belemmering voor het verkeer en de hulpdiensten, hetgeen ook betekent dat er op het trottoir een doorgang van 1.20 meter open moet blijven en op promenades en woonerven een doorgang van minstens 4.50 meter;
+    6. er is een organisator;
+    7. de organisator stelt de burgemeester tenminste vier weken voorafgaand aan het evenement in kennis met een door de burgemeester vastgesteld meldingsformulier; en
+    8. er wordt voldaan aan de standaardvoorschriften van de Politie.
 
 3. Bij de indiening van een aanvraag om een vergunning voor een evenement, zoals bedoeld in lid 1, en bij de indiening van een meldingsformulier, zoals genoemd in lid 2, aanhef, onder g, bij een evenement met meer dan 50 personen tegelijk aanwezig zullen zijn wordt ook een actieplan ingediend om de grote groep mensen te faciliteren.
 4. De burgemeester kan naar aanleiding van een melding, zoals bedoeld in lid 2, aanhef, onder g, nadere voorwaarden verbinden aan het te houden evenement in het belang van de openbare orde, de openbare veiligheid, de volksgezondheid, de bescherming van het milieu en de brandveiligheid.
@@ -259,15 +259,15 @@ Het is verboden op of aan de weg, op een andere openbare plaats of in een voor p
 
 1. Degene die het voornemen heeft op een openbare plaats een betoging te houden, geeft daarvan vóór de openbare aankondiging en ten minste één week voordat de betoging wordt gehouden, schriftelijk kennis aan de burgemeester.
 
-   1. Onder betoging wordt ook begrepen: een samenkomst tot het belijden van godsdienst of levensovertuiging op openbare plaatsen een voorafgaande kennisgeving vereist is.
+    1. Onder betoging wordt ook begrepen: een samenkomst tot het belijden van godsdienst of levensovertuiging op openbare plaatsen een voorafgaande kennisgeving vereist is.
 
 2. De kennisgeving bevat:
-   1. naam en BSN van degene die de betoging houdt;
-   2. het doel van de betoging;
-   3. de datum waarop de betoging wordt gehouden en het tijdstip van aanvang en van beëindiging;
-   4. de plaats en, voor zover van toepassing, de route en de plaats van beëindiging;
-   5. voor zover van toepassing, de wijze van samenstelling; en
-   6. maatregelen die degene die de betoging houdt zal treffen om een regelmatig verloop te bevorderen.
+    1. naam en BSN van degene die de betoging houdt;
+    2. het doel van de betoging;
+    3. de datum waarop de betoging wordt gehouden en het tijdstip van aanvang en van beëindiging;
+    4. de plaats en, voor zover van toepassing, de route en de plaats van beëindiging;
+    5. voor zover van toepassing, de wijze van samenstelling; en
+    6. maatregelen die degene die de betoging houdt zal treffen om een regelmatig verloop te bevorderen.
 3. Degene die de kennisgeving doet ontvangt daarvan een bewijs waarin het tijdstip van de kennisgeving is vermeld.
 4. Indien het tijdstip van de schriftelijke kennisgeving valt op een vrijdag na 12.00 uur, een zaterdag, een zondag of een algemeen erkende feestdag, wordt de kennisgeving gedaan uiterlijk op de werkdag die aan de dag van dat tijdstip voorafgaat vóór 12.00 uur.
 5. De burgemeester kan in bijzondere omstandigheden op verzoek een kennisgeving in behandeling nemen buiten deze termijn.
