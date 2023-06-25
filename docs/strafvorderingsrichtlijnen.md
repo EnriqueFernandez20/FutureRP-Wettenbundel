@@ -24,7 +24,7 @@ mnd = maanden
 
 jr = jaar
 
-## Gevaarlijk verkeersgedrag en verlaten plaats ongeval
+## Strafvorderingsrichtlijnen voor de wegenverkeerswetgeving
 
 ### Artikel 5 WVW 1994
 
