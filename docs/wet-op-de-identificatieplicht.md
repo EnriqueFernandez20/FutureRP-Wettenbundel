@@ -4,7 +4,7 @@
 
 1. Als documenten waarmee in bij de wet aangewezen gevallen de identiteit van personen kan worden vastgesteld, worden aangewezen:
     1. een geldig reisdocument als bedoeld in [artikel 2, eerste lid](paspoortwet.md#artikel-2-ppw-soorten-reisdocumenten), onder a, b, c, d, e en g, of een Nederlandse identiteitskaart en vervangende Nederlandse identiteitskaart als bedoeld in [artikel 2, tweede lid](paspoortwet.md#artikel-2-ppw-soorten-reisdocumenten), van de Paspoortwet;
-    2. een geldig rijbewijs dat is afgegeven op basis van de [Wegenverkeerswet](wegenverkeerswet-1994.md), een geldig rijbewijs als bedoeld in [artikel 107](wegenverkeerswet-1994.md) van de Wegenverkeerswet 1994.
+    2. een geldig rijbewijs dat is afgegeven op basis van de [Wegenverkeerswet](./wegenverkeerswet/wegenverkeerswet-1994.md), een geldig rijbewijs als bedoeld in [artikel 107](./wegenverkeerswet/wegenverkeerswet-1994.md) van de Wegenverkeerswet 1994.
 
 ## Artikel 2 WID
 
