@@ -196,7 +196,7 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 #### Artikel 159 WVW [Aanwijzing opsporingsambtenaren]
 
 1. Met de opsporing van de feiten, strafbaar gesteld bij of krachtens deze wet, zijn belast:
-    1. de in de [artikelen 141](wetboek-van-strafvordering.md#artikel-141-wvsv-algemene-opsporingsbevoegdheid) en 142 van het Wetboek van Strafvordering bedoelde personen;
+    1. de in de [artikelen 141](../wetboek-van-strafvordering.md#artikel-141-wvsv-algemene-opsporingsbevoegdheid) en 142 van het Wetboek van Strafvordering bedoelde personen;
     2. de bij algemene maatregel van bestuur aangewezen ambtenaren van de Rijksbelastingdienst, van de Rijks- en de provinciale waterstaat, van de Dienst Wegverkeer en van de verkeersinspecties, een en ander voor zover bij die algemene maatregel van bestuur is bepaald;
     3. de in de artikelen 87 en 89 van de Wet personenvervoer 2000 bedoelde personen, voor zover het betreft de eisen die met betrekking tot voertuigen als bedoeld in die wet worden gesteld bij of krachtens deze wet.
 
