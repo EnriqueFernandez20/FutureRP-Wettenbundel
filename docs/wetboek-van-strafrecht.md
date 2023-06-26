@@ -60,10 +60,6 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 7. Bij veroordeling van een rechtspersoon kan, indien de voor het feit bepaalde boetecategorie geen passende bestraffing toelaat, een geldboete worden opgelegd tot ten hoogste het bedrag van de naast hogere categorie. Indien voor het feit een geldboete van de zesde categorie kan worden opgelegd en die boetecategorie geen passende bestraffing toelaat, kan een geldboete worden opgelegd tot ten hoogste tien procent van de jaaromzet van de rechtspersoon in het boekjaar voorafgaande aan de uitspraak of strafbeschikking.
 8. Het voorgaande lid is van overeenkomstige toepassing bij veroordeling van een vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen.
 
-#### Artikel 24 WvSr [Draagkrachtbeginsel]
-
-Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht van de verdachte in de mate waarin dat nodig is met het oog op een passende bestraffing van de verdachte zonder dat deze in zijn inkomen en vermogen onevenredig wordt getroffen.
-
 #### Artikel 24c WvSr [Vervangende hechtenis voor geldboete]
 
 1. Bij de uitspraak waarbij geldboete wordt opgelegd, beveelt de rechter voor het geval dat noch volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis zal worden toegepast.
@@ -73,7 +69,6 @@ Bij de vaststelling van de geldboete wordt rekening gehouden met de draagkracht 
 #### Artikel 33 WvSr [Verbeurdverklaring. Draagkrachtbeginsel]
 
 1. Verbeurdverklaring kan worden uitgesproken bij veroordeling wegens enig strafbaar feit.
-2. [Artikel 24](#artikel-24-wvsr-draagkrachtbeginsel) is van overeenkomstige toepassing.
 
 #### Artikel 33a WvSr [Vatbaarheid voor verbeurdverklaring]
 
