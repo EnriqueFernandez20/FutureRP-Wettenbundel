@@ -1,4 +1,4 @@
-# Wettenbundel Gemeente Future
+[# Wettenbundel Gemeente Future
 
 Deze wettenbundel bevat relevante wetgeving uit het strafrecht en publiekrecht, daarmee wordt verwacht dat enkel de wetten in deze bundel worden betrokken m.b.t. deze twee rechtsgebieden.
 
@@ -51,3 +51,4 @@ De verdachte (of zijn gemachtigde) kan zich tijdens het proces of in geval van i
         - Waaronder medische zorg, in bewaring nemen van enig goed en eten/drinken.
     - [Het eerste boek van het Wetboek van Strafvordering](./wetboek-van-strafvordering.md#titel-i-strafvordering-in-het-algemeen)
     - Andere wettelijke voorschriften, bepalingen en vastgestelde beleidsregels.
+](https://wetten.roleplayneder.land/)https://wetten.roleplayneder.land/
