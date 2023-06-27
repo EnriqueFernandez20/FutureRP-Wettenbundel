@@ -15,9 +15,9 @@ Deze grondbeginselen vormen de basis voor een integer strafproces en bevatten be
     1. De rechter, indien het een zaak betreft die aan de rechter wordt/is voorgelegd;
     2. De (hulp-) officier van justitie;
     3. De hoogste in rang die op dat moment in de stad is, indien geen (hulp-) officier van justitie beschikbaar is.
-3. De maximale strafmaat bedraagt **180** maanden.
-    1. Voor de algemeen opsporingsambtenaar is de maximale strafmaat **120** maanden, [artikel 369a](./wetboek-van-strafvordering.md#artikel-369a-wvsv-maximumstraf-opsporingsambtenaar) WvSv;
-    2. Voor de politierechter is de maximale strafmaat **180** maanden, [artikel 369](./wetboek-van-strafvordering.md#artikel-369-wvsv-maximumstraf-verwijzing-naar-meervoudige-kamer) WvSv.
+3. De maximale strafmaat bedraagt **240** maanden.
+    1. Voor de algemeen opsporingsambtenaar is de maximale strafmaat **50** maanden, [artikel 369a](./wetboek-van-strafvordering.md#artikel-369a-wvsv-maximumstraf-opsporingsambtenaar) WvSv;
+    2. Voor de politierechter is de maximale strafmaat **100** maanden, [artikel 369](./wetboek-van-strafvordering.md#artikel-369-wvsv-maximumstraf-verwijzing-naar-meervoudige-kamer) WvSv.
 
 ### Deel 2 - Mededeling van de rechten
 
@@ -35,6 +35,7 @@ Vooraf aan ieder verhoor dient de ondervraagde te horen dat deze:
 2. [*Wel of niet*] aangemerkt wordt als verdachte;
 3. Het recht heeft op een advocaat ter consultatie en/of bijstand in het verhoor;
 4. Het recht op vertolkiong of vertaling, indien nodig.
+5. Het recht op medische hulp indien de verdachte op korte termijn het risico loopt om te sterven of het risico loopt om onomkeerbare schade op te lopen aan zijn ledemaat of orgaan.
 
 #### 2.3 Rechten bij de behandeling van een strafrechtelijk proces en inverzekeringstelling
 
@@ -45,7 +46,7 @@ De verdachte (of zijn gemachtigde) kan zich tijdens het proces of in geval van i
 1. Ondergebracht onder het recht op informatie:
     - Het recht op vertolking en vertaling;
     - Het recht op informatie over de beschuldiging;
-    - Het recht op toegang tot de stukken van het dossier;
+    - Het recht op de juiste informatie met betrekking tot zijn strafrechtelijk proces, m.u.v. vertrouwelijke informatie (zoals .oa.: recherchedossiers, naam indiener aangifte, etc.)
 2. De rechten die voortvloeien uit:
     - [Hoofdstuk 6 van de Ambtsinstructie](./ambtsinstructie.md#hoofdstuk-6-maatregelen-jegens-ingeslotenen)
         - Waaronder medische zorg, in bewaring nemen van enig goed en eten/drinken.
