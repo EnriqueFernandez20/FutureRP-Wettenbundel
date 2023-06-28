@@ -29,8 +29,8 @@ De Nederlandse strafwet is toepasselijk op ieder die zich in Nederland aan enig 
         - 3° openbaarmaking van de rechterlijke uitspraak.
 2. Ten aanzien van misdrijven die worden bedreigd met een vrijheidsstraf of een geldboete of ten aanzien van overtredingen die worden bedreigd met een vrijheidsstraf kan, behoudens in bij de wet bepaalde gevallen, in plaats daarvan een taakstraf worden opgelegd.
 3. In het geval gevangenisstraf, hechtenis, vervangende hechtenis daaronder niet begrepen, of een taakstraf wordt opgelegd, kan tevens een geldboete worden opgelegd.
-4. In geval van veroordeling tot gevangenisstraf of tot hechtenis, vervangende hechtenis daaronder niet begrepen, waarvan het onvoorwaardelijk ten uitvoer te leggen deel ten hoogste zes maanden bedraagt, kan de rechter tevens een taakstraf opleggen.
-5. Een bijkomende straf kan, in de gevallen waarin de wet haar oplegging toelaat, zowel afzonderlijk als te zamen met hoofdstraffen en met andere bijkomende straffen worden opgelegd.
+4. In geval van veroordeling tot gevangenisstraf of tot hechtenis, vervangende hechtenis daaronder niet begrepen, waarvan het onvoorwaardelijk ten uitvoer te leggen deel ten hoogste 10 maanden bedraagt, kan de rechter tevens een taakstraf opleggen.
+5. Een bijkomende straf kan, in de gevallen waarin de wet haar oplegging toelaat, zowel afzonderlijk als te samen met hoofdstraffen en met andere bijkomende straffen worden opgelegd.
 
 #### Artikel 9a WvSr [Rechterlijk pardon]
 
@@ -38,33 +38,9 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 
 #### Artikel 10 WvSr [Duur van gevangenisstraf]
 
-1. De gevangenisstraf is levenslang of tijdelijk.
-2. De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste 216 maanden.
-3. Zij kan voor ten hoogste 360 achtereenvolgende maanden worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij [artikel 44](#artikel-44-wvsr-strafverhoging-voor-ambtenaar), de tijd van 216 maanden wordt overschreden.
-4. Zij kan in geen geval de tijd van 360 maanden te boven gaan.
-
-#### Artikel 23 WvSr [Geldboete. Categorieën]
-
-1. Hij die tot een geldboete is veroordeeld, betaalt het vastgestelde bedrag binnen de door Onze Minister van Justitie en Veiligheid te stellen termijn aan de staat
-2. Het bedrag van de geldboete is ten minste € 3.
-3. De geldboete die voor een strafbaar feit ten hoogste kan worden opgelegd, is gelijk aan het bedrag van de categorie die voor dat feit is bepaald.
-4. Er zijn zes categorieën:  
-   de eerste categorie, € 450;  
-   de tweede categorie, € 4.500;  
-   de derde categorie, € 9.000;  
-   de vierde categorie, € 22.500;  
-   de vijfde categorie, € 90.000;  
-   de zesde categorie, € 900.000.
-5. Voor een overtreding, onderscheidenlijk een misdrijf, waarop geen geldboete is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie.
-6. Voor een overtreding, onderscheidenlijk een misdrijf, waarop een geldboete is gesteld, maar waarvoor geen boetecategorie is bepaald, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie, indien dit bedrag hoger is dan het bedrag van de op het betrokken strafbare feit gestelde geldboete.
-7. Bij veroordeling van een rechtspersoon kan, indien de voor het feit bepaalde boetecategorie geen passende bestraffing toelaat, een geldboete worden opgelegd tot ten hoogste het bedrag van de naast hogere categorie. Indien voor het feit een geldboete van de zesde categorie kan worden opgelegd en die boetecategorie geen passende bestraffing toelaat, kan een geldboete worden opgelegd tot ten hoogste tien procent van de jaaromzet van de rechtspersoon in het boekjaar voorafgaande aan de uitspraak of strafbeschikking.
-8. Het voorgaande lid is van overeenkomstige toepassing bij veroordeling van een vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen.
-
-#### Artikel 24c WvSr [Vervangende hechtenis voor geldboete]
-
-1. Bij de uitspraak waarbij geldboete wordt opgelegd, beveelt de rechter voor het geval dat noch volledige betaling noch volledig verhaal van het verschuldigde bedrag volgt, dat vervangende hechtenis zal worden toegepast.
-2. De duur van de vervangende hechtenis wordt in gehele dagen, weken of maanden vastgesteld.
-3. De vervangende hechtenis beloopt ten minste één dag en ten hoogste 12 maanden. Voor elke volle € 25 van de geldboete wordt niet meer dan één dag opgelegd.
+1. De gevangenisstraf is tijdelijk.
+2. De duur van de tijdelijke gevangenisstraf is ten minste 5 maanden en ten hoogste 240 maanden.
+3. Zij kan in geen geval de tijd van 240 maanden te boven gaan.
 
 #### Artikel 33 WvSr [Verbeurdverklaring. Draagkrachtbeginsel]
 
@@ -75,29 +51,12 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 1. Vatbaar voor verbeurdverklaring zijn:
     1. voorwerpen die aan de veroordeelde toebehoren of die hij geheel of ten dele ten eigen bate kan aanwenden en die geheel of grotendeels door middel van of uit de baten van het strafbare feit zijn verkregen;
     2. voorwerpen met betrekking tot welke het feit is begaan;
-    3. voorwerpen met behulp van welke het feit is begaan of voorbereid;
-    4. voorwerpen met behulp van welke de opsporing van het misdrijf is belemmerd;
-    5. voorwerpen die tot het begaan van het misdrijf zijn vervaardigd of bestemd;
-    6. zakelijke rechten op of persoonlijke rechten ten aanzien van de onder a tot en met e bedoelde voorwerpen.
+    3. voorwerpen met behulp van welke het feit is begaan;
 2. Voorwerpen als bedoeld in het eerste lid onder a tot en met e die niet aan de veroordeelde toebehoren kunnen alleen verbeurd worden verklaard indien:
-    1. degene aan wie zij toebehoren bekend was met hun verkrijging door middel van het strafbare feit of met het gebruik of de bestemming in verband daarmede, dan wel die verkrijging, dat gebruik of die bestemming redelijkerwijs had kunnen vermoeden, of
-    2. niet is kunnen worden vastgesteld aan wie zij toebehoren.
+    1. niet is kunnen worden vastgesteld aan wie zij toebehoren.
 3. Rechten als bedoeld in het eerste lid, onder f, die niet aan de veroordeelde toebehoren kunnen alleen verbeurd worden verklaard indien degene aan wie zij toebehoren bekend was met de verkrijging van de voorwerpen waarop of ten aanzien waarvan deze rechten bestaan, door middel van het strafbare feit of met het gebruik of de bestemming in verband daarmede, danwel die verkrijging, dat gebruik of die bestemming redelijkerwijs had kunnen vermoeden.
 4. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
-
-#### Artikel 36c WvSr [Voorwerpen vatbaar voor onttrekking aan verkeer]
-
-Vatbaar voor onttrekking aan het verkeer zijn alle voorwerpen:
-
-1. die geheel of grotendeels door middel van of uit de baten van het feit zijn verkregen;
-2. met betrekking tot welke het feit is begaan;
-3. met behulp van welke het feit is begaan of voorbereid;
-4. met behulp van welke de opsporing van het feit is belemmerd;
-5. die tot het begaan van het feit zijn vervaardigd of bestemd;  
-   een en ander voor zover zij van zodanige aard zijn, dat het ongecontroleerde bezit daarvan in strijd is met de wet of met het algemeen belang.
-
-### Tital II A [Maatregelen]
-
+ 
 #### Artikel 36e WvSr [Ontneming wederrechtelijk verkregen voordeel]
 
 1. Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een strafbaar feit de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.
@@ -124,9 +83,14 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag.
 2. Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
 
-#### Artikel 43a WvSr [Recidive als strafverzwaringsgrond]
 
-De op een misdrijf gestelde tijdelijke gevangenisstraf of hechtenis kan, met een derde worden verhoogd indien tijdens het plegen van het misdrijf nog geen vijf dagen zijn verlopen.
+
+Tot Hier behandeld
+
+
+
+
+
 
 #### Artikel 44 WvSr [Strafverhoging voor ambtenaar]
 
