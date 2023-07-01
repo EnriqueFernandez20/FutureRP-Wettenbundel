@@ -83,15 +83,6 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 1. Niet strafbaar is hij die een feit begaat ter uitvoering van een ambtelijk bevel, gegeven door het daartoe bevoegde gezag.
 2. Een onbevoegd gegeven ambtelijk bevel heft de strafbaarheid niet op, tenzij het door de ondergeschikte te goeder trouw als bevoegd gegeven werd beschouwd en de nakoming daarvan binnen de kring van zijn ondergeschiktheid was gelegen.
 
-
-
-Tot Hier behandeld
-
-
-
-
-
-
 #### Artikel 44 WvSr [Strafverhoging voor ambtenaar]
 
 1. Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere ambtsplicht schendt of bij het begaan van een strafbaar feit gebruik maakt van macht, gelegenheid of middel hem door zijn ambt geschonken, kan de op het feit gestelde straf, met uitzondering van geldboete, met een derde worden verhoogd.
@@ -108,11 +99,10 @@ Tot Hier behandeld
 
 #### Artikel 46 WvSr [Voorbereiding van ernstig misdrijf]
 
-1. Voorbereiding van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 96 maanden of meer is gesteld is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers, ruimten of vervoermiddelen bestemd tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
+1. Voorbereiding van een misdrijf is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
 2. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij voorbereiding met de helft verminderd.
-3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 180 maanden.
+3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 120 maanden.
 4. De bijkomende straffen zijn voor voorbereiding dezelfde als voor het voltooide misdrijf.
-5. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
 
 #### Artikel 46a WvSr [Poging ander tot misdrijf te bewegen]
 
@@ -155,7 +145,6 @@ Als medeplichtigen van een misdrijf worden gestraft:
 #### Artikel 56 WvSr [Voortgezette handeling]
 
 1. Staan meerdere feiten, ofschoon elk op zichzelf misdrijf of overtreding opleverende, in zodanig verband dat zij moeten worden beschouwd als één voortgezette handeling, dan wordt slechts één strafbepaling toegepast, bij verschil die waarbij de zwaarste hoofdstraf is gesteld.
-2. Insgelijks wordt slechts één strafbepaling toegepast bij schuldigverklaring aan valsheid of muntschennis en aan het gebruikmaken van het voorwerp ten opzichte waarvan de valsheid of muntschennis gepleegd is.
 
 #### Artikel 57 WvSr [Meerdaadse samenloop en gelijksoortige hoofdstraffen]
 
@@ -165,10 +154,6 @@ Als medeplichtigen van een misdrijf worden gestraft:
 #### Artikel 58 WvSr [Meerdaadse samenloop en ongelijksoortige hoofdstraffen]
 
 Bij samenloop van feiten die als op zichzelf staande handelingen moeten worden beschouwd en meer dan één misdrijf opleveren waarop ongelijksoortige hoofdstraffen zijn gesteld, kan elk van die straffen worden opgelegd, doch deze mogen — voor zover het gevangenisstraf en hechtenis betreft — te zamen in duur de langstdurende niet meer dan een derde overtreffen.
-
-#### Artikel 59 WvSr [Bijkomende straffen bij levenslang]
-
-Bij veroordeling tot levenslange gevangenisstraf kunnen daarnevens geen andere straffen worden opgelegd dan ontzetting van bepaalde rechten, verbeurdverklaring van reeds in beslag genomen voorwerpen en openbaarmaking van de rechterlijke uitspraak.
 
 ### Titel VII [Indiening en intrekking van de klacht bij misdrijven alleen op klacht vervolgbaar]
 
@@ -180,7 +165,7 @@ Inzake een misdrijf dat alleen op klacht wordt vervolgd, is degene tegen wie het
 
 #### Artikel 68 WvSr [Ne bis in idem]
 
-1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te zijnen aanzien bij gewijsde van de rechter in Nederland, Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba onherroepelijk is beslist.
+1. Behoudens de gevallen waarin rechterlijke uitspraken voor herziening vatbaar zijn, kan niemand andermaal worden vervolgd wegens een feit waarover te zijnen aanzien bij gewijsde van de rechter in Future onherroepelijk is beslist.
 2. Is het gewijsde afkomstig van een andere rechter, dan heeft tegen dezelfde persoon wegens hetzelfde feit geen vervolging plaats in geval van:
     - 1° vrijspraak of ontslag van rechtsvervolging;
     - 2° veroordeling, indien een straf is opgelegd, gevolgd door gehele uitvoering, gratie of verjaring der straf.
@@ -192,7 +177,7 @@ Het recht tot strafvordering vervalt door de dood van de verdachte.
 
 #### Artikel 70 [Verjaring recht tot strafvordering]
 
-1. Het recht tot strafvordering vervalt door verjaring in 45 dagen.
+1. Het recht tot strafvordering vervalt door verjaring in 14 dagen.
 
 ### Titel IX [Betekenis van sommige in het wetboek voorkomende uitdrukkingen]
 
@@ -213,10 +198,6 @@ Met het plegen van geweld wordt gelijkgesteld het brengen in een staat van bewus
 1. Onder zwaar lichamelijk letsel worden begrepen: ziekte die geen uitzicht op volkomen genezing overlaat, voortdurende ongeschiktheid tot uitoefening van zijn ambts- of beroepsbezigheden, en afdrijving of dood van de vrucht van een vrouw.
 2. Onder zwaar lichamelijk letsel wordt mede begrepen storing van de verstandelijke vermogens die langer dan vier weken geduurd heeft.
 
-#### Artikel 82a WvSr [Begripsbepaling 'van het leven beroven']
-
-Onder een ander, of een kind bij of kort na de geboorte, van het leven beroven wordt begrepen: het doden van een vrucht die naar redelijkerwijs verwacht mag worden in staat is buiten het moederlichaam in leven te blijven.
-
 #### Artikel 89 WvSr [Begripsbepaling 'inklimming']
 
 Onder inklimming wordt begrepen ondergraving, alsmede het overschrijden van sloten of grachten tot afsluiting dienende.
@@ -235,15 +216,19 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 
 #### Artikel 131 WvSr [Opruiing]
 
-1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie.
+1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft met gevangenisstraf en of geldboete.
 2. Indien het strafbare feit waartoe wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
 
 #### Artikel 138 WvSr [Huisvredebreuk]
 
-1. Hij die in de woning of het besloten lokaal of erf, bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+1. Hij die in de woning of het besloten lokaal of erf, bij een ander in gebruik, wederrechtelijk binnendringt of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van of vanwege de rechthebbende aanstonds verwijdert.
 2. Hij die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die, zonder voorkennis van de rechthebbende en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
-3. Indien hij bedreigingen uit of zich bedient van middelen geschikt om vrees aan te jagen, wordt hij gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+3. Indien hij bedreigingen uit of zich bedient van middelen geschikt om vrees aan te jagen.
 4. De in het eerste en derde lid bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien twee of meer verenigde personen het misdrijf plegen.
+
+
+tot hier behandeld
+
 
 #### Artikel 139 WvSr [Lokaalvredebreuk]
 
