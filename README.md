@@ -8,6 +8,10 @@ Open eerst een issue voor een pull request, zo kan hier in aangegeven worden of 
 
 ## Auteurs
 
-Gebaseerd op de FiveM Wettenbundel van Edward Bakker (discord: that.edward) & Jim Blume (discord: emeraldshovel74).
+Advocatuur Leiding.
+Enrique G.
+Harrie J.
+Thomas E.
+Captic O.
 
 Enkel hergebruik met verwijzing naar de originele auteurs is toegestaan. Alle rechten voorbehouden. &copy;2022-2023
