@@ -9,9 +9,11 @@ Open eerst een issue voor een pull request, zo kan hier in aangegeven worden of 
 ## Auteurs
 
 Advocatuur Leiding.
-Enrique G.
-Harrie J.
-Thomas E.
-Captic O.
+Enrique G.  Enrique#3875
+Harrie J.   diablo.0285
+Thomas E.   thomas560
+Captic O.   captic1
+
+Gebaseerd op de FiveM Wettenbundel van Edward Bakker (discord: that.edward) & Jim Blume (discord: emeraldshovel74).
 
 Enkel hergebruik met verwijzing naar de originele auteurs is toegestaan. Alle rechten voorbehouden. &copy;2022-2023
