@@ -42,6 +42,21 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 2. De duur van de tijdelijke gevangenisstraf is ten minste 5 maanden en ten hoogste 240 maanden.
 3. Zij kan in geen geval de tijd van 240 maanden te boven gaan.
 
+#### Artikel 23 WvSr [Geldboete. Categorieën]
+Hij die tot een geldboete is veroordeeld, betaalt het vastgestelde bedrag binnen de door Onze Minister van Justitie en Veiligheid te stellen termijn aan de staat
+Het bedrag van de geldboete is ten minste € 10.
+De geldboete die voor een strafbaar feit ten hoogste kan worden opgelegd, is gelijk aan het bedrag van de categorie die voor dat feit is bepaald.
+Er zijn Zeven categorieën:
+de eerste categorie, € 450;
+de tweede categorie, € 4.500;
+de derde categorie, € 9.000;
+de vierde categorie, € 15.000;
+de vijfde categorie, € 90.000;
+de zesde categorie, € 300.000;
+de zevende categorie, € 900.000;
+Voor een overtreding, onderscheidenlijk een misdrijf, waarop geen geldboete is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de vierde categorie.
+Voor een overtreding, onderscheidenlijk een misdrijf, waarop een geldboete is gesteld, maar waarvoor geen boetecategorie is bepaald, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de vierde categorie, indien dit bedrag hoger is dan het bedrag van de op het betrokken strafbare feit gestelde geldboete.
+
 #### Artikel 33 WvSr [Verbeurdverklaring. Draagkrachtbeginsel]
 
 1. Verbeurdverklaring kan worden uitgesproken bij veroordeling wegens enig strafbaar feit.
@@ -261,13 +276,9 @@ Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het pleg
 
 Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden.
 
-
-tot hier behandeld
-
-
 #### Artikel 151 WvSr [Onttrekken van lijk aan nasporing]
 
-Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt, met het oogmerk om het feit of de oorzaak van het overlijden, dan wel van het dood ter wereld komen te verhelen, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt, met het oogmerk om het feit of de oorzaak van het overlijden, dan wel van het dood ter wereld komen te verhelen, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden.
 
 ### Titel VII [Misdrijven waardoor de algemene veiligheid van personen of goederen wordt in gevaar gebracht]
 
@@ -275,15 +286,13 @@ Hij die een lijk begraaft, verbrandt, vernietigt, verbergt, wegvoert of wegmaakt
 
 Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstroming veroorzaakt, wordt gestraft:
 
--   1° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien daarvan gemeen gevaar voor goederen te duchten is;
--   2° met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is;
--   3° met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie, indien daarvan levensgevaar voor een ander te duchten is en het feit iemands dood ten gevolge heeft.
+-   1° met gevangenisstraf van ten hoogste 40maanden.
 
 ### Titel VIII [Misdrijven tegen het openbaar gezag]
 
 #### Artikel 177 WvSr [Omkoping van ambtenaar]
 
-1. Met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie wordt gestraft:
+1. Met gevangenisstraf van ten hoogste 30maanden
     - 1° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;
     - 2° hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.
 2. Met dezelfde straf wordt gestraft hij die een feit als in het eerste lid, onder 1°, omschreven, begaat jegens een persoon in het vooruitzicht van een dienstbetrekking bij een overheidswerkgever, indien de dienstbetrekking bij een overheidswerkgever is gevolgd.
@@ -291,11 +300,15 @@ Hij die opzettelijk brand sticht, een ontploffing teweegbrengt of een overstromi
 
 #### Artikel 179 WvSr [Ambtsdwang]
 
-Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting, wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld of enige andere feitelijkheid een ambtenaar dwingt tot het volvoeren van een ambtsverrichting of het nalaten van een rechtmatige ambtsverrichting, wordt gestraft met gevangenisstraf van ten hoogste 30 maanden.
 
 #### Artikel 180 WvSr [Wederspannigheid]
 
-Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand verlenen, wordt als schuldig aan wederspannigheid gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand verlenen, wordt als schuldig aan wederspannigheid gestraft met gevangenisstraf van ten hoogste 12 maanden.
+
+
+#### Tot hier behandeld
+
 
 #### Artikel 181 WvSr [Dood of letsel door ambtsdwang of wederspannigheid]
 
