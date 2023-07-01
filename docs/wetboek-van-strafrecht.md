@@ -226,45 +226,44 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 3. Indien hij bedreigingen uit of zich bedient van middelen geschikt om vrees aan te jagen.
 4. De in het eerste en derde lid bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien twee of meer verenigde personen het misdrijf plegen.
 
-
-tot hier behandeld
-
-
 #### Artikel 139 WvSr [Lokaalvredebreuk]
 
-1. Hij die in een voor de openbare dienst bestemd lokaal wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+1. Hij die in een voor de openbare dienst bestemd lokaal wederrechtelijk binnendringt, of, wederrechtelijk aldaar vertoevende, zich niet op de vordering van de bevoegde ambtenaar aanstonds verwijdert.
 2. Hij die zich de toegang heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum, of die zonder voorkennis van de bevoegde ambtenaar en anders dan ten gevolge van vergissing binnengekomen, aldaar wordt aangetroffen in de voor de nachtrust bestemde tijd, wordt geacht te zijn binnengedrongen.
-3. Indien hij bedreigingen uit of zich bedient van middelen geschikt om vrees aan te jagen, wordt hij gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+3. Indien hij bedreigingen uit of zich bedient van middelen geschikt om vrees aan te jagen.
 4. De in het eerste en derde lid bepaalde gevangenisstraffen kunnen met een derde worden verhoogd, indien twee of meer verenigde personen het misdrijf plegen.
 
 #### Artikel 140 WvSr [Deelneming aan criminele organisatie]
 
-1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie.
-2. Indien een organisatie tot oogmerk heeft het plegen van misdrijven waarop naar de wettelijke omschrijving een gevangenisstraf van twaalf jaar of meer is gesteld, wordt het in het eerste lid bedoelde feit gestraft met gevangenisstraf van ten hoogste 120 maanden of geldboete van de vijfde categorie.
-3. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
-4. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
+1. Deelneming aan een organisatie die tot oogmerk heeft het plegen van misdrijven, wordt gestraft met gevangenisstraf van ten hoogste 20 maanden.
+2. Ten aanzien van de oprichters, leiders of bestuurders kunnen de gevangenisstraffen met een derde worden verhoogd.
+3. Onder deelneming als omschreven in het eerste lid wordt mede begrepen het verlenen van geldelijke of andere stoffelijke steun aan alsmede het werven van gelden of personen ten behoeve van de daar omschreven organisatie.
 
 #### Artikel 141 WvSr [Openlijke geweldpleging]
 
 1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft met gevangenisstraf van ten hoogste 54 maanden of geldboete van de vierde categorie.
 2. De schuldige wordt gestraft:
-    - 1° met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie, indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;
-    - 2° met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie, indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;
-    - 3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien dat geweld de dood ten gevolge heeft.
+    - 1° indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;
+    - 2° indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;
+    - 3° indien dat geweld de dood ten gevolge heeft.
 3. [Artikel 81](#artikel-81-wvsr-begripsbepaling-plegen-van-geweld) blijft buiten toepassing.
 
 #### Artikel 141a WvSr [Hulp bij geweldpleging]
 
-Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het plegen van geweld tegen personen of goederen wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of een geldboete van de vierde categorie.
+Hij die opzettelijk gelegenheid, middelen of inlichtingen verschaft tot het plegen van geweld tegen personen of goederen.
 
 #### Artikel 142 WvSr [Vals alarm slaan]
 
-1. Hij die opzettelijk door valse alarmkreten of signalen de rust verstoort, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie.
-2. Hij die opzettelijk, zonder dat daartoe de noodzaak aanwezig is, gebruik maakt van een alarmnummer voor publieke diensten wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.
+1. Hij die opzettelijk door valse alarmkreten of signalen de rust verstoort, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden.
+2. Hij die opzettelijk, zonder dat daartoe de noodzaak aanwezig is, gebruik maakt van een alarmnummer voor publieke diensten wordt gestraft met gevangenisstraf van ten hoogste drie maanden.
 
 #### Artikel 149 WvSr [Grafschennis]
 
-Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie.
+Hij die opzettelijk een graf schendt of enig op een begraafplaats opgericht gedenkteken opzettelijk en wederrechtelijk vernielt of beschadigt, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden.
+
+
+tot hier behandeld
+
 
 #### Artikel 151 WvSr [Onttrekken van lijk aan nasporing]
 
