@@ -306,34 +306,14 @@ Hij die door geweld of enige andere feitelijkheid of bedreiging met geweld of en
 
 Hij die zich met geweld of bedreiging met geweld verzet tegen een ambtenaar werkzaam in de rechtmatige uitoefening van zijn bediening, of tegen personen die hem daarbij krachtens wettelijke verplichting of op zijn verzoek bijstand verlenen, wordt als schuldig aan wederspannigheid gestraft met gevangenisstraf van ten hoogste 12 maanden.
 
-
-#### Tot hier behandeld
-
-
-#### Artikel 181 WvSr [Dood of letsel door ambtsdwang of wederspannigheid]
-
-De dwang en de wederspannigheid in de artikelen [179](#artikel-179-wvsr-ambtsdwang) en [180](#artikel-180-wvsr-wederspannigheid) omschreven worden gestraft:
-
--   1° met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie, indien het misdrijf of de daarmede gepaard gaande feitelijkheden enig lichamelijk letsel ten gevolge hebben;
--   2° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
--   3° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
-
-#### Artikel 182 WvSr [Ambtsdwang en wederspannigheid in vereniging]
-
-1. De dwang en de wederspannigheid in de artikelen [179](#artikel-179-wvsr-ambtsdwang) en [180](#artikel-180-wvsr-wederspannigheid) omschreven, door twee of meer personen met verenigde krachten gepleegd, worden gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie.
-2. De schuldige wordt gestraft:
-    - 1° met gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie, indien het door hem gepleegde misdrijf of de daarbij door hem gepleegde feitelijkheden enig lichamelijk letsel ten gevolge hebben;
-    - 2° met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie, indien zij zwaar lichamelijk letsel ten gevolge hebben;
-    - 3° met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie, indien zij de dood ten gevolge hebben.
-
 #### Artikel 184 WvSr [Niet voldoen aan ambtelijk bevel]
 
-1. Hij die opzettelijk niet voldoet aan een bevel of een vordering, krachtens wettelijk voorschrift gedaan door een ambtenaar met de uitoefening van enig toezicht belast of door een ambtenaar belast met of bevoegd verklaard tot het opsporen of onderzoeken van strafbare feiten, alsmede hij die opzettelijk enige handeling, door een van die ambtenaren ondernomen ter uitvoering van enig wettelijk voorschrift, belet, belemmert of verijdelt, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de tweede categorie.
+1. Hij die opzettelijk niet voldoet aan een bevel of een vordering, krachtens wettelijk voorschrift gedaan door een ambtenaar met de uitoefening van enig toezicht belast of door een ambtenaar belast met of bevoegd verklaard tot het opsporen of onderzoeken van strafbare feiten, alsmede hij die opzettelijk enige handeling, door een van die ambtenaren ondernomen ter uitvoering van enig wettelijk voorschrift, belet, belemmert of verijdelt.
 2. Met de in het eerste gedeelte van het vorige lid bedoelde ambtenaar wordt gelijkgesteld ieder die, krachtens wettelijk voorschrift, voortdurend of tijdelijk met enige openbare dienst is belast.
 
 #### Artikel 185 WvSr [Bemoeilijken terechtzitting en ambtshandeling]
 
-Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het openbaar in de rechtmatige uitoefening van zijn bediening werkzaam is, opschudding veroorzaakt en na het door of vanwege het bevoegd gezag gegeven bevel zich niet verwijdert, wordt gestraft met gevangenisstraf van ten hoogste 1 maand of geldboete van de tweede categorie.
+Hij die bij een terechtzitting of ter plaatse waar een ambtenaar in het openbaar in de rechtmatige uitoefening van zijn bediening werkzaam is, opschudding veroorzaakt en na het door of vanwege het bevoegd gezag gegeven bevel zich niet verwijdert.
 
 #### Artikel 186 WvSr [Samenscholing]
 
@@ -350,7 +330,6 @@ Hij die aangifte of klacht doet dat een strafbaar feit gepleegd is, wetende dat 
     - 2° hij die nadat enig misdrijf is gepleegd, met het oogmerk om het te bedekken of de nasporing of vervolging te beletten of te bemoeilijken, voorwerpen waarop of waarmede het misdrijf gepleegd is of andere sporen van het misdrijf vernietigt, wegmaakt, verbergt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt;
     - 3° hij die opzettelijk voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel als bedoeld in [artikel 36e](#artikel-36e-wvsr-ontneming-wederrechtelijk-verkregen-voordeel) aan te tonen, met het oogmerk om de inbeslagneming daarvan te beletten, te belemmeren of te verijdelen, verbergt, vernietigt, wegmaakt of aan het onderzoek van de ambtenaren van de justitie of politie onttrekt, dan wel door het opzettelijk verstrekken van gegevens of inlichtingen aan derden die inbeslagneming belet, belemmert of verijdelt.
 2. In het geval het misdrijf, bedoeld in het eerste lid, een terroristisch misdrijf betreft, kan een gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie worden opgelegd.
-3. Deze bepalingen zijn niet van toepassing op hem die de daarin vermelde handelingen verricht ten einde gevaar van vervolging te ontgaan of af te wenden van een van zijn bloedverwanten of aangehuwden in de rechte linie of in de tweede of derde graad van de zijlinie of van zijn echtgenoot of gewezen echtgenoot.
 
 #### Artikel 190 WvSr [Lijkschouwing beletten]
 
@@ -358,7 +337,7 @@ Hij die opzettelijk een gerechtelijke lijkschouwing belet, belemmert of verijdel
 
 #### Artikel 191 WvSr [Bevrijding van gevangene]
 
-Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn zelfbevrijding behulpzaam is, wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+Hij die opzettelijk iemand, op openbaar gezag of krachtens rechterlijke uitspraak of beschikking van de vrijheid beroofd, bevrijdt of bij zijn zelfbevrijding behulpzaam is.
 
 #### Artikel 196 WvSr [Aanmatiging van ambt]
 
@@ -368,7 +347,7 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 #### Artikel 231 WvSr [Vals reisdocument of identiteitskaart]
 
-1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1-wid) van de Wet op de identificatieplicht of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse persoonsgegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie.
+1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 1](wet-op-de-identificatieplicht.md#artikel-1-wid) van de Wet op de identificatieplicht of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse persoonsgegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste 20 maanden of geldboete van de derde categorie.
 2. Met dezelfde straf wordt gestraft hij die een reisdocument of een identiteitsbewijs als bedoeld in het eerste lid aflevert of voorhanden heeft waarvan hij weet of redelijkerwijs moet vermoeden dat het vals of vervalst is, dan wel opzettelijk gebruik maakt van een vals of vervalst reisdocument of identiteitsbewijs als bedoeld in het eerste lid. Met dezelfde straf wordt gestraft hij die opzettelijk en wederrechtelijk gebruik maakt van een bij het bevoegd gezag als vermist opgegeven of een niet op zijn naam gesteld reisdocument of identiteitsbewijs als bedoeld in het eerste lid.
 
 #### Artikel 261 WvSr [Smaad(schrift)]
@@ -379,7 +358,7 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 #### Artikel 262 WvSr [Laster]
 
-1. Hij die het misdrijf van smaad of smaadschrift pleegt, wetende dat het te last gelegde feit in strijd met de waarheid is, wordt, als schuldig aan laster, gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+1. Hij die het misdrijf van smaad of smaadschrift pleegt, wetende dat het te last gelegde feit in strijd met de waarheid is, wordt, als schuldig aan laster, gestraft met gevangenisstraf van ten hoogste 20 maanden of geldboete van de derde categorie.
 
 #### Artikel 266 WvSr [Eenvoudige belediging]
 
@@ -394,16 +373,14 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 #### Artikel 282 WvSr [Opzettelijke vrijheidsberoving]
 
-1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt, wordt gestraft met gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie.
-2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie.
-3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie.
-4. De in dit artikel bepaalde straffen zijn ook van toepassing op hem die opzettelijk tot de wederrechtelijke vrijheidsberoving een plaats verschaft.
+1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt.
+2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft.
+3. Indien het feit de dood ten gevolge heeft.
 
 #### Artikel 282a WvSr [Gijzeling]
 
-1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt met het oogmerk een ander te dwingen iets te doen of niet te doen wordt als schuldig aan gijzeling gestraft met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie.
-2. Indien het feit de dood ten gevolge heeft wordt hij gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie.
-3. Het [vierde lid van artikel 282](#artikel-282-wvsr-opzettelijke-vrijheidsberoving) is toepasselijk.
+1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt met het oogmerk een ander te dwingen iets te doen of niet te doen.
+2. Het [vierde lid van artikel 282](#artikel-282-wvsr-opzettelijke-vrijheidsberoving) is toepasselijk.
 
 #### Artikel 284 WvSr [Dwang]
 
@@ -428,41 +405,38 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 #### Artikel 287 WvSr [Doodslag]
 
-Hij die opzettelijk een ander van het leven berooft, wordt, als schuldig aan doodslag, gestraft met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie.
+Hij die opzettelijk een ander van het leven berooft, wordt, als schuldig aan doodslag.
 
 #### Artikel 288 WvSr [Gekwalificeerde doodslag]
 
-Doodslag gevolgd, vergezeld of voorafgegaan van een strafbaar feit en gepleegd met het oogmerk om de uitvoering van dat feit voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan dat feit hetzij straffeloosheid hetzij het bezit van het wederrechtelijk verkregene te verzekeren, wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie.
+Doodslag gevolgd, vergezeld of voorafgegaan van een strafbaar feit en gepleegd met het oogmerk om de uitvoering van dat feit voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan dat feit hetzij straffeloosheid hetzij het bezit van het wederrechtelijk verkregene te verzekeren.
 
 #### Artikel 289 WvSr [Moord]
 
-Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt, als schuldig aan moord, gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste 360 maanden of geldboete van de vijfde categorie.
+Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt, als schuldig aan moord.
 
 ### Titel XX [Mishandeling]
 
 #### Artikel 300 WvSr [Mishandeling]
 
-1. Mishandeling wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie.
-2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
-3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie.
-4. Met mishandeling wordt gelijkgesteld opzettelijke benadeling van de gezondheid.
-5. Poging tot dit misdrijf is niet strafbaar.
+1. Indien het feit zwaar lichamelijk letsel ten gevolge heeft.
+2. Indien het feit de dood ten gevolge heeft.
+3. Met mishandeling wordt gelijkgesteld opzettelijke benadeling van de gezondheid.
+4. Poging tot dit misdrijf is niet strafbaar.
 
 #### Artikel 301 WvSr [Mishandeling met voorbedachten rade]
 
-1. Mishandeling gepleegd met voorbedachten rade wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
-2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie.
-3. Indien het feit de dood ten gevolge heeft, wordt hij gestraft met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie.
+2. Indien het feit zwaar lichamelijk letsel ten gevolge heeft.
+3. Indien het feit de dood ten gevolge heeft.
 
 #### Artikel 302 WvSr [Zware mishandeling]
 
-1. Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, wordt, als schuldig aan zware mishandeling, gestraft met gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie.
-2. Indien het feit de dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 120 maanden of geldboete van de vijfde categorie.
+1. Hij die aan een ander opzettelijk zwaar lichamelijk letsel toebrengt, wordt, als schuldig aan zware mishandeling.
+2. Indien het feit de dood ten gevolge heeft.
 
 #### Artikel 303 WvSr [Zware mishandeling met voorbedachten rade]
 
-1. Zware mishandeling gepleegd met voorbedachten rade wordt gestraft met gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie.
-2. Indien het feit de dood ten gevolge heeft, wordt de schuldige gestraft met gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie.
+2. Indien het feit de dood ten gevolge heeft.
 
 #### Artikel 304 WvSr [Strafverhogende omstandigheden mishandeling]
 
@@ -476,48 +450,40 @@ Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, w
 
 #### Artikel 307 WvSr [Dood door schuld]
 
-1. Hij aan wiens schuld de dood van een ander te wijten is, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
-2. Indien de schuld bestaat in roekeloosheid, wordt hij gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+1. Hij aan wiens schuld de dood van een ander te wijten is.
+2. Indien de schuld bestaat in roekeloosheid.
 
 #### Artikel 308 WvSr [Zwaar lichamelijk letsel door schuld]
 
-1. Hij aan wiens schuld te wijten is dat een ander zwaar lichamelijk letsel bekomt of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of verhindering in de uitoefening van zijn ambts- of beroepsbezigheden ontstaat, wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie.
-2. Indien de schuld bestaat in roekeloosheid, wordt hij gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
+1. Hij aan wiens schuld te wijten is dat een ander zwaar lichamelijk letsel bekomt of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of verhindering in de uitoefening van zijn ambts- of beroepsbezigheden ontstaat.
+2. Indien de schuld bestaat in roekeloosheid.
 
 ### Titel XXII [Diefstal en stroperij]
 
 #### Artikel 310 WvSr [Diefstal]
 
-Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met het oogmerk om het zich wederrechtelijk toe te eigenen, wordt, als schuldig aan diefstal, gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
-
-#### Artikel 311 WvSr [Gekwalificeerde diefstal]
-
-1. Met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vierde categorie wordt gestraft:
-    - 1° diefstal van vee uit de weide;
-    - 2° diefstal bij gelegenheid van brand, ontploffing, watersnood, schipbreuk, stranding, spoorwegongeval, oproer, muiterij of oorlogsnood;
-    - 3° diefstal in een woning of op een besloten erf waarop een woning staat, door iemand die zich aldaar buiten weten of tegen de wil van de rechthebbende bevindt;
-    - 4° diefstal door twee of meer verenigde personen;
-    - 5° diefstal waarbij de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft of het weg te nemen goed onder zijn bereik heeft gebracht door middel van braak, verbreking of inklimming, van valse sleutels, van een valse order of het aannemen van een valse naam of van een valse hoedanigheid, of door listige kunstgrepen, of door een samenweefsel van verdichtsels;
-    - 6° diefstal met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
-2. Indien de onder 3° omschreven diefstal vergezeld gaat van een der in onder 4° en 5° vermelde omstandigheden, wordt gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie opgelegd.
+Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met het oogmerk om het zich wederrechtelijk toe te eigenen.
 
 #### Artikel 312 WvSr [Diefstal met geweldpleging]
 
-1. Met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie wordt gestraft diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren.
+1. Met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie wordt gestraft diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren.
 2. Gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie wordt opgelegd:
     - 1° indien het feit wordt gepleegd hetzij gedurende de voor de nachtrust bestemde tijd in een woning of op een besloten erf waarop een woning staat; hetzij op de openbare weg; hetzij in een spoortrein die in beweging is;
-    - 2° indien het feit wordt gepleegd door twee of meer verenigde personen;
-    - 3° indien de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum;
-    - 4° indien het feit zwaar lichamelijk letsel ten gevolge heeft;
-    - 5° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
-3. Gevangenisstraf van ten hoogste 180 maanden of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
+    - 2° indien de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum;
+    - 3° indien het feit zwaar lichamelijk letsel ten gevolge heeft;
+    - 4° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
+3. Gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
 
 ### Titel XXIII [Afpersing en afdreiging]
 
 #### Artikel 317 WvSr [Afpersing]
 
-1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door geweld of bedreiging met geweld iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt, als schuldig aan afpersing, gestraft met gevangenisstraf van ten hoogste 108 maanden of geldboete van de vijfde categorie.
+1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door geweld of bedreiging met geweld iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt, als schuldig aan afpersing, gestraft met gevangenisstraf van ten hoogste 50 maanden of geldboete van de vierde categorie.
    2.De bepalingen van het [tweede](#artikel-312-wvsr-diefstal-met-geweldpleging) en [derde lid van artikel 312](#artikel-312-wvsr-diefstal-met-geweldpleging) zijn op dit misdrijf van toepassing.
+
+
+Tot hier behandeld
+
 
 #### Artikel 318 WvSr [Afdreiging]
 
