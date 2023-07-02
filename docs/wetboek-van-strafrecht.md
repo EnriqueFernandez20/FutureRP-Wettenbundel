@@ -9,9 +9,9 @@
 1. Geen feit is strafbaar dan uit kracht van een daaraan voorafgegane wettelijke strafbepaling
 2. Bij verandering in de wetgeving na het tijdstip waarop het feit begaan is, worden de voor de verdachte gunstigste bepalingen toegepast.
 
-#### Artikel 2 WvSr [Toepasselijkheid binnen Nederlands territoir]
+#### Artikel 2 WvSr [Toepasselijkheid binnen Future territoir]
 
-De Nederlandse strafwet is toepasselijk op ieder die zich in Future aan enig strafbaar feit schuldig maakt.
+De Future strafwet is toepasselijk op ieder die zich in Future aan enig strafbaar feit schuldig maakt.
 
 ### Titel II [Straffen]
 
@@ -102,7 +102,7 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 #### Artikel 44 WvSr [Strafverhoging voor ambtenaar]
 
 1. Indien een ambtenaar door het begaan van een strafbaar feit een bijzondere ambtsplicht schendt of bij het begaan van een strafbaar feit gebruik maakt van macht, gelegenheid of middel hem door zijn ambt geschonken, kan de op het feit gestelde straf, met uitzondering van geldboete, met een derde worden verhoogd.
-2. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Nederland op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
+2. Met een ambtenaar wordt gelijkgesteld een persoon in de openbare dienst van een vreemde staat die in Future op door het volkenrecht toegelaten wijze zijn bediening uitoefent.
 
 ### Titel IV [Poging en voorbereiding]
 
