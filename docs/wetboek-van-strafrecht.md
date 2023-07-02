@@ -481,13 +481,9 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door geweld of bedreiging met geweld iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt, als schuldig aan afpersing, gestraft met gevangenisstraf van ten hoogste 50 maanden of geldboete van de vierde categorie.
    2.De bepalingen van het [tweede](#artikel-312-wvsr-diefstal-met-geweldpleging) en [derde lid van artikel 312](#artikel-312-wvsr-diefstal-met-geweldpleging) zijn op dit misdrijf van toepassing.
 
-
-Tot hier behandeld
-
-
 #### Artikel 318 WvSr [Afdreiging]
 
-1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door bedreiging met smaad, smaadschrift of openbaring van een geheim iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt als schuldig aan afdreiging, gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie.
+1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door bedreiging met smaad, smaadschrift of openbaring van een geheim iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt als schuldig aan afdreiging, gestraft met gevangenisstraf van ten hoogste 20 maanden of geldboete van de derde categorie.
 2. Indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 3. Dit misdrijf wordt niet vervolgd dan op klacht van hem tegen wie het gepleegd is.
 
@@ -509,24 +505,23 @@ Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort en
 #### Artikel 350 WvSr [Beschadigen goederen/dieren]
 
 1. Hij die opzettelijk en wederrechtelijk enig goed dat geheel of ten dele aan een ander toebehoort, vernielt, beschadigt, onbruikbaar maakt of wegmaakt, wordt gestraft met gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie.
-2. Met gevangenisstraf van ten hoogste 36 maanden of een geldboete van de vierde categorie wordt gestraft hij die opzettelijk en wederrechtelijk een dier dat geheel of ten dele aan een ander toebehoort, doodt, beschadigt, onbruikbaar maakt of wegmaakt.
 
 ### Titel XXX [Begunstiging]
 
 #### Artikel 416 WvSr [Opzetheling]
 
-1. Als schuldig aan opzetheling wordt gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie:
+1. Als schuldig aan opzetheling wordt gestraft met gevangenisstraf van ten hoogste 30 maanden of geldboete van de vijfde categorie:
     1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of een zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht wist dat het een door misdrijf verkregen goed betrof;
     2. hij die opzettelijk uit winstbejag een door misdrijf verkregen goed voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een door misdrijf verkregen goed overdraagt.
 2. Met dezelfde straf wordt gestraft hij die opzettelijk uit de opbrengst van enig door misdrijf verkregen goed voordeel trekt.
 
 #### Artikel 417 WvSr [Gewoonteheling]
 
-Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie.
+Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met gevangenisstraf van ten hoogste 30 maanden of geldboete van de vijfde categorie.
 
 #### Artikel 417bis WvSr [Schuldheling]
 
-1. Als schuldig aan schuldheling wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de vijfde categorie:
+1. Als schuldig aan schuldheling wordt gestraft met gevangenisstraf van ten hoogste 12 maanden of geldboete van de derde categorie:
     1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht redelijkerwijs had moeten vermoeden dat het een door misdrijf verkregen goed betrof;
     2. hij die uit winstbejag een goed voorhanden heeft of overdraagt dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een goed overdraagt, terwijl hij redelijkerwijs moet vermoeden dat het een door misdrijf verkregen goed betreft.
 2. Met dezelfde straf wordt gestraft hij die uit de opbrengst van enig goed voordeel trekt, terwijl hij redelijkerwijs moet vermoeden dat het een door misdrijf verkregen goed betreft.
@@ -535,7 +530,7 @@ Hij die van het plegen van opzetheling een gewoonte maakt, wordt gestraft met ge
 
 #### Artikel 420bis WvSr [Witwassen]
 
-1. Als schuldig aan witwassen wordt gestraft met gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie:
+1. Als schuldig aan witwassen wordt gestraft met gevangenisstraf van ten hoogste 30 maanden of geldboete van de vijfde categorie:
     1. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt of verhult wie de rechthebbende op een voorwerp is of het voorhanden heeft, terwijl hij weet dat het voorwerp — onmiddellijk of middellijk — afkomstig is uit enig misdrijf;
     2. hij die een voorwerp verwerft, voorhanden heeft, overdraagt of omzet of van een voorwerp gebruik maakt, terwijl hij weet dat het voorwerp — onmiddellijk of middellijk — afkomstig is uit enig misdrijf.
 2. Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.
@@ -554,17 +549,13 @@ Witwassen dat enkel bestaat uit het verwerven of voorhanden hebben van een voorw
 
 #### Artikel 426bis WvSr [Hinderlijk volgen]
 
-Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met hechtenis van ten hoogste een maand of geldboete van de tweede categorie.
+Hij die wederrechtelijk op de openbare weg een ander in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan een ander tegen diens uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen, wordt gestraft met een geldboete van de tweede categorie.
 
 #### Artikel 426ter WvSr [Belemmeren hulpverlener]
 
 Hij die wederrechtelijk een hulpverlener gedurende de uitoefening van zijn beroep in zijn vrijheid van beweging belemmert of met een of meer anderen zich aan hem tegen zijn uitdrukkelijk verklaarde wil blijft opdringen of hem op hinderlijke wijze blijft volgen wordt gestraft met hechtenis van ten hoogste drie maanden of geldboete van de derde categorie.
 
 ### Titel II [Overtredingen betreffende de openbare orde]
-
-#### Artikel 430a WvSr [Naaktrecreatie]
-
-Hij die zich buiten een door de gemeenteraad als geschikt voor ongeklede openbare recreatie aangewezen plaats, ongekleed bevindt op of aan een voor het openbaar verkeer bestemde plaats die voor ongeklede recreatie niet geschikt is, wordt gestraft met geldboete van de eerste categorie.
 
 #### Artikel 435 WvSr [Valse naam of titel]
 
@@ -579,7 +570,7 @@ Met geldboete van de tweede categorie wordt gestraft:
 
 #### Artikel 447e WvSr [Identificatieplicht]
 
-Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage aan te bieden of medewerking te verlenen aan het nemen van een of meer vingerafdrukken, hem opgelegd krachtens de [Wet op de identificatieplicht](wet-op-de-identificatieplicht.md), het [Wetboek van Strafvordering](wetboek-van-strafvordering.md), het [Wetboek van Strafrecht](wetboek-van-strafrecht.md), wordt gestraft met geldboete van de tweede categorie.
+Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage aan te bieden of medewerking te verlenen aan het nemen van een of meer vingerafdrukken, wordt gestraft met een geldboete van de derde categorie.
 
 ### Titel VI [Overtredingen betreffende de zeden]
 
@@ -591,4 +582,4 @@ Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wo
 
 #### Artikel 461 WvSr [Verboden toegang voor onbevoegden]
 
-Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de eerste categorie.
+Hij die, zonder daartoe gerechtigd te zijn, zich op eens anders grond waarvan de toegang op een voor hem blijkbare wijze door de rechthebbende is verboden, bevindt of daar vee laat lopen, wordt gestraft met geldboete van de derde categorie.
