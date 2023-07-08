@@ -36,10 +36,11 @@ Vooraf aan ieder verhoor dient de ondervraagde te horen dat deze:
 3. Het recht heeft op een advocaat ter consultatie en/of bijstand in het verhoor;
 4. Het recht op vertolkiong of vertaling, indien nodig.
 5. Het recht op medische hulp indien de verdachte op korte termijn het risico loopt om te sterven of het risico loopt om onomkeerbare schade op te lopen aan zijn ledemaat of orgaan.
+6. Het recht om op de hoogte gesteld te worden voor welke strafbare feiten persoon word verdacht en eventuele inbeslagnames en/of invorderingen die daar bij komen kijken.
 
 #### 2.3 Rechten bij de behandeling van een strafrechtelijk proces en inverzekeringstelling
 
-Vooraf aan de behandeling van de strafrechtelijke zaak dient de verdachte op de hoogte gesteld te worden welke mogelijke straffen persoon zal ontvangen en dat persoon het recht heeft op een advocaat.
+Vooraf aan de behandeling van de strafrechtelijke zaak dient de verdachte op de hoogte gesteld te worden dat persoon recht heeft op een advocaat.
 
 De verdachte (of zijn gemachtigde) kan zich tijdens het proces of in geval van inverzekeringstelling op de volgende rechten beroepen, echter hoeft deze in beginsel niet op de hoogte gesteld te worden van de hierna opgesomde rechten (tenzij a).
 
