@@ -39,7 +39,7 @@ Vooraf aan ieder verhoor dient de ondervraagde te horen dat deze:
 
 #### 2.3 Rechten bij de behandeling van een strafrechtelijk proces en inverzekeringstelling
 
-Vooraf aan de behandeling van de strafrechtelijke zaak dient de verdachte op de hoogte gesteld te worden van het recht op een advocaat.
+Vooraf aan de behandeling van de strafrechtelijke zaak dient de verdachte op de hoogte gesteld te worden welke mogelijke straffen persoon zal ontvangen en dat persoon het recht heeft op een advocaat.
 
 De verdachte (of zijn gemachtigde) kan zich tijdens het proces of in geval van inverzekeringstelling op de volgende rechten beroepen, echter hoeft deze in beginsel niet op de hoogte gesteld te worden van de hierna opgesomde rechten (tenzij a).
 
