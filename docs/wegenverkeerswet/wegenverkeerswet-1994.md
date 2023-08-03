@@ -5,13 +5,12 @@
 #### Artikel 1 WVW [Begripsbepalingen]
 
 1. In deze wet en de daarop berustende bepalingen wordt, tenzij anders blijkt, verstaan onder:
-    1. Onze Minister: Onze Minister van Infrastructuur en Milieu;
-    2. wegen: alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de daarin liggende bruggen en duikers en de tot die wegen behorende paden en bermen of zijkanten;
-    3. motorrijtuigen: alle voertuigen, bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig zelf aanwezig dan wel door elektrische tractie met stroomtoevoer van elders, met uitzondering van fietsen met trapondersteuning;
-    4. aanhangwagen: voertuig dat kennelijk is bestemd om te worden voortbewogen door een motorrijtuig. In het bepaalde krachtens deze wet kan onder aanhangwagen tevens worden verstaan een voertuig dat door een ander voertuig wordt voortbewogen of kennelijk is bestemd om door een ander voertuig te worden voortbewogen;
-    5. bromfiets:
-        1. motorrijtuig op twee wielen, met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km/h, uitgerust met een verbrandingsmotor met een cilinderinhoud van niet meer dan 50 cm3 of een elektromotor met een nominaal continu maximumvermogen van niet meer dan 4 kW, niet zijnde een gehandicaptenvoertuig of een motorrijtuig als bedoeld in subonderdeel d;
-        2. motorrijtuig op drie wielen, met een door de constructie bepaalde maximumsnelheid van niet meer dan 45 km/h, niet zijnde een gehandicaptenvoertuig of een motorrijtuig als bedoeld in subonderdeel d, uitgerust met:
+    1. wegen: alle voor het openbaar verkeer openstaande wegen of paden met inbegrip van de daarin liggende bruggen en duikers en de tot die wegen behorende paden en bermen of zijkanten;
+    2. motorrijtuigen: alle voertuigen, bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig zelf aanwezig dan wel door elektrische tractie met stroomtoevoer van elders, met uitzondering van fietsen met trapondersteuning;
+    3. aanhangwagen: voertuig dat kennelijk is bestemd om te worden voortbewogen door een motorrijtuig. In het bepaalde krachtens deze wet kan onder aanhangwagen tevens worden verstaan een voertuig dat door een ander voertuig wordt voortbewogen of kennelijk is bestemd om door een ander voertuig te worden voortbewogen;
+    4. bromfiets:
+        1. motorrijtuig op twee wielen, met een door de constructie bepaalde maximumsnelheid van niet meer dan 80 km/h, uitgerust met een verbrandingsmotor met een cilinderinhoud van niet meer dan 50 cm3 of een elektromotor met een nominaal continu maximumvermogen van niet meer dan 4 kW, niet zijnde een gehandicaptenvoertuig of een motorrijtuig als bedoeld in subonderdeel d;
+        2. motorrijtuig op drie wielen, met een door de constructie bepaalde maximumsnelheid van niet meer dan 80 km/h, niet zijnde een gehandicaptenvoertuig of een motorrijtuig als bedoeld in subonderdeel d, uitgerust met:
             1. een motor met elektrische ontsteking met een cilinderinhoud van niet meer dan 50 cm3,
             2. een motor met inwendige verbranding en een netto maximumvermogen van niet meer dan 4 kW voor andere dan onder 1° genoemde motoren, of
             3. een elektromotor met een nominaal continu maximumvermogen van niet meer dan 4 kW; dan wel
@@ -23,42 +22,33 @@
 
 #### Artikel 5 WVW [Gevaar en hinder]
 
-Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt gehinderd of kan worden gehinderd. Dit wordt gestraft met een **hechtenis van ten hoogste zes maanden of geldboete van de derde categorie**.
+Het is een ieder verboden zich zodanig te gedragen dat gevaar op de weg wordt veroorzaakt of kan worden veroorzaakt of dat het verkeer op de weg wordt gehinderd of kan worden gehinderd. Dit wordt gestraft met een **geldboete van de derde categorie**.
 
 #### Artikel 5a WVW [Levensgevaar of gevaar voor zwaar lichamelijk letsel]
 
 1. Het is een ieder verboden opzettelijk zich zodanig in het verkeer te gedragen dat de verkeersregels in ernstige mate worden geschonden, indien daarvan levensgevaar of gevaar voor zwaar lichamelijk letsel voor een ander te duchten is. Als zodanige verkeersgedragingen kunnen de volgende gedragingen worden aangemerkt:
     1. onvoldoende rechts houden op onoverzichtelijke plaatsen;
     2. gevaarlijk inhalen;
-    3. negeren van een rood kruis;
-    4. over een vluchtstrook rijden waar dit niet is toegestaan;
-    5. inhalen voor of op een voetgangersoversteekplaats;
-    6. niet verlenen van voorrang;
-    7. overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
-    8. zeer dicht achter een ander voertuig rijden;
-    9. door rood licht rijden;
-    10. tegen de verkeersrichting inrijden;
-    11. tijdens het rijden een mobiel elektronisch apparaat vasthouden;
-    12. niet opvolgen van verkeersaanwijzingen van daartoe op grond van deze wet bevoegde personen;
-    13. overtreden van andere verkeersregels van soortgelijk belang als die onder a tot en met l genoemd.
+    3. over een vluchtstrook rijden waar dit niet is toegestaan;
+    4. inhalen voor of op een voetgangersoversteekplaats;
+    5. niet verlenen van voorrang;
+    6. overschrijden van de krachtens deze wet vastgestelde maximumsnelheid;
+    7. zeer dicht achter een ander voertuig rijden;
+    8. door rood licht rijden;
+    9. tegen de verkeersrichting inrijden;
+    10. tijdens het rijden een mobiel elektronisch apparaat vasthouden;
+    11. overtreden van andere verkeersregels van soortgelijk belang als die onder a tot en met l genoemd.
 2. Bij de toepassing van het eerste lid wordt mede in aanmerking genomen de mate waarin de verdachte verkeerde in de toestand, bedoeld in artikel 8, eerste, tweede, derde, vierde of vijfde lid.
 
-Overtreding van artikel 5a wordt gestraft met een **gevangenisstraf van ten hoogste 24 maanden of geldboete van de vierde categorie**.
+Overtreding van artikel 5a wordt gestraft met een **geldboete van de derde categorie**.
 
 #### Artikel 6 WVW [Schuldmisdrijf]
 
 Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen dat een aan zijn schuld te wijten verkeersongeval plaatsvindt waardoor een ander wordt gedood of waardoor een ander zwaar lichamelijk letsel wordt toegebracht of zodanig lichamelijk letsel dat daaruit tijdelijke ziekte of verhindering in de uitoefening van de normale bezigheden ontstaat.
 
 1. Overtreding van dit artikel wordt gestraft met:
-    1. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
-    2. gevangenisstraf van ten hoogste een 18 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.
-
-2. Indien de schuld bestaat in roekeloosheid, wordt overtreding van dit artikel gestraft met:
-    1. gevangenisstraf van ten hoogste 72 maanden of geldboete van de vijfde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
-    2. gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.  
-       Van roekeloosheid is in elk geval sprake als het gedrag tevens als een overtreding van [artikel 5a, eerste lid](#artikel-5a-wvw-levensgevaar-of-gevaar-voor-zwaar-lichamelijk-letsel), kan worden aangemerkt.
-
-3. Indien de schuldige verkeerde in de toestand, bedoeld in [artikel 8, eerste, tweede, derde, vierde of vijfde lid](#artikel-8-wvw-besturen-onder-invloed), dan wel na het feit niet heeft voldaan aan een bevel, gegeven krachtens [artikel 163, tweede, zesde, zevende of negende lid](#artikel-163-wvw-adem--en-bloedonderzoek-weigering-medische-redenen-urineproef-delegatie), kunnen de in het eerste en tweede lid bepaalde gevangenisstraffen met de helft worden verhoogd.
+    1. gevangenisstraf van ten hoogste 30 maanden of geldboete van de derde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
+    2. gevangenisstraf van ten hoogste een 15 maanden of geldboete van de tweede categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.
 
 #### Artikel 7 WVW [Verlaten plaats van ongeval]
 
@@ -68,17 +58,19 @@ Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen
     3. daardoor, naar hij weet of redelijkerwijs moet vermoeden, een ander aan wie bij dat ongeval letsel is toegebracht, in hulpeloze toestand wordt achtergelaten.
 2. Het eerste lid, aanhef en onderdelen a en b, is niet van toepassing op degene die op de plaats van het ongeval behoorlijk de gelegenheid heeft geboden tot vaststelling van zijn identiteit en, voor zover hij een motorrijtuig bestuurde, tevens van de identiteit van dat motorrijtuig.
 
-3. Overtreding van het eerste lid, onderdelen a en c, wordt gestraft met een **gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie**.
-4. Overtreding van het eerste lid, onderdeel b, wordt gestraft met **gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie**.
+3. Overtreding van het eerste lid, onderdelen a en c, wordt gestraft met een **gevangenisstraf van ten hoogste 15 maanden of geldboete van de vierde categorie**.
+4. Overtreding van het eerste lid, onderdeel b, wordt gestraft met **een geldboete van de derde categorie**.
 
 #### Artikel 8 WVW [Besturen onder invloed]
 
 1. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden, terwijl hij verkeert onder zodanige invloed van een stof, waarvan hij weet of redelijkerwijs moet weten, dat het gebruik daarvan — al dan niet in combinatie met het gebruik van een andere stof — de rijvaardigheid kan verminderen, dat hij niet tot behoorlijk besturen of tot behoorlijk te begeleiden in staat moet worden geacht.
 2. Het is een ieder verboden een voertuig te besturen, als bestuurder te doen besturen of als begeleider op te treden na zodanig gebruik van alcoholhoudende drank, dat:
     1. het alcoholgehalte in zijn adem bij een onderzoek hoger blijkt te zijn dan 220 microgram alcohol per liter uitgeademde lucht, dan wel
-    2. het alcoholgehalte in zijn bloed bij een onderzoek hoger blijkt te zijn dan 0,5 milligram alcohol per milliliter bloed.
 
-Overtreding van artikel 8 wordt gestraft met een **gevangenisstraf van ten hoogste 12 maanden of geldboete van de vierde categorie**.
+Overtreding van artikel 8 wordt gestraft met een **geldboete van de derde categorie**.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+TOT HIER
 
 #### Artikel 9 WVW [Onbevoegd besturen]
 
