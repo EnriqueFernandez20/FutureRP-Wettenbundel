@@ -15,7 +15,7 @@ Deze grondbeginselen vormen de basis voor een integer strafproces en bevatten be
     1. De rechter, indien het een zaak betreft die aan de rechter wordt/is voorgelegd;
     2. De (hulp-) officier van justitie;
     3. De hoogste in rang die op dat moment in de stad is, indien geen (hulp-) officier van justitie beschikbaar is.
-3. De maximale strafmaat bedraagt **240** maanden.
+3. De maximale strafmaat bedraagt **180** maanden.
     1. Voor de algemeen opsporingsambtenaar is de maximale strafmaat **50** maanden.
     2. Voor de (hulp-) officier van justitie is de maximale strafmaat **100** maanden.
 
