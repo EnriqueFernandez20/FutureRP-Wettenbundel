@@ -33,4 +33,4 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 #### Artikel 16 BV [Geldigheidsduur. Uitzonderingen]
 
-1. Een keuringsbewijs is geldig voor de duur van een jaar.
+1. Een keuringsbewijs is permanent geldig.
