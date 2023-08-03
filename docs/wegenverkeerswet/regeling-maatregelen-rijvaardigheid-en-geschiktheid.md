@@ -5,9 +5,6 @@
 In deze regeling wordt verstaan onder:
 
 -   _ademalcoholgehalte:_ ademalcoholgehalte dat wordt geconstateerd tijdens een onderzoek als bedoeld in [artikel 8, tweede lid, onderdeel a](./wegenverkeerswet-1994.md#artikel-8-wvw-besturen-onder-invloed), of [derde lid, onderdeel a](./wegenverkeerswet-1994.md#artikel-8-wvw-besturen-onder-invloed), van de wet;
--   _bloedalcoholgehalte:_ bloedalcoholgehalte dat wordt geconstateerd tijdens een onderzoek als bedoeld in [artikel 8, tweede lid, onderdeel b](./wegenverkeerswet-1994.md#artikel-8-wvw-besturen-onder-invloed), of [derde lid, onderdeel b](./wegenverkeerswet-1994.md#artikel-8-wvw-besturen-onder-invloed), van de wet;
--   _bloedonderzoek:_ onderzoek als bedoeld in [artikel 163, vierde lid](./wegenverkeerswet-1994.md#artikel-163-wvw-adem--en-bloedonderzoek-weigering-medische-redenen-urineproef-delegatie), van de wet;
--   _directeur:_ de directeur van het Centraal Bureau Rijvaardigheidsbewijzen (CBR);
 -   _wet:_ [Wegenverkeerswet 1994](./wegenverkeerswet-1994.md).
 
 ## Artikel 2 RMRG 2011
@@ -24,16 +21,12 @@ In deze regeling wordt verstaan onder:
 ## Artikel 5 RMRG 2011
 
 1. Een vordering tot overgifte van het rijbewijs, bedoeld in [artikel 130, tweede lid](./wegenverkeerswet-1994.md#artikel-130-wvw-gebrek-rijvaardigheid-of-geschiktheid), van de wet geschiedt in de volgende gevallen:
-    1. betrokkene heeft een motorrijtuig bestuurd onder invloed van drogerende stoffen, andere dan alcohol;
-    2. betrokkene heeft een poging tot zelfdoding met een motorrijtuig ondernomen;
-    3. er zijn duidelijke aanwijzingen dat betrokkene lijdt aan een aandoening waardoor hij geestelijk en/of lichamelijk niet goed functioneert, dan wel ernstige psychiatrische problemen ondervindt, hetgeen bij twijfel bevestigd wordt door een medisch deskundige;
-    4. betrokkene heeft met een motorrijtuig tegen de rijrichting in gereden (spookrijden);
-    5. betrokkene heeft binnen een periode van een jaar ten minste drie aanrijdingen veroorzaakt;
-    6. betrokkene is als bestuurder van een motorrijtuig rechtstreeks betrokken bij een aanrijding met duidelijke materiële dan wel letselschade en verklaart de aanrijding niet te hebben bemerkt;
-    7. betrokkene is niet in staat het motorrijtuig in bedwang te houden;
-    8. betrokkene heeft een aanrijding veroorzaakt door het intrappen van het onjuiste pedaal of door het niet intrappen van het juiste pedaal;
-    9. betrokkene is bewust ingereden op een andere weggebruiker;
-    10. bij betrokkene wordt als bestuurder van een motorrijtuig een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 785 µg/l, respectievelijk 1,8‰;
+    A. betrokkene heeft een motorrijtuig bestuurd onder invloed van drogerende stoffen, andere dan alcohol;
+    B. er zijn duidelijke aanwijzingen dat betrokkene lijdt aan een aandoening waardoor hij geestelijk en/of lichamelijk niet goed functioneert, dan wel ernstige psychiatrische problemen ondervindt, hetgeen bij twijfel bevestigd wordt door een medisch deskundige;
+    C. betrokkene heeft binnen een periode van 30 minuten ten minste drie aanrijdingen veroorzaakt;
+    D. betrokkene is niet in staat het motorrijtuig in bedwang te houden;
+    E. betrokkene is bewust ingereden op een andere weggebruiker;
+    F. bij betrokkene wordt als bestuurder van een motorrijtuig een adem- of bloedalcoholgehalte geconstateerd dat gelijk is aan of hoger is dan 785 µg/l, respectievelijk 1,8‰;
 
 ## Bijlage
 
@@ -41,14 +34,7 @@ In deze regeling wordt verstaan onder:
 
 #### I. Vaardigheid in het omgaan met het motorrijtuig
 
-##### I.1. Bediening van het motorrijtuig
-
-1. Een onjuiste bediening van het koppelingspedaal dan wel het gaspedaal, zich manifesterend in het bij herhaling afslaan van de motor dan wel schokkend en slingerend rijden en bochten te ruim nemen dan wel het intrappen van het onjuiste pedaal of het niet intrappen van het juiste pedaal;
-2. een onjuiste bediening van het versnellingsmechanisme, al dan niet in combinatie met het koppelings- of het gaspedaal, waardoor hoorbaar regelmatig de verkeerde versnelling wordt gekozen, langdurig in een te hoge of te lage versnelling wordt gereden en met een te laag of te hoog toerental;
-3. een onjuiste bediening van de rem, waardoor bij herhaling abrupt wordt vertraagd en gestopt of met blokkerende wielen wordt geremd;
-4. een onjuist gebruik of nalaten van het gebruik van mechanismen en apparatuur van het motorrijtuig die van belang zijn voor de verkeersveiligheid, zoals ruitenwissers, richtingaanwijzers, verlichting en voorruitverwarming.
-
-##### I.2. Beheersing van het motorrijtuig
+##### I.1. Beheersing van het motorrijtuig
 
 1. Gebrek aan stuurvastheid waardoor, al dan niet in combinatie:
     1. slingerend wordt gereden;
@@ -107,6 +93,6 @@ In deze regeling wordt verstaan onder:
     5. het gebruik van lichten en geven van signalen;
     6. het rijden op auto(snel)wegen: bijvoorbeeld het rijden op de vluchtstrook of het negeren van het rode kruis boven een rijstrook;
     7. het negeren van een rood verkeerslicht;
-    8. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschrijden van de toegestane maximumsnelheid met 50 kilometer of meer op wegen binnen of buiten de bebouwde kom;
-    9. het als bestuurder van een motorrijtuig overschrijden van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen of buiten de bebouwde kom bij wegwerkzaamheden;
-    10. het als bestuurder van een bromfiets overschrijden van de toegestane maximumsnelheid met 31 kilometer of meer op wegen binnen of buiten de bebouwde kom.
+    8. het als bestuurder van een motorrijtuig, niet zijnde een bromfiets, overschrijden van de toegestane maximumsnelheid met 80 kilometer of meer op wegen binnen of buiten de bebouwde kom;
+    9. het als bestuurder van een motorrijtuig overschrijden van de toegestane maximumsnelheid met 80 kilometer of meer op wegen binnen of buiten de bebouwde kom bij wegwerkzaamheden;
+    10. het als bestuurder van een bromfiets overschrijden van de toegestane maximumsnelheid met 80 kilometer of meer op wegen binnen of buiten de bebouwde kom.
