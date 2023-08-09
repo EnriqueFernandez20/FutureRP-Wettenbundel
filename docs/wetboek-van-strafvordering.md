@@ -64,17 +64,10 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 1. De verdachte kan vrijwillig en ondubbelzinnig afstand doen van het recht op rechtsbijstand, bedoeld in [artikel 28](#artikel-28-wvsv-bijstand-door-raadsman), eerste lid, tenzij in dit wetboek anders is bepaald.
 2. Wanneer de rechter of opsporingsambtenaar blijkt dat de verdachte de in het eerste lid bedoelde afstand van recht wil doen, licht deze hem in over de gevolgen daarvan en deelt deze hem mee dat hij van zijn beslissing kan terugkomen. Hiervan wordt proces-verbaal opgemaakt.
 
-#### Artikel 28b WvSv [Rechtsbijstand]
-
-1. Indien een kwetsbare verdachte of een verdachte van een misdrijf waarop naar de wettelijke omschrijving gevangenisstraf van 144 maanden of meer is gesteld, is aangehouden, stelt de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, het bestuur van de raad voor rechtsbijstand onverwijld van zijn aanhouding in kennis, opdat het bestuur een raadsman aanwijst. Deze kennisgeving kan achterwege blijven indien de verdachte een raadsman heeft gekozen en deze of een vervangende raadsman tijdig beschikbaar zal zijn.
-2. Indien een verdachte die is aangehouden voor een strafbaar feit waarvoor voorlopige hechtenis is toegelaten, desgevraagd rechtsbijstand wenst, stelt de hulpofficier van justitie die bij de voorgeleiding beveelt dat de verdachte wordt opgehouden voor onderzoek, het bestuur van de raad voor rechtsbijstand hiervan onverwijld in kennis, opdat het bestuur een raadsman aanwijst. De tweede volzin van het eerste lid is van overeenkomstige toepassing.
-3. Indien de verdachte is aangehouden voor een strafbaar feit waarvoor geen voorlopige hechtenis is toegelaten, en hij desgevraagd rechtsbijstand wenst, wordt hij in de gelegenheid gesteld contact op te nemen met een door hem gekozen raadsman.
-4. Indien de aangewezen raadsman niet binnen twee uur na de kennisgeving, bedoeld in het eerste en tweede lid, beschikbaar is, en indien de gekozen raadsman niet binnen twee uur na het contact, bedoeld in het eerste, tweede of derde lid, beschikbaar is, kan de hulpofficier van justitie, wanneer de verdachte alsnog afstand doet van zijn recht op rechtsbijstand in verband met het verhoor, beslissen dat met het verhoor van de verdachte wordt begonnen.
-
 #### Artikel 28c WvSv [Overleg met raadsman vóór verhoor]
 
-1. De aangehouden verdachte voor wie ingevolge [artikel 28b](#artikel-28b-wvsv-rechtsbijstand) een raadsman beschikbaar is, wordt de gelegenheid verschaft om voorafgaand aan het eerste verhoor gedurende een termijn van ten hoogste een vijftien minuten met hem een onderhoud te hebben. De hulpofficier van justitie kan deze termijn, indien deze ontoereikend blijkt, op verzoek van de verdachte of zijn raadsman met ten hoogste een half uur verlengen, tenzij het belang van het onderzoek zich daartegen verzet. Het onderhoud kan ook door middel van telecommunicatie plaatsvinden.
-2. De verdachte, bedoeld in [artikel 28b](#artikel-28b-wvsv-rechtsbijstand), eerste lid, kan slechts afstand doen van het in het eerste lid bedoelde onderhoud, nadat hij door een raadsman over de gevolgen daarvan is ingelicht.
+1. De aangehouden verdachte voor wie ingevolge een raadsman beschikbaar is, wordt de gelegenheid verschaft om voorafgaand aan het eerste verhoor gedurende een termijn van ten hoogste een vijftien minuten met hem een onderhoud te hebben. De hulpofficier van justitie kan deze termijn, indien deze ontoereikend blijkt, op verzoek van de verdachte of zijn raadsman met ten hoogste een half uur verlengen, tenzij het belang van het onderzoek zich daartegen verzet. Het onderhoud kan ook door middel van telecommunicatie plaatsvinden.
+2. De verdachte, kan slechts afstand doen van het in het eerste lid bedoelde onderhoud, nadat hij door een raadsman over de gevolgen daarvan is ingelicht.
 
 #### Artikel 29 WvSv [Verklaringsvrijheid en zwijgrecht]
 
@@ -104,9 +97,9 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 #### Artikel 30 WvSv [Kennisneming van processtukken. Uitzondering]
 
 1. De kennisneming van de processtukken wordt de verdachte op diens verzoek tijdens het voorbereidende onderzoek verleend door de officier van justitie. De kennisneming wordt de verdachte in elk geval toegestaan vanaf het eerste verhoor na aanhouding.
-2. Indien de officier van justitie in gebreke blijft de kennisneming te verlenen, kan hem op verzoek van de verdachte door de rechter-commissaris een termijn worden gesteld binnen welke de kennisneming van processtukken wordt verleend. Alvorens op het verzoek te beslissen, hoort de rechter-commissaris de officier van justitie.
+2. Indien de officier van justitie in gebreke blijft de kennisneming te verlenen, kan hem op verzoek van de verdachte door de rechter een termijn worden gesteld binnen welke de kennisneming van processtukken wordt verleend. Alvorens op het verzoek te beslissen, hoort de rechter de officier van justitie.
 3. Niettemin kan de officier van justitie, indien het belang van het onderzoek dit vordert, de verdachte de kennisneming van bepaalde processtukken onthouden.
-4. De verdachte wordt in het geval, bedoeld in het derde lid, schriftelijk medegedeeld dat de hem ter inzage gegeven stukken niet volledig zijn. De verdachte kan binnen veertien dagen na dagtekening van de mededeling, bedoeld in de vorige volzin, en daarna telkens na periodes van dertig dagen, een bezwaarschrift indienen bij de rechter-commissaris. Alvorens te beslissen, hoort de rechter-commissaris de officier van justitie en stelt hij de verdachte in de gelegenheid om opmerkingen te maken.
+4. De verdachte wordt in het geval, bedoeld in het derde lid, schriftelijk medegedeeld dat de hem ter inzage gegeven stukken niet volledig zijn. De verdachte kan binnen veertien dagen na dagtekening van de mededeling, bedoeld in de vorige volzin, en daarna telkens na periodes van dertig dagen, een bezwaarschrift indienen bij de rechter. Alvorens te beslissen, hoort de rechter de officier van justitie en stelt hij de verdachte in de gelegenheid om opmerkingen te maken.
 
 ### Titel IV Eenige bijzondere dwangmiddelen
 
@@ -123,7 +116,7 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 
 #### Artikel 54 WvSv [Aanhouding buiten heterdaad]
 
-1. Buiten het geval van ontdekking op heterdaad is de opsporingsambtenaar op bevel van de officier van justitie bevoegd de verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten, aan te houden teneinde hem ten spoedigste voor te geleiden aan de hulpofficier van justitie of de officier van justitie.
+1. Buiten het geval van ontdekking op heterdaad is de opsporingsambtenaar op bevel van de officier van justitie bevoegd de verdachte van een misdrijf waarvoor voorlopige hechtenis van 2 uur is toegelaten, aan te houden teneinde hem ten spoedigste voor te geleiden aan de hulpofficier van justitie of de officier van justitie.
 2. Het bevel tot aanhouding kan door de officier van justitie mondeling of schriftelijk worden gegeven. Indien het mondeling wordt gegeven, wordt het nadien in het proces-verbaal vermeld.
 3. Indien het bevel van de officier van justitie niet kan worden afgewacht, komt de in het eerste lid bedoelde bevoegdheid toe aan de hulpofficier van justitie. De hulpofficier van justitie geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan de officier van justitie. Het tweede lid is van overeenkomstige toepassing.
 4. Indien het bevel van de officier van justitie of de hulpofficier van justitie niet kan worden afgewacht, is de opsporingsambtenaar bevoegd de verdachte aan te houden teneinde hem ten spoedigste voor te geleiden aan de hulpofficier van justitie of de officier van justitie.
@@ -156,7 +149,7 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 #### Artikel 56a WvSv [Ophouden of vrijlaten]
 
 1. Nadat de aangehouden verdachte aan de hulpofficier van justitie of de officier van justitie is voorgeleid, kan deze bevelen dat de verdachte wordt opgehouden voor onderzoek dan wel in vrijheid wordt gesteld. De hulpofficier van justitie kan voorts beslissen om de verdachte onverwijld voor te geleiden aan de officier van justitie.
-2. De verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten kan ten hoogste negen uur worden opgehouden voor onderzoek; de verdachte van een strafbaar feit waarvoor voorlopige hechtenis niet is toegelaten ten hoogste zes uur. De tijd tussen middernacht en negen uur ’s morgens wordt voor de berekening van deze termijnen niet meegerekend. De ophouding vindt plaats in het belang van het onderzoek.
+2. De verdachte van een misdrijf waarvoor voorlopige hechtenis is toegelaten kan ten hoogste twee uur worden opgehouden voor onderzoek; de verdachte van een strafbaar feit waarvoor voorlopige hechtenis niet is toegelaten ten hoogste twee uur. De tijd tussen middernacht en negen uur ’s morgens wordt voor de berekening van deze termijnen niet meegerekend. De ophouding vindt plaats in het belang van het onderzoek.
 3. Voor het einde van de periode, bedoeld in het tweede lid, of zoveel eerder als het onderzoek dat toelaat, wordt de verdachte in vrijheid gesteld of in verzekering gesteld.
 4. Het onderzoek, bedoeld in het eerste lid, omvat mede de identificatie van de verdachte, de voorbereidingen voor het verhoor, het verhoor en het uitreiken van mededelingen in persoon over het vervolg van de strafzaak.
 5. Tijdens het ophouden voor onderzoek wordt de verdachte verhoord op de wijze bepaald in de [artikelen 29](#artikel-29-wvsv-verklaringsvrijheid-en-zwijgrecht) en [29a](#artikel-29a-wvsv-p-v-verhoor).
@@ -169,34 +162,13 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 4. De hulpofficier geeft van zijn bevel onverwijld kennis aan de officier van justitie.
 5. Zodra het belang van het onderzoek dit toelaat, gelast de officier van justitie de invrijheidstelling van de verdachte. Indien het onderzoeksbelang nog slechts bestaat uit het uitreiken aan de verdachte in persoon van een mededeling over de strafzaak, wordt deze mededeling zo spoedig mogelijk uitgereikt en de verdachte daarna in vrijheid gesteld.
 
-#### Artikel 58 WvSv [Gevallen. Termijn]
-
-1. Het bevel tot inverzekeringstelling wordt slechts verleend in geval van een strafbaar feit waarvoor voorloopige hechtenis is toegelaten.
-2. Het bevel tot inverzekeringstelling is slechts gedurende ten hoogste drie dagen van kracht. Bij dringende noodzakelijkheid kan het bevel door de officier van justitie eenmaal voor ten hoogste drie dagen worden verlengd.
-3. Zodra het belang van het onderzoek dit toelaat, gelast de hulpofficier de invrijheidstelling van de verdachte. In het andere geval stelt hij de officier van justitie voor de inverzekeringstelling te verlengen. De officier van justitie kan bevelen dat de verdachte ten einde te worden gehoord voor hem wordt geleid.
-
-#### Artikel 67 WvSv [Voorlopige hechtenis. Ernstige bezwaren]
-
-1. Een bevel tot voorlopige hechtenis kan worden gegeven in geval van verdenking van:
-    1. een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 48 maanden of meer is gesteld;
-    2. een der misdrijven omschreven in de [artikelen 140, tweede lid](wetboek-van-strafrecht.md#artikel-140-wvsr-deelneming-aan-criminele-organisatie), [141a](wetboek-van-strafrecht.md#artikel-141a-wvsr-hulp-bij-geweldpleging), [151](wetboek-van-strafrecht.md#artikel-151-wvsr-onttrekken-van-lijk-aan-nasporing), [284, eerste lid](wetboek-van-strafrecht.md#artikel-284-wvsr-dwang), [285, eerste lid](wetboek-van-strafrecht.md#artikel-285-wvsr-bedreiging-met-ernstig-misdrijf), [285b](wetboek-van-strafrecht.md#artikel-285b-wvsr-stalking), [300, eerste lid](wetboek-van-strafrecht.md#artikel-300-wvsr-mishandeling), [321](wetboek-van-strafrecht.md#artikel-321-wvsr-verduistering), [350](wetboek-van-strafrecht.md#artikel-350-wvsr-beschadigen-goederendieren), [417bis](wetboek-van-strafrecht.md#artikel-417bis-wvsr-schuldheling), [420bis.1](wetboek-van-strafrecht.md#artikel-420bis1-wvsr-eenvoudig-witwassen) van het Wetboek van Strafrecht;
-    3. de [artikelen 11, tweede lid](opiumwet.md#artikel-11-opw-sanctie-behorende-bij-artikel-3), en [11a](opiumwet.md#artikel-11a-opw-voorbereidingshandelingen-hennepteelt) van de Opiumwet;
-2. Het bevel kan voorts worden gegeven indien geen vaste woon- of verblijfplaats in Nederland van de verdachte kan worden vastgesteld en hij verdacht wordt van een misdrijf waarvan de rechtbanken kennis nemen en waarop, naar de wettelijke omschrijving gevangenisstraf is gesteld.
-3. De voorgaande leden van dit artikel vinden alleen toepassing wanneer uit feiten of omstandigheden blijkt van ernstige bezwaren tegen de verdachte.
-
-#### Artikel 94 WvSv [Vatbaarheid voor inbeslagneming. Kennisgeving. Reçu]
-
-1. Vatbaar voor inbeslagneming zijn alle voorwerpen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel, als bedoeld in [artikel 36e](wetboek-van-strafrecht.md#artikel-36e-wvsr-ontneming-wederrechtelijk-verkregen-voordeel) van het Wetboek van Strafrecht, aan te tonen.
-2. Voorts zijn vatbaar voor inbeslagneming alle voorwerpen welker verbeurdverklaring of onttrekking aan het verkeer kan worden bevolen.
-3. Van de inbeslagneming van een voorwerp wordt, ook in geval de bevoegdheid tot inbeslagneming toekomt aan de rechter-commissaris of de officier van justitie, door de opsporingsambtenaar een kennisgeving van inbeslagneming opgemaakt. Zoveel mogelijk wordt aan degene bij wie een voorwerp is inbeslaggenomen, een bewijs van ontvangst afgegeven. De opsporingsambtenaar stelt de kennisgeving zo spoedig mogelijk in handen van de hulpofficier van justitie teneinde te doen beoordelen of het beslag moet worden gehandhaafd.
-
 #### Artikel 95 WvSv [Inbeslagneming bij aanhouden of staande houden]
 
 1. De opsporingsambtenaar die de verdachte staande houdt of aanhoudt, kan de voor inbeslagneming vatbare voorwerpen die de verdachte met zich voert, in beslag nemen.
 
 #### Artikel 96 WvSv [Bevoegdheid opsporingsambtenaar. Veiligstellen voorwerpen]
 
-1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), is de opsporingsambtenaar bevoegd de daarvoor vatbare voorwerpen in beslag te nemen en daartoe elke plaats te betreden.
+1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), is de opsporingsambtenaar bevoegd de daarvoor vatbare voorwerpen in beslag te nemen.
 2. De opsporingsambtenaar kan, in afwachting van de komst van de rechter of ambtenaar die bevoegd is ter inbeslagneming de plaats te doorzoeken, de maatregelen nemen die redelijkerwijs nodig zijn om wegmaking, onbruikbaarmaking, onklaarmaking of beschadiging van voor inbeslagneming vatbare voorwerpen te voorkomen. Deze maatregelen kunnen de vrijheid van personen die zich ter plaatse bevinden beperken.
 
 #### Artikel 96a WvSv [Bevel tot uitlevering in beslag te nemen voorwerp]
@@ -206,8 +178,7 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 
 #### Artikel 96b WvSv [Doorzoeken vervoermiddel ter inbeslagneming]
 
-1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), is de opsporingsambtenaar bevoegd ter inbeslagneming een vervoermiddel, met uitzondering van het woongedeelte zonder toestemming van de bewoner, te doorzoeken en zich daartoe de toegang tot dit vervoermiddel te verschaffen.
-2. Indien zulks met het oog op de uitoefening van de in het eerste lid verleende bevoegdheid noodzakelijk is, kan de opsporingsambtenaar:
+1. Indien zulks met het oog op de uitoefening van de in het eerste lid verleende bevoegdheid noodzakelijk is, kan de opsporingsambtenaar:
     1. van de bestuurder van het vervoermiddel vorderen dat hij het vervoermiddel tot stilstand brengt, en
     2. het vervoermiddel vervolgens naar een daartoe door hem aangewezen plaats overbrengen of door de bestuurder laten overbrengen.
 
@@ -220,10 +191,10 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 
 #### Artikel 97 WvSv [Doorzoeking zonder toestemming bewoner]
 
-1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), kan de officier van justitie, bij dringende noodzakelijkheid en indien het optreden van de rechter-commissaris niet kan worden afgewacht, ter inbeslagneming een woning zonder toestemming van de bewoner doorzoeken.
-2. Voor een doorzoeking als bedoeld in het eerste lid behoeft de officier van justitie de machtiging van de rechter-commissaris. Deze machtiging is met redenen omkleed.
-3. Kan ook het optreden van de officier van justitie niet worden afgewacht, dan komt de bevoegdheid tot doorzoeking toe aan de hulpofficier. Het eerste en het tweede lid zijn van overeenkomstige toepassing. De machtiging van de rechter-commissaris wordt zo mogelijk door tussenkomst van de officier van justitie gevraagd.
-4. Indien de rechter-commissaris aan een hulpofficier van justitie machtiging heeft verleend ter inbeslagneming een woning zonder toestemming van de bewoner te doorzoeken, is voor het binnentreden in die woning door de betrokken hulpofficier van justitie geen machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](algemene-wet-op-het-binnentreden.md#artikel-2-awbi-schriftelijke-machtiging) vereist.
+1. In geval van ontdekking op heterdaad van een strafbaar feit of in geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), kan de officier van justitie, bij dringende noodzakelijkheid en indien het optreden van de rechter niet kan worden afgewacht, ter inbeslagneming een woning zonder toestemming van de bewoner doorzoeken.
+2. Voor een doorzoeking als bedoeld in het eerste lid behoeft de officier van justitie de machtiging van de rechter. Deze machtiging is met redenen omkleed.
+3. Kan ook het optreden van de officier van justitie niet worden afgewacht, dan komt de bevoegdheid tot doorzoeking toe aan de hulpofficier. Het eerste en het tweede lid zijn van overeenkomstige toepassing. De machtiging van de rechter wordt zo mogelijk door tussenkomst van de officier van justitie gevraagd.
+4. Indien de rechter aan een hulpofficier van justitie machtiging heeft verleend ter inbeslagneming een woning zonder toestemming van de bewoner te doorzoeken, is voor het binnentreden in die woning door de betrokken hulpofficier van justitie geen machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](algemene-wet-op-het-binnentreden.md#artikel-2-awbi-schriftelijke-machtiging) vereist.
 5. [Artikel 96, tweede lid](#artikel-96-wvsv-bevoegdheid-opsporingsambtenaar-veiligstellen-voorwerpen), is van overeenkomstige toepassing.
 
 #### Artikel 99a WvSv [Bijstand raadsman]
@@ -254,14 +225,7 @@ Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig 
 1. Met de opsporing van strafbare feiten zijn belast:
     1. de officieren van justitie;
     2. de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder a, van de Politiewet 2012, en de ambtenaren van politie, bedoeld in [artikel 2](politiewet-2012.md#artikel-2-pw-2012-ambtenaren-van-politie), onder c en d, van die wet, voor zover zij zijn aangesteld voor de uitvoering van de politietaak;
-    3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen militairen van de Koninklijke marechaussee;
-
-#### Artikel 146a WvSv [Hulpofficier van justitie]
-
-1. Ter plaatse waar en binnen de grenzen binnen welke zij bevoegd zijn tot opsporing, zijn hulpofficier van justitie:
-    1. de door Onze Minister van Veiligheid en Justitie aangewezen ambtenaren van politie, aangesteld voor de uitvoering van de politietaak;
-    2. de officieren van de Koninklijke marechaussee;
-    3. de door Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister van Defensie aangewezen onderofficieren van de Koninklijke marechaussee;
+    3. Door Onze Rechter aangewezen militairen van de Koninklijke marechaussee;
 
 #### Artikel 148 WvSv [Opsporing van strafbare feiten]
 
@@ -279,12 +243,6 @@ Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig 
 1. Het proces-verbaal wordt door hen opgemaakt op hun ambtseed of, voor zover zij die niet hebben afgelegd, door hen binnen tweemaal vier en twintig uren beëedigd voor een hulpofficier van justitie die daarvan een verklaring op het proces-verbaal stelt.
 2. Het wordt door hen persoonlijk opgemaakt, gedagtekend en ondertekend; daarbij moeten tevens zoveel mogelijk uitdrukkelijk worden opgegeven de redenen van wetenschap.
 
-#### Artikel 156 WvSv [Toezending processen-verbaal aan (hulp) OvJ]
-
-1. Ambtenaren, met de opsporing van strafbare feiten belast, die geen hulpofficier van justitie zijn, doen door hen opgemaakte processen-verbaal, alsmede bij hen binnengekomen aangiften of berichten ter zake van strafbare feiten, met de inbeslaggenomen voorwerpen, onverwijld toekomen aan de hulpofficier van justitie onder wiens rechtstreeks bevel of toezicht zij staan dan wel aan de officier van justitie, indien een richtlijn van het openbaar ministerie dat voorschrijft of de officier van justitie zulks beveelt.
-2. De hulpofficieren van justitie doen de processen-verbaal, bij hen binnengekomen of door hen opgemaakt, de aangiften, berichten en inbeslaggenomen voorwerpen onverwijld toekomen aan de officier van justitie.
-3. Toezending kan met instemming van de officier van justitie achterwege worden gelaten.
-
 #### Artikel 161 WvSv [Bevoegdheid tot aangifte]
 
 Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangifte of klachte te doen.
@@ -294,12 +252,8 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 1. De aangifte van eenig strafbaar feit geschiedt mondeling of schriftelijk bij den bevoegden ambtenaar, hetzij door den aangever in persoon, hetzij door een ander, daartoe door hem van eene bijzondere schriftelijke volmacht voorzien.
 2. De mondelinge aangifte wordt door den ambtenaar die haar ontvangt, in geschrifte gesteld en na voorlezing door hem met den aangever of diens gemachtigde onderteekend. Indien deze niet kan teekenen, wordt de reden van het beletsel vermeld.
 3. Indien de aangever of diens gemachtigde de Nederlandse taal niet of onvoldoende begrijpt of spreekt, wordt hij in staat gesteld aangifte te doen in een taal die hij begrijpt of spreekt of ontvangt hij de nodige taalkundige bijstand.
-4. De schriftelijke aangifte wordt door de aangever of diens gemachtigde ondertekend. De aangifte kan langs elektronische weg worden overgedragen met behulp van een bij of krachtens algemene maatregel van bestuur aangewezen elektronische voorziening, voor de in die voorziening toegestane feiten.
-5. De aangever ontvangt een kopie van de aangifte dan wel een kopie van het proces-verbaal van aangifte.
-6. Indien het belang van het onderzoek dit vergt ontvangt de aangever een schriftelijke bevestiging van zijn aangifte, in afwijking van het bepaalde in het vijfde lid. De schriftelijke bevestiging vermeldt de bijzondere redenen voor het afwijken van het vijfde lid.
-7. De aangever ontvangt, indien hij de Nederlandse taal niet of onvoldoende begrijpt of spreekt, op zijn verzoek een vertaling van een schriftelijke bevestiging van de aangifte, in een taal die hij begrijpt.
-8. De schriftelijke volmacht, of, zoo zij voor een notaris in minuut is verleden, een authentiek afschrift daarvan, wordt aan de akte gehecht.
-9. Tot het ontvangen van de aangiften bedoeld in artikel [161](#artikel-161-wvsv-bevoegdheid-tot-aangifte), zijn de opsporingsambtenaren verplicht.
+4. De aangever ontvangt een kopie van de aangifte dan wel een kopie van het proces-verbaal van aangifte.
+5. De aangever ontvangt, indien hij de Nederlandse taal niet of onvoldoende begrijpt of spreekt, op zijn verzoek een vertaling van een schriftelijke bevestiging van de aangifte, in een taal die hij begrijpt.
 
 #### Artikel 164 WvSv [Klachtdelicten]
 
@@ -315,21 +269,18 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 
 #### Artikel 170 WvSv [R-C in elke rechtbank]
 
-1. In elke rechtbank zijn rechters-commissarissen, belast met de behandeling van strafzaken.
-2. De rechter-commissaris is in het bijzonder belast met de uitoefening van toezichthoudende bevoegdheden met betrekking tot het opsporingsonderzoek, ambtshalve in door de wet bepaalde gevallen en voorts op vordering van de officier van justitie of op verzoek van de verdachte of diens raadsman.
+1. In elke rechtbank zijn rechters, belast met de behandeling van strafzaken.
+2. De rechter is in het bijzonder belast met de uitoefening van toezichthoudende bevoegdheden met betrekking tot het opsporingsonderzoek, ambtshalve in door de wet bepaalde gevallen en voorts op vordering van de officier van justitie of op verzoek van de verdachte of diens raadsman.
 
 ### Titel IVA Vervolging door een strafbeschiking
 
 #### Artikel 257a WvSv [Strafbeschikking]
 
-1. De officier van justitie kan, indien hij vaststelt dat een overtreding is begaan dan wel een misdrijf waarop naar de wettelijke omschrijving gevangenisstraf is gesteld van niet meer dan 72 maanden, een strafbeschikking uitvaardigen.
-2. De volgende straffen en maatregelen kunnen worden opgelegd:
-    1. een taakstraf van ten hoogste honderdtachtig uren;
-    2. een geldboete;
-    3. onttrekking aan het verkeer;
-    4. de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer;
-    5. ontzegging van de bevoegdheid tot het besturen van motorrijtuigen voor ten hoogste zes maanden.
-3. Voorts kan de strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. Zij kunnen inhouden:
+1. De volgende straffen en maatregelen kunnen worden opgelegd:
+    1. een geldboete;
+    2. onttrekking aan het verkeer;
+    3. de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer;
+2. Voorts kan de strafbeschikking aanwijzingen bevatten waaraan de verdachte moet voldoen. Zij kunnen inhouden:
     1. afstand van voorwerpen die in beslag zijn genomen en vatbaar zijn voor verbeurdverklaring of onttrekking aan het verkeer;
     2. uitlevering, of voldoening aan de staat van de geschatte waarde, van voorwerpen die vatbaar zijn voor verbeurdverklaring;
     3. voldoening aan de staat van een geldbedrag of overdracht van in beslag genomen voorwerpen ter gehele of gedeeltelijke ontneming van het ingevolge [artikel 36e](wetboek-van-strafrecht.md#artikel-36e-wvsr-ontneming-wederrechtelijk-verkregen-voordeel) van het Wetboek van Strafrecht voor ontneming vatbare wederrechtelijk verkregen voordeel.
@@ -343,10 +294,6 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 #### Artikel 270 WvSv [Aanvang onderzoek]
 
 De voorzitter begint het onderzoek door het doen uitroepen van de zaak tegen de verdachte.
-
-#### Artikel 282a WvSv [Verwijzing naar politierechter]
-
-1. De rechtbank kan, de officier van justitie gehoord, de zaak naar de politierechter verwijzen. De zaak wordt in dat geval onder aanzegging van het tijdstip op dezelfde dag verder behandeld dan wel voor bepaalde of onbepaalde tijd geschorst en op de bestaande telastlegging voor de politierechter aanhangig gemaakt door aanzegging of oproeping van de verdachte vanwege de officier van justitie tegen de dag van de nadere terechtzitting.
 
 #### Artikel 312 WvSv [Aanvulling telastlegging met strafverzwarende omstandigheden]
 
@@ -367,8 +314,7 @@ Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den r
     1. eigen waarneming van den rechter;
     2. verklaringen van den verdachte;
     3. verklaringen van een getuige;
-    4. verklaringen van een deskundige;
-    5. schriftelijke bescheiden.
+    4. schriftelijke bescheiden.
 2. Feiten of omstandigheden van algemeene bekendheid behoeven geen bewijs.
 
 #### Artikel 340 WvSv [Eigen waarneming van rechter]
@@ -382,13 +328,6 @@ Onder eigen waarneming van den rechter wordt verstaan die welke bij het onderzoe
 3. Zijne opgaven kunnen alleen te zijnen aanzien gelden.
 4. Het bewijs dat de verdachte het telastegelegde feit heeft begaan, kan door den rechter niet uitsluitend worden aangenomen op de opgaven van den verdachte.
 
-### Titel VII Bijzondere bepalingen voor het rechtsgeding voor de politierechter
-
-#### Artikel 369 WvSv [Maximumstraf. Verwijzing naar meervoudige kamer]
-
-1. De politierechter is niet bevoegd tot oplegging van een gevangenisstraf van meer dan 180 maanden.
-2. Indien de politierechter oordeelt dat de zaak door een meervoudige kamer van de rechtbank moet worden behandeld, verwijst hij de zaak daarheen.
-
 #### Artikel 369a WvSv [Maximumstraf opsporingsambtenaar.]
 
-De personen omschreven in [artikel 141](#artikel-141-wvsv-algemene-opsporingsbevoegdheid) is niet bevoegd tot oplegging van een gevangenisstraf van meer dan 120 maanden.
+De personen omschreven in [artikel 141](#artikel-141-wvsv-algemene-opsporingsbevoegdheid) is niet bevoegd tot oplegging van een gevangenisstraf van meer dan 50 maanden.
