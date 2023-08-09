@@ -110,22 +110,12 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 3. De opsporingsambtenaren zijn bevoegd een persoon die zich bevindt op een luchthaven, te allen tijde aan zijn kleding en de verpakking van goederen, met inbegrip van reisbagage, alsmede diens vervoermiddel, te onderzoeken.
 
 ### Hoofdstuk 12 [Strafbepalingen]
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TOT HIER!!!!!!!!!!!!!!!
-
 
 #### Artikel 55 WWM [Gevangenisstraf voor misdrijven]
-
-1. Met gevangenisstraf van ten hoogste 9 maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met de [artikelen 13, eerste lid](#artikel-13-wwm-vervaardigen-etc), voor zover het betreft een geluiddemper, [22, eerste lid](#artikel-22-wwm-vervoer-verbodsbepaling), [26, eerste lid](#artikel-26-wwm-verbod-voorhanden-hebben), of [31, eerste lid](#artikel-31-wwm-overdracht-verbodsbepaling).
-2. Met gevangenisstraf van ten hoogste 9 maanden of geldboete van de vierde categorie wordt gestraft hij die handelt in strijd met [artikel 14, eerste lid](#artikel-14-wwm-verbod-binnenkomen-en-uitgaan).
-3. Met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie wordt gestraft:
-    1. hij die handelt in strijd met de [artikelen 14, eerste lid](#artikel-14-wwm-verbod-binnenkomen-en-uitgaan), [26, eerste lid](#artikel-26-wwm-verbod-voorhanden-hebben), of [31, eerste lid](#artikel-31-wwm-overdracht-verbodsbepaling), en het feit begaat met betrekking tot een wapen van categorie II, met uitzondering van onderdeel 2° of onderdeel 7°, of een vuurwapen van categorie III;
-    2. hij die handelt in strijd met de [artikelen 13, eerste lid](#artikel-13-wwm-vervaardigen-etc), of [26, eerste lid](#artikel-26-wwm-verbod-voorhanden-hebben), aan boord van een luchtvaartuig of op een luchthaven;
-4. Met gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie wordt gestraft: hij die handelt in strijd met de [artikelen 13, eerste lid](#artikel-13-wwm-vervaardigen-etc), [14, eerste lid](#artikel-14-wwm-verbod-binnenkomen-en-uitgaan), [26, eerste lid](#artikel-26-wwm-verbod-voorhanden-hebben), of [31, eerste lid](#artikel-31-wwm-overdracht-verbodsbepaling), en van het in strijd met de wet vervaardigen, transformeren, uitwisselen, verhuren of anderszins ter beschikking stellen, herstellen, beproeven of verhandelen van wapens of munitie een beroep of een gewoonte maakt.
-5. vervallen.
-6. vervallen.
-7. Met gevangenisstraf van ten hoogste 96 maanden of geldboete van de vijfde categorie wordt gestraft hij die handelt in strijd met de [artikelen 14, eerste lid](#artikel-14-wwm-verbod-binnenkomen-en-uitgaan), [26, eerste lid](#artikel-26-wwm-verbod-voorhanden-hebben), of [31, eerste lid](#artikel-31-wwm-overdracht-verbodsbepaling), en het feit begaat met betrekking tot een wapen van categorie II, onderdeel 2° of onderdeel 7°, of een vuurwapen van categorie III.
+1. Het dragen/ vervoeren van een categorie 1 wapen zal bestraft worden met een gevangenis straf van ten hoogste 40 maanden en een geldboete van de derde categorie.
+2. Het dragen/ vervoeren van een categorie 2 wapen zal bestraft worden met een gevangenis straf van ten hoogste 65 maanden en een geldboete van de vierde categorie.
+3. Het dragen/ vervoeren van een categorie 3 wapen zal bestraft worden met een gevangenis straf van ten hoogste 90 maanden en een geldboete van de vierde categorie.
 
 #### Artikel 56 WWM [Aard delicten]
 
-De in [artikel 54](#artikel-54-wwm-geldboete-voor-overtredingen) strafbaar gestelde feiten zijn overtredingen. De in [artikel 55](#artikel-55-wwm-gevangenisstraf-voor-misdrijven) strafbaar gestelde feiten zijn misdrijven.
+De in [artikel 55](#artikel-55-wwm-gevangenisstraf-voor-misdrijven) strafbaar gestelde feiten zijn misdrijven.
