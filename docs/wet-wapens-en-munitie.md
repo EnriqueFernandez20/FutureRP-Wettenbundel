@@ -111,7 +111,7 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 
 ### Hoofdstuk 12 [Strafbepalingen]
 
-#### Artikel 55 WWM [Gevangenisstraf voor misdrijven]
+#### Artikel 55 WWM [Gevangenisstraf voor het dragen/ vervoeren van een wapen]
 1. Het dragen/ vervoeren van een categorie 1 wapen zal bestraft worden met een gevangenis straf van ten hoogste 40 maanden en een geldboete van de derde categorie.
 2. Het dragen/ vervoeren van een categorie 2 wapen zal bestraft worden met een gevangenis straf van ten hoogste 65 maanden en een geldboete van de vierde categorie.
 3. Het dragen/ vervoeren van een categorie 3 wapen zal bestraft worden met een gevangenis straf van ten hoogste 90 maanden en een geldboete van de vierde categorie.
