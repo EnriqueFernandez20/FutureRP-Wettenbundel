@@ -9,19 +9,13 @@
     - [Wet Wapens en Munitie](./wet-wapens-en-munitie.md);
 2. Bij algemene maatregel van bestuur kunnen wijzigingen worden aangebracht aan de lijst van lid 1.
 
-#### Artikel 1:2 Adw [Toepasselijkheid]
-
-Deze wet is van toepassing op het grondgebied van Nederland met inbegrip van zijn luchtruim, zijn maritieme binnenwateren en territoriale zee, en elk gebied buiten deze territoriale zee waarin Nederland, in overeenstemming met het internationale recht, jurisdictie of soevereine rechten uitoefent met betrekking tot de zeebodem, de ondergrond daarvan, het bovenliggende water en luchtruim.
-
 #### Artikel 1:3 Adw [Begripsbepaling]
 
 1. In deze wet wordt verstaan:
-    1. douaneautoriteiten, bevoegde autoriteiten of douane of douanediensten: de inspecteur van de douane of de opsporingsambtenaar van de koninklijke marechaussee;
-    2. inspecteur of ontvanger: functionaris die met de toepassing van deze wet is belast en als zodanig bij regeling van Onze Minister van Financiën, in voorkomend geval, in overeenstemming met Onze Minister wie het mede aangaat, is aangewezen;
-        - In overeenstemming met Onze Minister van Defensie zijn de opsporingsambtenaren van de Koninklijke Marechaussee aangewezen als functionaris belast met de toepassing van deze wet;
+    1. douaneautoriteiten, bevoegde autoriteiten of douane of douanediensten: De opsporingsambtenaar van de koninklijke marechaussee;
+        - In overeenstemming met Onze Rechter is de opsporingsambtenaren van de Koninklijke Marechaussee aangewezen als functionaris belast met de toepassing van deze wet;
     3. doorlaatposten: Controleposten van de douane op de snelweg, zijnde grensposten in de volksmond.
 2. Bij de regeling, bedoeld in het eerste lid, onder b, kan de aanwijzing tot inspecteur dan wel ontvanger worden beperkt tot een bepaalde locatie dan wel taak en kunnen bevoegdheden worden uitgezonderd.
-3. Onze Minister van Financiën sluit met Onze Ministers wie het mede aangaat convenanten aangaande de kwantitatieve en kwalitatieve inzet van de functionarissen die ressorteren onder de rijksbelastingdienst met betrekking tot de douanecontrole van het bepaalde bij of krachtens een bindende EU-rechtshandeling of ander wettelijk voorschrift dat is opgenomen in [artikel 1:1 lid 1](#artikel-11-adw-algemene-bepalingen) deze wet. Onze Minister van Financiën plaatst deze convenanten in de Staatscourant.
 
 ## Afdeling 1.2 - Bepalingen inzake douanetoezicht en douanecontrole
 
@@ -42,7 +36,7 @@ De inspecteur is bevoegd over te gaan tot een onderzoek van goederen en het even
         2. "grenspost Oost", een vaste doorlaatpost gelegen aan de A2 snelweg rond postcode 709;
         3. mobiele doorlaatposten, zijnde een inzet van het Mobiel Toezicht Veiligheid (MTV) met het oog op grenstoezicht;
 2. Onder controle in de zin van het eerste lid wordt mede verstaan doorzoeking.
-3. Degene die een in lid 1 bedoelde controle opzettelijk wijkt, daar waar deze een controle of doorzoeking had moeten ondergaan, wordt gestraft met een geldboete van de derde categorie.
+3. Degene die een in lid 1 bedoelde controle opzettelijk wijkt, daar waar deze een controle of doorzoeking had moeten ondergaan, wordt gestraft met een geldboete van de tweede categorie.
 4. De in lid 3 benoemde strafbepaling is niet van toepassing op onbemande doorlaatposten, deze mogen door eenieder gepasseerd worden zonder dat deze aan een controle of doorzoeking onderworpen worden.
 
 #### Artikel 1:26a Adw [Eisen MTV als mobiele doorlaatpost]
@@ -67,10 +61,6 @@ De inspecteur is bevoegd over te gaan tot een onderzoek van goederen en het even
 5. Onder lijfsvisitatie wordt verstaan:
     1. het onderzoek aan de kleding; het onderzoek aan de kleding omvat het betasten van de kleding, het nauwkeurig onderzoek van de hoofdbedekking en het schoeisel;
     2. doorzoeking van accessoires welke goederen kunnen bevatten.
-
-#### Artikel 1:29 Adw [Versperren van wegen in het belang van controle]
-
-Onze Minister van Financiën is bevoegd, na overleg met Onze Minister wie het mede aangaat, te bepalen, dat in het belang van controle en onderzoek op openbare land- en waterwegen versperringen worden aangebracht.
 
 #### Artikel 1:34 Adw [Identificatieplicht]
 
