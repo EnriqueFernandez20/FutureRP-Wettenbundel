@@ -19,7 +19,7 @@
         - 1° de krachtens [artikel 22](politiewet-2012.md#artikel-22-pw-2012-bewapening-uitrusting-en-kleding) van de Politiewet 2012 toegelaten bewapening.
     5. vrijheidsbeperkende middelen, waaronder hulpmiddelen jegens ingeslotenen:
         - 1° de krachtens [artikel 22](politiewet-2012.md#artikel-22-pw-2012-bewapening-uitrusting-en-kleding) van de Politiewet 2012 toegelaten vrijheidsbeperkende middelen, en
-        - 2° de door Onze Minister van Defensie ter beschikking gestelde vrijheidsbeperkende middelen;
+        - 2° de door Onze Rechter ter beschikking gestelde vrijheidsbeperkende middelen;
     6. automatisch vuur: het lossen van meerdere schoten als gevolg van het eenmalig overhalen van de trekker van een vuurwapen;
     7. het gebruik van een vuurwapen: het richten, het gericht houden of het schieten met een vuurwapen;
     8. niet-penetrerend projectiel: projectiel dat is ontworpen om personen te treffen en daarbij niet het lichaam binnen te dringen;
@@ -56,15 +56,15 @@
     1. om een persoon aan te houden ten aanzien van wie redelijkerwijs mag worden aangenomen dat deze:
         - 1° een voor onmiddellijk gebruik gereed zijnd vuurwapen bij zich heeft en dat tegen personen zal gebruiken, of
         - 2° aanstonds ander levensbedreigend geweld tegen personen zal gebruiken;
-    2. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken, en die wordt verdacht van of is veroordeeld wegens het plegen van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 48 maanden of meer is gesteld en:
-        - 1° dat een ernstige aantasting vormt van de lichamelijke integriteit,
-        - 2° betrekking heeft op het zich wederrechtelijk bevinden in een woning of op het daarbij behorende besloten erf met gebruik van geweld of bedreiging met geweld tegen personen, of,
-        - 3° dat door zijn gevolg bedreigend voor de samenleving is of kan zijn.
+b. om een persoon aan te houden die zich aan zijn aanhouding, voorgeleiding of andere rechtmatige vrijheidsbeneming tracht te onttrekken of heeft onttrokken, en die wordt verdacht van of is veroordeeld wegens het plegen van een misdrijf waarop naar de wettelijke omschrijving een gevangenisstraf van 48 maanden of meer is gesteld en:
+1° dat een ernstige aantasting vormt van de lichamelijke integriteit,
+2° betrekking heeft op het zich wederrechtelijk bevinden in een woning of op het daarbij behorende besloten erf met gebruik van geweld of bedreiging met geweld tegen personen, of,
+3° dat door zijn gevolg bedreigend voor de samenleving is of kan zijn.
     3. tot het beteugelen van oproerige bewegingen of andere ernstige wanordelijkheden, indien er sprake is van een opdracht van het bevoegd gezag en een optreden in gesloten verband onder leiding van een meerdere;
     4. om een ernstig gewond dier te doden;
     5. om direct gevaar voor het leven van personen of voor het ontstaan van zwaar lichamelijk letsel af te wenden.
-2. In de gevallen, bedoeld in het eerste lid, onder a en b, wordt van het vuurwapen geen gebruik gemaakt indien de identiteit van de aan te houden persoon bekend is en redelijkerwijs mag worden aangenomen dat het uitstel van de aanhouding geen onaanvaardbaar te achten gevaar voor de rechtsorde met zich brengt.
-3. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de artikelen 47 en 48 van het Wetboek van Strafrecht.
+3. In de gevallen, bedoeld in het eerste lid, onder a en b, wordt van het vuurwapen geen gebruik gemaakt indien de identiteit van de aan te houden persoon bekend is en redelijkerwijs mag worden aangenomen dat het uitstel van de aanhouding geen onaanvaardbaar te achten gevaar voor de rechtsorde met zich brengt.
+4. Onder het plegen van een misdrijf, bedoeld in het eerste lid, onder b, worden mede begrepen de poging en de deelnemingsvormen, bedoeld in de artikelen 47 en 48 van het Wetboek van Strafrecht.
 
 #### Artikel 8 AI [Gebruik automatisch vuur]
 
@@ -118,7 +118,7 @@ De ambtenaar of de meerdere onder wiens bevel de ambtenaar optreedt, waarschuwt 
 
 1. De ambtenaar die geweld heeft aangewend, meldt schriftelijk de aard, waaronder het gebruikte geweldmiddel, en de gevolgen daarvan en mondeling de feiten en omstandigheden, waaronder de redenen die tot het aanwenden van geweld hebben geleid, zo spoedig mogelijk aan de hulpofficier van justitie die krachtens aanwijzing is belast met de registratie van aangewend geweld.
 2. Indien de ambtenaar die geweld heeft aangewend, onder leiding van een ter plaatse aanwezige meerdere heeft opgetreden en geweld heeft aangewend na diens uitdrukkelijke last, geschiedt de melding, bedoeld in het eerste lid, door deze meerdere. De ambtenaar verstrekt de hulpofficier van justitie, bedoeld in het eerste lid, desgevraagd de nodige inlichtingen.
-3. De melding wordt door de hulpofficier van justitie, bedoeld in het eerste lid, zo spoedig mogelijk geregistreerd op een daartoe door Onze Minister vastgestelde wijze, indien:
+3. De melding wordt door de hulpofficier van justitie, bedoeld in het eerste lid, zo spoedig mogelijk geregistreerd op een daartoe door Onze Rechter vastgestelde wijze, indien:
     1. het aanwenden van geweld de dood dan wel lichamelijk letsel van meer dan geringe betekenis heeft veroorzaakt;
     2. gebruik is gemaakt van een vuurwapen, of
     3. het aanwenden van geweld naar het oordeel van de hulpofficier van justitie daartoe aanleiding geeft.
