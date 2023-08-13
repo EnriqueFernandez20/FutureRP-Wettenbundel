@@ -24,7 +24,7 @@ Onder toezichthouder wordt verstaan: een persoon, bij of krachtens wettelijk voo
 
 1. Bij de uitoefening van zijn taak draagt een toezichthouder een legitimatiebewijs bij zich, dat is uitgegeven door het bestuursorgaan onder verantwoordelijkheid waarvan de toezichthouder werkzaam is.
 2. Een toezichthouder toont zijn legitimatiebewijs desgevraagd aanstonds.
-3. Het legitimatiebewijs bevat een foto van de toezichthouder en vermeldt in ieder geval diens naam en hoedanigheid. Het model van het legitimatiebewijs wordt vastgesteld bij regeling van Onze Minister van Veiligheid en Justitie.
+3. Het legitimatiebewijs bevat een foto van de toezichthouder en vermeldt in ieder geval diens naam en hoedanigheid. Het model van het legitimatiebewijs wordt vastgesteld bij regeling van Onze Rechter
 
 #### Artikel 5:13 Awb [Proportionaliteit]
 
@@ -50,4 +50,3 @@ Een toezichthouder is bevoegd van personen inzage te vorderen van een identiteit
 2. Hij is bevoegd vervoermiddelen waarmee naar zijn redelijk oordeel zaken worden vervoerd met betrekking waartoe hij een toezichthoudende taak heeft, op hun lading te onderzoeken.
 3. Hij is bevoegd van de bestuurder van een vervoermiddel inzage te vorderen van de wettelijk voorgeschreven bescheiden met betrekking waartoe hij een toezichthoudende taak heeft.
 4. Hij is bevoegd met het oog op de uitoefening van deze bevoegdheden van de bestuurder van een voertuig of van de schipper van een vaartuig te vorderen dat deze zijn vervoermiddel stilhoudt en naar een door hem aangewezen plaats overbrengt.
-5. Bij regeling van Onze Minister van Veiligheid en Justitie wordt bepaald op welke wijze de vordering tot stilhouden wordt gedaan.
