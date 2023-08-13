@@ -9,14 +9,13 @@
 
 ## Artikel 2 Awbi [Schriftelijke machtiging]
 
-1. Voor het binnentreden in een woning zonder toestemming van de bewoner is een schriftelijke machtiging vereist, tenzij en voor zover bij wet aan rechters, rechterlijke colleges, leden van het openbaar ministerie, burgemeesters, gerechtsdeurwaarders en belastingdeurwaarders de bevoegdheid is toegekend tot het binnentreden in een woning zonder toestemming van de bewoner. De machtiging wordt zo mogelijk getoond.
-2. Onze Minister van Justitie stelt het model van deze machtiging vast.
+1. Voor het binnentreden in een woning zonder toestemming van de bewoner is een schriftelijke machtiging vereist, tenzij en voor zover bij wet aan rechters, de bevoegdheid is toegekend tot het binnentreden in een woning zonder toestemming van de bewoner. De machtiging wordt zo mogelijk getoond.
+2. Onze Korpschef stelt het model van deze machtiging vast.
 3. Een schriftelijke machtiging als bedoeld in het eerste lid is niet vereist, indien ter voorkoming of bestrijding van ernstig en onmiddellijk gevaar voor de veiligheid van personen of goederen terstond in de woning moet worden binnengetreden.
 
 ## Artikel 12 Awbi [Verboden plaatsen]
 
 In de gevallen waarin het binnentreden van plaatsen krachtens een wettelijke voorschrift is toegelaten, geschiedt dit buiten het geval van ontdekking op heterdaad niet:
 
-1. in de vergaderruimten van de Staten-Generaal, van de staten van een provincie, van de raad van een gemeente of van enig ander algemeen vertegenwoordigend orgaan, gedurende de vergadering;
-2. in de ruimte bestemd voor godsdienstoefeningen of bezinningssamenkomsten van levensbeschouwelijke aard, gedurende de godsdienstoefening of bezinningssamenkomst;
-3. in de ruimten waarin terechtzittingen worden gehouden, gedurende de terechtzitting.
+1. in de ruimte bestemd voor godsdienstoefeningen of bezinningssamenkomsten van levensbeschouwelijke aard, gedurende de godsdienstoefening of bezinningssamenkomst;
+2. in de ruimten waarin terechtzittingen worden gehouden, gedurende de terechtzitting.
