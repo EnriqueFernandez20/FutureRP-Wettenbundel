@@ -26,59 +26,24 @@ jr = jaar
 
 ## Strafvorderingsrichtlijnen voor de wegenverkeerswetgeving
 
-### Artikel 5 WVW 1994
-
-Basiscasus/delict: Gevaarzetting voor het verkeer waarbij sprake is van een verkeersongeval
-
-| Categorie verdachte                                                                                                                                               | First offender               | 1x recidive                  | Meermalen recidive |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ---------------------------- | ------------------ |
-| Voetgangers of fietsers                                                                                                                                           | GB € 200                     | GB € 300                     | GB € 400           |
-| Brom- en snorfietsers                                                                                                                                             | GB € 400                     | GB € 600 + OBM               | GB € 800           |
-| Bestuurder motorvoertuig op twee of meer wielen                                                                                                                   | GB € 500                     | GB € 750 + OBM               | GB € 1000          |
-| Bestuurder motorvoertuig op twee of meer wielen waarbij sprake is van een dusdanige mate van gevaar dat een dodelijk slachtoffer en/of ernstig letsel is ontstaan | GB € 1000 of TS 60 uur + OBM | GB € 1500 of TS 90 uur + OBM | GS 1 mnd ov + OBM  |
-
-### Artikel 5a WVW 1994
-
-Basiscasus/delict: Opzettelijk in ernstige mate schenden van verkeersregels
-
-| Categorie verdachte                             | Opzettelijk in ernstige mate schenden verkeersregels door één gedraging of een samenstel van gedragingen | First offender    | Recidive          |
-| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ----------------- | ----------------- |
-| Voetgangers of fietsers                         | Eén gedraging                                                                                            | TS 50 uur         | GS 1 mnd ov       |
-|                                                 | Samenstel van gedragingen                                                                                | GS 1 mnd ov       | GS 2 mnd ov       |
-| Brom- en snorfietsers                           | Eén gedraging                                                                                            | GS 1 mnd ov + OBM | GS 2 mnd ov + OBM |
-|                                                 | Samenstel van gedragingen                                                                                | GS 2 mnd ov + OBM | GS 4 mnd ov + OBM |
-| Bestuurder motorvoertuig op twee of meer wielen | Eén gedraging                                                                                            | GS 2 mnd ov + OBM | GS 4 mnd ov + OBM |
-|                                                 | Samenstel van gedragingen                                                                                | GS 4 mnd ov + OBM | GS 8 mnd ov + OBM |
-
-### Artikel 6 WVW 1994
-
-Basiscasus/delict: Veroorzaken ernstig verkeersongeval
-
-| Gevolgen slachtoffer                  | Aanmerkelijke schuld | Ernstige schuld   | Zeer hoge mate van schuld |
-| ------------------------------------- | -------------------- | ----------------- | ------------------------- |
-| Lichamelijk letsel, tijdelijke ziekte | GB € 1000 + OBM      | TS 120 uur + OBM  | GS 2 mnd ov + OBM         |
-| Zwaar lichamelijk letsel              | TS 120 uur + OBM     | TS 160 uur + OBM  | GS 4 mnd ov + OBM         |
-| Dood                                  | TS 240 uur + OBM     | GS 6 mnd ov + OBM | GS 8 mnd ov + OBM         |
-
 ### Artikel 7 WVW 1994
 
 Basiscasus/delict: Verlaten plaats ongeval
 
-| Uitsluitend materiële schade                                                    | first offender | Recidive        |
-| ------------------------------------------------------------------------------- | -------------- | --------------- |
-| Geringe materiële schade                                                        | GB € 500       | GB € 750 + OBM  |
-| Meer dan geringe materiële schade                                               | GB € 1000      | GB € 1500 + OBM |
-| In hulpeloze toestand achterlaten, terwijl geen sprake is van artikel 6 WVW1994 | GS 2 mnd + OBM | GS 3 mnd + OBM  |
+| Uitsluitend materiële schade                                                    | first offender    | Recidive         |
+| ------------------------------------------------------------------------------- | --------------    | ---------------  |
+| Geringe materiële schade                                                        | GB 2de categorie  | GB 2de categorie |
+| Meer dan geringe materiële schade                                               | GB 2de categorie  | GB 2de categorie |
+| In hulpeloze toestand achterlaten.                                              | GB 3de categorie  | GS 3de categorie |
 
 ### Artikel 9 WVW 1994
 
 Basiscasus/delict: Onbevoegd besturen door gevorderd rijbewijs
 
-|                                      | first offender | 1x recidive | meermalen recidive |
-| ------------------------------------ | -------------- | ----------- | ------------------ |
-| Brom- en snorfietsers                | GB € 2000      | GB € 3000   | TS 120 uur         |
-| Motorvoertuig op twee of meer wielen | TS 180 uur     | TS 240 uur  | GS 6 mnd           |
-
+|                                      | first offender    | 1x recidive    | meermalen recidive |
+| ------------------------------------ | --------------    | -----------    | ---------------    |  
+| Motorvoertuig op twee of meer wielen | 1ste categorie    | 2de categorie  | 2de categorie      |
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Artikel 10 WVW 1994
 
 Basiscasus/delict: Een wedstrijd uitvoeren op de weg
