@@ -165,6 +165,7 @@ Basiscasus/delict: Overval door een first offender.
 \*\* Tenzij apart tenlastegelegd als 282 Sr.
 
 TOT HIER BEHANDELD
+------------------
 
 ## Mishandeling
 
