@@ -39,8 +39,8 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 #### Artikel 10 WvSr [Duur van gevangenisstraf]
 
 1. De gevangenisstraf is tijdelijk.
-2. De duur van de tijdelijke gevangenisstraf is ten minste 5 maanden en ten hoogste 240 maanden.
-3. Zij kan in geen geval de tijd van 240 maanden te boven gaan.
+2. De duur van de tijdelijke gevangenisstraf is ten minste 5 maanden en ten hoogste 180 maanden.
+3. Zij kan in geen geval de tijd van 180 maanden te boven gaan.
 
 #### Artikel 23 WvSr [Geldboete. Categorieën]
 Hij die tot een geldboete is veroordeeld, betaalt het vastgestelde bedrag binnen de door Onze Minister van Justitie en Veiligheid te stellen termijn aan de staat
@@ -111,7 +111,7 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 
 1. Poging tot misdrijf is strafbaar, wanneer het voornemen van de dader zich door een begin van uitvoering heeft geopenbaard.
 2. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij poging met een derde verminderd.
-3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 240 maanden.
+3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 180 maanden.
 4. De bijkomende straffen zijn voor poging dezelfde als voor het voltooide misdrijf.
 
 #### Artikel 46 WvSr [Voorbereiding van ernstig misdrijf]
@@ -148,7 +148,7 @@ Als medeplichtigen van een misdrijf worden gestraft:
 #### Artikel 49 WvSr [Strafbepaling bij medeplichtigheid]
 
 1. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij medeplichtigheid met een derde verminderd.
-2. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 240 maanden.
+2. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 180 maanden.
 3. De bijkomende straffen zijn voor medeplichtigheid dezelfde als voor het misdrijf zelf.
 4. Bij het bepalen van de straf komen alleen die handelingen in aanmerking die de medeplichtige opzettelijk heeft gemakkelijk gemaakt of bevorderd, benevens hun gevolgen.
 
