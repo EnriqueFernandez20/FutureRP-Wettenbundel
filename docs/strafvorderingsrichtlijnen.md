@@ -40,10 +40,11 @@ Basiscasus/delict: Verlaten plaats ongeval
 
 Basiscasus/delict: Onbevoegd besturen door gevorderd rijbewijs
 
-|                                      | first offender              | 1x recidive              | meermalen recidive           |
-| ------------------------------------ | ------------------------    | ---------------------    | -------------------------    |  
-| Motorvoertuig op twee of meer wielen | GB € 1000 1ste categorie    | GB € 1540 2de categorie  | GB € 2070 2de categorie      |
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|                                      | first offender              | 1x recidive             |
+| ------------------------------------ | ------------------------    | ---------------------   | 
+| Brom- en snorfietsers                | GB € 1300                   | GB € 1800   | GS 3 mnd  |
+| Motorvoertuig op twee of meer wielen | GB € 700                    | GB € 1300   | GS 3 mnd  |
+
 ### Artikel 10 WVW 1994
 
 Basiscasus/delict: Een wedstrijd uitvoeren op de weg
