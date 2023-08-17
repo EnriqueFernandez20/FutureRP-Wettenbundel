@@ -9,7 +9,7 @@ Open eerst een issue voor een pull request, zo kan hier in aangegeven worden of 
 ## Auteurs
 
 Advocatuur Leiding.
-Enrique J.  enriquenl
-Harrie J.   diablo.0285
+Enrique J.    Discord: enriquenl
+Harrie J.     Discord: diablo.0285
 
 Enkel hergebruik met verwijzing naar de originele auteurs is toegestaan. Alle rechten voorbehouden. &copy;2022-2023
