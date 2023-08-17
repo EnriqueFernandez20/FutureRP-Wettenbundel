@@ -30,19 +30,19 @@ jr = jaar
 
 Basiscasus/delict: Verlaten plaats ongeval
 
-| Uitsluitend materiële schade                                                    | first offender    | Recidive         |
-| ------------------------------------------------------------------------------- | --------------    | ---------------  |
-| Geringe materiële schade                                                        | GB 2de categorie  | GB 2de categorie |
-| Meer dan geringe materiële schade                                               | GB 2de categorie  | GB 2de categorie |
-| In hulpeloze toestand achterlaten.                                              | GB 3de categorie  | GS 3de categorie |
+| Uitsluitend materiële schade                                                    | first offender           | Recidive                        |
+| --------------------------------------------------------------------------------|----------------------    | ----------------------------    |
+| Geringe materiële schade                                                        | GB € 300 1de categorie   | GB € 750  2de categorie         |
+| Meer dan geringe materiële schade                                               | GB € 1500 2de categorie  | GB € 2040 2de categorie         |
+| In hulpeloze toestand achterlaten.                                              | GB € 2500 2de categorie  | GS 7MND GB € 3100 2de categorie |
 
 ### Artikel 9 WVW 1994
 
 Basiscasus/delict: Onbevoegd besturen door gevorderd rijbewijs
 
-|                                      | first offender    | 1x recidive    | meermalen recidive |
-| ------------------------------------ | --------------    | -----------    | ---------------    |  
-| Motorvoertuig op twee of meer wielen | 1ste categorie    | 2de categorie  | 2de categorie      |
+|                                      | first offender              | 1x recidive              | meermalen recidive           |
+| ------------------------------------ | ------------------------    | ---------------------    | -------------------------    |  
+| Motorvoertuig op twee of meer wielen | GB € 1000 1ste categorie    | GB € 1540 2de categorie  | GB € 2070 2de categorie      |
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Artikel 10 WVW 1994
 
@@ -50,10 +50,10 @@ Basiscasus/delict: Een wedstrijd uitvoeren op de weg
 
 |                                      | first offender | 1x recidive | meermalen recidive |
 | ------------------------------------ | -------------- | ----------- | ------------------ |
-| Brom- en snorfietsers                | GB € 1500      | GB € 3000   | GS 1 mnd           |
-| Organisator                          | GB € 3500      | GS 1 mnd    | GS 2 mnd           |
-| Motorvoertuig op twee of meer wielen | GB € 2500      | GB € 4500   | GS 4 mnd           |
-| Organisator                          | GB € 4500      | GS 3 mnd    | GS 6 mnd           |
+| Brom- en snorfietsers                | GB € 1300      | GB € 1800   | GS 3 mnd           |
+| Organisator                          | GB € 2600      | GS 1 mnd    | GS 5 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 2500      | GB € 3700   | GS 7 mnd           |
+| Organisator                          | GB € 4600      | GS 3 mnd    | GS 9 mnd           |
 
 ### Artikel 11 WVW 1994
 
@@ -61,9 +61,9 @@ Basiscasus/delict: Voertuig gebruiken zonder toestemming
 
 |                                      | first offender | 1x recidive | meermalen recidive |
 | ------------------------------------ | -------------- | ----------- | ------------------ |
-| Brom- en snorfietsers                | GB € 1500      | TS 80 uur   | GS 1 mnd           |
-| Motorvoertuig op twee of meer wielen | GB € 2500      | TS 120 uur  | GS 4 mnd           |
-| Hulpverleningsvoertuig               | TS 180 uur     | GS 8 mnd    | GS 12 mnd          |
+| Brom- en snorfietsers                | GB € 1500      | TS 20 uur   | GS 2 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 2500      | TS 40 uur   | GS 4 mnd           |
+| Hulpverleningsvoertuig               | TS 53 uur      | TS 65 uur   | GS 20 mnd          |
 
 ### Artikel 72 WVW 1994
 
@@ -71,8 +71,8 @@ Basiscasus/delict: Geen keuringsbewijs (APK) afgegeven voor motorrijtuig
 
 |                                      | first offender | 1x recidive | meermalen recidive |
 | ------------------------------------ | -------------- | ----------- | ------------------ |
-| Brom- en snorfietsers                | GB € 500       | GB € 750    | TS 60 uur          |
-| Motorvoertuig op twee of meer wielen | GB € 1000      | GB € 1500   | TS 80 uur          |
+| Brom- en snorfietsers                | GB € 500       | GB € 750    | TS 15 uur          |
+| Motorvoertuig op twee of meer wielen | GB € 1000      | GB € 1500   | TS 19 uur          |
 
 ### Artikel 107 WVW 1994
 
@@ -80,8 +80,8 @@ Basiscasus/delict: Motorrijtig besturen zonder rijbewijs voor de categorie waart
 
 |                                      | first offender | 1x recidive | meermalen recidive |
 | ------------------------------------ | -------------- | ----------- | ------------------ |
-| Brom- en snorfietsers                | GB € 1000      | GB € 1500   | GS 1 mnd           |
-| Motorvoertuig op twee of meer wielen | GB € 2000      | GB € 3000   | GS 3 mnd           |
+| Brom- en snorfietsers                | GB € 800       | GB € 1200   | GS 7 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 2000      | GB € 3000   | GS 15 mnd          |
 
 ### Artikel 160 WVW 1994
 
@@ -89,8 +89,8 @@ Basiscasus/delict: Niet voldoen aan de vordering stilhouden
 
 |                                      | first offender | 1x recidive | meermalen recidive |
 | ------------------------------------ | -------------- | ----------- | ------------------ |
-| Brom- en snorfietsers                | GB € 1000      | GB € 1500   | GS 2 mnd           |
-| Motorvoertuig op twee of meer wielen | GB € 2000      | GB € 3000   | GS 4 mnd           |
+| Brom- en snorfietsers                | GB € 700       | GB € 900    | GS 4 mnd           |
+| Motorvoertuig op twee of meer wielen | GB € 1500      | GB € 2100   | GS 12 mnd          |
 
 ## (winkel)diefstal/verduistering al dan niet met geweld
 
@@ -100,14 +100,14 @@ Wetsbepalingen: art. 310, 312, 321 Wetboek van Strafrecht (WvSr)
 
 Basiscasus/delict: (Winkel)diefstal of verduistering, alleen gepleegd.
 
-|                           | first offender  | 1x recidive | meermalen recidive            |
-| ------------------------- | --------------- | ----------- | ----------------------------- |
-| (beoogde) waarde t/m € 50 | GB € 200        | GB € 300    | Eis TS 32 uur of GS 1 mnd ov  |
-| Vanaf € 50 t/m € 200      | GB € 350        | GB € 500    | Eis TS 50 uur of GS 2 mnd ov  |
-| Vanaf € 200 t/m €600      | GB € 700        | GB € 900    | Eis TS 80 uur of GS 3 mnd ov  |
-| Vanaf € 600 t/m € 1000    | GB vanaf € 1200 | GB € 1400   | Eis TS 100 uur of GS 4 mnd ov |
-| Vanaf € 1000 t/m € 2500   | GB vanaf € 3000 | TS 100 uur  | Eis TS 120 uur of GS 6 mnd ov |
-| Vanaf € 2500 t/m € 5000   | TS 80 uur       | TS 120 uur  | Eis TS 160 uur of GS 8 mnd ov |
+|                           | first offender  | 1x recidive | 
+| ------------------------- | --------------- | ----------- | 
+| (beoogde) waarde t/m € 50 | GB € 200        | GB € 300    | 
+| Vanaf € 50 t/m € 200      | GB € 350        | GB € 500    | 
+| Vanaf € 200 t/m €600      | GB € 700        | GB € 900    | 
+| Vanaf € 600 t/m € 1000    | GB vanaf € 1200 | GB € 1400   | 
+| Vanaf € 1000 t/m € 2500   | GB vanaf € 3000 | TS 12 uur   | 
+| Vanaf € 2500 t/m € 5000   | GB vanaf € 5400 | TS 20 uur   | 
 
 **Bijzonderheden**
 
@@ -121,11 +121,12 @@ Georganiseerd verband
 
 Basiscasus/delict: Winkeldiefstal met na betrapping (bedreiging met) geweld, alleen gepleegd.
 
-|                                                                                           | first offender | 1x recidive | meermalen recidive |
-| ----------------------------------------------------------------------------------------- | -------------- | ----------- | ------------------ |
-| Duwen/trekken of losrukken, geen pijn of letsel                                           | GS 2 mnd       | GS 3 mnd    | GS 4 mnd ov        |
-| Fysiek geweld, pijn en/of licht letsel of tonen voorwerp (schroevendraaier, mes)          | GS 4 mnd       | GS 6 mnd    | GS 8 mnd ov        |
-| Tonen (imitatie) vuurwapen\*, geen letsel OF Geen wapen, fysiek geweld én zwaarder letsel | GS 6 mnd       | GS 9 mnd    | GS 12 mnd ov       |
+|                                                                                           | first offender | 1x recidive   | meermalen recidive |
+| ----------------------------------------------------------------------------------------- | -------------- | -----------   | ------------------ |
+| Duwen/trekken of losrukken, geen pijn of letsel                                           | GS 2 mnd       | GS 3 mnd      | GS 4 mnd ov        |
+| Fysiek geweld, pijn en/of licht letsel of tonen voorwerp (schroevendraaier, mes)          | GS 7 mnd       | GS 10 mnd     | GS 15 mnd ov       |
+| Tonen (imitatie) vuurwapen\*                                                              | GS 6 mnd       | GS 8 mnd      | GS 12 mnd ov       |
+| fysiek geweld én zwaarder letsel                                                          | GS 15 mnd      | GS 20 mnd     | GS 25 mnd ov       |
 
 **Bijzonderheden**
 
@@ -145,21 +146,24 @@ Zwaar lichamelijk letsel of dood ten gevolge (maatwerk)
 
 Wetsbepalingen: Art. 46, 312 en 317 Wetboek van Strafrecht (WvSr)
 
-Basiscasus/delict: Overval door een first offender, alleen gepleegd met een basis van geweld (slaan/ schoppen, maar ook gebruik van een steek-of slagwapen) en/of bedreiging.
+Basiscasus/delict: Overval door een first offender.
 
-| 312/317 SR               | Bedrijf                    | Woning                     |
-| ------------------------ | -------------------------- | -------------------------- |
-| Uitgangspunt             | 24 maanden gevangenisstraf | 36 maanden gevangenisstraf |
-| **Strafeisverzwarend:**  |                            |                            |
-| Nachtelijke uren         |                            | + 6 maanden                |
-| Medeplegen               | + 8 maanden                | + 12 maanden               |
-| Dreigen met vuurwapen\*  | + 12 maanden               | + 12 maanden               |
-| Verbinden/opsluiten\*\*  | + 6 maanden                | + 6 maanden                |
-| Zwaar lichamelijk letsel | + 12 maanden               | + 12 maanden               |
+| 312/317 SR               | Bedrijf                    | Woning                     | Winkel                     | Bank                       |
+| ------------------------ | -------------------------- | -------------------------- | -------------------------- | -------------------------- |
+| Uitgangspunt             | 7 maanden gevangenisstraf  | 13 maanden gevangenisstraf | 20 maanden gevangenisstraf | 35 maanden gevangenisstraf |
+| **Strafeisverzwarend:**  |                            |                            |                            |                            |
+| Nachtelijke uren         |                            | + 6 maanden                | + 6 maanden                | + 6 maanden                |
+| Medeplichtig             | - 3 maanden                | - 6 maanden                | - 9 maanden                | - 15 maanden               |
+| Dreigen met vuurwapen\*  | + 12 maanden               | + 12 maanden               | + 12 maanden               | + 12 maanden               |
+| Verbinden/opsluiten\*\*  | + 6 maanden                | + 6 maanden                | + 6 maanden                | + 6 maanden                |
+| Zwaar lichamelijk letsel | + 12 maanden               | + 12 maanden               | + 12 maanden               | + 12 maanden               |
+| meermalen recidive       | + 4 maanden                | + 6 maanden                | + 6 maanden                | + 10 maanden               | 
 
 \* Verhoging geldt ook indien WWM-feit apart tenlastegelegd wordt.
 
 \*\* Tenzij apart tenlastegelegd als 282 Sr.
+
+TOT HIER BEHANDELD
 
 ## Mishandeling
 
