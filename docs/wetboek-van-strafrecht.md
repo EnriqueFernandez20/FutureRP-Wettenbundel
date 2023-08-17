@@ -46,14 +46,15 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 Hij die tot een geldboete is veroordeeld, betaalt het vastgestelde bedrag binnen de door Onze Minister van Justitie en Veiligheid te stellen termijn aan de staat
 Het bedrag van de geldboete is ten minste € 10.
 De geldboete die voor een strafbaar feit ten hoogste kan worden opgelegd, is gelijk aan het bedrag van de categorie die voor dat feit is bepaald.
+
 Er zijn Zeven categorieën:
-   de eerste categorie, € 450;
-   de tweede categorie, € 4.500;
-   de derde categorie, € 9.000;
-   de vierde categorie, € 15.000;
-   de vijfde categorie, € 90.000;
-   de zesde categorie, € 300.000;
-   de zevende categorie, € 900.000;
+   De eerste categorie, € 450;
+   De tweede categorie, € 4.500;
+   De derde categorie, € 9.000;
+   De vierde categorie, € 15.000;
+   De vijfde categorie, € 90.000;
+   De zesde categorie, € 300.000;
+   De zevende categorie, € 900.000;
 
 
 Voor een overtreding, onderscheidenlijk een misdrijf, waarop geen geldboete is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de vierde categorie.
