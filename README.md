@@ -9,7 +9,7 @@ Open eerst een issue voor een pull request, zo kan hier in aangegeven worden of 
 ## Auteurs
 
 Advocatuur Leiding.
-Enrique G.  Enrique#3875
+Enrique J.  Enrique#3875
 Harrie J.   diablo.0285
 
 Enkel hergebruik met verwijzing naar de originele auteurs is toegestaan. Alle rechten voorbehouden. &copy;2022-2023
