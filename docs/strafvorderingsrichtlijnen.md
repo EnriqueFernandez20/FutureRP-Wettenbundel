@@ -164,9 +164,6 @@ Basiscasus/delict: Overval door een first offender.
 
 \*\* Tenzij apart tenlastegelegd als 282 Sr.
 
-TOT HIER BEHANDELD
-------------------
-
 ## Mishandeling
 
 Wetsbepalingen: Art. 300, 301 en 304 Wetboek van Strafrecht (WvSr)
@@ -175,15 +172,15 @@ Basiscasus/delict: Mishandeling alleen gepleegd, burgerslachtoffer.
 
 |                       |                                                      | first offender            | 1x recidive | meermalen recidive |
 | --------------------- | ---------------------------------------------------- | ------------------------- | ----------- | ------------------ |
-| Geen letsel, wel pijn | Droge klap                                           | GB € 400                  | TS 48 uur   | GS 1 mnd ov        |
-|                       | Meerdere klappen/schoppen                            | TS 32 uur                 | TS 48 uur   | GS 1 mnd ov        |
-|                       | Slag/stootwapen, kopstoot of gegooid voorwerp        | TS 60 uur                 | TS 90 uur   | GS 2 mnd ov        |
-| Licht letsel          | Droge klap                                           | GB €750                   | TS 80 uur   | GS 1 mnd ov        |
-|                       | Meerdere klappen/schoppen                            | TS 60 uur                 | TS 90 uur   | GS 2 mnd ov        |
-|                       | Slag/stootwapen, kopstoot of gegooid voorwerp        | TS 120 uur                | TS 180 uur  | GS 4 mnd ov        |
-| Zwaarder letsel       | Droge klap                                           | TS 80 uur                 | TS 120 uur  | GS 3 mnd ov        |
-|                       | Meerdere klappen/schoppen                            | TS 100 uur                | TS 150 uur  | GS 4 mnd ov        |
-|                       | Slag/stootwapen, kopstoot of gegooid voorwerp        | TS 150 uur                | TS 220 uur  | GS 5 mnd ov        |
+| Geen letsel, wel pijn | Droge klap                                           | GB € 400                  | TS 10 uur   | TS 15 uur          |
+|                       | Meerdere klappen/schoppen                            | TS 32 uur                 | TS 48 uur   | TS 10 uur          |
+|                       | Slag/stootwapen, kopstoot of gegooid voorwerp        | GB € 1500  TS 20 uur      | TS 90 uur   | GS 2 mnd ov        |
+| Licht letsel          | Droge klap                                           | GB €750                   | TS 15 uur   | TS 10 uur          |
+|                       | Meerdere klappen/schoppen                            | GB € 1000                 | TS 20 uur   | GS 2 mnd ov        |
+|                       | Slag/stootwapen, kopstoot of gegooid voorwerp        |GB € 1500  TS 20 uur       | TS 30 uur   | GS 4 mnd ov        |
+| Zwaarder letsel       | Droge klap                                           | GB €1000                  | TS 10 uur   | GS 3 mnd ov        |
+|                       | Meerdere klappen/schoppen                            | GB € 2000  TS 30 uur      | TS 40 uur   | GS 4 mnd ov        |
+|                       | Slag/stootwapen, kopstoot of gegooid voorwerp        | GB € 3000  TS 45 uur      | TS 220 uur  | GS 5 mnd ov        |
 |                       | Steekwapen of een als zodanig aan te merken voorwerp | Maatwerk of zie 302/45 sr |             |                    |
 
 **Bijzonderheden**
@@ -191,8 +188,8 @@ Basiscasus/delict: Mishandeling alleen gepleegd, burgerslachtoffer.
 Strafverzwarend onder andere:
 
 -   Medeplegen (niet zijnde openlijke geweldpleging)
--   Jegens ambtenaren of andere gezagsfunctionarissen of journalisten (+200%)
--   Evenement (+75%)
+-   Jegens ambtenaren of andere gezagsfunctionarissen of journalisten (+50%)
+-   Evenement (+50%)
 -   Discriminatoire aspecten (+100%)
 
 ## Zware mishandeling
@@ -204,11 +201,11 @@ Basiscasus/delict: Zware mishandeling, alleen gepleegd.
 |                                                                                                                              | Letsel                                                                   | First offender                              |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------- |
 | Slaan tegen het hoofd/ kopsto(o)t(en) of Schoppen tegen het lichaam of Slachtoffer ergens in/af duwen                        | Zwaar lichamelijk letsel                                                 | GS 6 tot 18 maanden                         |
-|                                                                                                                              | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 24 tot 36 maanden                        |
+|                                                                                                                              | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 12 tot 18 maanden                        |
 | Gooien, slaan met voorwerp (niet zijnde wapen WWM) of met vuurwerk of Met een auto opzettelijk inrijden op een persoon       | Zwaar lichamelijk letsel                                                 | GS 12 tot 24 maanden (bij inrijden ook OBM) |
-|                                                                                                                              | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 30 tot 42 maanden (bij inrijden ook OBM) |
+|                                                                                                                              | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 17 tot 24 maanden (bij inrijden ook OBM) |
 | Steken met een mes of vergelijkbaar voorwerp of Kapotgeslagen glas of Gebruik slagwapen/zwaar voorwerp/fles of glas op hoofd | Zwaar lichamelijk letsel                                                 | GS 24 tot 36 maanden                        |
-|                                                                                                                              | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 48 tot 72 maanden                        |
+|                                                                                                                              | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 28 tot 36 maanden                        |
 
 ## Poging doodslag
 
@@ -216,15 +213,15 @@ Wetsbepalingen: Art. 287 en 45 Wetboek van Strafrecht (WvSr)
 
 |                                                                                                                        | Letsel                                                                   | First offender        |
 | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------- |
-| Schoppen tegen het hoofd of Slachtoffer ergens in / voor /af duwen of Met een auto opzettelijk inrijden op een persoon | Geen/ licht / zwaarder letsel                                            | GS 12 tot 28 maanden  |
-|                                                                                                                        | Zwaar lichamelijk letsel                                                 | GS 40 tot 52 maanden  |
-|                                                                                                                        | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 60 tot 84 maanden  |
-| Steken met een mes of vergelijkbaar voorwerp of Gebruik slagwapen/zwaar voorwerp                                       | Geen/ licht / zwaarder letsel                                            | GS 24 tot 42 maanden  |
-|                                                                                                                        | Zwaar lichamelijk letsel                                                 | GS 48 tot 72 maanden  |
-|                                                                                                                        | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 72 tot 96 maanden  |
-| Schieten met een vuurwapen in de richting van een persoon (het wapenbezit apart ten laste leggen!)                     | Geen/ licht / zwaarder letsel                                            | GS 36 tot 48 maanden  |
-|                                                                                                                        | Zwaar lichamelijk letsel                                                 | GS 72 tot 96 maanden  |
-|                                                                                                                        | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 96 tot 120 maanden |
+| Schoppen tegen het hoofd of Slachtoffer ergens in / voor /af duwen of Met een auto opzettelijk inrijden op een persoon | Geen/ licht / zwaarder letsel                                            | GS 5 tot  10 maanden  |
+|                                                                                                                        | Zwaar lichamelijk letsel                                                 | GS 10 tot 15 maanden  |
+|                                                                                                                        | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 15 tot 20 maanden  |
+| Steken met een mes of vergelijkbaar voorwerp of Gebruik slagwapen/zwaar voorwerp                                       | Geen/ licht / zwaarder letsel                                            | GS 20 tot 30 maanden  |
+|                                                                                                                        | Zwaar lichamelijk letsel                                                 | GS 25 tot 35 maanden  |
+|                                                                                                                        | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 35 tot 40 maanden  |
+| Schieten met een vuurwapen in de richting van een persoon (het wapenbezit apart ten laste leggen!)                     | Geen/ licht / zwaarder letsel                                            | GS 30 tot 35 maanden  |
+|                                                                                                                        | Zwaar lichamelijk letsel                                                 | GS 35 tot 40 maanden  |
+|                                                                                                                        | Blijvende ernstige lichamelijke gevolgen/ invaliditeit/hulpbehoevendheid | GS 40 tot 45 maanden |
 
 **Bijzonderheden:**
 
@@ -244,11 +241,11 @@ Basiscasus/delict: Vernieling, alleen gepleegd.
 
 |                                 | first offender  | 1x recidive     | meermalen recidive                        |
 | ------------------------------- | --------------- | --------------- | ----------------------------------------- |
-| Schade tot 500 euro             | GB € 225        | GB € 325        | Eis TS 36 uur of GS 1 mnd ov              |
-| Schade vanaf 500 tot 1000 euro  | GB € 325        | GB € 475        | Eis TS 50 uur of GS 1 mnd ov              |
-| Schade vanaf 1000 tot 2500 euro | GB € 425        | GB € 600        | Eis TS 60 uur of GS 1 mnd ov              |
-| Schade vanaf 2500 tot 5000 euro | GB € 550        | GB € 800        | Eis TS 80 uur of GS 2 mnd ov              |
-| Schade vanaf 5000 euro          | TS vanaf 50 uur | TS vanaf 70 uur | Eis TS vanaf 100 uur of GS vanaf 2 mnd ov |
+| Schade tot 500 euro             | GB € 225        | GB € 325        | Eis TS 10 uur of GS 1 mnd ov              |
+| Schade vanaf 500 tot 1000 euro  | GB € 325        | GB € 475        | Eis TS 15 uur of GS 1 mnd ov              |
+| Schade vanaf 1000 tot 2500 euro | GB € 425        | GB € 600        | Eis TS 20 uur of GS 1 mnd ov              |
+| Schade vanaf 2500 tot 5000 euro | GB € 550        | GB € 800        | Eis TS 25 uur of GS 2 mnd ov              |
+| Schade vanaf 5000 euro          | TS vanaf 20 uur | TS vanaf 25 uur | Eis TS vanaf 30 uur of GS vanaf 2 mnd ov |
 
 ## Openlijke geweldpleging
 
@@ -260,16 +257,22 @@ Basiscasus/delict: Openlijke geweldpleging.
 | ------------------------------ | --------------- | ---------------- | ------------------ |
 | **Tegen goederen**             |                 |                  |                    |
 | Schade tot € 1000              | GB € 500        | GB € 750         | GS 1 mnd ov        |
-| € 1000 – 5000                  | TS 60 uur       | TS 90 uur        | GS 2 mnd ov        |
-| Vanaf € 5000                   | TS vanaf 80 uur | TS vanaf 120 uur | GS vanaf 3 mnd ov  |
+| € 1000 – 5000                  | TS 20 uur       | TS 30 uur        | GS 2 mnd ov        |
+| Vanaf € 5000                   | TS vanaf 25 uur | TS vanaf 30 uur  | GS vanaf 3 mnd ov  |
 | **Tegen personen**             |                 |                  |                    |
-| Geen letsel                    | TS 150 uur      | TS 220 uur       | GS 5 mnd ov        |
-| Licht letsel:                  | GS 3 mnd        | GS 4 mnd         | GS 6 mnd ov        |
-| Zwaarder letsel:               | GS 4 mnd        | GS 6 mnd         | GS 8 mnd ov        |
-| **Tegen personen en goederen** | TS 180 uur      | GS 4 mnd         | GS 6 mnd ov        |
-| Licht letsel:                  | GS 4 mnd        | GS 6 mnd         | GS 8 mnd ov        |
-| Zwaarder letsel:               | GS 6 mnd        | GS 9 mnd         | GS 12 mnd ov       |
-| Goederen vernield en letsel    | GS vanaf 5 mnd  | GS vanaf 7 mnd   | GS vanaf 10 mnd ov |
+| Geen letsel                    | TS 10 uur       | TS 15 uur        | GS 5 mnd ov        |
+| Licht letsel:                  | GS 5 mnd        | GS 7 mnd         | GS 10 mnd ov       |
+| Zwaarder letsel:               | GS 10 mnd       | GS 15 mnd        | GS 17 mnd ov       |
+| **Tegen personen en goederen** |                 |                  |                    |
+| Licht letsel:                  | GS 10 mnd       | GS 12 mnd        | GS 15 mnd ov       |
+| Zwaarder letsel:               | GS 12 mnd       | GS 15 mnd        | GS 20 mnd ov       |
+| Goederen vernield en letsel    | GS vanaf 15 mnd | GS vanaf 20 mnd  | GS vanaf 25 mnd ov |
+
+
+TOT HIER BEHANDELD
+------------------
+
+
 
 ## Wederspannigheid
 
