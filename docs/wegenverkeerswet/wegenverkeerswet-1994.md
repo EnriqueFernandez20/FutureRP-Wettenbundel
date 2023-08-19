@@ -52,10 +52,10 @@ Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen
 
 #### Artikel 7 WVW [Vluchten]
 
-1. .......
+1. Vluchten van Politie/KMar verwijst naar de handeling waarbij een persoon of een voertuig probeert te ontsnappen aan de politieautoriteiten en/of KMarautoriteiten die proberen hen aan te houden of te arresteren. Dit kan voorkomen in verschillende situaties, zoals verkeersovertredingen, verdachte activiteiten, criminele handelingen of andere juridische aangelegenheden.
+Vluchten van de politie / Kmar kan variëren van eenvoudige pogingen om weg te rennen of snel weg te rijden tot meer geplande en complexe ontsnappingspogingen. 
 
-3. Overtreding van het eerste lid, onderdelen ... en ..., wordt gestraft met een **gevangenisstraf van ten hoogste 30 maanden of geldboete van de ... categorie**.
-4. Overtreding van het eerste lid, onderdeel ..., wordt gestraft met **een geldboete van de ... categorie**.
+2. Overtreding van het eerste lid, wordt gestraft met een **gevangenisstraf van 30 maanden en een geldboete van €3000**.
 
 #### Artikel 7.1 WVW [Verlaten plaats van ongeval]
 
