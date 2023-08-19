@@ -36,13 +36,13 @@ De inspecteur is bevoegd over te gaan tot een onderzoek van goederen en het even
         2. "grenspost Oost", een vaste doorlaatpost gelegen aan de A2 snelweg rond postcode 709;
         3. mobiele doorlaatposten, zijnde een inzet van het Mobiel Toezicht Veiligheid (MTV) met het oog op grenstoezicht;
 2. Onder controle in de zin van het eerste lid wordt mede verstaan doorzoeking.
-3. Degene die een in lid 1 bedoelde controle opzettelijk wijkt, daar waar deze een controle of doorzoeking had moeten ondergaan, wordt gestraft met een geldboete van de tweede categorie.
+3. Degene die een in lid 1 bedoelde controle opzettelijk wijkt, daar waar deze een controle of doorzoeking had moeten ondergaan, wordt gestraft met een geldboete van € 1000.
 4. De in lid 3 benoemde strafbepaling is niet van toepassing op onbemande doorlaatposten, deze mogen door eenieder gepasseerd worden zonder dat deze aan een controle of doorzoeking onderworpen worden.
 
 #### Artikel 1:26a Adw [Eisen MTV als mobiele doorlaatpost]
 
 1. De mobiele doorlaatpost, zoals bedoeld in [artikel 1:26 lid 1 sub 4](#artikel-126-adw-inspectielocaties), dient:
-    1. enkel ingezet te worden aan de N42 autoweg;
+    1. enkel ingezet te worden aan de N42 autoweg en Havengebieden;
     2. naar alle redelijkheid duidelijk aangemerkt te zijn als doorlaatpost, en;
     3. te voldoen aan andere voorschriften van de uitvoerende overheidsinstanties.
 2. Gelet op [artikel 1:27](#artikel-127-adw-vorderen-van-de-bestuurder), [1:28](#artikel-128-adw-inspectiebevoegdheid-lijfsvisitatie) en [1:29](#artikel-129-adw-versperren-van-wegen-in-het-belang-van-controle) dient de mobiele doorlaatpost: de lijfsvisitatie en doorzoeking van een voertuig te faciliteren zonder dat deze een gevaar vormt voor de betrokken partijen of voor andere weggebruikers.
