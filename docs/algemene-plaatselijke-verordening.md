@@ -7,7 +7,7 @@
 In deze verordening wordt verstaan onder:
 
 1. bebouwde kom: het gebied binnen de grenzen die zijn vastgesteld op grond van artikel 20a van de Wegenverkeerswet 1994;
-2. college: het college van burgemeester en wethouders van de gemeente Weert;
+2. college: het college van burgemeester en wethouders van de gemeente Future;
 3. geldboete van de ... categorie: een geldboete, zoals bedoeld in artikel 23 van het Wetboek van Strafrecht;
 4. lokalen voor openbare dienst: Lokalen welke benut worden door overheidsinstanties of organisaties die in het maatschappelijk belang handelen;
     - voorbeelden: het politiebureau, ziekenhuis, het depot van de ANWB en het stadhuis;
