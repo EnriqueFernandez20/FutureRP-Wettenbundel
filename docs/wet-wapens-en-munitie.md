@@ -19,11 +19,11 @@ In deze wet wordt verstaan onder:
 
     ##### Categorie I [Wapens]
 
-    1° stiletto's, valmessen en vlindermessen;  
+    1° switchblade, tri-daggers, bayonet, wirebat en fireaxe. 
     2° andere opvouwbare messen, indien:  
     &nbsp;&nbsp;&nbsp;&nbsp;a. het lemmet meer dan een snijkant heeft; of  
     &nbsp;&nbsp;&nbsp;&nbsp;b. de lengte in opengevouwen toestand langer dan 28 cm is;  
-    3° wurgstokken, vilmessen, ballistische messen en geluiddempers voor vuurwapens;  
+    3° wurgstokken, vilmessen en ballistische messen.
 
     ##### Categorie II [Wapens]
 
@@ -35,12 +35,11 @@ In deze wet wordt verstaan onder:
 
     4° voorwerpen waarmee door een elektrische stroomstoot personen weerloos kunnen worden gemaakt of pijn kan worden toegebracht, met uitzondering van medische hulpmiddelen;
 
-    5° voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing.
-
     ##### Categorie III [Wapens]
 
-    1° vuurwapens in de vorm van geweren, revolvers en pistolen voor zover zij niet vallen onder categorie II sub 2°, 3° of 6°;
+    1° vuurwapens in de vorm van geweren, revolvers en pistolen voor zover zij niet vallen onder categorie II sub 2°, 3°;
     2° Automatische vuurwapens.
+    3° Voorwerpen bestemd voor het treffen van personen of zaken door vuur of door middel van ontploffing.
 
     ##### Categorie II [Munitie]
 
@@ -112,9 +111,9 @@ De opsporingsambtenaren kunnen te allen tijde op plaatsen waar zij redelijkerwij
 ### Hoofdstuk 12 [Strafbepalingen]
 
 #### Artikel 55 WWM [Gevangenisstraf voor het dragen/ vervoeren van een wapen]
-1. Het dragen/ vervoeren van een categorie 1 wapen zal bestraft worden met een gevangenis straf van ten hoogste 40 maanden en een geldboete van de derde categorie.
-2. Het dragen/ vervoeren van een categorie 2 wapen zal bestraft worden met een gevangenis straf van ten hoogste 65 maanden en een geldboete van de vierde categorie.
-3. Het dragen/ vervoeren van een categorie 3 wapen zal bestraft worden met een gevangenis straf van ten hoogste 90 maanden en een geldboete van de vierde categorie.
+1. Het dragen/ vervoeren van een categorie 1 wapen zal bestraft worden met een gevangenis straf van ten hoogste 20 maanden en een geldboete van de derde categorie.
+2. Het dragen/ vervoeren van een categorie 2 wapen zal bestraft worden met een gevangenis straf van ten hoogste 40 maanden en een geldboete van de vierde categorie.
+3. Het dragen/ vervoeren van een categorie 3 wapen zal bestraft worden met een gevangenis straf van ten hoogste 60 maanden en een geldboete van de vierde categorie.
 
 #### Artikel 56 WWM [Aard delicten]
 
