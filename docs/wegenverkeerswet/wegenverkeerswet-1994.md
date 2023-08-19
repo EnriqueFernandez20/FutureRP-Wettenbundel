@@ -50,7 +50,14 @@ Het is een ieder die aan het verkeer deelneemt verboden zich zodanig te gedragen
     1. gevangenisstraf van ten hoogste 30 maanden of geldboete van de derde categorie, indien het een ongeval betreft waardoor een ander wordt gedood;
     2. gevangenisstraf van ten hoogste een 15 maanden of geldboete van de tweede categorie, indien het een ongeval betreft waardoor een ander lichamelijk letsel wordt toegebracht.
 
-#### Artikel 7 WVW [Verlaten plaats van ongeval]
+#### Artikel 7 WVW [Vluchten]
+
+1. .......
+
+3. Overtreding van het eerste lid, onderdelen ... en ..., wordt gestraft met een **gevangenisstraf van ten hoogste 30 maanden of geldboete van de ... categorie**.
+4. Overtreding van het eerste lid, onderdeel ..., wordt gestraft met **een geldboete van de ... categorie**.
+
+#### Artikel 7.1 WVW [Verlaten plaats van ongeval]
 
 1. Het is degene die bij een verkeersongeval is betrokken of door wiens gedraging een verkeersongeval is veroorzaakt, verboden de plaats van het ongeval te verlaten indien:
     1. bij dat ongeval, naar hij weet of redelijkerwijs moet vermoeden, een ander is gedood dan wel letsel aan een ander is toegebracht;
