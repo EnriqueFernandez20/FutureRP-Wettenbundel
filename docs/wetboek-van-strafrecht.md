@@ -118,7 +118,7 @@ Niet strafbaar is hij die een feit begaat waartoe hij door overmacht is gedronge
 
 1. Voorbereiding van een misdrijf is strafbaar, wanneer de dader opzettelijk voorwerpen, stoffen, informatiedragers tot het begaan van dat misdrijf verwerft, vervaardigt, invoert, doorvoert, uitvoert of voorhanden heeft.
 2. Het maximum van de hoofdstraffen op het misdrijf gesteld wordt bij voorbereiding met de helft verminderd.
-3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 120 maanden.
+3. Geldt het een misdrijf waarop levenslange gevangenisstraf is gesteld, dan wordt gevangenisstraf opgelegd van ten hoogste 180 maanden.
 4. De bijkomende straffen zijn voor voorbereiding dezelfde als voor het voltooide misdrijf.
 
 #### Artikel 46a WvSr [Poging ander tot misdrijf te bewegen]
