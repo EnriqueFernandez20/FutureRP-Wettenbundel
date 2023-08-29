@@ -9,6 +9,10 @@
 2. Voor toepassing van deze wet en de daarop berustende bepalingen worden de zouten van de substanties met die substanties gelijkgesteld.
 3. Voor de toepassing van deze wet wordt onder vervaardigen begrepen raffineren en omzetten.
 
+#### Artikel 1.1 Opw [legale hoeveelheden]
+
+Minder dan 10 kilo bij softdrugs (hasj, wiet, XTC etc) en minder dan 5 kilo bij harddrugs (cocaïne, speed etc.), Als je een gebruikshoeveelheid bij je hebt, kan de politie / KMar dit in beslag nemen (sepot met afstand), maar je krijgt geen boete en/of gevangenisstraf.
+
 #### Artikel 2 Opw [Verbodsbepaling. Lijst I, aangewezen middelen]
 
 Het is verboden een middel als bedoeld in de bij deze wet behorende [lijst I](#lijst-i):  
@@ -25,13 +29,13 @@ D. te vervaardigen.
 2. Zij zijn bevoegd een persoon, verdacht van een bij deze wet als misdrijf strafbaar gesteld feit, bij het bestaan van ernstige bezwaren tegen deze, aan de kleding te onderzoeken.
 3. Zij zijn te allen tijde bevoegd tot inbeslagneming van daarvoor vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.
 
-#### Artikel 10 Opw [Sanctie]
+#### Artikel 10 Opw [Sanctie hard drugs]
 
-1. Hij die handelt in strijd met een in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) gegeven verbod wordt gestraft met gevangenisstraf van ten hoogste 25 maanden of geldboete van de tweede categorie.
-2. Hij die opzettelijk handelt in strijd met het in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen), onder C, gegeven verbod wordt gestraft met gevangenisstraf van ten hoogste 50 maanden of geldboete van de derde categorie.
-3. Hij die opzettelijk handelt in strijd met het in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) onder B of D, gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste 70 maanden of geldboete van de derde categorie.
-4. Hij die opzettelijk handelt in strijd met een in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) onder A, gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste 85 maanden of geldboete van de vierde categorie.
-5. Indien het feit, bedoeld in het tweede onderscheidenlijk vierde lid, betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, zal er een geldboete van de tweede categorie worden opgelegd.
+1. Hij die handelt in strijd met een in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) gegeven verbod wordt gestraft met gevangenisstraf van ten hoogste 25 maanden en geldboete van €2000
+2. Hij die opzettelijk handelt in strijd met het in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen), onder C, gegeven verbod wordt gestraft met gevangenisstraf van ten hoogste 40 maanden en geldboete van €4000
+3. Hij die opzettelijk handelt in strijd met het in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) onder B of D, gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste 50 maanden en geldboete van €10000
+4. Hij die opzettelijk handelt in strijd met een in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) onder A, gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste 65 maanden en geldboete van €10000
+5. Indien het feit, bedoeld in het tweede onderscheidenlijk vierde lid, betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, zal er een geldboete van €1500 worden opgelegd.
 
 
 ## Lijst I
@@ -42,3 +46,21 @@ D. te vervaardigen.
 | cocaïne, crackcocaïne | (-)-3-beta-benzoyloxytropaan-2-beta-carbonzure methylester |
 | GHB                   | 4-hydroxyboterzuur                                         |
 | methamfetamine        | 2,5-dimethoxy-alfa,4-dimethylfenethylamine                 |
+| XTC                   | (RS)-1-(1,3-benzodioxol-5-yl)-N-methylpropaan-2-amine      |
+
+#### Artikel 10.1 Opw [Sanctie soft drugs]
+
+1. Hij die handelt in strijd met een in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) gegeven verbod wordt gestraft met gevangenisstraf van ten hoogste 15 maanden of geldboete van €1000
+2. Hij die opzettelijk handelt in strijd met het in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen), onder C, gegeven verbod wordt gestraft met gevangenisstraf van ten hoogste 25 maanden of geldboete van €2200
+3. Hij die opzettelijk handelt in strijd met het in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) onder B of D, gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste 35 maanden of geldboete van €5000
+4. Hij die opzettelijk handelt in strijd met een in [artikel 2](#artikel-2-opw-verbodsbepaling-lijst-i-aangewezen-middelen) onder A, gegeven verbod, wordt gestraft met gevangenisstraf van ten hoogste 50 maanden of geldboete van €5000
+5. Indien het feit, bedoeld in het tweede onderscheidenlijk vierde lid, betrekking heeft op een geringe hoeveelheid, bestemd voor eigen gebruik, zal er een geldboete van €750 worden opgelegd.
+
+
+## Lijst II
+
+| Benaming              | Nadere omschrijving                                             |
+| --------------------- | --------------------------------------------------------------- |
+| Cannabis              | Cannabis is een verzamelnaam van de cannabisplant: hasj en wiet.|
+
+
