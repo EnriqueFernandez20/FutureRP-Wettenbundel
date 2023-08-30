@@ -258,7 +258,7 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 
 #### Artikel 141 WvSr [Openlijke geweldpleging]
 
-1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft met gevangenisstraf van ten hoogste 54 maanden of geldboete van de vierde categorie.
+1. Zij die openlijk in vereniging geweld plegen tegen personen of goederen, worden gestraft met gevangenisstraf van ten hoogste 15 maanden of geldboete van de tweede categorie.
 2. De schuldige wordt gestraft:
     - 1° indien hij opzettelijk goederen vernielt of indien het door hem gepleegde geweld enig lichamelijk letsel ten gevolge heeft;
     - 2° indien dat geweld zwaar lichamelijk letsel ten gevolge heeft;
@@ -381,6 +381,7 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 #### Artikel 282a WvSr [Gijzeling]
 
+Met gevangenisstraf van ten hoogste 40 maanden of geldboete van de vierde categorie wordt gestraft:
 1. Hij die opzettelijk iemand wederrechtelijk van de vrijheid berooft of beroofd houdt met het oogmerk een ander te dwingen iets te doen of niet te doen.
 2. Het [vierde lid van artikel 282](#artikel-282-wvsr-opzettelijke-vrijheidsberoving) is toepasselijk.
 
@@ -393,8 +394,8 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 #### Artikel 285 WvSr [Bedreiging met ernstig misdrijf]
 
-1. Bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen, met geweld tegen een internationaal beschermd persoon of diens beschermde goederen, met enig misdrijf waardoor gevaar voor de algemene veiligheid van personen of goederen of gemeen gevaar voor de verlening van diensten ontstaat, met verkrachting, met feitelijke aanranding van de eerbaarheid, met enig misdrijf tegen het leven gericht, met gijzeling, met zware mishandeling of met brandstichting, wordt gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vierde categorie.
-2. Indien deze bedreiging schriftelijk en onder een bepaalde voorwaarde geschiedt, wordt ze gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vierde categorie.
+1. Bedreiging met openlijk in vereniging geweld plegen tegen personen of goederen, met geweld tegen een internationaal beschermd persoon of diens beschermde goederen, met enig misdrijf waardoor gevaar voor de algemene veiligheid van personen of goederen of gemeen gevaar voor de verlening van diensten ontstaat, met verkrachting, met feitelijke aanranding van de eerbaarheid, met enig misdrijf tegen het leven gericht, met gijzeling, met zware mishandeling of met brandstichting, wordt gestraft met gevangenisstraf van ten hoogste 10 maanden of geldboete van de derde categorie.
+2. Indien deze bedreiging schriftelijk en onder een bepaalde voorwaarde geschiedt, wordt ze gestraft met gevangenisstraf van ten hoogste 15 maanden of geldboete van de derde categorie.
 3. Bedreiging met een terroristisch misdrijf wordt gestraft met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vijfde categorie.
 4. Indien het feit, omschreven in het eerste, tweede of derde lid, wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
@@ -416,6 +417,8 @@ Doodslag gevolgd, vergezeld of voorafgegaan van een strafbaar feit en gepleegd m
 #### Artikel 289 WvSr [Moord]
 
 Hij die opzettelijk en met voorbedachten rade een ander van het leven berooft, wordt, als schuldig aan moord.
+
+word gestraft met gevangenisstraf van ten hoogste 40 maanden en geldboete van de vierde categorie.
 
 ### Titel XX [Mishandeling]
 
@@ -468,24 +471,24 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 
 #### Artikel 312 WvSr [Diefstal met geweldpleging]
 
-1. Met gevangenisstraf van ten hoogste 60 maanden of geldboete van de vierde categorie wordt gestraft diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren.
-2. Gevangenisstraf van ten hoogste 144 maanden of geldboete van de vijfde categorie wordt opgelegd:
+1. Met gevangenisstraf van ten hoogste 30 maanden of geldboete van de vierde categorie wordt gestraft diefstal, voorafgegaan, vergezeld of gevolgd van geweld of bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal voor te bereiden of gemakkelijk te maken, of om, bij betrapping op heter daad, aan zichzelf of andere deelnemers aan het misdrijf hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren.
+2. Gevangenisstraf van ten hoogste 35 maanden of geldboete van de vierde categorie wordt opgelegd:
     - 1° indien het feit wordt gepleegd hetzij gedurende de voor de nachtrust bestemde tijd in een woning of op een besloten erf waarop een woning staat; hetzij op de openbare weg; hetzij in een spoortrein die in beweging is;
     - 2° indien de schuldige zich de toegang tot de plaats van het misdrijf heeft verschaft door middel van braak of inklimming, van valse sleutels, van een valse order of een vals kostuum;
     - 3° indien het feit zwaar lichamelijk letsel ten gevolge heeft;
     - 4° indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken.
-3. Gevangenisstraf van ten hoogste 80 maanden of geldboete van de vijfde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
+3. Gevangenisstraf van ten hoogste 50 maanden of geldboete van de vierde categorie wordt opgelegd, indien het feit de dood ten gevolge heeft.
 
 ### Titel XXIII [Afpersing en afdreiging]
 
 #### Artikel 317 WvSr [Afpersing]
 
-1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door geweld of bedreiging met geweld iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt, als schuldig aan afpersing, gestraft met gevangenisstraf van ten hoogste 50 maanden of geldboete van de vierde categorie.
+1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door geweld of bedreiging met geweld iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt, als schuldig aan afpersing, gestraft met gevangenisstraf van ten hoogste 30 maanden of geldboete van de vierde categorie.
    2.De bepalingen van het [tweede](#artikel-312-wvsr-diefstal-met-geweldpleging) en [derde lid van artikel 312](#artikel-312-wvsr-diefstal-met-geweldpleging) zijn op dit misdrijf van toepassing.
 
 #### Artikel 318 WvSr [Afdreiging]
 
-1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door bedreiging met smaad, smaadschrift of openbaring van een geheim iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt als schuldig aan afdreiging, gestraft met gevangenisstraf van ten hoogste 20 maanden of geldboete van de derde categorie.
+1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, door bedreiging met smaad, smaadschrift of openbaring van een geheim iemand dwingt hetzij tot de afgifte van enig goed dat geheel of ten dele aan deze of aan een derde toebehoort, hetzij tot het aangaan van een schuld of het teniet doen van een inschuld, hetzij tot het ter beschikking stellen van gegevens, wordt als schuldig aan afdreiging, gestraft met gevangenisstraf van ten hoogste 40 maanden of geldboete van de vierde categorie.
 2. Indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 3. Dit misdrijf wordt niet vervolgd dan op klacht van hem tegen wie het gepleegd is.
 
@@ -493,13 +496,13 @@ Hij die enig goed dat geheel of ten dele aan een ander toebehoort wegneemt, met 
 
 #### Artikel 321 WvSr [Verduistering]
 
-Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich toeëigent, wordt, als schuldig aan verduistering, gestraft met gevangenisstraf van ten hoogste 36 maanden of geldboete van de vijfde categorie.
+Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort en dat hij anders dan door misdrijf onder zich heeft, wederrechtelijk zich toeëigent, wordt, als schuldig aan verduistering, gestraft met gevangenisstraf van ten hoogste 20 maanden of geldboete van de derde categorie.
 
 ### Titel XXV [Bedrog]
 
 #### Artikel 326 WvSr [Oplichting]
 
-1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, hetzij door het aannemen van een valse naam of van een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft met gevangenisstraf van ten hoogste 48 maanden of geldboete van de vijfde categorie.
+1. Hij die, met het oogmerk om zich of een ander wederrechtelijk te bevoordelen, hetzij door het aannemen van een valse naam of van een valse hoedanigheid, hetzij door listige kunstgrepen, hetzij door een samenweefsel van verdichtsels, iemand beweegt tot de afgifte van enig goed, tot het verlenen van een dienst, tot het ter beschikking stellen van gegevens, tot het aangaan van een schuld of tot het teniet doen van een inschuld, wordt, als schuldig aan oplichting, gestraft met gevangenisstraf van ten hoogste 20 maanden of geldboete van de vierde categorie.
 2. Indien het feit wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
 
 ### Titel XXVII [Vernieling of beschadiging]
@@ -512,7 +515,7 @@ Hij die opzettelijk enig goed dat geheel of ten dele aan een ander toebehoort en
 
 #### Artikel 416 WvSr [Opzetheling]
 
-1. Als schuldig aan opzetheling wordt gestraft met gevangenisstraf van ten hoogste 30 maanden of geldboete van de vijfde categorie:
+1. Als schuldig aan opzetheling wordt gestraft met gevangenisstraf van ten hoogste 20 maanden of geldboete van de vierde categorie:
     1. hij die een goed verwerft, voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of een zakelijk recht ten aanzien van een goed vestigt of overdraagt, terwijl hij ten tijde van de verwerving of het voorhanden krijgen van het goed dan wel het vestigen van het recht wist dat het een door misdrijf verkregen goed betrof;
     2. hij die opzettelijk uit winstbejag een door misdrijf verkregen goed voorhanden heeft of overdraagt, dan wel een persoonlijk recht op of zakelijk recht ten aanzien van een door misdrijf verkregen goed overdraagt.
 2. Met dezelfde straf wordt gestraft hij die opzettelijk uit de opbrengst van enig door misdrijf verkregen goed voordeel trekt.
@@ -578,7 +581,7 @@ Hij die niet voldoet aan de verplichting om een identiteitsbewijs ter inzage aan
 
 #### Artikel 453 WvSr [Openbare dronkenschap]
 
-Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wordt gestraft met hechtenis van ten hoogste 1 maand of geldboete van de eerste categorie.
+Hij die zich in kennelijke staat van dronkenschap op de openbare weg bevindt, wordt gestraft met hechtenis van ten hoogste 5 maanden of geldboete van de eerste categorie.
 
 ### Titel VII [Overtredingen betreffende de veldpolitie]
 
