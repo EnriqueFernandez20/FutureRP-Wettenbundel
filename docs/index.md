@@ -18,6 +18,7 @@ Deze grondbeginselen vormen de basis voor een integer strafproces en bevatten be
 3. De maximale strafmaat bedraagt **180** maanden.
     1. Voor de algemeen opsporingsambtenaar is de maximale strafmaat **50** maanden.
     2. Voor de (hulp-) officier van justitie is de maximale strafmaat **100** maanden.
+    3. Voor de Rechters is de maximale strafmaat **180** maanden.
 
 ### Deel 2 - Mededeling van de rechten
 
