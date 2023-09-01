@@ -302,10 +302,10 @@ Basiscasus/delict: Niet voldoen aan ambtelijk bevel of het beletten, belemmeren 
 
 |                                                                             | first offender | 1x recidive | meermalen recidive           |
 | --------------------------------------------------------------------------- | -------------- | ----------- | ---------------------------- |
-| Belemmeren van een ambtshandeling                                           | GB € 175       | GB € 250    | Eis TS 28 uur of GS 1 mnd ov |
-| Niet voldoen aan ambtelijk bevel                                            | GB € 250       | GB € 375    | Eis TS 40 uur of GS 1 mnd ov |
-| Idem en er is sprake van brand, ongeval of levensbedreigende situaties      | GB € 500       | GB € 750    | Eis TS 80 uur of GS 1 mnd ov |
-| Beletten of verijdelen van een ambtshandeling (waaronder negeren stopbevel) | GB € 325       | GB € 475    | Eis TS 50 uur of GS 1 mnd ov |
+| Belemmeren van een ambtshandeling                                           | GB € 250       | GB € 400    | Eis TS 20 uur                |
+| Niet voldoen aan ambtelijk bevel                                            | GB € 500       | GB € 800    | Eis TS 30 uur                |
+| Idem en er is sprake van brand, ongeval of levensbedreigende situaties      | GB € 1000      | GB € 1500   | Eis TS 50 uur                |
+| Beletten of verijdelen van een ambtshandeling (waaronder negeren stopbevel) | GB € 325       | GB € 475    | Eis TS 50 uur                |
 
 ## Witwassen
 
@@ -315,9 +315,9 @@ Basiscasus/delict: Opzetwitwassen (artikel 420bis WvSr).
 
 | Bedrag     | first offender | 1 x recidive | meermalen recidive            |
 | ---------- | -------------- | ------------ | ----------------------------- |
-| t/m € 5000 | TS 50 uur      | TS 70 uur    | Eis TS 100 uur of GS 2 mnd ov |
-| € 15.000   | GS 1 mnd       | GS 2 mnd     | GS 3 mnd ov                   |
-
+| t/m € 5000 | TS 5 uur       | TS 10 uur    | Eis TS 15 uur                 |               
+| € 15.000   | GS 10 mnd      | GS 15 mnd    | Eis TS 20 uur                 |
+ 
 Hieronder worden de witgewassen bedragen (vanaf € 25.000,-) als uitgangspunt genomen. Daarbij vindt beoordeling van de strafmaat plaats aan de hand van de volgende drie categorieën verdachten:
 
 1. geldkoerier/moneymule/gelddrager/eenvoudige katvanger/degene die zijn bankrekening en bankpas ter beschikking stelt; deze personen verrichten hun werkzaamheden voor een ander, vaak voor een geringe vergoeding.
@@ -326,23 +326,23 @@ Hieronder worden de witgewassen bedragen (vanaf € 25.000,-) als uitgangspunt g
 
 | Bedrag      | Categorie I | Categorie II | Categorie III |
 | ----------- | ----------- | ------------ | ------------- |
-| € 25.000    | GS 1 mnd    | GS 2 mnd     | GS 4 mnd      |
-| € 50.000    | GS 3 mnd    | GS 4 mnd     | GS 6 mnd      |
-| € 75.000    | GS 4 mnd    | GS 6 mnd     | GS 8 mnd      |
-| € 100.000   | GS 6 mnd    | GS 8 mnd     | GS 10 mnd     |
-| € 150.000   | GS 8 mnd    | GS 10 mnd    | GS 12 mnd     |
-| € 200.000   | GS 10 mnd   | GS 12 mnd    | GS 16 mnd     |
-| € 250.000   | GS 12 mnd   | GS 16 mnd    | GS 18 mnd     |
-| € 300.000   | GS 14 mnd   | GS 18 mnd    | GS 22 mnd     |
-| € 350.000   | GS 16 mnd   | GS 20 mnd    | GS 24 mnd     |
-| € 400.000   | GS 18 mnd   | GS 22 mnd    | GS 26 mnd     |
-| € 450.000   | GS 20 mnd   | GS 24 mnd    | GS 30 mnd     |
-| € 500.000   | GS 22 mnd   | GS 26 mnd    | GS 32 mnd     |
-| € 600.000   | GS 24 mnd   | GS 30 mnd    | GS 36 mnd     |
-| € 700.000   | GS 26 mnd   | GS 32 mnd    | GS 40 mnd     |
-| € 800.000   | GS 28 mnd   | GS 34 mnd    | GS 42 mnd     |
-| € 900.000   | GS 30 mnd   | GS 37 mnd    | GS 45 mnd     |
-| € 1.000.000 | GS 32 mnd   | GS 40 mnd    | GS 48 mnd     |
+| € 25.000    | GS 5 mnd    | GS 7 mnd     | GS 9 mnd      |
+| € 50.000    | GS 10 mnd   | GS 13 mnd    | GS 15 mnd     |
+| € 75.000    | GS 13 mnd   | GS 15 mnd    | GS 17 mnd     |
+| € 100.000   | GS 15 mnd   | GS 17 mnd    | GS 19 mnd     |
+| € 150.000   | GS 17 mnd   | GS 19 mnd    | GS 21 mnd     |
+| € 200.000   | GS 19 mnd   | GS 21 mnd    | GS 23 mnd     |
+| € 250.000   | GS 21 mnd   | GS 23 mnd    | GS 25 mnd     |
+| € 300.000   | GS 27 mnd   | GS 29 mnd    | GS 31 mnd     |
+| € 350.000   | GS 33 mnd   | GS 35 mnd    | GS 37 mnd     |
+| € 400.000   | GS 39 mnd   | GS 41 mnd    | GS 43 mnd     |
+| € 450.000   | GS 45 mnd   | GS 47 mnd    | GS 49 mnd     |
+| € 500.000   | GS 50 mnd   | GS 50 mnd    | GS 50 mnd     |
+| € 600.000   | GS 50 mnd   | GS 50 mnd    | GS 50 mnd     |
+| € 700.000   | GS 50 mnd   | GS 50 mnd    | GS 50 mnd     |
+| € 800.000   | GS 50 mnd   | GS 50 mnd    | GS 50 mnd     |
+| € 900.000   | GS 50 mnd   | GS 50 mnd    | GS 50 mnd     |
+| € 1.000.000 | GS 60 mnd   | GS 60 mnd    | GS 60 mnd     |
 
 **Bijzonderheden:**
 
@@ -360,27 +360,31 @@ Wetsbepalingen: art. 13, 26, 27, 31, 54 en 55 Wet Wapens en Munitie (WWM)
 
 Basiscasus/delict: Een categorie I wapen voorhanden hebben, dragen of overdragen, alleen gepleegd.
 
-| Wapen                        | first offender | 1x recidive | meermalen redicive           |
-| ---------------------------- | -------------- | ----------- | ---------------------------- |
-| Mes, boksbeugel, blank wapen | GB € 225       | GB € 325    | Eis TS 36 uur of GS 1 mnd ov |
-| Bedenkelijke omstandigheden  | GB € 325       | GB € 475    | Eis TS 50 uur of GS 1 mnd ov |
+| Wapen                        | first offender       | 1x recidive          | meermalen redicive    |
+| ---------------------------- | -------------------- | -------------------- | --------------------- |
+| Slag / steekwapen            | GS 20  mndGB € 12000 | GS 30  mndGB € 14000 | GS 35  mndGB € 15000  |
 
-### Categorie II/III wapen
+### Categorie II wapen
 
-Basiscasus/delict: Een categorie II en III (vuur)wapen voorhanden hebben of overdragen, alleen gepleegd.
+Basiscasus/delict: Een categorie II (vuur)wapen voorhanden hebben of overdragen, alleen gepleegd.
 
-| Categorie + wapen                                        | first offender  | 1x recidive | meermalen redicive |
-| -------------------------------------------------------- | --------------- | ----------- | ------------------ |
-| II.1 Vuurwapen, dat niet onder een andere categorie valt | GS 6 mnd        | GS 9 mnd    | GS 12 mnd          |
-| Bedenkelijke omstandigheden                              | GS 9 mnd        | GS 13 mnd   | GS 18 mnd ov       |
-| II.2 Automatisch vuurwapen                               | GS 12 mnd       | GS 18 mnd   | GS 24 mnd ov       |
-| Bedenkelijke omstandigheden                              | GS 18 mnd       | GS 27 mnd   | GS 36 mnd ov       |
-| II.7 Explosieven                                         | GS 12 mnd       | GS 18 mnd   | GS 24 mnd ov       |
-| Bedenkelijke omstandigheden                              | GS vanaf 18 mnd | GS 27 mnd   | GS 36 mnd          |
-| III.1 Pistool of revolver                                | GS 6 mnd        | GS 9 mnd    | GS 12 mnd ov       |
-| Bedenkelijke omstandigheden                              | GS 9 mnd        | GS 13 mnd   | GS 18 mnd ov       |
-| III.1 geweer                                             | GS 4 mnd        | GS 6 mnd    | GS 8 mnd ov        |
-| Bedenkelijke omstandigheden                              | GS 6 mnd        | GS 9 mnd    | GS 12 mnd ov       |
+| Categorie + wapen                                              | first offender        | 1x recidive           | meermalen redicive    |
+| -------------------------------------------------------------- | --------------------- | --------------------- | --------------------- |
+| II.1 Vuurwapen, dat niet onder een andere categorie valt       | GS 25  mnd GB € 12000 | GS 35  mnd GB € 14000 | GS 40  mnd GB € 15000 |
+| II.2 vuurwapens, geschikt om enkel semi-automatisch te vuren   | GS 40  mnd GB € 20000 | GS 50  mnd GB € 25000 | GS 55  mnd GB € 30000 |
+| II.3 Thermiet                                                  | GS 20  mnd GB € 10000 | GS 25  mnd GB € 12000 | GS 30  mnd GB € 14000 |
+
+### Categorie III
+
+| Categorie + wapen                           | first offender         | 1x recidive            | meermalen redicive     |
+| --------------------------------------------| ---------------------- | ---------------------- | ---------------------- |
+| II.1 Automatisch vuurwapen                  | GS 60  mnd GB € 30000  | GS 70  mnd GB € 35000  | GS 80  mnd GB € 40000  |
+| III.2 (vuur)wapen dat niet onder II valt    | GS 40  mnd GB € 25000  | GS 50  mnd GB € 30000  | GS 55  mnd GB € 35000  |
+| III.3 Explosieven                           | GS 70  mnd GB € 40000  | GS 80  mnd GB € 45000  | GS 90  mnd GB € 50000  |
+
+TOT HIER BEHANDELD
+-----------------
+
 
 ### Munitie
 
