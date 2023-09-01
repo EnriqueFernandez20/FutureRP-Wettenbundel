@@ -42,8 +42,8 @@ Basiscasus/delict: Onbevoegd besturen door gevorderd rijbewijs
 
 |                                      | first offender              | 1x recidive             |
 | ------------------------------------ | ------------------------    | ---------------------   | 
-| Brom- en snorfietsers                | GB € 1300                   | GB € 1800   | GS 3 mnd  |
-| Motorvoertuig op twee of meer wielen | GB € 700                    | GB € 1300   | GS 3 mnd  |
+| Brom- en snorfietsers                | GB € 700                    | GB € 1300   | GS 3 mnd  |
+| Motorvoertuig op twee of meer wielen | GB € 1300                   | GB € 1700   | GS 6 mnd  |
 
 ### Artikel 10 WVW 1994
 
