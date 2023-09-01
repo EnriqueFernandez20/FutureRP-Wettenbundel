@@ -269,11 +269,6 @@ Basiscasus/delict: Openlijke geweldpleging.
 | Goederen vernield en letsel    | GS vanaf 15 mnd | GS vanaf 20 mnd  | GS vanaf 25 mnd ov |
 
 
-TOT HIER BEHANDELD
-------------------
-
-
-
 ## Wederspannigheid
 
 Wetsbepalingen: art. 180, 181 en 182 Wetboek van Strafrecht (WvSr)
@@ -282,18 +277,22 @@ Basiscasus/delict: Verzet door rukken en trekken, alleen gepleegd.
 
 |                                                                                                  | first offender | 1x recidive | meermalen recidive           |
 | ------------------------------------------------------------------------------------------------ | -------------- | ----------- | ---------------------------- |
-| Alleen rukken en trekken (180 Sr)                                                                | GB € 350       | GB € 500    | Eis TS 50 uur of GS 1 mnd ov |
-| Licht letsel (181 Sr)                                                                            | GB € 700       | GB € 1000   | GS 2 mnd ov                  |
-| Zwaarder letsel (181 Sr)                                                                         | Eis GS 2 mnd   | GS 3 mnd    | GS 4 mnd ov                  |
-| Door 2 of meer personen met verenigde krachten (182 Sr) geen letsel                              | GB € 700       | GB € 1000   | GS 2 mnd ov                  |
-| Idem, licht letsel                                                                               | TS 80 uur      | TS 120 uur  | GS 3 mnd ov                  |
-| Idem, zwaarder letsel                                                                            | GS 4 mnd       | GS 6 mnd    | GS 8 mnd ov                  |
-| Slag- of stootwapen, geen letsel (180 Sr)                                                        | TS 40 uur      | TS 60 uur   | Eis TS 80 uur of GS 1 mnd ov |
-| Idem, licht letsel (181 Sr)                                                                      | GS 2 mnd       | GS 3 mnd    | GS 4 mnd                     |
-| Idem zwaarder letsel (181 Sr)                                                                    | GS 2 mnd       | GS 3 mnd    | GS 4 mnd                     |
-| Door 2 of meer personen met verenigde krachten, met slag- of stootwapen(s), geen letsel (182 Sr) | TS 80 uur      | TS 120 uur  | GS 3 mnd ov                  |
-| Idem, licht letsel                                                                               | GS 3 mnd       | GS 4 mnd    | GS 5 mnd ov                  |
-| Idem, zwaarder letsel                                                                            | GS 5 mnd       | GS 7 mnd    | GS 10 mnd ov                 |
+| Alleen rukken en trekken (180 Sr)                                                                | GB € 350       | GB € 500    | Eis TS 5 uur of GS 1 mnd ov  |
+| Licht letsel (181 Sr)                                                                            | GB € 400       | GB € 700    | GS 2 mnd ov                  |
+| Zwaarder letsel (181 Sr)                                                                         | Eis GS 3 mnd   | GS 5 mnd    | GS 7 mnd ov                  |
+| Door 2 of meer personen met verenigde krachten (182 Sr) geen letsel                              | GB € 700       | GB € 1000   | GS 7 mnd ov                  |
+| Idem, licht letsel                                                                               | TS 10 uur      | TS 15 uur   | GS 10 mnd ov                 |
+| Idem, zwaarder letsel                                                                            | GS 20 mnd      | GS 25 mnd   | GS 15 mnd ov                 |
+| Slag- of stootwapen, geen letsel (180 Sr)                                                        | GB € 800       | GB € 1000   | GS 15 mnd ov                 |
+| Idem, licht letsel (181 Sr)                                                                      | GB € 1500      | GB € 2000   | GS 20 mnd                    |
+| Idem zwaarder letsel (181 Sr)                                                                    | GB € 2000      | GB € 2500   | GS 25 mnd                    |
+| Door 2 of meer personen met verenigde krachten, met slag- of stootwapen(s), geen letsel (182 Sr) | GB € 1000      | GB € 1200   | GS 10 mnd                    |
+| Idem, licht letsel                                                                               | GB € 1700      | GS 10 mnd   | GS 30 mnd                    |
+| Idem, zwaarder letsel                                                                            | GB € 2200      | GS 15 mnd   | GS 35 mnd                    |
+
+
+Tot hier behandeld
+------------------
 
 ## Niet opvolgen ambtelijk bevel
 
