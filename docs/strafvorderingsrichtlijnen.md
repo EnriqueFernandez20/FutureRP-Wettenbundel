@@ -290,10 +290,6 @@ Basiscasus/delict: Verzet door rukken en trekken, alleen gepleegd.
 | Idem, licht letsel                                                                               | GB € 1700      | GS 10 mnd   | GS 30 mnd                    |
 | Idem, zwaarder letsel                                                                            | GB € 2200      | GS 15 mnd   | GS 35 mnd                    |
 
-
-Tot hier behandeld
-------------------
-
 ## Niet opvolgen ambtelijk bevel
 
 Wetsbepalingen: art. 184 Wetboek van Strafrecht (WvSr)
@@ -382,23 +378,20 @@ Basiscasus/delict: Een categorie II (vuur)wapen voorhanden hebben of overdragen,
 | III.2 (vuur)wapen dat niet onder II valt    | GS 40  mnd GB € 25000  | GS 50  mnd GB € 30000  | GS 55  mnd GB € 35000  |
 | III.3 Explosieven                           | GS 70  mnd GB € 40000  | GS 80  mnd GB € 45000  | GS 90  mnd GB € 50000  |
 
-TOT HIER BEHANDELD
------------------
-
 
 ### Munitie
 
 Basiscasus/delict: Munitie voorhanden hebben of overdragen, alleen gepleegd.
 
-| Scherpe munitie, aantal kogel- of hagelpatronen | first offender      | 1x recidive         | meermalen redicive                        |
-| ----------------------------------------------- | ------------------- | ------------------- | ----------------------------------------- |
-| 1-4                                             | GB € 150            | GB € 225            | Eis TS 24 uur of GS 1 mnd ov              |
-| 5-10                                            | GB € 225            | GB € 325            | Eis TS 36 uur of GS 1 mnd ov              |
-| 11-15                                           | GB € 300            | GB € 450            | Eis TS 48 uur of GS 1 mnd ov              |
-| 16-20                                           | GB € 350            | GB € 500            | Eis TS 50 uur of GS 1 mnd ov              |
-| 20-49                                           | GB vanaf € 350      | GB vanaf € 500      | Eis TS vanaf 50 uur of GS vanaf 1 mnd ov  |
-| 50-99                                           | Eis GB € 1000       | TS 100 uur          | Eis TS 120 uur of GS 2 mnd ov             |
-| 100 of meer                                     | Eis vanaf TS 50 uur | Eis TS vanaf 70 uur | Eis TS vanaf 100 uur of GS vanaf 2 mnd ov |
+| Scherpe munitie, aantal kogel- of hagelpatronen | first offender      | 1x recidive         | meermalen redicive    |
+| ----------------------------------------------- | ------------------- | ------------------- | --------------------- |
+| 1-4                                             | GB € 150            | GB € 225            | GB € 250              |
+| 5-10                                            | GB € 225            | GB € 325            | GB € 350              |
+| 11-15                                           | GB € 300            | GB € 450            | GB € 550              |
+| 16-20                                           | GB € 400            | GB € 500            | GB € 600              |
+| 20-49                                           | GB € 1000           | GB € 1500           | GB € 2000             |
+| 50-99                                           | GB € 1500           | GB € 2000           | GB € 2500             |
+| 100 of meer                                     | GB € 2000           | GB € 2500           | GB € 3000             |
 
 ## Opiumwet
 
@@ -406,94 +399,44 @@ Basiscasus/delict: Munitie voorhanden hebben of overdragen, alleen gepleegd.
 
 Wetsbepalingen: Art. 3 Opiumwet (Opw)
 
-Basiscasus/delict: Plegen of medeplegen van bezit van softdrugs.
-
-| Gewicht                        | first offender | 1x recidive | meermalen recidive            |
-| ------------------------------ | -------------- | ----------- | ----------------------------- |
-| 2000 - 3500 gram (overtreding) | GB € 75        | GB € 100    | Eis GB 150                    |
-| 3500 - 5000 gram               | GB € 750       | GB € 1100   | Eis TS 100 uur of GS 2 mnd ov |
-| > 5000 gram                    | Zie handel     |             |                               |
-
-**Bijzonderheden**
-
-Strafverzwarend onder andere:
-
-Dealerindicatie > gebruik onderstaande tabel
-
 Basiscasus/delict: Plegen of medeplegen van handel/vervoer etc. of productie van softdrugs.
 
-| Gewicht          | first offender  | 1x recidive     | meermalen recidive |
-| ---------------- | --------------- | --------------- | ------------------ |
-| 0 - 1500 gram    | Afstand + OAV   | Afstand + OAV   | Afstand + OAV      |
-| 1500 – 2500 gram | GS 1 mnd        | GS 2 mnd        | GS 3 mnd           |
-| 2500 – 5000 gram | GS 2 mnd        | GS 4 mnd        | GS 6 mnd           |
-| 5 – 10 kg        | GS 3 mnd        | GS 6 mnd        | GS 9 mnd           |
-| 10 – 25 kg       | GS 4 mnd        | GS 8 mnd        | GS 12 mnd          |
-| 25 - 50 kg       | GS 6 mnd        | GS 12 mnd       | GS 18 mnd          |
-| 50 - 75 kg       | GS 8 mnd        | GS 16 mnd       | GS 24 mnd          |
-| 75 - 100 kg      | GS 10 mnd       | GS 20 mnd       | GS 30 mnd          |
-| > 100 kg         | GS vanaf 10 mnd | GS vanaf 20 mnd | GS vanaf 30 mnd    |
-
-Basiscasus/delict: (mede)plegen van invoer of uitvoer van softdrugs.
-
-| Gewicht          | first offender  | 1x recidive     | meermalen recidive |
-| ---------------- | --------------- | --------------- | ------------------ |
-| 0 – 1500 gram    | Afstand + OAV   | Afstand + OAV   | Afstand + OAV      |
-| 1500 – 2500 gram | GS 2-4 mnd      | GS 4-8 mnd      | GS 6-12 mnd        |
-| 2500 – 5000 gram | GS 5-7 mnd      | GS 10-14 mnd    | GS 15-21 mnd       |
-| 5 – 10 kg        | GS 7-9 mnd      | GS 14-18 mnd    | GS 21-27 mnd       |
-| 10 – 25 kg       | GS 9-12 mnd     | GS 18-24 mnd    | GS 27-36 mnd       |
-| 25 - 50 kg       | GS 12-14 mnd    | GS 24-28 mnd    | GS 36-42 mnd       |
-| 50 - 100 kg      | GS 14-16 mnd    | GS 28-32 mnd    | GS 42-48 mnd       |
-| > 100 kg         | GS vanaf 16 mnd | GS vanaf 32 mnd | GS vanaf 48 mnd    |
+| Gewicht          | first offender       | 1x recidive          | meermalen recidive   |
+| ---------------- | -------------------- | -------------------- | -------------------- |
+| 0 - 10kg         | Afstand + OAV        | Afstand + OAV        | Afstand + OAV        |
+| 10kg - 15kg      | mnd GB € 900         | GS 10 mnd GB € 1100  | GS 12 mnd GB € 1300  |
+| 15kg - 25kg      | GS 10 mnd  GB € 1100 | GS 12 mnd GB € 1300  | GS 15 mnd GB € 1500  |
+| 25kg - 50kg      | GS 15 mnd  GB € 3000 | GS 17 mnd GB € 3500  | GS 20 mnd GB € 4000  |
+| 50kg - 75kg      | GS 17 mnd  GB € 4000 | GS 20 mnd GB € 4500  | GS 23 mnd GB € 5000  |
+| 75kg - 100kg     | GS 25 mnd  GB € 5000 | GS 27 mnd GB € 5500  | GS 30 mnd GB € 6000  |
+| 100kg - 150kg    | GS 30 mnd  GB € 6000 | GS 35 mnd GB € 6500  | GS 40 mnd GB € 7000  |
+| 150kg - 250kg    | GS 40 mnd GB € 10000 | GS 50 mnd GB € 12000 | GS 60 mnd GB € 15000 |
+| > 250 kg         | GS 60 mnd GB € 20000 | GS 65 mnd GB € 25000 | GS 70 mnd GB € 30000 |
 
 ### Harddrugs
 
 Wetsbepalingen: Art. 2 Opiumwet (Opw)
 
-Basiscasus/delict: Plegen of medeplegen van handel/vervoer etc. Van harddrugs.
+Basiscasus/delict: Plegen of medeplegen van handel/vervoer etc. of productie van harddrugs.
 
-| Gewicht              | first offender  | 1x recidive     | meermalen recidive |
-| -------------------- | --------------- | --------------- | ------------------ |
-| 500 t/m 1000 gram    | GS 7 mnd        | GS 10 mnd       | GS 28 mnd ov       |
-| 1000 t/m 1500 gram   | GS 9 mnd        | GS 13 mnd       | GS 30 mnd ov       |
-| 1500 t/m 2000 gram   | GS 12 mnd       | GS 18 mnd       | GS 32 mnd ov       |
-| 2000 t/m 3000 gram   | GS 14 mnd       | GS 21 mnd       | GS 34 mnd ov       |
-| 3000 t/m 4000 gram   | GS 17 mnd       | GS 25 mnd       | GS 36 mnd ov       |
-| 4000 t/m 5000 gram   | GS 20 mnd       | GS 30 mnd       | GS 38 mnd ov       |
-| 5000 t/m 6000 gram   | GS 23 mnd       | GS 34 mnd       | GS 40 mnd ov       |
-| 6000 t/m 7000 gram   | GS 26 mnd       | GS 39 mnd       | GS 45 mnd ov       |
-| 7000 t/m 8000 gram   | GS 29 mnd       | GS 43 mnd       | GS 50 mnd ov       |
-| 8000 t/m 9000 gram   | GS 32 mnd       | GS 48 mnd       | GS 56 mnd ov       |
-| 9000 tot 10.000 gram | GS 35 mnd       | GS 52 mnd       | GS 60 mnd ov       |
-| 10 tot 20 kg         | GS 36 mnd       | GS 54 mnd       | GS 62 mnd ov       |
-| 20 – 50 kg           | GS 42 mnd       | GS 63 mnd       | GS 72 mnd ov       |
-| > 50 kg              | GS vanaf 48 mnd | GS vanaf 72 mnd | GS vanaf 82 mnd ov |
+| Gewicht          | first offender        | 1x recidive          | meermalen recidive   |
+| ---------------- | --------------------- | -------------------- | -------------------- |
+| 0 - 5kg          | Afstand + OAV         | Afstand + OAV        | Afstand + OAV        |
+| 5kg - 10kg       | mnd GB € 1500         | GS 12 mnd GB € 1700  | GS 14 mnd GB € 2000  |
+| 10kg - 20kg      | GS 15 mnd  GB € 1700  | GS 17 mnd GB € 2000  | GS 20 mnd GB € 2300  |
+| 20kg - 50kg      | GS 20 mnd  GB € 5000  | GS 23 mnd GB € 6200  | GS 26 mnd GB € 7100  |
+| 50kg - 75kg      | GS 25 mnd  GB € 10000 | GS 30 mnd GB € 15000 | GS 33 mnd GB € 17000 |
+| 75kg - 100kg     | GS 30 mnd  GB € 17000 | GS 35 mnd GB € 22000 | GS 40 mnd GB € 25000 |
+| 100kg - 150kg    | GS 35 mnd  GB € 25000 | GS 40 mnd GB € 30000 | GS 50 mnd GB € 35000 |
+| 150kg - 250kg    | GS 50 mnd  GB € 35000 | GS 60 mnd GB € 40000 | GS 70 mnd GB € 50000 |
+| > 250 kg         | GS 60 mnd  GB € 40000 | GS 65 mnd GB € 45000 | GS 70 mnd GB € 50000 |
 
-Basiscasus/delict: (mede)plegen van invoer of uitvoer van harddrugs.
-
-| Gewicht            | first offender | recidive   |
-| ------------------ | -------------- | ---------- |
-| 500 - 1000 gram    | GS 8 mnd       | GS 12 mnd  |
-| 1000 – 1500 gram   | GS 12 mnd      | GS 18 mnd  |
-| 1500 - 2000 gram   | GS 24 mnd      | GS 36 mnd  |
-| 2000 - 3000 gram   | GS 30 mnd      | GS 45 mnd  |
-| 3000 - 4000 gram   | GS 36 mnd      | GS 54 mnd  |
-| 4000 - 5000 gram   | GS 38 mnd      | GS 57 mnd  |
-| 5000 - 6000 gram   | GS 40 mnd      | GS 60 mnd  |
-| 6000 - 7000 gram   | GS 42 mnd      | GS 63 mnd  |
-| 7000 - 8000 gram   | GS 44 mnd      | GS 66 mnd  |
-| 8000 - 9000 gram   | GS 46 mnd      | GS 69 mnd  |
-| 9000 - 10.000 gram | GS 48 mnd      | GS 72 mnd  |
-| 10 - 20 kg         | GS 54 mnd      | GS 75 mnd  |
-| 20 - 50 kg         | GS 60 mnd      | GS 90 mnd  |
-| > 50 kg            | GS 72 mnd      | GS 108 mnd |
 
 ## _Bijlage 1. Omzetting sancties_
 
 | Taakstraf     | Gevangenisstraf |
 | ------------- | --------------- |
-| 2 - 60 uur    | 1 maand         |
-| 70 - 120 uur  | 2 maanden       |
-| 126 - 180 uur | 3 maanden       |
-| 182 - 240 uur | 4 maanden       |
+| 2 - 20 uur    | 3 maand         |
+| 20 - 40 uur   | 6 maanden       |
+| 40 - 60 uur   | 8 maanden       |
+| 60 - 100 uur  | 15 maanden      |
